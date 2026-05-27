@@ -445,13 +445,13 @@ const GLOBAL_CSS = `
   .clear-btn:hover { color: #111; }
   .jobs-count {
     margin-left: auto; font-family: 'Courier New', monospace;
-    font-size: 10px; letter-spacing: 1px; color: #bbb; text-transform: uppercase;
+    font-size: 10px; letter-spacing: 1px; color: #777; text-transform: uppercase;
   }
 
   .jobs-table { width: 100%; border-collapse: collapse; margin-top: 4px; }
   .jobs-table th {
     font-family: 'Courier New', monospace; font-size: 10px; letter-spacing: 2px;
-    text-transform: uppercase; color: #999; font-weight: 400;
+    text-transform: uppercase; color: #555; font-weight: 400;
     padding: 12px 16px 12px 0; border-bottom: 1px solid #111; text-align: left;
     position: sticky; top: var(--sticky-h, 0px); background: #fff; z-index: 50;
   }
@@ -475,10 +475,10 @@ const GLOBAL_CSS = `
 
   .area-badge {
     display: inline-block; font-family: 'Courier New', monospace; font-size: 10px;
-    letter-spacing: 0.5px; color: #777; background: #f4f4f4;
+    letter-spacing: 0.5px; color: #444; background: #f4f4f4;
     border-radius: 20px; padding: 3px 10px; white-space: nowrap;
   }
-  .posted-text { font-size: 12px; color: #aaa; white-space: nowrap; }
+  .posted-text { font-size: 12px; color: #666; white-space: nowrap; }
   .apply-link {
     font-family: 'Courier New', monospace; font-size: 11px; letter-spacing: 1px;
     color: #111; text-decoration: none; border-bottom: 1px solid #ddd; transition: border-color 0.15s;
@@ -523,7 +523,7 @@ function JobsControls({ search, setSearch, areaFilter, setAreaFilter, companyFil
         </button>
       )}
       <span className="jobs-count">{count} role{count !== 1 ? "s" : ""}</span>
-      <span style={{ fontFamily: "'Courier New', monospace", fontSize: 10, color: "#ccc", letterSpacing: "0.5px" }}>
+      <span style={{ fontFamily: "'Courier New', monospace", fontSize: 10, color: "#888", letterSpacing: "0.5px" }}>
         Refreshed {LAST_REFRESHED}
       </span>
     </div>
@@ -532,37 +532,73 @@ function JobsControls({ search, setSearch, areaFilter, setAreaFilter, companyFil
 
 // ─── JOBS TAB ────────────────────────────────────────────────────────────────
 
+const SORT_KEYS = { Company: "company", Role: "role", Area: "area", Location: "location", Posted: "postedDays" };
+
 function JobsTab({ search, areaFilter, companyFilter, setCompanyFilter }) {
+  const [sortCol, setSortCol] = useState("Posted");   // default: sort by Posted (newest first)
+  const [sortDir, setSortDir] = useState("asc");
+
+  // Multi-keyword search: split on whitespace, every keyword must match
+  const keywords = search.toLowerCase().split(/\s+/).filter(Boolean);
+
   const filtered = JOBS_SORTED.filter(j => {
-    const q = search.toLowerCase();
-    const matchSearch = !q || j.role.toLowerCase().includes(q) || j.company.toLowerCase().includes(q) || j.area.toLowerCase().includes(q) || j.location.toLowerCase().includes(q);
+    const matchSearch = keywords.every(kw =>
+      j.role.toLowerCase().includes(kw) ||
+      j.company.toLowerCase().includes(kw) ||
+      j.area.toLowerCase().includes(kw) ||
+      j.location.toLowerCase().includes(kw)
+    );
     const matchArea = !areaFilter || j.area === areaFilter;
     const matchCompany = !companyFilter || j.company === companyFilter;
     return matchSearch && matchArea && matchCompany;
   });
 
+  const sorted = sortCol ? [...filtered].sort((a, b) => {
+    const key = SORT_KEYS[sortCol];
+    const av = typeof a[key] === "number" ? a[key] : (a[key] || "").toLowerCase();
+    const bv = typeof b[key] === "number" ? b[key] : (b[key] || "").toLowerCase();
+    if (av < bv) return sortDir === "asc" ? -1 : 1;
+    if (av > bv) return sortDir === "asc" ? 1 : -1;
+    return 0;
+  }) : filtered;
+
+  const handleSort = (col) => {
+    if (!SORT_KEYS[col]) return; // Apply column not sortable
+    if (sortCol === col) setSortDir(d => d === "asc" ? "desc" : "asc");
+    else { setSortCol(col); setSortDir("asc"); }
+  };
+
   const handleCompanyClick = (company) => {
     setCompanyFilter(prev => prev === company ? "" : company);
   };
 
+  const SortIcon = ({ col }) => {
+    if (!SORT_KEYS[col]) return null;
+    if (sortCol !== col) return <span style={{ color: "#ccc", marginLeft: 4, fontSize: 9 }}>↕</span>;
+    return <span style={{ color: "#111", marginLeft: 4, fontSize: 9 }}>{sortDir === "asc" ? "↑" : "↓"}</span>;
+  };
+
   return (
     <div className="main-content">
-      {filtered.length === 0 ? (
+      {sorted.length === 0 ? (
         <div className="no-results">No roles found</div>
       ) : (
         <table className="jobs-table">
           <thead>
             <tr>
-              <th>Company</th>
-              <th>Role</th>
-              <th>Area</th>
-              <th>Location</th>
-              <th>Posted</th>
-              <th>Apply</th>
+              {["Company", "Role", "Area", "Location", "Posted", "Apply"].map(col => (
+                <th
+                  key={col}
+                  onClick={() => handleSort(col)}
+                  style={{ cursor: SORT_KEYS[col] ? "pointer" : "default", userSelect: "none", whiteSpace: "nowrap" }}
+                >
+                  {col}<SortIcon col={col} />
+                </th>
+              ))}
             </tr>
           </thead>
           <tbody>
-            {filtered.map(job => (
+            {sorted.map(job => (
               <tr key={job.id}>
                 <td>
                   <div className="company-cell">
@@ -1010,8 +1046,8 @@ export default function App() {
             areaFilter={areaFilter} setAreaFilter={setAreaFilter}
             companyFilter={companyFilter} setCompanyFilter={setCompanyFilter}
             count={JOBS_SORTED.filter(j => {
-              const q = search.toLowerCase();
-              return (!q || j.role.toLowerCase().includes(q) || j.company.toLowerCase().includes(q) || j.area.toLowerCase().includes(q) || j.location.toLowerCase().includes(q))
+              const kws = search.toLowerCase().split(/\s+/).filter(Boolean);
+              return kws.every(kw => j.role.toLowerCase().includes(kw) || j.company.toLowerCase().includes(kw) || j.area.toLowerCase().includes(kw) || j.location.toLowerCase().includes(kw))
                 && (!areaFilter || j.area === areaFilter)
                 && (!companyFilter || j.company === companyFilter);
             }).length}
