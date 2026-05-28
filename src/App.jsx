@@ -707,16 +707,25 @@ export default function App() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
-  // Keep --sticky-h in sync with the sticky wrapper's real height
+  // Keep --sticky-h synced at stable UI boundaries (avoid per-frame transition jitter).
   useEffect(() => {
     const el = stickyRef.current;
     if (!el) return;
-    const ro = new ResizeObserver(() => {
-      document.documentElement.style.setProperty("--sticky-h", el.offsetHeight + "px");
-    });
-    ro.observe(el);
-    return () => ro.disconnect();
-  }, []);
+    let raf1 = 0;
+    let raf2 = 0;
+    const syncStickyHeight = () => {
+      raf1 = window.requestAnimationFrame(() => {
+        raf2 = window.requestAnimationFrame(() => {
+          document.documentElement.style.setProperty("--sticky-h", `${el.offsetHeight}px`);
+        });
+      });
+    };
+    syncStickyHeight();
+    return () => {
+      if (raf1) window.cancelAnimationFrame(raf1);
+      if (raf2) window.cancelAnimationFrame(raf2);
+    };
+  }, [scrolled, tab]);
 
   return (
     <div style={{ minHeight: "100vh", background: "#fff", fontFamily: "'Georgia', serif", color: "#1a1a1a" }}>
