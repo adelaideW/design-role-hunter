@@ -17,6 +17,9 @@ export function useJobs() {
   const [hasMore, setHasMore] = useState(true);
   const [error, setError] = useState(null);
   const loadingPageRef = useRef(false);
+  const nextPageRef = useRef(1);
+  const pageCountRef = useRef(1);
+  const hasMoreRef = useRef(true);
 
   const loadPage = useCallback(async (pageNumber) => {
     if (loadingPageRef.current) return [];
@@ -31,14 +34,17 @@ export function useJobs() {
   }, []);
 
   const loadMore = useCallback(async () => {
-    if (!hasMore || loadingPageRef.current) return false;
+    if (!hasMoreRef.current || loadingPageRef.current) return false;
+    const pageToLoad = nextPageRef.current;
     setLoadingMore(true);
     setError(null);
     try {
-      const pageJobs = await loadPage(nextPage);
+      const pageJobs = await loadPage(pageToLoad);
       setJobs((prev) => sortJobs([...prev, ...pageJobs]));
-      const upcoming = nextPage + 1;
-      const moreAvailable = upcoming <= pageCount;
+      const upcoming = pageToLoad + 1;
+      const moreAvailable = upcoming <= pageCountRef.current;
+      nextPageRef.current = upcoming;
+      hasMoreRef.current = moreAvailable;
       setNextPage(upcoming);
       setHasMore(moreAvailable);
       return moreAvailable;
@@ -48,10 +54,13 @@ export function useJobs() {
     } finally {
       setLoadingMore(false);
     }
-  }, [hasMore, loadPage, nextPage, pageCount]);
+  }, [loadPage]);
 
-  const ensureAllLoaded = useCallback(async () => {
-    for (let i = 0; i < 100; i++) {
+  const ensureAllLoaded = useCallback(async (opts = {}) => {
+    const { shouldContinue } = opts;
+    for (let i = 0; i < 200; i++) {
+      if (typeof shouldContinue === "function" && !shouldContinue()) break;
+      if (!hasMoreRef.current) break;
       // eslint-disable-next-line no-await-in-loop
       const keepGoing = await loadMore();
       if (!keepGoing) break;
@@ -71,6 +80,9 @@ export function useJobs() {
         setTotalCount(meta.totalCount || 0);
         setPageCount(meta.pageCount || 1);
         setLastSyncedAt(meta.generatedAt ? new Date(meta.generatedAt) : null);
+        pageCountRef.current = meta.pageCount || 1;
+        nextPageRef.current = 1;
+        hasMoreRef.current = (meta.pageCount || 1) >= 1;
         setNextPage(1);
         setHasMore((meta.pageCount || 1) >= 1);
       } catch (err) {
@@ -83,10 +95,10 @@ export function useJobs() {
   }, []);
 
   useEffect(() => {
-    if (!loading && jobs.length === 0 && hasMore && nextPage === 1) {
+    if (!loading && jobs.length === 0 && hasMoreRef.current && nextPageRef.current === 1) {
       void loadMore();
     }
-  }, [hasMore, jobs.length, loadMore, loading, nextPage]);
+  }, [jobs.length, loadMore, loading]);
 
   const areas = useMemo(() => getAreas(jobs), [jobs]);
   const companies = useMemo(() => getCompanies(jobs), [jobs]);

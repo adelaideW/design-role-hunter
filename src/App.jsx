@@ -215,6 +215,10 @@ const GLOBAL_CSS = `
     letter-spacing: 0.5px; color: #444; background: #f4f4f4;
     border-radius: 20px; padding: 3px 10px; white-space: nowrap;
   }
+  .area-badge.filtered {
+    background: #111;
+    color: #fff;
+  }
   .posted-text { font-size: 12px; color: #666; white-space: nowrap; }
   .apply-link {
     font-family: 'Courier New', monospace; font-size: 11px; letter-spacing: 1px;
@@ -292,11 +296,14 @@ function JobsTab({
   setCompanyFilter,
   hasMore,
   loadingMore,
+  isFilterLoading,
   onLoadMore,
 }) {
   const [sortCol, setSortCol] = useState("Posted");   // default: sort by Posted (newest first)
   const [sortDir, setSortDir] = useState("asc");
   const sentinelRef = useRef(null);
+  const tableTopRef = useRef(null);
+  const lastObserverTriggerRef = useRef(0);
 
   // Multi-keyword search: split on whitespace, every keyword must match
   const keywords = search.toLowerCase().split(/\s+/).filter(Boolean);
@@ -330,9 +337,11 @@ function JobsTab({
 
   const handleCompanyClick = (company) => {
     setCompanyFilter(prev => prev === company ? "" : company);
+    tableTopRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
   };
   const handleAreaClick = (area) => {
     setAreaFilter(prev => prev === area ? "" : area);
+    tableTopRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
   };
 
   const SortIcon = ({ col }) => {
@@ -345,13 +354,21 @@ function JobsTab({
     if (!hasMore || !sentinelRef.current) return;
     const observer = new IntersectionObserver((entries) => {
       const [entry] = entries;
-      if (entry.isIntersecting && !loadingMore) {
+      const now = Date.now();
+      const cooldownMs = 300;
+      if (
+        entry.isIntersecting &&
+        !loadingMore &&
+        !isFilterLoading &&
+        now - lastObserverTriggerRef.current > cooldownMs
+      ) {
+        lastObserverTriggerRef.current = now;
         onLoadMore();
       }
     }, { rootMargin: "300px 0px" });
     observer.observe(sentinelRef.current);
     return () => observer.disconnect();
-  }, [hasMore, loadingMore, onLoadMore]);
+  }, [hasMore, loadingMore, isFilterLoading, onLoadMore]);
 
   return (
     <div className="main-content">
@@ -359,6 +376,7 @@ function JobsTab({
         <div className="no-results">No roles found</div>
       ) : (
         <>
+          <div ref={tableTopRef} />
           <table className="jobs-table">
             <thead>
               <tr>
@@ -392,7 +410,7 @@ function JobsTab({
                   <td>
                     <button
                       type="button"
-                      className="area-badge"
+                      className={`area-badge ${areaFilter === job.area ? "filtered" : ""}`}
                       onClick={() => handleAreaClick(job.area)}
                       style={{ border: 0, cursor: "pointer" }}
                       title={areaFilter === job.area ? "Clear area filter" : `Filter by ${job.area}`}
@@ -411,7 +429,13 @@ function JobsTab({
           </table>
           {hasMore && (
             <div ref={sentinelRef} style={{ padding: "14px 0", textAlign: "center" }}>
-              <span className="posted-text">{loadingMore ? "Loading more roles…" : "Scroll to load more"}</span>
+              <span className="posted-text">
+                {isFilterLoading
+                  ? "Applying filters…"
+                  : loadingMore
+                    ? "Loading more roles…"
+                    : "Scroll to load more"}
+              </span>
             </div>
           )}
         </>
@@ -565,7 +589,9 @@ export default function App() {
   const [search, setSearch] = useState("");
   const [areaFilter, setAreaFilter] = useState("");
   const [companyFilter, setCompanyFilter] = useState("");
+  const [isFilterLoading, setIsFilterLoading] = useState(false);
   const stickyRef = useRef(null);
+  const filterLoadRunRef = useRef(0);
   const hero = HERO_CONTENT[tab];
   const {
     jobs,
@@ -597,10 +623,32 @@ export default function App() {
   }, [jobs, search, areaFilter, companyFilter]);
 
   useEffect(() => {
-    if (search || areaFilter || companyFilter) {
-      void ensureAllLoaded();
+    const hasActiveFilter = Boolean(search || areaFilter || companyFilter);
+    filterLoadRunRef.current += 1;
+    const runId = filterLoadRunRef.current;
+
+    if (!hasActiveFilter || !hasMore) {
+      setIsFilterLoading(false);
+      return;
     }
-  }, [search, areaFilter, companyFilter, ensureAllLoaded]);
+
+    let cancelled = false;
+    setIsFilterLoading(true);
+    void ensureAllLoaded({
+      shouldContinue: () =>
+        !cancelled &&
+        runId === filterLoadRunRef.current &&
+        Boolean(search || areaFilter || companyFilter),
+    }).finally(() => {
+      if (!cancelled && runId === filterLoadRunRef.current) {
+        setIsFilterLoading(false);
+      }
+    });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [search, areaFilter, companyFilter, hasMore, ensureAllLoaded]);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
@@ -675,6 +723,7 @@ export default function App() {
             setCompanyFilter={setCompanyFilter}
             hasMore={hasMore}
             loadingMore={loadingMore}
+            isFilterLoading={isFilterLoading}
             onLoadMore={loadMore}
           />
         )
