@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-05-28T05:27:32.128Z",
+  "counts": {
+    "ats": 64,
+    "builtin": 25,
+    "merged": 88,
+    "verified": 88,
+    "dropped": 0
+  },
+  "sources": 33
+}

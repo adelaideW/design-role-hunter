@@ -1,4 +1,5 @@
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect, useMemo } from "react";
+import { useJobs } from "./hooks/useJobs.js";
 
 // ─── MOCK INTERVIEW ──────────────────────────────────────────────────────────
 
@@ -45,238 +46,6 @@ function buildAsciiGrid(cols, rows) {
 }
 const ASCII_GRID = buildAsciiGrid(52, 18);
 
-// ─── JOBS DATA ───────────────────────────────────────────────────────────────
-
-// URL convention: link directly to the company's design jobs ATS page or filtered search,
-// NOT generic career homepages. Solara Talent roles link to jobs.solaratalent.com/roles.
-const JOBS = [
-  // ── Anthropic (Greenhouse) ──
-  { id: 1,   company: "Anthropic",        logo: "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",        role: "Product Designer, Trust & Safety",              location: "San Francisco, CA",  area: "AI Safety",           posted: "1d ago",   url: "https://boards.greenhouse.io/anthropic" },
-  { id: 2,   company: "Anthropic",        logo: "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",        role: "Senior UX Designer, Claude Products",           location: "San Francisco, CA",  area: "AI Safety",           posted: "3d ago",   url: "https://boards.greenhouse.io/anthropic" },
-  { id: 3,   company: "Anthropic",        logo: "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",        role: "Design Systems Lead",                           location: "San Francisco, CA",  area: "AI Safety",           posted: "18d ago",  url: "https://boards.greenhouse.io/anthropic" },
-  { id: 4,   company: "Anthropic",        logo: "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",        role: "UX Researcher, Evaluations",                    location: "Remote",             area: "AI Safety",           posted: "42d ago",  url: "https://boards.greenhouse.io/anthropic" },
-  // ── OpenAI (Ashby) ──
-  { id: 5,   company: "OpenAI",           logo: "https://www.google.com/s2/favicons?sz=64&domain=openai.com",           role: "Product Designer, ChatGPT",                     location: "San Francisco, CA",  area: "AI Research",         posted: "2d ago",   url: "https://jobs.ashbyhq.com/openai" },
-  { id: 6,   company: "OpenAI",           logo: "https://www.google.com/s2/favicons?sz=64&domain=openai.com",           role: "Staff Product Designer, Enterprise",            location: "Remote",             area: "AI Research",         posted: "5d ago",   url: "https://jobs.ashbyhq.com/openai" },
-  { id: 7,   company: "OpenAI",           logo: "https://www.google.com/s2/favicons?sz=64&domain=openai.com",           role: "Senior UX Researcher",                          location: "San Francisco, CA",  area: "AI Research",         posted: "14d ago",  url: "https://jobs.ashbyhq.com/openai" },
-  { id: 8,   company: "OpenAI",           logo: "https://www.google.com/s2/favicons?sz=64&domain=openai.com",           role: "Design Systems Designer",                       location: "San Francisco, CA",  area: "AI Research",         posted: "29d ago",  url: "https://jobs.ashbyhq.com/openai" },
-  { id: 9,   company: "OpenAI",           logo: "https://www.google.com/s2/favicons?sz=64&domain=openai.com",           role: "Product Designer, Voice & Audio UX",            location: "San Francisco, CA",  area: "AI Research",         posted: "55d ago",  url: "https://jobs.ashbyhq.com/openai" },
-  // ── Google ──
-  { id: 10,  company: "Google",           logo: "https://www.google.com/s2/favicons?sz=64&domain=google.com",           role: "UX Designer, Google AI",                        location: "Mountain View, CA",  area: "Big Tech",            posted: "3d ago",   url: "https://careers.google.com/jobs/results/?q=UX+Designer&employment_type=FULL_TIME" },
-  { id: 11,  company: "Google",           logo: "https://www.google.com/s2/favicons?sz=64&domain=google.com",           role: "Senior UX Designer, Search",                    location: "New York, NY",       area: "Big Tech",            posted: "11d ago",  url: "https://careers.google.com/jobs/results/?q=UX+Designer&employment_type=FULL_TIME" },
-  { id: 12,  company: "Google",           logo: "https://www.google.com/s2/favicons?sz=64&domain=google.com",           role: "Interaction Designer, Gemini",                  location: "Mountain View, CA",  area: "Big Tech",            posted: "22d ago",  url: "https://careers.google.com/jobs/results/?q=Interaction+Designer&employment_type=FULL_TIME" },
-  { id: 13,  company: "Google",           logo: "https://www.google.com/s2/favicons?sz=64&domain=google.com",           role: "UX Researcher, Android",                        location: "Seattle, WA",        area: "Big Tech",            posted: "38d ago",  url: "https://careers.google.com/jobs/results/?q=UX+Researcher&employment_type=FULL_TIME" },
-  { id: 14,  company: "Google",           logo: "https://www.google.com/s2/favicons?sz=64&domain=google.com",           role: "Visual Designer, Brand Studio",                 location: "New York, NY",       area: "Big Tech",            posted: "67d ago",  url: "https://careers.google.com/jobs/results/?q=Visual+Designer&employment_type=FULL_TIME" },
-  // ── Meta ──
-  { id: 15,  company: "Meta",             logo: "https://www.google.com/s2/favicons?sz=64&domain=meta.com",             role: "Product Designer, Reality Labs",                location: "Menlo Park, CA",     area: "Big Tech",            posted: "4d ago",   url: "https://www.metacareers.com/jobs?teams[0]=Design" },
-  { id: 16,  company: "Meta",             logo: "https://www.google.com/s2/favicons?sz=64&domain=meta.com",             role: "Senior Product Designer, Instagram",            location: "New York, NY",       area: "Big Tech",            posted: "13d ago",  url: "https://www.metacareers.com/jobs?teams[0]=Design" },
-  { id: 17,  company: "Meta",             logo: "https://www.google.com/s2/favicons?sz=64&domain=meta.com",             role: "UX Researcher, WhatsApp",                       location: "Menlo Park, CA",     area: "Big Tech",            posted: "31d ago",  url: "https://www.metacareers.com/jobs?teams[0]=UX+Research+-+Product" },
-  { id: 18,  company: "Meta",             logo: "https://www.google.com/s2/favicons?sz=64&domain=meta.com",             role: "Motion Designer, Threads",                      location: "New York, NY",       area: "Big Tech",            posted: "49d ago",  url: "https://www.metacareers.com/jobs?teams[0]=Design" },
-  // ── Apple ──
-  { id: 19,  company: "Apple",            logo: "https://www.google.com/s2/favicons?sz=64&domain=apple.com",            role: "UX Designer, Apple Intelligence",               location: "Cupertino, CA",      area: "Big Tech",            posted: "6d ago",   url: "https://jobs.apple.com/en-us/search#q=designer&sortby=newest" },
-  { id: 20,  company: "Apple",            logo: "https://www.google.com/s2/favicons?sz=64&domain=apple.com",            role: "Product Designer, Health",                      location: "Cupertino, CA",      area: "Big Tech",            posted: "20d ago",  url: "https://jobs.apple.com/en-us/search#q=product+designer&sortby=newest" },
-  { id: 21,  company: "Apple",            logo: "https://www.google.com/s2/favicons?sz=64&domain=apple.com",            role: "Interaction Designer, visionOS",                location: "Cupertino, CA",      area: "Big Tech",            posted: "44d ago",  url: "https://jobs.apple.com/en-us/search#q=interaction+designer&sortby=newest" },
-  // ── Microsoft ──
-  { id: 22,  company: "Microsoft",        logo: "https://www.google.com/s2/favicons?sz=64&domain=microsoft.com",        role: "Principal Designer, Copilot",                   location: "Redmond, WA",        area: "Big Tech",            posted: "7d ago",   url: "https://jobs.microsoft.com/en-us/search?q=product+designer" },
-  { id: 23,  company: "Microsoft",        logo: "https://www.google.com/s2/favicons?sz=64&domain=microsoft.com",        role: "Senior UX Designer, Azure AI",                  location: "Remote",             area: "Big Tech",            posted: "16d ago",  url: "https://jobs.microsoft.com/en-us/search?q=UX+designer" },
-  { id: 24,  company: "Microsoft",        logo: "https://www.google.com/s2/favicons?sz=64&domain=microsoft.com",        role: "Design Systems Researcher",                     location: "Redmond, WA",        area: "Big Tech",            posted: "58d ago",  url: "https://jobs.microsoft.com/en-us/search?q=design+researcher" },
-  // ── Figma (Greenhouse) ──
-  { id: 25,  company: "Figma",            logo: "https://www.google.com/s2/favicons?sz=64&domain=figma.com",            role: "Product Designer, AI Features",                 location: "San Francisco, CA",  area: "Design Tools",        posted: "1d ago",   url: "https://boards.greenhouse.io/figma" },
-  { id: 26,  company: "Figma",            logo: "https://www.google.com/s2/favicons?sz=64&domain=figma.com",            role: "UX Researcher, Growth",                         location: "New York, NY",       area: "Design Tools",        posted: "4d ago",   url: "https://boards.greenhouse.io/figma" },
-  { id: 27,  company: "Figma",            logo: "https://www.google.com/s2/favicons?sz=64&domain=figma.com",            role: "Senior Product Designer, Prototyping",          location: "San Francisco, CA",  area: "Design Tools",        posted: "19d ago",  url: "https://boards.greenhouse.io/figma" },
-  { id: 28,  company: "Figma",            logo: "https://www.google.com/s2/favicons?sz=64&domain=figma.com",            role: "Staff Designer, Design Systems",                location: "Remote",             area: "Design Tools",        posted: "47d ago",  url: "https://boards.greenhouse.io/figma" },
-  // ── Stripe ──
-  { id: 29,  company: "Stripe",           logo: "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",           role: "Product Designer, Payments UX",                 location: "San Francisco, CA",  area: "Fintech",             posted: "2d ago",   url: "https://stripe.com/jobs/search?teams=Design" },
-  { id: 30,  company: "Stripe",           logo: "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",           role: "Design Systems Engineer",                       location: "Remote",             area: "Fintech",             posted: "8d ago",   url: "https://stripe.com/jobs/search?teams=Design" },
-  { id: 31,  company: "Stripe",           logo: "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",           role: "Senior UX Designer, Radar",                     location: "Dublin",             area: "Fintech",             posted: "27d ago",  url: "https://stripe.com/jobs/search?teams=Design" },
-  { id: 32,  company: "Stripe",           logo: "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",           role: "UX Researcher, Merchants",                      location: "New York, NY",       area: "Fintech",             posted: "61d ago",  url: "https://stripe.com/jobs/search?teams=Design" },
-  // ── Notion (Greenhouse) ──
-  { id: 33,  company: "Notion",           logo: "https://www.google.com/s2/favicons?sz=64&domain=notion.so",            role: "Product Designer, Core Editor",                 location: "San Francisco, CA",  area: "Productivity",        posted: "3d ago",   url: "https://boards.greenhouse.io/notion" },
-  { id: 34,  company: "Notion",           logo: "https://www.google.com/s2/favicons?sz=64&domain=notion.so",            role: "UX Designer, AI Integration",                   location: "New York, NY",       area: "Productivity",        posted: "7d ago",   url: "https://boards.greenhouse.io/notion" },
-  { id: 35,  company: "Notion",           logo: "https://www.google.com/s2/favicons?sz=64&domain=notion.so",            role: "Senior Product Designer, Enterprise",           location: "San Francisco, CA",  area: "Productivity",        posted: "33d ago",  url: "https://boards.greenhouse.io/notion" },
-  { id: 130, company: "Notion",           logo: "https://www.google.com/s2/favicons?sz=64&domain=notion.so",            role: "Design Lead, Templates",                        location: "San Francisco, CA",  area: "Productivity",        posted: "78d ago",  url: "https://boards.greenhouse.io/notion" },
-  // ── Perplexity (Ashby) ──
-  { id: 36,  company: "Perplexity",       logo: "https://www.google.com/s2/favicons?sz=64&domain=perplexity.ai",        role: "Product Designer, Search UX",                   location: "San Francisco, CA",  area: "AI Search",           posted: "1d ago",   url: "https://jobs.ashbyhq.com/perplexity" },
-  { id: 37,  company: "Perplexity",       logo: "https://www.google.com/s2/favicons?sz=64&domain=perplexity.ai",        role: "Senior Designer, Mobile",                       location: "San Francisco, CA",  area: "AI Search",           posted: "24d ago",  url: "https://jobs.ashbyhq.com/perplexity" },
-  // ── Cursor (Ashby — Anysphere) ──
-  { id: 38,  company: "Cursor",           logo: "https://www.google.com/s2/favicons?sz=64&domain=cursor.sh",            role: "Product Designer, Developer Experience",        location: "San Francisco, CA",  area: "Developer Tools",     posted: "2d ago",   url: "https://jobs.ashbyhq.com/anysphere" },
-  { id: 39,  company: "Cursor",           logo: "https://www.google.com/s2/favicons?sz=64&domain=cursor.sh",            role: "UX Researcher",                                 location: "San Francisco, CA",  area: "Developer Tools",     posted: "36d ago",  url: "https://jobs.ashbyhq.com/anysphere" },
-  // ── Vercel ──
-  { id: 40,  company: "Vercel",           logo: "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",           role: "Senior Product Designer",                       location: "Remote",             area: "Developer Tools",     posted: "2d ago",   url: "https://vercel.com/careers#open-positions" },
-  { id: 41,  company: "Vercel",           logo: "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",           role: "Design Engineer",                               location: "Remote",             area: "Developer Tools",     posted: "21d ago",  url: "https://vercel.com/careers#open-positions" },
-  { id: 42,  company: "Vercel",           logo: "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",           role: "UX Designer, Dashboard",                        location: "Remote",             area: "Developer Tools",     posted: "52d ago",  url: "https://vercel.com/careers#open-positions" },
-  // ── Linear (Ashby) ──
-  { id: 43,  company: "Linear",           logo: "https://www.google.com/s2/favicons?sz=64&domain=linear.app",           role: "Product Designer",                              location: "Remote",             area: "Project Management",  posted: "6d ago",   url: "https://jobs.ashbyhq.com/linear" },
-  { id: 44,  company: "Linear",           logo: "https://www.google.com/s2/favicons?sz=64&domain=linear.app",           role: "Senior UX Designer",                            location: "Remote",             area: "Project Management",  posted: "40d ago",  url: "https://jobs.ashbyhq.com/linear" },
-  { id: 131, company: "Linear",           logo: "https://www.google.com/s2/favicons?sz=64&domain=linear.app",           role: "UX Researcher",                                 location: "Remote",             area: "Project Management",  posted: "79d ago",  url: "https://jobs.ashbyhq.com/linear" },
-  // ── Runway (Ashby) ──
-  { id: 45,  company: "Runway",           logo: "https://www.google.com/s2/favicons?sz=64&domain=runwayml.com",         role: "Senior Product Designer, Video AI",             location: "New York, NY",       area: "Generative AI",       posted: "6d ago",   url: "https://jobs.ashbyhq.com/runway" },
-  { id: 46,  company: "Runway",           logo: "https://www.google.com/s2/favicons?sz=64&domain=runwayml.com",         role: "Product Designer, Creative Tools",              location: "New York, NY",       area: "Generative AI",       posted: "28d ago",  url: "https://jobs.ashbyhq.com/runway" },
-  // ── Midjourney ──
-  { id: 47,  company: "Midjourney",       logo: "https://www.google.com/s2/favicons?sz=64&domain=midjourney.com",       role: "UX Designer",                                   location: "San Francisco, CA",  area: "Generative AI",       posted: "4d ago",   url: "https://www.midjourney.com/jobs" },
-  { id: 48,  company: "Midjourney",       logo: "https://www.google.com/s2/favicons?sz=64&domain=midjourney.com",       role: "Product Designer, Web App",                     location: "San Francisco, CA",  area: "Generative AI",       posted: "53d ago",  url: "https://www.midjourney.com/jobs" },
-  // ── Framer (Lever) ──
-  { id: 49,  company: "Framer",           logo: "https://www.google.com/s2/favicons?sz=64&domain=framer.com",           role: "Product Designer, AI",                          location: "Amsterdam",          area: "Design Tools",        posted: "1d ago",   url: "https://jobs.lever.co/framer" },
-  { id: 50,  company: "Framer",           logo: "https://www.google.com/s2/favicons?sz=64&domain=framer.com",           role: "Design Engineer",                               location: "Amsterdam",          area: "Design Tools",        posted: "35d ago",  url: "https://jobs.lever.co/framer" },
-  // ── Webflow (Lever) ──
-  { id: 51,  company: "Webflow",          logo: "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",          role: "Senior Product Designer",                       location: "Remote",             area: "No-code / Web",       posted: "2d ago",   url: "https://jobs.lever.co/webflow" },
-  { id: 52,  company: "Webflow",          logo: "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",          role: "UX Researcher, Platform",                       location: "San Francisco, CA",  area: "No-code / Web",       posted: "17d ago",  url: "https://jobs.lever.co/webflow" },
-  { id: 53,  company: "Webflow",          logo: "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",          role: "Product Designer, CMS",                         location: "Remote",             area: "No-code / Web",       posted: "66d ago",  url: "https://jobs.lever.co/webflow" },
-  // ── Miro (Greenhouse) ──
-  { id: 54,  company: "Miro",             logo: "https://www.google.com/s2/favicons?sz=64&domain=miro.com",             role: "Product Designer, Collaboration",               location: "Amsterdam",          area: "Collaboration",       posted: "2d ago",   url: "https://boards.greenhouse.io/mirohq" },
-  { id: 55,  company: "Miro",             logo: "https://www.google.com/s2/favicons?sz=64&domain=miro.com",             role: "UX Researcher",                                 location: "San Francisco, CA",  area: "Collaboration",       posted: "9d ago",   url: "https://boards.greenhouse.io/mirohq" },
-  { id: 56,  company: "Miro",             logo: "https://www.google.com/s2/favicons?sz=64&domain=miro.com",             role: "Staff Designer, AI Features",                   location: "Amsterdam",          area: "Collaboration",       posted: "48d ago",  url: "https://boards.greenhouse.io/mirohq" },
-  // ── Mistral AI (Lever) ──
-  { id: 57,  company: "Mistral AI",       logo: "https://www.google.com/s2/favicons?sz=64&domain=mistral.ai",           role: "Product Designer",                              location: "Paris",              area: "AI Research",         posted: "3d ago",   url: "https://jobs.lever.co/mistral" },
-  { id: 58,  company: "Mistral AI",       logo: "https://www.google.com/s2/favicons?sz=64&domain=mistral.ai",           role: "UX Designer, Developer Platform",               location: "Paris",              area: "AI Research",         posted: "41d ago",  url: "https://jobs.lever.co/mistral" },
-  // ── Replicate (Ashby) ──
-  { id: 59,  company: "Replicate",        logo: "https://www.google.com/s2/favicons?sz=64&domain=replicate.com",        role: "Product Designer",                              location: "Remote",             area: "AI Infrastructure",   posted: "5d ago",   url: "https://jobs.ashbyhq.com/replicate" },
-  { id: 60,  company: "Replicate",        logo: "https://www.google.com/s2/favicons?sz=64&domain=replicate.com",        role: "Design Engineer",                               location: "Remote",             area: "AI Infrastructure",   posted: "57d ago",  url: "https://jobs.ashbyhq.com/replicate" },
-  // ── Supabase ──
-  { id: 61,  company: "Supabase",         logo: "https://www.google.com/s2/favicons?sz=64&domain=supabase.com",         role: "Product Designer, DevEx",                       location: "Remote",             area: "Developer Tools",     posted: "7d ago",   url: "https://supabase.com/careers#open-roles" },
-  { id: 62,  company: "Supabase",         logo: "https://www.google.com/s2/favicons?sz=64&domain=supabase.com",         role: "Design Engineer, Dashboard",                    location: "Remote",             area: "Developer Tools",     posted: "43d ago",  url: "https://supabase.com/careers#open-roles" },
-  // ── Arc / The Browser Company (Ashby) ──
-  { id: 63,  company: "Arc",              logo: "https://www.google.com/s2/favicons?sz=64&domain=arc.net",              role: "Senior Product Designer, Browser",              location: "New York, NY",       area: "Consumer App",        posted: "3d ago",   url: "https://jobs.ashbyhq.com/thebrowser" },
-  { id: 64,  company: "Arc",              logo: "https://www.google.com/s2/favicons?sz=64&domain=arc.net",              role: "UX Researcher",                                 location: "New York, NY",       area: "Consumer App",        posted: "30d ago",  url: "https://jobs.ashbyhq.com/thebrowser" },
-  // ── Raycast ──
-  { id: 65,  company: "Raycast",          logo: "https://www.google.com/s2/favicons?sz=64&domain=raycast.com",          role: "Product Designer",                              location: "Remote",             area: "Developer Tools",     posted: "8d ago",   url: "https://www.raycast.com/careers" },
-  { id: 66,  company: "Raycast",          logo: "https://www.google.com/s2/favicons?sz=64&domain=raycast.com",          role: "Design Engineer",                               location: "Remote",             area: "Developer Tools",     posted: "60d ago",  url: "https://www.raycast.com/careers" },
-  // ── Replit (Greenhouse) ──
-  { id: 67,  company: "Replit",           logo: "https://www.google.com/s2/favicons?sz=64&domain=replit.com",           role: "Product Designer, AI Coding",                   location: "Remote",             area: "Developer Tools",     posted: "4d ago",   url: "https://boards.greenhouse.io/replit" },
-  { id: 68,  company: "Replit",           logo: "https://www.google.com/s2/favicons?sz=64&domain=replit.com",           role: "UX Designer, Mobile",                           location: "Remote",             area: "Developer Tools",     posted: "39d ago",  url: "https://boards.greenhouse.io/replit" },
-  // ── Cohere (Lever) ──
-  { id: 69,  company: "Cohere",           logo: "https://www.google.com/s2/favicons?sz=64&domain=cohere.com",           role: "Product Designer, Enterprise AI",               location: "Toronto",            area: "AI Research",         posted: "6d ago",   url: "https://jobs.lever.co/cohere" },
-  { id: 70,  company: "Cohere",           logo: "https://www.google.com/s2/favicons?sz=64&domain=cohere.com",           role: "Senior UX Designer, Command Platform",          location: "Toronto",            area: "AI Research",         posted: "51d ago",  url: "https://jobs.lever.co/cohere" },
-  // ── Scale AI (Greenhouse) ──
-  { id: 71,  company: "Scale AI",         logo: "https://www.google.com/s2/favicons?sz=64&domain=scale.com",            role: "Senior UX Designer",                            location: "San Francisco, CA",  area: "AI Infrastructure",   posted: "5d ago",   url: "https://boards.greenhouse.io/scaleai" },
-  { id: 72,  company: "Scale AI",         logo: "https://www.google.com/s2/favicons?sz=64&domain=scale.com",            role: "Product Designer, Data Platform",               location: "San Francisco, CA",  area: "AI Infrastructure",   posted: "34d ago",  url: "https://boards.greenhouse.io/scaleai" },
-  // ── Loom (Greenhouse) ──
-  { id: 73,  company: "Loom",             logo: "https://www.google.com/s2/favicons?sz=64&domain=loom.com",             role: "Senior Product Designer",                       location: "Remote",             area: "Video Comms",         posted: "5d ago",   url: "https://boards.greenhouse.io/loom" },
-  { id: 74,  company: "Loom",             logo: "https://www.google.com/s2/favicons?sz=64&domain=loom.com",             role: "UX Researcher, Async Video",                    location: "Remote",             area: "Video Comms",         posted: "45d ago",  url: "https://boards.greenhouse.io/loom" },
-  // ── Pitch (Lever) ──
-  { id: 75,  company: "Pitch",            logo: "https://www.google.com/s2/favicons?sz=64&domain=pitch.com",            role: "UX Designer, Presentation",                     location: "Berlin",             area: "Productivity",        posted: "10d ago",  url: "https://jobs.lever.co/pitch" },
-  { id: 76,  company: "Pitch",            logo: "https://www.google.com/s2/favicons?sz=64&domain=pitch.com",            role: "Product Designer, Collaboration",               location: "Berlin",             area: "Productivity",        posted: "56d ago",  url: "https://jobs.lever.co/pitch" },
-  // ── Luma AI (Ashby) ──
-  { id: 77,  company: "Luma AI",          logo: "https://www.google.com/s2/favicons?sz=64&domain=lumalabs.ai",          role: "Product Designer, 3D Experiences",              location: "San Francisco, CA",  area: "Generative AI",       posted: "9d ago",   url: "https://jobs.ashbyhq.com/lumaai" },
-  { id: 78,  company: "Luma AI",          logo: "https://www.google.com/s2/favicons?sz=64&domain=lumalabs.ai",          role: "UX Designer, Mobile App",                       location: "San Francisco, CA",  area: "Generative AI",       posted: "63d ago",  url: "https://jobs.ashbyhq.com/lumaai" },
-  // ── Pika ──
-  { id: 79,  company: "Pika",             logo: "https://www.google.com/s2/favicons?sz=64&domain=pika.art",             role: "Product Designer, Video Generation",            location: "Palo Alto, CA",      area: "Generative AI",       posted: "12d ago",  url: "https://pika.art/about#careers" },
-  // ── ElevenLabs (Ashby) ──
-  { id: 80,  company: "ElevenLabs",       logo: "https://www.google.com/s2/favicons?sz=64&domain=elevenlabs.io",        role: "Product Designer, Voice UX",                    location: "Remote",             area: "Generative AI",       posted: "8d ago",   url: "https://jobs.ashbyhq.com/elevenlabs" },
-  { id: 81,  company: "ElevenLabs",       logo: "https://www.google.com/s2/favicons?sz=64&domain=elevenlabs.io",        role: "Senior UX Designer",                            location: "London",             area: "Generative AI",       posted: "37d ago",  url: "https://jobs.ashbyhq.com/elevenlabs" },
-  // ── Harvey (Ashby) ──
-  { id: 82,  company: "Harvey",           logo: "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",            role: "Product Designer, Legal AI",                    location: "San Francisco, CA",  area: "Legal AI",            posted: "11d ago",  url: "https://jobs.ashbyhq.com/harvey" },
-  { id: 83,  company: "Harvey",           logo: "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",            role: "Design Lead",                                   location: "San Francisco, CA",  area: "Legal AI",            posted: "59d ago",  url: "https://jobs.ashbyhq.com/harvey" },
-  // ── Glean (Ashby) ──
-  { id: 84,  company: "Glean",            logo: "https://www.google.com/s2/favicons?sz=64&domain=glean.com",            role: "Senior Product Designer",                       location: "Palo Alto, CA",      area: "Enterprise AI",       posted: "13d ago",  url: "https://jobs.ashbyhq.com/glean" },
-  { id: 85,  company: "Glean",            logo: "https://www.google.com/s2/favicons?sz=64&domain=glean.com",            role: "UX Researcher, Enterprise",                     location: "Palo Alto, CA",      area: "Enterprise AI",       posted: "50d ago",  url: "https://jobs.ashbyhq.com/glean" },
-  // ── Coda (Greenhouse) ──
-  { id: 86,  company: "Coda",             logo: "https://www.google.com/s2/favicons?sz=64&domain=coda.io",              role: "Product Designer, AI Docs",                     location: "San Francisco, CA",  area: "Productivity",        posted: "15d ago",  url: "https://boards.greenhouse.io/coda" },
-  { id: 87,  company: "Coda",             logo: "https://www.google.com/s2/favicons?sz=64&domain=coda.io",              role: "Senior UX Researcher",                          location: "Remote",             area: "Productivity",        posted: "62d ago",  url: "https://boards.greenhouse.io/coda" },
-  // ── Airtable (Greenhouse) ──
-  { id: 88,  company: "Airtable",         logo: "https://www.google.com/s2/favicons?sz=64&domain=airtable.com",         role: "Product Designer, Data Visualization",          location: "San Francisco, CA",  area: "Productivity",        posted: "16d ago",  url: "https://boards.greenhouse.io/airtable" },
-  { id: 89,  company: "Airtable",         logo: "https://www.google.com/s2/favicons?sz=64&domain=airtable.com",         role: "Senior Designer, Design Systems",               location: "Remote",             area: "Productivity",        posted: "54d ago",  url: "https://boards.greenhouse.io/airtable" },
-  // ── Asana (Greenhouse) ──
-  { id: 90,  company: "Asana",            logo: "https://www.google.com/s2/favicons?sz=64&domain=asana.com",            role: "Senior Product Designer, AI",                   location: "San Francisco, CA",  area: "Project Management",  posted: "10d ago",  url: "https://boards.greenhouse.io/asana" },
-  { id: 91,  company: "Asana",            logo: "https://www.google.com/s2/favicons?sz=64&domain=asana.com",            role: "UX Researcher, Core Product",                   location: "San Francisco, CA",  area: "Project Management",  posted: "46d ago",  url: "https://boards.greenhouse.io/asana" },
-  // ── Monday.com ──
-  { id: 92,  company: "Monday.com",       logo: "https://www.google.com/s2/favicons?sz=64&domain=monday.com",           role: "Product Designer, Automations",                 location: "Tel Aviv",           area: "Project Management",  posted: "14d ago",  url: "https://monday.com/careers/openpositions" },
-  { id: 93,  company: "Monday.com",       logo: "https://www.google.com/s2/favicons?sz=64&domain=monday.com",           role: "Senior UX Designer, Enterprise",                location: "New York, NY",       area: "Project Management",  posted: "68d ago",  url: "https://monday.com/careers/openpositions" },
-  // ── Brex (Greenhouse) ──
-  { id: 94,  company: "Brex",             logo: "https://www.google.com/s2/favicons?sz=64&domain=brex.com",             role: "Product Designer, Spend Management",            location: "Remote",             area: "Fintech",             posted: "11d ago",  url: "https://boards.greenhouse.io/brex" },
-  { id: 95,  company: "Brex",             logo: "https://www.google.com/s2/favicons?sz=64&domain=brex.com",             role: "Design Systems Designer",                       location: "Remote",             area: "Fintech",             posted: "44d ago",  url: "https://boards.greenhouse.io/brex" },
-  // ── Robinhood (Greenhouse) ──
-  { id: 96,  company: "Robinhood",        logo: "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",        role: "Senior Product Designer, Investing",            location: "Menlo Park, CA",     area: "Fintech",             posted: "19d ago",  url: "https://boards.greenhouse.io/robinhood" },
-  { id: 97,  company: "Robinhood",        logo: "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",        role: "UX Researcher, Crypto",                         location: "Remote",             area: "Fintech",             posted: "55d ago",  url: "https://boards.greenhouse.io/robinhood" },
-  // ── Plaid (Greenhouse) ──
-  { id: 98,  company: "Plaid",            logo: "https://www.google.com/s2/favicons?sz=64&domain=plaid.com",            role: "Product Designer, Developer Experience",        location: "San Francisco, CA",  area: "Fintech",             posted: "23d ago",  url: "https://boards.greenhouse.io/plaid" },
-  // ── Intercom (Greenhouse) ──
-  { id: 99,  company: "Intercom",         logo: "https://www.google.com/s2/favicons?sz=64&domain=intercom.com",         role: "Product Designer, AI Support",                  location: "Dublin",             area: "Enterprise AI",       posted: "9d ago",   url: "https://boards.greenhouse.io/intercom" },
-  { id: 100, company: "Intercom",         logo: "https://www.google.com/s2/favicons?sz=64&domain=intercom.com",         role: "Senior UX Designer, Messenger",                 location: "San Francisco, CA",  area: "Enterprise AI",       posted: "38d ago",  url: "https://boards.greenhouse.io/intercom" },
-  // ── Salesforce ──
-  { id: 101, company: "Salesforce",       logo: "https://www.google.com/s2/favicons?sz=64&domain=salesforce.com",       role: "Senior Product Designer, Einstein AI",          location: "San Francisco, CA",  area: "Enterprise AI",       posted: "12d ago",  url: "https://careers.salesforce.com/jobs#q=designer&t=1" },
-  { id: 102, company: "Salesforce",       logo: "https://www.google.com/s2/favicons?sz=64&domain=salesforce.com",       role: "UX Researcher, CRM",                            location: "Indianapolis, IN",   area: "Enterprise AI",       posted: "64d ago",  url: "https://careers.salesforce.com/jobs#q=UX+researcher&t=1" },
-  // ── HubSpot (Greenhouse) ──
-  { id: 103, company: "HubSpot",          logo: "https://www.google.com/s2/favicons?sz=64&domain=hubspot.com",          role: "Product Designer, AI Tools",                    location: "Cambridge, MA",      area: "Enterprise AI",       posted: "18d ago",  url: "https://boards.greenhouse.io/hubspot" },
-  { id: 104, company: "HubSpot",          logo: "https://www.google.com/s2/favicons?sz=64&domain=hubspot.com",          role: "Design Systems Designer",                       location: "Remote",             area: "Enterprise AI",       posted: "70d ago",  url: "https://boards.greenhouse.io/hubspot" },
-  // ── Canva ──
-  { id: 105, company: "Canva",            logo: "https://www.google.com/s2/favicons?sz=64&domain=canva.com",            role: "Product Designer, AI Create",                   location: "Sydney",             area: "Design Tools",        posted: "5d ago",   url: "https://www.canva.com/careers/jobs/" },
-  { id: 106, company: "Canva",            logo: "https://www.google.com/s2/favicons?sz=64&domain=canva.com",            role: "Senior UX Designer, Mobile",                    location: "Sydney",             area: "Design Tools",        posted: "26d ago",  url: "https://www.canva.com/careers/jobs/" },
-  { id: 107, company: "Canva",            logo: "https://www.google.com/s2/favicons?sz=64&domain=canva.com",            role: "UX Researcher, Growth",                         location: "Remote",             area: "Design Tools",        posted: "69d ago",  url: "https://www.canva.com/careers/jobs/" },
-  // ── Shopify ──
-  { id: 108, company: "Shopify",          logo: "https://www.google.com/s2/favicons?sz=64&domain=shopify.com",          role: "Senior Product Designer, Checkout",             location: "Remote",             area: "E-commerce",          posted: "7d ago",   url: "https://www.shopify.com/careers/search?specialties[]=ux-design" },
-  { id: 109, company: "Shopify",          logo: "https://www.google.com/s2/favicons?sz=64&domain=shopify.com",          role: "Design Systems Designer",                       location: "Remote",             area: "E-commerce",          posted: "32d ago",  url: "https://www.shopify.com/careers/search?specialties[]=ux-design" },
-  { id: 110, company: "Shopify",          logo: "https://www.google.com/s2/favicons?sz=64&domain=shopify.com",          role: "UX Researcher, Merchant Experience",            location: "Toronto",            area: "E-commerce",          posted: "71d ago",  url: "https://www.shopify.com/careers/search?specialties[]=ux-design" },
-  // ── Duolingo (Greenhouse) ──
-  { id: 111, company: "Duolingo",         logo: "https://www.google.com/s2/favicons?sz=64&domain=duolingo.com",         role: "Senior Product Designer, AI Learning",          location: "Pittsburgh, PA",     area: "Consumer App",        posted: "15d ago",  url: "https://boards.greenhouse.io/duolingo" },
-  { id: 112, company: "Duolingo",         logo: "https://www.google.com/s2/favicons?sz=64&domain=duolingo.com",         role: "Motion Designer",                               location: "Pittsburgh, PA",     area: "Consumer App",        posted: "72d ago",  url: "https://boards.greenhouse.io/duolingo" },
-  // ── Spotify ──
-  { id: 113, company: "Spotify",          logo: "https://www.google.com/s2/favicons?sz=64&domain=spotify.com",          role: "Senior Product Designer, Discovery",            location: "New York, NY",       area: "Consumer App",        posted: "10d ago",  url: "https://www.lifeatspotify.com/jobs?l=&d=design" },
-  { id: 114, company: "Spotify",          logo: "https://www.google.com/s2/favicons?sz=64&domain=spotify.com",          role: "UX Researcher, Podcasts",                       location: "Stockholm",          area: "Consumer App",        posted: "47d ago",  url: "https://www.lifeatspotify.com/jobs?l=&d=design" },
-  // ── Netflix ──
-  { id: 115, company: "Netflix",          logo: "https://www.google.com/s2/favicons?sz=64&domain=netflix.com",          role: "Product Designer, Content Discovery",           location: "Los Gatos, CA",      area: "Consumer App",        posted: "20d ago",  url: "https://jobs.netflix.com/search?q=designer" },
-  { id: 116, company: "Netflix",          logo: "https://www.google.com/s2/favicons?sz=64&domain=netflix.com",          role: "Senior UX Designer, Games",                     location: "Remote",             area: "Consumer App",        posted: "65d ago",  url: "https://jobs.netflix.com/search?q=UX+designer" },
-  // ── Airbnb ──
-  { id: 117, company: "Airbnb",           logo: "https://www.google.com/s2/favicons?sz=64&domain=airbnb.com",           role: "Staff Product Designer, Search",                location: "San Francisco, CA",  area: "Consumer App",        posted: "22d ago",  url: "https://careers.airbnb.com/positions/?department=Design" },
-  { id: 118, company: "Airbnb",           logo: "https://www.google.com/s2/favicons?sz=64&domain=airbnb.com",           role: "UX Researcher, Host Experience",                location: "San Francisco, CA",  area: "Consumer App",        posted: "73d ago",  url: "https://careers.airbnb.com/positions/?department=UX+Research" },
-  // ── Uber ──
-  { id: 119, company: "Uber",             logo: "https://www.google.com/s2/favicons?sz=64&domain=uber.com",             role: "Senior Product Designer, Earner",               location: "San Francisco, CA",  area: "Consumer App",        posted: "25d ago",  url: "https://www.uber.com/global/en/careers/list/?query=designer" },
-  { id: 120, company: "Uber",             logo: "https://www.google.com/s2/favicons?sz=64&domain=uber.com",             role: "Design Systems Engineer",                       location: "San Francisco, CA",  area: "Consumer App",        posted: "74d ago",  url: "https://www.uber.com/global/en/careers/list/?query=design+engineer" },
-  // ── Writer (Greenhouse) ──
-  { id: 122, company: "Writer",           logo: "https://www.google.com/s2/favicons?sz=64&domain=writer.com",           role: "Product Designer, Enterprise AI Writing",       location: "San Francisco, CA",  area: "Enterprise AI",       posted: "26d ago",  url: "https://boards.greenhouse.io/writer" },
-  // ── Jasper (Greenhouse) ──
-  { id: 123, company: "Jasper",           logo: "https://www.google.com/s2/favicons?sz=64&domain=jasper.ai",            role: "Senior UX Designer",                            location: "Austin, TX",         area: "Enterprise AI",       posted: "43d ago",  url: "https://boards.greenhouse.io/jasper" },
-  // ── Character AI (Ashby) ──
-  { id: 124, company: "Character AI",     logo: "https://www.google.com/s2/favicons?sz=64&domain=character.ai",         role: "Product Designer, Conversation UX",             location: "Menlo Park, CA",     area: "AI Research",         posted: "17d ago",  url: "https://jobs.ashbyhq.com/character" },
-  { id: 125, company: "Character AI",     logo: "https://www.google.com/s2/favicons?sz=64&domain=character.ai",         role: "Senior UX Researcher",                          location: "Menlo Park, CA",     area: "AI Research",         posted: "76d ago",  url: "https://jobs.ashbyhq.com/character" },
-  // ── Weights & Biases (Greenhouse) ──
-  { id: 126, company: "Weights & Biases", logo: "https://www.google.com/s2/favicons?sz=64&domain=wandb.ai",             role: "Product Designer, ML Tooling",                  location: "Remote",             area: "AI Infrastructure",   posted: "28d ago",  url: "https://boards.greenhouse.io/wandb" },
-  // ── Hugging Face (Workable) ──
-  { id: 127, company: "Hugging Face",     logo: "https://www.google.com/s2/favicons?sz=64&domain=huggingface.co",       role: "Product Designer, Model Hub",                   location: "Remote",             area: "AI Infrastructure",   posted: "35d ago",  url: "https://apply.workable.com/huggingface/" },
-  { id: 128, company: "Hugging Face",     logo: "https://www.google.com/s2/favicons?sz=64&domain=huggingface.co",       role: "UX Designer, Spaces",                           location: "Paris",              area: "AI Infrastructure",   posted: "77d ago",  url: "https://apply.workable.com/huggingface/" },
-  // ── Together AI (Ashby) ──
-  { id: 129, company: "Together AI",      logo: "https://www.google.com/s2/favicons?sz=64&domain=together.ai",          role: "Product Designer, Developer Platform",          location: "San Francisco, CA",  area: "AI Infrastructure",   posted: "31d ago",  url: "https://jobs.ashbyhq.com/together" },
-  // ── Figma extra ──
-  { id: 121, company: "Figma",            logo: "https://www.google.com/s2/favicons?sz=64&domain=figma.com",            role: "Product Designer, Community",                   location: "San Francisco, CA",  area: "Design Tools",        posted: "75d ago",  url: "https://boards.greenhouse.io/figma" },
-  // ── Solara Talent — verified live roles ──
-  { id: 132, company: "BetterSleep",      logo: "https://www.google.com/s2/favicons?sz=64&domain=bettersleep.com",      role: "Senior Designer, Core Experience",              location: "Remote (US/Canada)", area: "Health & Wellness",   posted: "3d ago",   url: "https://jobs.solaratalent.com/roles" },
-  { id: 133, company: "Gumloop",          logo: "https://www.google.com/s2/favicons?sz=64&domain=gumloop.com",          role: "Product Designer",                              location: "San Francisco, CA",  area: "AI Automation",       posted: "3d ago",   url: "https://jobs.solaratalent.com/roles" },
-  { id: 134, company: "SOMETHINGS",       logo: "https://www.google.com/s2/favicons?sz=64&domain=somethings.com",       role: "Head of Design",                                location: "New York, NY",       area: "Health Tech",         posted: "3d ago",   url: "https://jobs.solaratalent.com/roles" },
-];
-
-// Each job stores days as a number for sorting + display
-// On each daily refresh we bump all posted values by 1
-const REFRESH_KEY = "jobs_refresh_date";
-const OFFSET_KEY  = "jobs_day_offset";
-
-function getDayOffset() {
-  const today = new Date().toDateString();
-  const stored = localStorage.getItem(REFRESH_KEY);
-  if (stored !== today) {
-    const prev = parseInt(localStorage.getItem(OFFSET_KEY) || "0");
-    localStorage.setItem(OFFSET_KEY, prev + 1);
-    localStorage.setItem(REFRESH_KEY, today);
-  }
-  return parseInt(localStorage.getItem(OFFSET_KEY) || "0");
-}
-
-const DAY_OFFSET = getDayOffset();
-
-function formatPosted(rawDays) {
-  const d = rawDays + DAY_OFFSET;
-  if (d < 7)  return d === 0 ? "Today" : `${d}d ago`;
-  if (d < 28) return `${Math.floor(d / 7)}w ago`;
-  return `${Math.floor(d / 28)}mo ago`;
-}
-
-// Pull the numeric days from the "Xd ago" seed string
-const parseDays = (s) => parseInt(s) || 0;
-const JOBS_SORTED = [...JOBS]
-  .sort((a, b) => parseDays(a.posted) - parseDays(b.posted))
-  .map(j => ({ ...j, postedDays: parseDays(j.posted) }));
-
-const AREAS = [...new Set(JOBS.map(j => j.area))].sort();
-const COMPANIES = [...new Set(JOBS.map(j => j.company))].sort();
 
 // ─── SHARED STYLES ───────────────────────────────────────────────────────────
 
@@ -493,14 +262,22 @@ const GLOBAL_CSS = `
 
 // ─── JOBS CONTROLS ───────────────────────────────────────────────────────────
 
-const LAST_REFRESHED = (() => {
-  const now = new Date();
-  return now.toLocaleDateString("en-US", { month: "short", day: "numeric" }) +
-    " at " + now.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
-})();
+function formatSyncTime(date) {
+  if (!date) return null;
+  return date.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+}
 
-function JobsControls({ search, setSearch, areaFilter, setAreaFilter, companyFilter, setCompanyFilter, count }) {
+function JobsControls({
+  search, setSearch, areaFilter, setAreaFilter, companyFilter, setCompanyFilter,
+  count, areas, companies, loading, lastSyncedAt, syncError,
+}) {
   const hasFilters = search || areaFilter || companyFilter;
+  const syncLabel = loading
+    ? "Refreshing listings…"
+    : lastSyncedAt
+      ? `Updated ${formatSyncTime(lastSyncedAt)}`
+      : "Showing cached listings";
+
   return (
     <div className="jobs-controls">
       <input
@@ -511,11 +288,11 @@ function JobsControls({ search, setSearch, areaFilter, setAreaFilter, companyFil
       />
       <select className="filter-select" value={areaFilter} onChange={e => setAreaFilter(e.target.value)}>
         <option value="">All areas</option>
-        {AREAS.map(a => <option key={a} value={a}>{a}</option>)}
+        {areas.map(a => <option key={a} value={a}>{a}</option>)}
       </select>
       <select className="filter-select" value={companyFilter} onChange={e => setCompanyFilter(e.target.value)}>
         <option value="">All companies</option>
-        {COMPANIES.map(c => <option key={c} value={c}>{c}</option>)}
+        {companies.map(c => <option key={c} value={c}>{c}</option>)}
       </select>
       {hasFilters && (
         <button className="clear-btn" onClick={() => { setSearch(""); setAreaFilter(""); setCompanyFilter(""); }}>
@@ -524,7 +301,8 @@ function JobsControls({ search, setSearch, areaFilter, setAreaFilter, companyFil
       )}
       <span className="jobs-count">{count} role{count !== 1 ? "s" : ""}</span>
       <span style={{ fontFamily: "'Courier New', monospace", fontSize: 10, color: "#888", letterSpacing: "0.5px" }}>
-        Refreshed {LAST_REFRESHED}
+        {syncLabel}
+        {syncError && !loading ? " · using cache" : ""}
       </span>
     </div>
   );
@@ -534,14 +312,14 @@ function JobsControls({ search, setSearch, areaFilter, setAreaFilter, companyFil
 
 const SORT_KEYS = { Company: "company", Role: "role", Area: "area", Location: "location", Posted: "postedDays" };
 
-function JobsTab({ search, areaFilter, companyFilter, setCompanyFilter }) {
+function JobsTab({ jobs, formatPosted, search, areaFilter, companyFilter, setCompanyFilter }) {
   const [sortCol, setSortCol] = useState("Posted");   // default: sort by Posted (newest first)
   const [sortDir, setSortDir] = useState("asc");
 
   // Multi-keyword search: split on whitespace, every keyword must match
   const keywords = search.toLowerCase().split(/\s+/).filter(Boolean);
 
-  const filtered = JOBS_SORTED.filter(j => {
+  const filtered = jobs.filter(j => {
     const matchSearch = keywords.every(kw =>
       j.role.toLowerCase().includes(kw) ||
       j.company.toLowerCase().includes(kw) ||
@@ -983,7 +761,7 @@ const HERO_CONTENT = {
   jobs: {
     label: "Role Hunter · Design Jobs",
     title: <>Hunt your next<br />design role.</>,
-    subtitle: "Curated product design, UX, and design engineering roles — plus a mock interview to practice design challenges.",
+    subtitle: "Verified listings from company career pages, refreshed live when you open the app.",
   },
 };
 
@@ -995,6 +773,21 @@ export default function App() {
   const [companyFilter, setCompanyFilter] = useState("");
   const stickyRef = useRef(null);
   const hero = HERO_CONTENT[tab];
+  const { jobs, loading, lastSyncedAt, error: syncError, areas, companies, formatPosted } = useJobs();
+
+  const filteredCount = useMemo(() => {
+    const kws = search.toLowerCase().split(/\s+/).filter(Boolean);
+    return jobs.filter(j =>
+      kws.every(kw =>
+        j.role.toLowerCase().includes(kw) ||
+        j.company.toLowerCase().includes(kw) ||
+        j.area.toLowerCase().includes(kw) ||
+        j.location.toLowerCase().includes(kw)
+      ) &&
+      (!areaFilter || j.area === areaFilter) &&
+      (!companyFilter || j.company === companyFilter)
+    ).length;
+  }, [jobs, search, areaFilter, companyFilter]);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
@@ -1045,19 +838,28 @@ export default function App() {
             search={search} setSearch={setSearch}
             areaFilter={areaFilter} setAreaFilter={setAreaFilter}
             companyFilter={companyFilter} setCompanyFilter={setCompanyFilter}
-            count={JOBS_SORTED.filter(j => {
-              const kws = search.toLowerCase().split(/\s+/).filter(Boolean);
-              return kws.every(kw => j.role.toLowerCase().includes(kw) || j.company.toLowerCase().includes(kw) || j.area.toLowerCase().includes(kw) || j.location.toLowerCase().includes(kw))
-                && (!areaFilter || j.area === areaFilter)
-                && (!companyFilter || j.company === companyFilter);
-            }).length}
+            count={filteredCount}
+            areas={areas}
+            companies={companies}
+            loading={loading}
+            lastSyncedAt={lastSyncedAt}
+            syncError={syncError}
           />
         )}
       </div>
 
       {/* Content */}
       {tab === "jobs"
-        ? <JobsTab search={search} areaFilter={areaFilter} companyFilter={companyFilter} setCompanyFilter={setCompanyFilter} />
+        ? (
+          <JobsTab
+            jobs={jobs}
+            formatPosted={formatPosted}
+            search={search}
+            areaFilter={areaFilter}
+            companyFilter={companyFilter}
+            setCompanyFilter={setCompanyFilter}
+          />
+        )
         : <InterviewTab />}
     </div>
   );
