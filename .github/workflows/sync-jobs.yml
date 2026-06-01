@@ -41,10 +41,5 @@ jobs:
             echo "No job data changes to commit."
             exit 0
           fi
-          git commit -m "$(cat <<'EOF'
-chore: sync Role Hunter job listings
-
-Daily automated refresh from ATS boards and Built In SF.
-EOF
-)"
+          git commit -m "chore: sync Role Hunter job listings (daily automated refresh)"
           git push
