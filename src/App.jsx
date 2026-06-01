@@ -263,9 +263,22 @@ const GLOBAL_CSS = `
 
 // ─── JOBS CONTROLS ───────────────────────────────────────────────────────────
 
-function formatSyncTime(date) {
+const STALE_SYNC_MS = 24 * 60 * 60 * 1000;
+
+function formatSyncFreshness(date) {
   if (!date) return null;
-  return date.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+  const ageMs = Date.now() - date.getTime();
+  const minutes = Math.floor(ageMs / (60 * 1000));
+  if (minutes < 1) return "just now";
+  if (minutes < 60) return `${minutes}m ago`;
+  const hours = Math.floor(minutes / 60);
+  if (hours < 24) return `${hours}h ago`;
+  return date.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+}
+
+function isSyncStale(date) {
+  if (!date) return true;
+  return Date.now() - date.getTime() > STALE_SYNC_MS;
 }
 
 function JobsControls({
@@ -273,10 +286,11 @@ function JobsControls({
   locationFilter, setLocationFilter, count, totalCount, areas, companies, locations, loading, lastSyncedAt, syncError,
 }) {
   const hasFilters = search || areaFilter || companyFilter || locationFilter;
+  const stale = isSyncStale(lastSyncedAt);
   const syncLabel = loading
     ? "Refreshing listings…"
     : lastSyncedAt
-      ? `Updated ${formatSyncTime(lastSyncedAt)}`
+      ? `Updated ${formatSyncFreshness(lastSyncedAt)}`
       : "Showing cached listings";
 
   return (
@@ -307,8 +321,9 @@ function JobsControls({
       <span className="jobs-count">
         {count} shown · {totalCount || count} total
       </span>
-      <span style={{ fontFamily: "'Courier New', monospace", fontSize: 10, color: "#888", letterSpacing: "0.5px" }}>
+      <span style={{ fontFamily: "'Courier New', monospace", fontSize: 10, color: stale && !loading ? "#b45309" : "#888", letterSpacing: "0.5px" }}>
         {syncLabel}
+        {stale && !loading && lastSyncedAt ? " · listings may be outdated" : ""}
         {syncError && !loading ? " · using cache" : ""}
       </span>
     </div>
@@ -630,7 +645,7 @@ const HERO_CONTENT = {
   jobs: {
     label: "Role Hunter · Design Jobs",
     title: <>Hunt your next<br />design role.</>,
-    subtitle: "Verified listings from company career pages, refreshed live when you open the app.",
+    subtitle: "Verified listings from company career pages, refreshed daily.",
   },
 };
 

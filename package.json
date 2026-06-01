@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "sync-jobs": "node scripts/sync-jobs.mjs",
+    "sync-if-stale": "node scripts/sync-if-stale.mjs",
     "patch-job-areas": "node scripts/patch-job-areas.mjs",
+    "prebuild": "node scripts/sync-if-stale.mjs",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
