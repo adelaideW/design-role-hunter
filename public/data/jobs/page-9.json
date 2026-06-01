@@ -7,7 +7,7 @@
     "location": "San Francisco, CA, USA",
     "area": "Other",
     "url": "https://www.builtinsf.com/job/senior-product-designer-craft/9075545",
-    "postedAt": "2026-06-01T18:41:03.405Z",
+    "postedAt": "2026-06-01T18:45:39.857Z",
     "postedDays": 0,
     "source": "builtin"
   },
@@ -19,7 +19,7 @@
     "location": "San Francisco, CA, USA",
     "area": "Other",
     "url": "https://www.builtinsf.com/job/staff-product-designer-systems/9075542",
-    "postedAt": "2026-06-01T18:41:03.405Z",
+    "postedAt": "2026-06-01T18:45:39.857Z",
     "postedDays": 0,
     "source": "builtin"
   },
@@ -31,7 +31,7 @@
     "location": "San Francisco, CA, USA",
     "area": "Other",
     "url": "https://www.builtinsf.com/job/product-designer/8552684",
-    "postedAt": "2026-06-01T18:41:03.405Z",
+    "postedAt": "2026-06-01T18:45:39.857Z",
     "postedDays": 0,
     "source": "builtin"
   },
@@ -43,7 +43,7 @@
     "location": "San Francisco, CA, USA",
     "area": "Other",
     "url": "https://www.builtinsf.com/job/senior-product-designer/8244505",
-    "postedAt": "2026-06-01T18:41:03.405Z",
+    "postedAt": "2026-06-01T18:45:39.857Z",
     "postedDays": 0,
     "source": "builtin"
   },
@@ -55,7 +55,7 @@
     "location": "San Francisco, CA, USA",
     "area": "Other",
     "url": "https://www.builtinsf.com/job/product-designer/7429754",
-    "postedAt": "2026-06-01T18:41:03.405Z",
+    "postedAt": "2026-06-01T18:45:39.857Z",
     "postedDays": 0,
     "source": "builtin"
   },
@@ -67,7 +67,7 @@
     "location": "San Francisco, CA, USA",
     "area": "Other",
     "url": "https://www.builtinsf.com/job/sr-product-designer-twotwenty/7740941",
-    "postedAt": "2026-06-01T18:41:03.405Z",
+    "postedAt": "2026-06-01T18:45:39.857Z",
     "postedDays": 0,
     "source": "builtin"
   },
@@ -144,6 +144,42 @@
     "source": "greenhouse"
   },
   {
+    "id": 98978599,
+    "company": "Brex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
+    "role": "Senior Brand Designer",
+    "location": "New York, New York, United States",
+    "area": "Fintech",
+    "url": "https://www.brex.com/careers/8393510002?gh_jid=8393510002",
+    "postedAt": "2026-05-26T08:12:52-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1743117927,
+    "company": "Brex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
+    "role": "Staff Brand Designer",
+    "location": "San Francisco, California, United States",
+    "area": "Fintech",
+    "url": "https://www.brex.com/careers/7595422002?gh_jid=7595422002",
+    "postedAt": "2026-05-26T08:12:32-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1370729799,
+    "company": "Brex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
+    "role": "Staff Brand Designer, Interactive",
+    "location": "San Francisco, California, United States",
+    "area": "Fintech",
+    "url": "https://www.brex.com/careers/8198574002?gh_jid=8198574002",
+    "postedAt": "2026-05-26T08:12:32-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
     "id": 1326796311,
     "company": "Brex",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
@@ -168,30 +204,6 @@
     "source": "greenhouse"
   },
   {
-    "id": 1370729799,
-    "company": "Brex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
-    "role": "Staff Brand Designer, Interactive",
-    "location": "San Francisco, California, United States",
-    "area": "Fintech",
-    "url": "https://www.brex.com/careers/8198574002?gh_jid=8198574002",
-    "postedAt": "2026-05-26T08:12:32-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 98978599,
-    "company": "Brex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
-    "role": "Senior Brand Designer",
-    "location": "New York, New York, United States",
-    "area": "Fintech",
-    "url": "https://www.brex.com/careers/8393510002?gh_jid=8393510002",
-    "postedAt": "2026-05-26T08:12:52-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
     "id": 2118340306,
     "company": "Brex",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
@@ -200,18 +212,6 @@
     "area": "Fintech",
     "url": "https://www.brex.com/careers/8433977002?gh_jid=8433977002",
     "postedAt": "2026-05-26T08:12:53-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1743117927,
-    "company": "Brex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
-    "role": "Staff Brand Designer",
-    "location": "San Francisco, California, United States",
-    "area": "Fintech",
-    "url": "https://www.brex.com/careers/7595422002?gh_jid=7595422002",
-    "postedAt": "2026-05-26T08:12:32-04:00",
     "postedDays": 6,
     "source": "greenhouse"
   },
@@ -384,18 +384,6 @@
     "source": "ashby"
   },
   {
-    "id": 1633153856,
-    "company": "Duolingo",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=duolingo.com",
-    "role": "Senior Product Designer",
-    "location": "Seattle, WA",
-    "area": "Consumer App",
-    "url": "https://careers.duolingo.com/jobs/8489189002?gh_jid=8489189002",
-    "postedAt": "2026-04-27T15:18:21-04:00",
-    "postedDays": 34,
-    "source": "greenhouse"
-  },
-  {
     "id": 307692056,
     "company": "Duolingo",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=duolingo.com",
@@ -403,6 +391,18 @@
     "location": "New York, NY",
     "area": "Consumer App",
     "url": "https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002",
+    "postedAt": "2026-04-27T15:18:21-04:00",
+    "postedDays": 34,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1633153856,
+    "company": "Duolingo",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=duolingo.com",
+    "role": "Senior Product Designer",
+    "location": "Seattle, WA",
+    "area": "Consumer App",
+    "url": "https://careers.duolingo.com/jobs/8489189002?gh_jid=8489189002",
     "postedAt": "2026-04-27T15:18:21-04:00",
     "postedDays": 34,
     "source": "greenhouse"
