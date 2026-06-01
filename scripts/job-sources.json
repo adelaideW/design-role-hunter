@@ -1,35 +1,604 @@
 [
-  { "company": "Anthropic", "domain": "anthropic.com", "ats": "greenhouse", "board": "anthropic", "area": "AI Safety" },
-  { "company": "OpenAI", "domain": "openai.com", "ats": "ashby", "board": "openai", "area": "AI Research" },
-  { "company": "Figma", "domain": "figma.com", "ats": "greenhouse", "board": "figma", "area": "Design Tools" },
-  { "company": "Notion", "domain": "notion.so", "ats": "greenhouse", "board": "notion", "area": "Productivity" },
-  { "company": "Perplexity", "domain": "perplexity.ai", "ats": "ashby", "board": "perplexity", "area": "AI Search" },
-  { "company": "Cursor", "domain": "cursor.sh", "ats": "ashby", "board": "anysphere", "area": "Developer Tools" },
-  { "company": "Linear", "domain": "linear.app", "ats": "ashby", "board": "linear", "area": "Project Management" },
-  { "company": "Runway", "domain": "runwayml.com", "ats": "ashby", "board": "runway", "area": "Generative AI" },
-  { "company": "Miro", "domain": "miro.com", "ats": "greenhouse", "board": "mirohq", "area": "Collaboration" },
-  { "company": "Mistral AI", "domain": "mistral.ai", "ats": "lever", "board": "mistral", "area": "AI Research" },
-  { "company": "Replicate", "domain": "replicate.com", "ats": "ashby", "board": "replicate", "area": "AI Infrastructure" },
-  { "company": "Arc", "domain": "arc.net", "ats": "ashby", "board": "thebrowser", "area": "Consumer App" },
-  { "company": "Replit", "domain": "replit.com", "ats": "greenhouse", "board": "replit", "area": "Developer Tools" },
-  { "company": "Scale AI", "domain": "scale.com", "ats": "greenhouse", "board": "scaleai", "area": "AI Infrastructure" },
-  { "company": "Loom", "domain": "loom.com", "ats": "greenhouse", "board": "loom", "area": "Video Comms" },
-  { "company": "Luma AI", "domain": "lumalabs.ai", "ats": "ashby", "board": "lumaai", "area": "Generative AI" },
-  { "company": "ElevenLabs", "domain": "elevenlabs.io", "ats": "ashby", "board": "elevenlabs", "area": "Generative AI" },
-  { "company": "Harvey", "domain": "harvey.ai", "ats": "ashby", "board": "harvey", "area": "Legal AI" },
-  { "company": "Glean", "domain": "glean.com", "ats": "ashby", "board": "glean", "area": "Enterprise AI" },
-  { "company": "Coda", "domain": "coda.io", "ats": "greenhouse", "board": "coda", "area": "Productivity" },
-  { "company": "Airtable", "domain": "airtable.com", "ats": "greenhouse", "board": "airtable", "area": "Productivity" },
-  { "company": "Asana", "domain": "asana.com", "ats": "greenhouse", "board": "asana", "area": "Project Management" },
-  { "company": "Brex", "domain": "brex.com", "ats": "greenhouse", "board": "brex", "area": "Fintech" },
-  { "company": "Robinhood", "domain": "robinhood.com", "ats": "greenhouse", "board": "robinhood", "area": "Fintech" },
-  { "company": "Plaid", "domain": "plaid.com", "ats": "greenhouse", "board": "plaid", "area": "Fintech" },
-  { "company": "Intercom", "domain": "intercom.com", "ats": "greenhouse", "board": "intercom", "area": "Enterprise AI" },
-  { "company": "HubSpot", "domain": "hubspot.com", "ats": "greenhouse", "board": "hubspot", "area": "Enterprise AI" },
-  { "company": "Duolingo", "domain": "duolingo.com", "ats": "greenhouse", "board": "duolingo", "area": "Consumer App" },
-  { "company": "Writer", "domain": "writer.com", "ats": "greenhouse", "board": "writer", "area": "Enterprise AI" },
-  { "company": "Jasper", "domain": "jasper.ai", "ats": "greenhouse", "board": "jasper", "area": "Enterprise AI" },
-  { "company": "Character AI", "domain": "character.ai", "ats": "ashby", "board": "character", "area": "AI Research" },
-  { "company": "Weights & Biases", "domain": "wandb.ai", "ats": "greenhouse", "board": "wandb", "area": "AI Infrastructure" },
-  { "company": "Together AI", "domain": "together.ai", "ats": "ashby", "board": "together", "area": "AI Infrastructure" }
+  {
+    "company": "Affirm",
+    "domain": "affirm.com",
+    "ats": "greenhouse",
+    "board": "affirm",
+    "area": "AI"
+  },
+  {
+    "company": "Airtable",
+    "domain": "airtable.com",
+    "ats": "greenhouse",
+    "board": "airtable",
+    "area": "Productivity"
+  },
+  {
+    "company": "Anthropic",
+    "domain": "anthropic.com",
+    "ats": "greenhouse",
+    "board": "anthropic",
+    "area": "AI Safety"
+  },
+  {
+    "company": "Appliedlabs",
+    "domain": "appliedlabs.ai",
+    "ats": "ashby",
+    "board": "appliedlabs",
+    "area": "AI"
+  },
+  {
+    "company": "Arizeai",
+    "domain": "arize.com",
+    "ats": "greenhouse",
+    "board": "arizeai",
+    "area": "AI"
+  },
+  {
+    "company": "Augmentcomputing",
+    "domain": "augmentcode.com",
+    "ats": "greenhouse",
+    "board": "augmentcomputing",
+    "area": "AI"
+  },
+  {
+    "company": "Benchling",
+    "domain": "benchling.com",
+    "ats": "ashby",
+    "board": "benchling",
+    "area": "AI"
+  },
+  {
+    "company": "Bloomreach",
+    "domain": "bloomreach.com",
+    "ats": "greenhouse",
+    "board": "bloomreach",
+    "area": "AI"
+  },
+  {
+    "company": "Braintrust",
+    "domain": "braintrust.dev",
+    "ats": "ashby",
+    "board": "braintrust",
+    "area": "AI"
+  },
+  {
+    "company": "Braze",
+    "domain": "braze.com",
+    "ats": "greenhouse",
+    "board": "braze",
+    "area": "AI"
+  },
+  {
+    "company": "Browserbase",
+    "domain": "browserbase.com",
+    "ats": "ashby",
+    "board": "browserbase",
+    "area": "AI"
+  },
+  {
+    "company": "Chime",
+    "domain": "chime.com",
+    "ats": "greenhouse",
+    "board": "chime",
+    "area": "AI"
+  },
+  {
+    "company": "Clay",
+    "domain": "clay.com",
+    "ats": "ashby",
+    "board": "claylabs",
+    "area": "AI"
+  },
+  {
+    "company": "ClickUp",
+    "domain": "lyft.com",
+    "ats": "ashby",
+    "board": "clickup",
+    "area": "AI"
+  },
+  {
+    "company": "Coframe",
+    "domain": "coframe.ai",
+    "ats": "ashby",
+    "board": "coframe",
+    "area": "AI"
+  },
+  {
+    "company": "Cohere",
+    "domain": "cohere.com",
+    "ats": "ashby",
+    "board": "cohere",
+    "area": "AI"
+  },
+  {
+    "company": "ComfyUI",
+    "domain": "comfy.org",
+    "ats": "ashby",
+    "board": "comfy-org",
+    "area": "AI"
+  },
+  {
+    "company": "Console",
+    "domain": "deepmind.google",
+    "ats": "ashby",
+    "board": "console",
+    "area": "AI"
+  },
+  {
+    "company": "Cresta",
+    "domain": "cresta.com",
+    "ats": "greenhouse",
+    "board": "cresta",
+    "area": "AI"
+  },
+  {
+    "company": "Deepgram",
+    "domain": "deepgram.com",
+    "ats": "ashby",
+    "board": "deepgram",
+    "area": "AI"
+  },
+  {
+    "company": "Deepmind",
+    "domain": "deepmind.google",
+    "ats": "greenhouse",
+    "board": "deepmind",
+    "area": "AI"
+  },
+  {
+    "company": "Descript",
+    "domain": "descript.com",
+    "ats": "greenhouse",
+    "board": "descript",
+    "area": "AI"
+  },
+  {
+    "company": "Doji",
+    "domain": "doji.art",
+    "ats": "ashby",
+    "board": "doji",
+    "area": "AI"
+  },
+  {
+    "company": "Education",
+    "domain": "udio.com",
+    "ats": "greenhouse",
+    "board": "education",
+    "area": "AI"
+  },
+  {
+    "company": "Ethena",
+    "domain": "sierra.ai",
+    "ats": "lever",
+    "board": "ethena",
+    "area": "AI"
+  },
+  {
+    "company": "Factory",
+    "domain": "factory.ai",
+    "ats": "ashby",
+    "board": "factory",
+    "area": "AI"
+  },
+  {
+    "company": "Faire",
+    "domain": "faire.com",
+    "ats": "greenhouse",
+    "board": "faire",
+    "area": "AI"
+  },
+  {
+    "company": "Figma",
+    "domain": "figma.com",
+    "ats": "greenhouse",
+    "board": "figma",
+    "area": "Design Tools"
+  },
+  {
+    "company": "Figureai",
+    "domain": "figure.ai",
+    "ats": "greenhouse",
+    "board": "figureai",
+    "area": "AI"
+  },
+  {
+    "company": "Fireworksai",
+    "domain": "fireworks.ai",
+    "ats": "greenhouse",
+    "board": "fireworksai",
+    "area": "AI"
+  },
+  {
+    "company": "FlutterFlow",
+    "domain": "flutterflow.io",
+    "ats": "ashby",
+    "board": "FlutterFlow",
+    "area": "AI"
+  },
+  {
+    "company": "Gigaenergy",
+    "domain": "sierra.ai",
+    "ats": "greenhouse",
+    "board": "gigaenergy",
+    "area": "AI"
+  },
+  {
+    "company": "Gigaml",
+    "domain": "hightouch.com",
+    "ats": "ashby",
+    "board": "gigaml",
+    "area": "AI"
+  },
+  {
+    "company": "Gleanwork",
+    "domain": "glean.com",
+    "ats": "greenhouse",
+    "board": "gleanwork",
+    "area": "AI"
+  },
+  {
+    "company": "Glossgenius",
+    "domain": "glossgenius.com",
+    "ats": "greenhouse",
+    "board": "glossgenius",
+    "area": "AI"
+  },
+  {
+    "company": "Gong",
+    "domain": "gong.io",
+    "ats": "greenhouse",
+    "board": "gongio",
+    "area": "AI"
+  },
+  {
+    "company": "Gusto",
+    "domain": "gusto.com",
+    "ats": "greenhouse",
+    "board": "gusto",
+    "area": "AI"
+  },
+  {
+    "company": "Harvey",
+    "domain": "harvey.ai",
+    "ats": "ashby",
+    "board": "harvey",
+    "area": "Legal AI"
+  },
+  {
+    "company": "Hightouch",
+    "domain": "hightouch.com",
+    "ats": "greenhouse",
+    "board": "hightouch",
+    "area": "AI"
+  },
+  {
+    "company": "Ideogram",
+    "domain": "ideogram.ai",
+    "ats": "ashby",
+    "board": "ideogram",
+    "area": "AI"
+  },
+  {
+    "company": "Infisical",
+    "domain": "infisical.com",
+    "ats": "ashby",
+    "board": "infisical",
+    "area": "AI"
+  },
+  {
+    "company": "Instrumentl",
+    "domain": "deepgram.com",
+    "ats": "lever",
+    "board": "Instrumentl",
+    "area": "AI"
+  },
+  {
+    "company": "Integrate",
+    "domain": "stripe.com",
+    "ats": "lever",
+    "board": "integrate",
+    "area": "AI"
+  },
+  {
+    "company": "Krea",
+    "domain": "krea.ai",
+    "ats": "ashby",
+    "board": "krea",
+    "area": "AI"
+  },
+  {
+    "company": "Linear",
+    "domain": "linear.app",
+    "ats": "ashby",
+    "board": "Linear",
+    "area": "Project Management"
+  },
+  {
+    "company": "Logrocket",
+    "domain": "logrocket.com",
+    "ats": "lever",
+    "board": "logrocket",
+    "area": "AI"
+  },
+  {
+    "company": "Lovable",
+    "domain": "lovable.dev",
+    "ats": "ashby",
+    "board": "lovable",
+    "area": "AI"
+  },
+  {
+    "company": "Lucidsoftware",
+    "domain": "lucid.app",
+    "ats": "greenhouse",
+    "board": "lucidsoftware",
+    "area": "AI"
+  },
+  {
+    "company": "Mercor",
+    "domain": "mercor.com",
+    "ats": "ashby",
+    "board": "mercor",
+    "area": "AI"
+  },
+  {
+    "company": "Mintlify",
+    "domain": "mintlify.com",
+    "ats": "ashby",
+    "board": "mintlify",
+    "area": "AI"
+  },
+  {
+    "company": "Netic",
+    "domain": "netic.ai",
+    "ats": "ashby",
+    "board": "netic",
+    "area": "AI"
+  },
+  {
+    "company": "Neuron7",
+    "domain": "openai.com",
+    "ats": "lever",
+    "board": "neuron7",
+    "area": "AI"
+  },
+  {
+    "company": "Noise Labs",
+    "domain": "noise.xyz",
+    "ats": "ashby",
+    "board": "noise-labs",
+    "area": "AI"
+  },
+  {
+    "company": "Notion",
+    "domain": "notion.so",
+    "ats": "ashby",
+    "board": "notion",
+    "area": "AI"
+  },
+  {
+    "company": "OpenAI",
+    "domain": "openai.com",
+    "ats": "ashby",
+    "board": "openai",
+    "area": "AI Research"
+  },
+  {
+    "company": "Palantir",
+    "domain": "palantir.com",
+    "ats": "lever",
+    "board": "palantir",
+    "area": "AI"
+  },
+  {
+    "company": "Pandektes",
+    "domain": "infisical.com",
+    "ats": "ashby",
+    "board": "pandektes",
+    "area": "AI"
+  },
+  {
+    "company": "Railway",
+    "domain": "railway.app",
+    "ats": "ashby",
+    "board": "railway",
+    "area": "AI"
+  },
+  {
+    "company": "Ramp",
+    "domain": "ramp.com",
+    "ats": "ashby",
+    "board": "ramp",
+    "area": "AI"
+  },
+  {
+    "company": "Reddit",
+    "domain": "reddit.com",
+    "ats": "greenhouse",
+    "board": "reddit",
+    "area": "AI"
+  },
+  {
+    "company": "Regscale",
+    "domain": "snowflake.com",
+    "ats": "greenhouse",
+    "board": "regscale",
+    "area": "AI"
+  },
+  {
+    "company": "Replit",
+    "domain": "replit.com",
+    "ats": "ashby",
+    "board": "replit",
+    "area": "AI"
+  },
+  {
+    "company": "Robinhood",
+    "domain": "robinhood.com",
+    "ats": "greenhouse",
+    "board": "robinhood",
+    "area": "Fintech"
+  },
+  {
+    "company": "Runway",
+    "domain": "runwayml.com",
+    "ats": "ashby",
+    "board": "runway-ml",
+    "area": "AI"
+  },
+  {
+    "company": "Scale AI",
+    "domain": "scale.com",
+    "ats": "greenhouse",
+    "board": "scaleai",
+    "area": "AI Infrastructure"
+  },
+  {
+    "company": "Semgrep",
+    "domain": "semgrep.com",
+    "ats": "ashby",
+    "board": "semgrep",
+    "area": "AI"
+  },
+  {
+    "company": "Sentry",
+    "domain": "sentry.io",
+    "ats": "ashby",
+    "board": "sentry",
+    "area": "AI"
+  },
+  {
+    "company": "Sierra",
+    "domain": "sierra.ai",
+    "ats": "ashby",
+    "board": "sierra",
+    "area": "AI"
+  },
+  {
+    "company": "Sigma Computing",
+    "domain": "sigmacomputing.com",
+    "ats": "greenhouse",
+    "board": "sigmacomputing",
+    "area": "AI"
+  },
+  {
+    "company": "Skio",
+    "domain": "glossgenius.com",
+    "ats": "lever",
+    "board": "skio",
+    "area": "AI"
+  },
+  {
+    "company": "Snowflake",
+    "domain": "snowflake.com",
+    "ats": "ashby",
+    "board": "snowflake",
+    "area": "AI"
+  },
+  {
+    "company": "Socket",
+    "domain": "socket.dev",
+    "ats": "ashby",
+    "board": "socket",
+    "area": "AI"
+  },
+  {
+    "company": "Stackblitz",
+    "domain": "bolt.new",
+    "ats": "greenhouse",
+    "board": "stackblitz",
+    "area": "AI"
+  },
+  {
+    "company": "Stytch",
+    "domain": "stytch.com",
+    "ats": "ashby",
+    "board": "stytch",
+    "area": "AI"
+  },
+  {
+    "company": "Suno",
+    "domain": "suno.com",
+    "ats": "ashby",
+    "board": "suno",
+    "area": "AI"
+  },
+  {
+    "company": "Supabase",
+    "domain": "supabase.com",
+    "ats": "ashby",
+    "board": "supabase",
+    "area": "AI"
+  },
+  {
+    "company": "Synthesia",
+    "domain": "synthesia.io",
+    "ats": "ashby",
+    "board": "synthesia",
+    "area": "AI"
+  },
+  {
+    "company": "Tessera Labs",
+    "domain": "zoox.com",
+    "ats": "ashby",
+    "board": "tessera-labs",
+    "area": "AI"
+  },
+  {
+    "company": "Together AI",
+    "domain": "together.ai",
+    "ats": "greenhouse",
+    "board": "togetherai",
+    "area": "AI"
+  },
+  {
+    "company": "Trellis",
+    "domain": "openai.com",
+    "ats": "lever",
+    "board": "trellis",
+    "area": "AI"
+  },
+  {
+    "company": "Trm Labs",
+    "domain": "cresta.com",
+    "ats": "ashby",
+    "board": "trm-labs",
+    "area": "AI"
+  },
+  {
+    "company": "Typeface",
+    "domain": "typeface.ai",
+    "ats": "greenhouse",
+    "board": "typeface",
+    "area": "AI"
+  },
+  {
+    "company": "Udio",
+    "domain": "udio.com",
+    "ats": "greenhouse",
+    "board": "udio",
+    "area": "AI"
+  },
+  {
+    "company": "Vercel",
+    "domain": "vercel.com",
+    "ats": "greenhouse",
+    "board": "vercel",
+    "area": "AI"
+  },
+  {
+    "company": "Xai",
+    "domain": "x.ai",
+    "ats": "greenhouse",
+    "board": "xai",
+    "area": "AI"
+  },
+  {
+    "company": "Zoox",
+    "domain": "zoox.com",
+    "ats": "lever",
+    "board": "zoox",
+    "area": "AI"
+  }
 ]

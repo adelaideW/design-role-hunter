@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "import-sources": "node scripts/import-ai-design-sources.mjs",
     "sync-jobs": "node scripts/sync-jobs.mjs",
     "sync-if-stale": "node scripts/sync-if-stale.mjs",
     "patch-job-areas": "node scripts/patch-job-areas.mjs",
@@ -18,7 +19,6 @@
     "react-dom": "^19.2.6"
   },
   "devDependencies": {
-    "playwright": "^1.52.0",
     "@eslint/js": "^10.0.1",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",

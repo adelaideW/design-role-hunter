@@ -1,20 +1,16 @@
 #!/usr/bin/env node
 /**
  * Build-time job sync for Role Hunter.
- * Fetches ATS boards + Built In SF listings, verifies URLs, writes src/data/jobs.json.
+ * Fetches design roles from public ATS APIs (Greenhouse, Ashby, Lever)
+ * aligned with https://ai-design-jobs.vercel.app/ — verifies URLs, writes JSON.
  */
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { chromium } from "playwright";
 import {
   applyCompanyAreas,
   dedupeJobs,
   fetchJobsForSource,
-  isDesignRole,
-  normalizeBuiltinJob,
-  resolveCompanyArea,
-  buildCompanyAreaLookup,
   sortJobs,
 } from "../src/lib/jobs.js";
 
@@ -27,11 +23,7 @@ const OUT_REPORT = path.join(__dirname, "sync-jobs-report.json");
 const OUT_PUBLIC_DIR = path.join(ROOT, "public/data/jobs");
 const PAGE_SIZE = 50;
 
-const BUILTIN_URL =
-  "https://www.builtinsf.com/jobs/remote/hybrid/office?search=product+designer&city=San+Francisco&state=California&country=USA&allLocations=true";
-
 const VERIFY_TIMEOUT_MS = 12_000;
-const MAX_BUILTIN_PAGES = 20;
 
 async function loadSources() {
   const raw = await fs.readFile(SOURCES_PATH, "utf8");
@@ -41,12 +33,11 @@ async function loadSources() {
 const TRUSTED_URL_HOSTS = [
   "greenhouse.io",
   "job-boards.greenhouse.io",
+  "boards.greenhouse.io",
   "ashbyhq.com",
   "jobs.ashbyhq.com",
   "lever.co",
   "jobs.lever.co",
-  "builtinsf.com",
-  "builtin.com",
 ];
 
 function isTrustedJobUrl(url) {
@@ -110,128 +101,6 @@ async function fetchAtsJobs(sources) {
   return { jobs, errors };
 }
 
-function parseBuiltinPosted(text) {
-  if (!text) return new Date().toISOString();
-  const lower = text.toLowerCase();
-  const now = new Date();
-  if (lower.includes("hour")) {
-    now.setHours(now.getHours() - 4);
-    return now.toISOString();
-  }
-  const dayMatch = lower.match(/(\d+)\s*day/);
-  if (dayMatch) {
-    now.setDate(now.getDate() - Number(dayMatch[1]));
-    return now.toISOString();
-  }
-  if (lower.includes("yesterday")) {
-    now.setDate(now.getDate() - 1);
-    return now.toISOString();
-  }
-  if (lower.includes("reposted")) {
-    const m = lower.match(/reposted\s+(\d+)/);
-    if (m) {
-      now.setDate(now.getDate() - Number(m[1]));
-      return now.toISOString();
-    }
-  }
-  return now.toISOString();
-}
-
-async function fetchBuiltinJobs(sources) {
-  const areaLookup = buildCompanyAreaLookup(sources);
-  const browser = await chromium.launch({ headless: true });
-  const page = await browser.newPage();
-  const collected = [];
-
-  try {
-    for (let pageNum = 0; pageNum < MAX_BUILTIN_PAGES; pageNum++) {
-      const pageUrl = `${BUILTIN_URL}&page=${pageNum + 1}`;
-      await page.goto(pageUrl, { waitUntil: "domcontentloaded", timeout: 60_000 });
-      await page.waitForTimeout(1200);
-
-      const batch = await page.evaluate(() => {
-        const results = [];
-        const links = document.querySelectorAll('a[href*="/job/"]');
-
-        const seen = new Set();
-        for (const link of links) {
-          const href = link.getAttribute("href");
-          if (!href || !href.includes("/job/")) continue;
-          const url = href.startsWith("http")
-            ? href
-            : `https://www.builtinsf.com${href.startsWith("/") ? href : `/${href}`}`;
-          if (seen.has(url)) continue;
-          seen.add(url);
-
-          let title =
-            link.querySelector("h2")?.textContent?.trim() ||
-            link.closest("h2")?.textContent?.trim() ||
-            link.textContent?.trim();
-          if (!title) continue;
-
-          const card =
-            link.closest('[data-id="job-card"]') ||
-            link.closest(".job-brief") ||
-            link.closest("article") ||
-            link.parentElement?.parentElement;
-
-          let company = "";
-          let location = "";
-          let postedText = "";
-
-          if (card) {
-            const companyEl =
-              card.querySelector('[data-id="company-title"]') ||
-              card.querySelector(".company-title") ||
-              card.querySelector("h3");
-            company = companyEl?.textContent?.trim() || "";
-            const locEl =
-              card.querySelector('[data-id="job-location"]') ||
-              card.querySelector(".job-location");
-            location = locEl?.textContent?.trim() || "";
-            const timeEl = card.querySelector("time");
-            postedText = timeEl?.textContent?.trim() || "";
-          }
-
-          if (!company) {
-            const img = card?.querySelector("img[alt]");
-            if (img?.alt) company = img.alt.replace(/ logo$/i, "").trim();
-          }
-
-          results.push({ title, company, location, url, postedText });
-        }
-        return results;
-      });
-
-      for (const row of batch) {
-        if (!isDesignRole(row.title)) continue;
-        const company = row.company || "Unknown";
-        const domain = company
-          .toLowerCase()
-          .replace(/[^a-z0-9]+/g, "")
-          .concat(".com");
-        const job = normalizeBuiltinJob({
-          company,
-          domain,
-          role: row.title,
-          location: row.location || "San Francisco, CA, USA",
-          area: resolveCompanyArea(company, areaLookup),
-          url: row.url,
-          postedAt: parseBuiltinPosted(row.postedText),
-        });
-        if (job) collected.push(job);
-      }
-
-      // Stop early when listing pages run out of job links.
-      if (batch.length < 10) break;
-    }
-  } finally {
-    await browser.close();
-  }
-
-  return dedupeJobs(collected);
-}
-
 async function filterVerified(jobs) {
   const verified = [];
   const dropped = [];
@@ -267,16 +136,7 @@ async function main() {
   const { jobs: atsJobs, errors: atsErrors } = await fetchAtsJobs(sources);
   console.log(`ATS: ${atsJobs.length} design roles from ${sources.length} companies`);
 
-  let builtinJobs = [];
-  try {
-    builtinJobs = await fetchBuiltinJobs(sources);
-    console.log(`Built In: ${builtinJobs.length} design roles`);
-  } catch (err) {
-    console.warn("Built In scrape failed:", err.message);
-    atsErrors.push({ source: "builtin", error: String(err.message) });
-  }
-
-  const merged = dedupeJobs([...atsJobs, ...builtinJobs]);
+  const merged = dedupeJobs(atsJobs);
   const withCompanyAreas = applyCompanyAreas(merged, sources);
   console.log(`Merged: ${withCompanyAreas.length} unique roles — verifying URLs…`);
 
@@ -295,12 +155,18 @@ async function main() {
       JSON.stringify(page, null, 2) + "\n",
     );
   }
+  const existingPages = await fs.readdir(OUT_PUBLIC_DIR);
+  for (const name of existingPages) {
+    const m = name.match(/^page-(\d+)\.json$/);
+    if (m && Number(m[1]) > pageCount) {
+      await fs.unlink(path.join(OUT_PUBLIC_DIR, name));
+    }
+  }
 
   const meta = {
     generatedAt: new Date().toISOString(),
     counts: {
       ats: atsJobs.length,
-      builtin: builtinJobs.length,
       merged: merged.length,
       verified: sorted.length,
       dropped: dropped.length,

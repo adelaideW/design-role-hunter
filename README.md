@@ -1,16 +1,29 @@
-# React + Vite
+# Role Hunter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Design job listings and mock interview practice — [live on Vercel](https://design-challenge-liart.vercel.app/).
 
-Currently, two official plugins are available:
+## Data sources
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Job listings are synced from public ATS APIs (Greenhouse, Ashby, Lever), aligned with [ai-design-jobs.vercel.app](https://ai-design-jobs.vercel.app/). The company board list is derived from that reference site’s apply links.
 
-## React Compiler
+| Script | Purpose |
+|--------|---------|
+| `npm run import-sources` | Refresh `scripts/job-sources.json` from ai-design-jobs |
+| `npm run sync-jobs` | Fetch design roles from ATS boards, write `public/data/jobs/` |
+| `npm run sync-if-stale` | Run sync only if data is older than 24 hours (used in `prebuild`) |
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Daily updates run via GitHub Actions (`.github/workflows/sync-jobs.yml`).
 
-## Expanding the ESLint configuration
+## Development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+Build runs `sync-if-stale` then Vite:
+
+```bash
+npm run build
+npm run preview
+```
