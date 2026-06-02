@@ -42,6 +42,13 @@
     "area": "AI"
   },
   {
+    "company": "Auxia",
+    "domain": "hex.tech",
+    "ats": "lever",
+    "board": "auxia",
+    "area": "AI"
+  },
+  {
     "company": "Benchling",
     "domain": "benchling.com",
     "ats": "ashby",
@@ -92,7 +99,7 @@
   },
   {
     "company": "ClickUp",
-    "domain": "lyft.com",
+    "domain": "clickup.com",
     "ats": "ashby",
     "board": "clickup",
     "area": "AI"
@@ -168,13 +175,6 @@
     "area": "AI"
   },
   {
-    "company": "Ethena",
-    "domain": "sierra.ai",
-    "ats": "lever",
-    "board": "ethena",
-    "area": "AI"
-  },
-  {
     "company": "Factory",
     "domain": "factory.ai",
     "ats": "ashby",
@@ -186,6 +186,13 @@
     "domain": "faire.com",
     "ats": "greenhouse",
     "board": "faire",
+    "area": "AI"
+  },
+  {
+    "company": "Fampay",
+    "domain": "asana.com",
+    "ats": "lever",
+    "board": "fampay",
     "area": "AI"
   },
   {
@@ -273,6 +280,13 @@
     "area": "AI"
   },
   {
+    "company": "Hiive",
+    "domain": "openai.com",
+    "ats": "ashby",
+    "board": "hiive",
+    "area": "AI"
+  },
+  {
     "company": "Ideogram",
     "domain": "ideogram.ai",
     "ats": "ashby",
@@ -354,13 +368,6 @@
     "domain": "netic.ai",
     "ats": "ashby",
     "board": "netic",
-    "area": "AI"
-  },
-  {
-    "company": "Neuron7",
-    "domain": "openai.com",
-    "ats": "lever",
-    "board": "neuron7",
     "area": "AI"
   },
   {
@@ -532,6 +539,13 @@
     "area": "AI"
   },
   {
+    "company": "Super.com",
+    "domain": "sigmacomputing.com",
+    "ats": "ashby",
+    "board": "super.com",
+    "area": "AI"
+  },
+  {
     "company": "Synthesia",
     "domain": "synthesia.io",
     "ats": "ashby",
@@ -560,13 +574,6 @@
     "area": "AI"
   },
   {
-    "company": "Trm Labs",
-    "domain": "cresta.com",
-    "ats": "ashby",
-    "board": "trm-labs",
-    "area": "AI"
-  },
-  {
     "company": "Typeface",
     "domain": "typeface.ai",
     "ats": "greenhouse",
@@ -585,6 +592,13 @@
     "domain": "vercel.com",
     "ats": "greenhouse",
     "board": "vercel",
+    "area": "AI"
+  },
+  {
+    "company": "Wisecode",
+    "domain": "together.ai",
+    "ats": "lever",
+    "board": "wisecode",
     "area": "AI"
   },
   {
