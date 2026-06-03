@@ -127,7 +127,7 @@
   },
   {
     "company": "Console",
-    "domain": "deepmind.google",
+    "domain": "chime.com",
     "ats": "ashby",
     "board": "console",
     "area": "AI"
@@ -154,13 +154,6 @@
     "area": "AI"
   },
   {
-    "company": "Descript",
-    "domain": "descript.com",
-    "ats": "greenhouse",
-    "board": "descript",
-    "area": "AI"
-  },
-  {
     "company": "Doji",
     "domain": "doji.art",
     "ats": "ashby",
@@ -175,6 +168,13 @@
     "area": "AI"
   },
   {
+    "company": "Ethena",
+    "domain": "sierra.ai",
+    "ats": "lever",
+    "board": "ethena",
+    "area": "AI"
+  },
+  {
     "company": "Factory",
     "domain": "factory.ai",
     "ats": "ashby",
@@ -186,13 +186,6 @@
     "domain": "faire.com",
     "ats": "greenhouse",
     "board": "faire",
-    "area": "AI"
-  },
-  {
-    "company": "Fampay",
-    "domain": "asana.com",
-    "ats": "lever",
-    "board": "fampay",
     "area": "AI"
   },
   {
@@ -284,13 +277,6 @@
     "domain": "openai.com",
     "ats": "ashby",
     "board": "hiive",
-    "area": "AI"
-  },
-  {
-    "company": "Ideogram",
-    "domain": "ideogram.ai",
-    "ats": "ashby",
-    "board": "ideogram",
     "area": "AI"
   },
   {
@@ -406,6 +392,13 @@
     "area": "AI"
   },
   {
+    "company": "Perplexity",
+    "domain": "perplexity.ai",
+    "ats": "ashby",
+    "board": "perplexity",
+    "area": "AI"
+  },
+  {
     "company": "Railway",
     "domain": "railway.app",
     "ats": "ashby",
@@ -487,13 +480,6 @@
     "domain": "sigmacomputing.com",
     "ats": "greenhouse",
     "board": "sigmacomputing",
-    "area": "AI"
-  },
-  {
-    "company": "Skio",
-    "domain": "glossgenius.com",
-    "ats": "lever",
-    "board": "skio",
     "area": "AI"
   },
   {
