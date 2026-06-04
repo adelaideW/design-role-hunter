@@ -105,6 +105,13 @@
     "area": "AI"
   },
   {
+    "company": "Clozd",
+    "domain": "infisical.com",
+    "ats": "lever",
+    "board": "Clozd",
+    "area": "AI"
+  },
+  {
     "company": "Coframe",
     "domain": "coframe.ai",
     "ats": "ashby",
@@ -123,13 +130,6 @@
     "domain": "comfy.org",
     "ats": "ashby",
     "board": "comfy-org",
-    "area": "AI"
-  },
-  {
-    "company": "Console",
-    "domain": "chime.com",
-    "ats": "ashby",
-    "board": "console",
     "area": "AI"
   },
   {
@@ -168,10 +168,10 @@
     "area": "AI"
   },
   {
-    "company": "Ethena",
-    "domain": "sierra.ai",
+    "company": "Eliyan",
+    "domain": "deepgram.com",
     "ats": "lever",
-    "board": "ethena",
+    "board": "eliyan",
     "area": "AI"
   },
   {
@@ -273,10 +273,10 @@
     "area": "AI"
   },
   {
-    "company": "Hiive",
-    "domain": "openai.com",
+    "company": "Ideogram",
+    "domain": "ideogram.ai",
     "ats": "ashby",
-    "board": "hiive",
+    "board": "ideogram",
     "area": "AI"
   },
   {
@@ -288,16 +288,9 @@
   },
   {
     "company": "Instrumentl",
-    "domain": "deepgram.com",
+    "domain": "instrumentl.com",
     "ats": "lever",
     "board": "Instrumentl",
-    "area": "AI"
-  },
-  {
-    "company": "Integrate",
-    "domain": "stripe.com",
-    "ats": "lever",
-    "board": "integrate",
     "area": "AI"
   },
   {
@@ -329,13 +322,6 @@
     "area": "AI"
   },
   {
-    "company": "Lucidsoftware",
-    "domain": "lucid.app",
-    "ats": "greenhouse",
-    "board": "lucidsoftware",
-    "area": "AI"
-  },
-  {
     "company": "Mercor",
     "domain": "mercor.com",
     "ats": "ashby",
@@ -354,6 +340,13 @@
     "domain": "netic.ai",
     "ats": "ashby",
     "board": "netic",
+    "area": "AI"
+  },
+  {
+    "company": "Neye Systems Inc.",
+    "domain": "openai.com",
+    "ats": "lever",
+    "board": "neye-systems-inc.",
     "area": "AI"
   },
   {
@@ -386,7 +379,7 @@
   },
   {
     "company": "Pandektes",
-    "domain": "infisical.com",
+    "domain": "pandektes.com",
     "ats": "ashby",
     "board": "pandektes",
     "area": "AI"
