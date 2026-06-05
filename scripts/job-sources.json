@@ -42,13 +42,6 @@
     "area": "AI"
   },
   {
-    "company": "Auxia",
-    "domain": "hex.tech",
-    "ats": "lever",
-    "board": "auxia",
-    "area": "AI"
-  },
-  {
     "company": "Benchling",
     "domain": "benchling.com",
     "ats": "ashby",
@@ -84,6 +77,13 @@
     "area": "AI"
   },
   {
+    "company": "Buildkite",
+    "domain": "buildkite.com",
+    "ats": "greenhouse",
+    "board": "buildkite",
+    "area": "AI"
+  },
+  {
     "company": "Chime",
     "domain": "chime.com",
     "ats": "greenhouse",
@@ -102,6 +102,13 @@
     "domain": "clickup.com",
     "ats": "ashby",
     "board": "clickup",
+    "area": "AI"
+  },
+  {
+    "company": "Cloudflare",
+    "domain": "cloudflare.com",
+    "ats": "greenhouse",
+    "board": "cloudflare",
     "area": "AI"
   },
   {
@@ -130,6 +137,13 @@
     "domain": "comfy.org",
     "ats": "ashby",
     "board": "comfy-org",
+    "area": "AI"
+  },
+  {
+    "company": "Contentful",
+    "domain": "contentful.com",
+    "ats": "greenhouse",
+    "board": "contentful",
     "area": "AI"
   },
   {
@@ -413,13 +427,6 @@
     "area": "AI"
   },
   {
-    "company": "Regscale",
-    "domain": "snowflake.com",
-    "ats": "greenhouse",
-    "board": "regscale",
-    "area": "AI"
-  },
-  {
     "company": "Replit",
     "domain": "replit.com",
     "ats": "ashby",
@@ -529,6 +536,13 @@
     "domain": "synthesia.io",
     "ats": "ashby",
     "board": "synthesia",
+    "area": "AI"
+  },
+  {
+    "company": "Taxbit",
+    "domain": "openai.com",
+    "ats": "greenhouse",
+    "board": "taxbit",
     "area": "AI"
   },
   {
