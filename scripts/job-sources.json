@@ -35,6 +35,13 @@
     "area": "AI"
   },
   {
+    "company": "Ashby",
+    "domain": "chime.com",
+    "ats": "ashby",
+    "board": "ashby",
+    "area": "AI"
+  },
+  {
     "company": "Augmentcomputing",
     "domain": "augmentcode.com",
     "ats": "greenhouse",
@@ -182,13 +189,6 @@
     "area": "AI"
   },
   {
-    "company": "Eliyan",
-    "domain": "deepgram.com",
-    "ats": "lever",
-    "board": "eliyan",
-    "area": "AI"
-  },
-  {
     "company": "Factory",
     "domain": "factory.ai",
     "ats": "ashby",
@@ -302,7 +302,7 @@
   },
   {
     "company": "Instrumentl",
-    "domain": "instrumentl.com",
+    "domain": "deepgram.com",
     "ats": "lever",
     "board": "Instrumentl",
     "area": "AI"
@@ -340,13 +340,6 @@
     "domain": "mercor.com",
     "ats": "ashby",
     "board": "mercor",
-    "area": "AI"
-  },
-  {
-    "company": "Mintlify",
-    "domain": "mintlify.com",
-    "ats": "ashby",
-    "board": "mintlify",
     "area": "AI"
   },
   {
