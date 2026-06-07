@@ -476,6 +476,13 @@
     "area": "AI"
   },
   {
+    "company": "Skio",
+    "domain": "glossgenius.com",
+    "ats": "lever",
+    "board": "skio",
+    "area": "AI"
+  },
+  {
     "company": "Snowflake",
     "domain": "snowflake.com",
     "ats": "ashby",
@@ -529,13 +536,6 @@
     "domain": "synthesia.io",
     "ats": "ashby",
     "board": "synthesia",
-    "area": "AI"
-  },
-  {
-    "company": "Taxbit",
-    "domain": "openai.com",
-    "ats": "greenhouse",
-    "board": "taxbit",
     "area": "AI"
   },
   {
