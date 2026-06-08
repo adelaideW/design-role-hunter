@@ -1,5 +1,65 @@
 [
   {
+    "id": 1668430718,
+    "company": "Sigma Computing",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=sigmacomputing.com",
+    "role": "Senior Product Designer, AI",
+    "location": "San Francisco, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7747569003",
+    "postedAt": "2026-05-25T00:16:44-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 290438846,
+    "company": "Super.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=sigmacomputing.com",
+    "role": "Product Designer II, Core Experiences",
+    "location": "United States",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/super.com/94c0bd48-9e5a-43aa-b797-d082c8c2e530",
+    "postedAt": "2026-05-22T21:50:55.557+00:00",
+    "postedDays": 16,
+    "source": "ashby"
+  },
+  {
+    "id": 906651556,
+    "company": "Anthropic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Head of Copy & Content, Creative Studio",
+    "location": "New York City, NY; San Francisco, CA",
+    "area": "AI Safety",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5118172008",
+    "postedAt": "2026-05-21T12:19:31-04:00",
+    "postedDays": 18,
+    "source": "greenhouse"
+  },
+  {
+    "id": 854187044,
+    "company": "Hightouch",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hightouch.com",
+    "role": "AI Creative Designer, Ads",
+    "location": "Remote, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5982446004",
+    "postedAt": "2026-05-20T16:23:30-04:00",
+    "postedDays": 18,
+    "source": "greenhouse"
+  },
+  {
+    "id": 364839949,
+    "company": "Hightouch",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hightouch.com",
+    "role": "Brand Designer",
+    "location": "Remote (North America)",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5823458004",
+    "postedAt": "2026-05-20T16:23:29-04:00",
+    "postedDays": 18,
+    "source": "greenhouse"
+  },
+  {
     "id": 1780546466,
     "company": "Synthesia",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=synthesia.io",
@@ -8,20 +68,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/1dbcb20a-3701-4ccb-830f-745e85c31ef7",
     "postedAt": "2026-05-20T18:18:33.489+00:00",
-    "postedDays": 17,
-    "source": "ashby"
-  },
-  {
-    "id": 1444430562,
-    "company": "Gleanwork",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=glean.com",
-    "role": "Product Designer, AI Products",
-    "location": "Mountain View, CA",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696058005",
-    "postedAt": "2026-05-19T15:52:27-04:00",
     "postedDays": 18,
-    "source": "greenhouse"
+    "source": "ashby"
   },
   {
     "id": 391310247,
@@ -32,7 +80,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4577381005",
     "postedAt": "2026-05-19T15:51:43-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1444430562,
+    "company": "Gleanwork",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=glean.com",
+    "role": "Product Designer, AI Products",
+    "location": "Mountain View, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696058005",
+    "postedAt": "2026-05-19T15:52:27-04:00",
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -44,7 +104,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4600865005",
     "postedAt": "2026-05-19T15:50:14-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -56,7 +116,7 @@
     "area": "AI Safety",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
     "postedAt": "2026-05-18T23:20:35-04:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "greenhouse"
   },
   {
@@ -68,7 +128,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002",
     "postedAt": "2026-05-18T13:43:37-04:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "greenhouse"
   },
   {
@@ -80,7 +140,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/Clozd/0f604b31-8490-4886-9da2-13b7610d47fa",
     "postedAt": "2026-05-18T18:04:53.030Z",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "lever"
   },
   {
@@ -92,7 +152,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gongio/jobs/4681397006",
     "postedAt": "2026-05-19T05:58:12-04:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "greenhouse"
   },
   {
@@ -104,19 +164,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/infisical/361a7451-0cfe-491e-b07a-80eac6e29a43",
     "postedAt": "2026-05-18T20:43:41.422+00:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "ashby"
   },
   {
-    "id": 389963979,
-    "company": "Pandektes",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=pandektes.com",
-    "role": "Senior Product Designer",
-    "location": "Copenhagen",
+    "id": 1667614296,
+    "company": "Sierra",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=sierra.ai",
+    "role": "Product Designer",
+    "location": "San Francisco, CA",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/pandektes/e8b0ad19-66b7-4e1c-b5cf-3d6346009d19",
-    "postedAt": "2026-05-18T15:10:27.639+00:00",
-    "postedDays": 20,
+    "url": "https://jobs.ashbyhq.com/sierra/ba780c1d-ebd7-45b8-8c99-12666af5bfa3",
+    "postedAt": "2026-05-15T23:00:57.287+00:00",
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -128,31 +188,7 @@
     "area": "AI Safety",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116771008",
     "postedAt": "2026-05-15T12:39:48-04:00",
-    "postedDays": 22,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1667614296,
-    "company": "Sierra",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=sierra.ai",
-    "role": "Product Designer",
-    "location": "San Francisco, CA",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/sierra/ba780c1d-ebd7-45b8-8c99-12666af5bfa3",
-    "postedAt": "2026-05-15T23:00:57.287+00:00",
-    "postedDays": 22,
-    "source": "ashby"
-  },
-  {
-    "id": 1174536129,
-    "company": "Anthropic",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
-    "role": "Product Designer, Claude Code",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "area": "AI Safety",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5104689008",
-    "postedAt": "2026-05-14T12:36:26-04:00",
-    "postedDays": 23,
+    "postedDays": 24,
     "source": "greenhouse"
   },
   {
@@ -164,8 +200,20 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8375225002?gh_jid=8375225002",
     "postedAt": "2026-05-14T20:55:20-04:00",
-    "postedDays": 23,
+    "postedDays": 24,
     "source": "greenhouse"
+  },
+  {
+    "id": 2023180839,
+    "company": "Ethena",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=glean.com",
+    "role": "Principal Product Designer",
+    "location": "Remote",
+    "area": "AI",
+    "url": "https://jobs.lever.co/ethena/448fe98a-0075-4615-8a78-3c059aedccc5",
+    "postedAt": "2026-05-14T22:43:27.479Z",
+    "postedDays": 24,
+    "source": "lever"
   },
   {
     "id": 1546693325,
@@ -176,55 +224,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4389568005",
     "postedAt": "2026-05-14T15:35:24-04:00",
-    "postedDays": 23,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1297392988,
-    "company": "Bloomreach",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=bloomreach.com",
-    "role": "Conversational AI UX Designer",
-    "location": "Czechia",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/bloomreach/jobs/7820226",
-    "postedAt": "2026-05-14T05:30:28-04:00",
     "postedDays": 24,
     "source": "greenhouse"
   },
   {
-    "id": 574461847,
-    "company": "Bloomreach",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=bloomreach.com",
-    "role": "Conversational AI UX Designer",
-    "location": "United Kingdom",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/bloomreach/jobs/7820227",
-    "postedAt": "2026-05-14T05:30:28-04:00",
-    "postedDays": 24,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1148361,
-    "company": "Glossgenius",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=glossgenius.com",
-    "role": "Staff Product Designer",
-    "location": "Hybrid - New York City",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7580118003",
-    "postedAt": "2026-05-13T11:30:40-04:00",
-    "postedDays": 24,
-    "source": "greenhouse"
-  },
-  {
-    "id": 867558748,
-    "company": "Glossgenius",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=glossgenius.com",
-    "role": "Staff Product Designer",
-    "location": "Hybrid - San Francisco",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7728313003",
-    "postedAt": "2026-05-13T11:30:53-04:00",
-    "postedDays": 24,
+    "id": 1174536129,
+    "company": "Anthropic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Product Designer, Claude Code",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "area": "AI Safety",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5104689008",
+    "postedAt": "2026-05-14T12:36:26-04:00",
+    "postedDays": 25,
     "source": "greenhouse"
   },
   {
@@ -236,7 +248,43 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/tessera-labs/742eb648-a305-4da8-90fa-6d3af8e16f8d",
     "postedAt": "2026-05-13T22:30:48.154+00:00",
-    "postedDays": 24,
+    "postedDays": 25,
+    "source": "ashby"
+  },
+  {
+    "id": 1148361,
+    "company": "Glossgenius",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=glossgenius.com",
+    "role": "Staff Product Designer",
+    "location": "Hybrid - New York City",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7580118003",
+    "postedAt": "2026-05-13T11:30:40-04:00",
+    "postedDays": 26,
+    "source": "greenhouse"
+  },
+  {
+    "id": 867558748,
+    "company": "Glossgenius",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=glossgenius.com",
+    "role": "Staff Product Designer",
+    "location": "Hybrid - San Francisco",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7728313003",
+    "postedAt": "2026-05-13T11:30:53-04:00",
+    "postedDays": 26,
+    "source": "greenhouse"
+  },
+  {
+    "id": 2070913735,
+    "company": "Harvey",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
+    "role": "Staff Product Designer",
+    "location": "Toronto",
+    "area": "Legal AI",
+    "url": "https://jobs.ashbyhq.com/harvey/7325a214-908d-48a4-bbc2-f5c3a6c9ed00",
+    "postedAt": "2026-05-12T18:15:49.040+00:00",
+    "postedDays": 26,
     "source": "ashby"
   },
   {
@@ -248,20 +296,8 @@
     "area": "AI",
     "url": "https://jobs.lever.co/wisecode/83c3ce33-ad80-4c5b-a128-c55639d74620",
     "postedAt": "2026-05-13T17:13:49.003Z",
-    "postedDays": 24,
+    "postedDays": 26,
     "source": "lever"
-  },
-  {
-    "id": 2070913735,
-    "company": "Harvey",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
-    "role": "Staff Product Designer",
-    "location": "Toronto",
-    "area": "Legal AI",
-    "url": "https://jobs.ashbyhq.com/harvey/7325a214-908d-48a4-bbc2-f5c3a6c9ed00",
-    "postedAt": "2026-05-12T18:15:49.040+00:00",
-    "postedDays": 25,
-    "source": "ashby"
   },
   {
     "id": 1939210058,
@@ -272,7 +308,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/deepgram/00fd8024-7804-4278-a38b-c9d60d929dbb",
     "postedAt": "2026-05-12T11:43:14.119+00:00",
-    "postedDays": 26,
+    "postedDays": 27,
     "source": "ashby"
   },
   {
@@ -284,7 +320,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/deepmind/jobs/7913506",
     "postedAt": "2026-05-12T06:49:04-04:00",
-    "postedDays": 26,
+    "postedDays": 27,
     "source": "greenhouse"
   },
   {
@@ -296,19 +332,19 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
     "postedAt": "2026-05-12T05:16:38-04:00",
-    "postedDays": 26,
+    "postedDays": 27,
     "source": "greenhouse"
   },
   {
     "id": 1251269932,
     "company": "Instrumentl",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=deepgram.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=instrumentl.com",
     "role": "Senior Product Designer",
     "location": "Remote - USA",
     "area": "AI",
     "url": "https://jobs.lever.co/Instrumentl/ad8ecbe7-dbc1-474c-92f0-4fbf3ea4d9fd",
     "postedAt": "2026-05-11T22:00:21.810Z",
-    "postedDays": 26,
+    "postedDays": 27,
     "source": "lever"
   },
   {
@@ -320,7 +356,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/udio/jobs/5071142008",
     "postedAt": "2026-05-12T01:00:55-04:00",
-    "postedDays": 26,
+    "postedDays": 27,
     "source": "greenhouse"
   },
   {
@@ -332,7 +368,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8525321002?gh_jid=8525321002",
     "postedAt": "2026-05-07T18:49:22-04:00",
-    "postedDays": 30,
+    "postedDays": 31,
     "source": "greenhouse"
   },
   {
@@ -344,7 +380,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gigaenergy/jobs/5115866008",
     "postedAt": "2026-05-08T11:12:33-04:00",
-    "postedDays": 30,
+    "postedDays": 31,
     "source": "greenhouse"
   },
   {
@@ -356,7 +392,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/togetherai/jobs/5062829007",
     "postedAt": "2026-05-07T18:46:42-04:00",
-    "postedDays": 30,
+    "postedDays": 31,
     "source": "greenhouse"
   },
   {
@@ -368,7 +404,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7640344",
     "postedAt": "2026-05-06T14:20:21-04:00",
-    "postedDays": 31,
+    "postedDays": 32,
     "source": "greenhouse"
   },
   {
@@ -380,7 +416,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7676166",
     "postedAt": "2026-05-06T15:25:11-04:00",
-    "postedDays": 31,
+    "postedDays": 32,
     "source": "greenhouse"
   },
   {
@@ -392,7 +428,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7514758",
     "postedAt": "2026-05-06T14:11:07-04:00",
-    "postedDays": 31,
+    "postedDays": 32,
     "source": "greenhouse"
   },
   {
@@ -404,7 +440,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/faire/jobs/8445630002?gh_jid=8445630002",
     "postedAt": "2026-05-05T20:07:13-04:00",
-    "postedDays": 32,
+    "postedDays": 33,
     "source": "greenhouse"
   },
   {
@@ -416,7 +452,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/faire/jobs/8445628002?gh_jid=8445628002",
     "postedAt": "2026-05-05T20:07:55-04:00",
-    "postedDays": 32,
+    "postedDays": 33,
     "source": "greenhouse"
   },
   {
@@ -428,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef",
     "postedAt": "2026-05-05T19:12:59.981+00:00",
-    "postedDays": 32,
+    "postedDays": 33,
     "source": "ashby"
   },
   {
@@ -440,7 +476,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/6b7837b7-72ec-46a3-9b21-74c1dfa997b6",
     "postedAt": "2026-05-05T19:39:17.165+00:00",
-    "postedDays": 32,
+    "postedDays": 33,
     "source": "ashby"
   },
   {
@@ -452,20 +488,8 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004",
     "postedAt": "2026-05-04T12:26:28-04:00",
-    "postedDays": 33,
+    "postedDays": 35,
     "source": "greenhouse"
-  },
-  {
-    "id": 378474501,
-    "company": "ClickUp",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=clickup.com",
-    "role": "Senior Product Designer",
-    "location": "United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clickup/58dbdf8d-045c-478e-9c6f-56dce9b8f90e",
-    "postedAt": "2026-04-30T18:07:46.746+00:00",
-    "postedDays": 37,
-    "source": "ashby"
   },
   {
     "id": 939596811,
@@ -476,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/super.com/9a81411b-dafe-4a3a-80c3-b2432a8a4fcb",
     "postedAt": "2026-04-30T18:48:48.783+00:00",
-    "postedDays": 37,
+    "postedDays": 38,
     "source": "ashby"
   },
   {
@@ -488,7 +512,7 @@
     "area": "Project Management",
     "url": "https://jobs.ashbyhq.com/Linear/ba8a41d2-4198-481a-a7f4-e09c5364ff7f",
     "postedAt": "2026-04-29T18:16:36.164+00:00",
-    "postedDays": 38,
+    "postedDays": 39,
     "source": "ashby"
   },
   {
@@ -500,7 +524,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/f16a63d9-4418-4ad3-b7e9-003e0bd1f051",
     "postedAt": "2026-04-29T23:18:57.616+00:00",
-    "postedDays": 38,
+    "postedDays": 39,
+    "source": "ashby"
+  },
+  {
+    "id": 1691936524,
+    "company": "Factory",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=factory.ai",
+    "role": "Product Designer",
+    "location": "San Francisco, CA",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/factory/7a1dde6b-0d7c-45c8-a374-66e9f8aa0d1a",
+    "postedAt": "2026-04-28T20:54:00.510+00:00",
+    "postedDays": 40,
     "source": "ashby"
   },
   {
@@ -512,20 +548,8 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7711523003",
     "postedAt": "2026-04-28T12:15:53-04:00",
-    "postedDays": 39,
+    "postedDays": 41,
     "source": "greenhouse"
-  },
-  {
-    "id": 1691936524,
-    "company": "Factory",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=factory.ai",
-    "role": "Product Designer",
-    "location": "San Francisco, CA",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/factory/7a1dde6b-0d7c-45c8-a374-66e9f8aa0d1a",
-    "postedAt": "2026-04-28T20:54:00.510+00:00",
-    "postedDays": 39,
-    "source": "ashby"
   },
   {
     "id": 1821487682,
@@ -536,7 +560,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/gigaml/c0d9a6fd-47db-43d1-a322-2d6b7a03a501",
     "postedAt": "2026-04-25T00:27:41.622+00:00",
-    "postedDays": 43,
+    "postedDays": 44,
     "source": "ashby"
   },
   {
@@ -548,7 +572,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7711527003",
     "postedAt": "2026-04-23T13:54:10-04:00",
-    "postedDays": 44,
+    "postedDays": 45,
     "source": "greenhouse"
   },
   {
@@ -560,7 +584,7 @@
     "area": "Project Management",
     "url": "https://jobs.ashbyhq.com/Linear/a264869e-f058-487c-ab7f-9b77dffa427c",
     "postedAt": "2026-04-23T21:39:39.618+00:00",
-    "postedDays": 44,
+    "postedDays": 45,
     "source": "ashby"
   },
   {
@@ -572,31 +596,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7605936003",
     "postedAt": "2026-04-22T18:08:15-04:00",
-    "postedDays": 45,
+    "postedDays": 46,
     "source": "greenhouse"
-  },
-  {
-    "id": 1601975676,
-    "company": "Browserbase",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=browserbase.com",
-    "role": "Web Designer (Marketing)",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/browserbase/76fd6544-23a6-4371-a8fc-8de760ed9304",
-    "postedAt": "2026-04-23T00:29:24.693+00:00",
-    "postedDays": 45,
-    "source": "ashby"
-  },
-  {
-    "id": 1902973672,
-    "company": "Clay",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=clay.com",
-    "role": "Product Designer, Growth",
-    "location": "New York",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/claylabs/a284a622-0736-4558-be7a-76434f0dd147",
-    "postedAt": "2026-04-22T21:21:09.451+00:00",
-    "postedDays": 45,
-    "source": "ashby"
   }
 ]

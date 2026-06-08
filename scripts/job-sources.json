@@ -189,6 +189,20 @@
     "area": "AI"
   },
   {
+    "company": "Eliyan",
+    "domain": "deepgram.com",
+    "ats": "lever",
+    "board": "eliyan",
+    "area": "AI"
+  },
+  {
+    "company": "Ethena",
+    "domain": "glean.com",
+    "ats": "lever",
+    "board": "ethena",
+    "area": "AI"
+  },
+  {
     "company": "Factory",
     "domain": "factory.ai",
     "ats": "ashby",
@@ -287,6 +301,13 @@
     "area": "AI"
   },
   {
+    "company": "Hiive",
+    "domain": "chime.com",
+    "ats": "ashby",
+    "board": "hiive",
+    "area": "AI"
+  },
+  {
     "company": "Ideogram",
     "domain": "ideogram.ai",
     "ats": "ashby",
@@ -302,7 +323,7 @@
   },
   {
     "company": "Instrumentl",
-    "domain": "deepgram.com",
+    "domain": "instrumentl.com",
     "ats": "lever",
     "board": "Instrumentl",
     "area": "AI"
@@ -350,13 +371,6 @@
     "area": "AI"
   },
   {
-    "company": "Neye Systems Inc.",
-    "domain": "openai.com",
-    "ats": "lever",
-    "board": "neye-systems-inc.",
-    "area": "AI"
-  },
-  {
     "company": "Noise Labs",
     "domain": "noise.xyz",
     "ats": "ashby",
@@ -385,13 +399,6 @@
     "area": "AI"
   },
   {
-    "company": "Pandektes",
-    "domain": "pandektes.com",
-    "ats": "ashby",
-    "board": "pandektes",
-    "area": "AI"
-  },
-  {
     "company": "Perplexity",
     "domain": "perplexity.ai",
     "ats": "ashby",
@@ -417,6 +424,13 @@
     "domain": "reddit.com",
     "ats": "greenhouse",
     "board": "reddit",
+    "area": "AI"
+  },
+  {
+    "company": "Regscale",
+    "domain": "snowflake.com",
+    "ats": "greenhouse",
+    "board": "regscale",
     "area": "AI"
   },
   {
