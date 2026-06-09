@@ -106,7 +106,7 @@
   },
   {
     "company": "ClickUp",
-    "domain": "clickup.com",
+    "domain": "datadoghq.com",
     "ats": "ashby",
     "board": "clickup",
     "area": "AI"
@@ -245,13 +245,6 @@
     "area": "AI"
   },
   {
-    "company": "Gigaenergy",
-    "domain": "sierra.ai",
-    "ats": "greenhouse",
-    "board": "gigaenergy",
-    "area": "AI"
-  },
-  {
     "company": "Gigaml",
     "domain": "hightouch.com",
     "ats": "ashby",
@@ -323,7 +316,7 @@
   },
   {
     "company": "Instrumentl",
-    "domain": "instrumentl.com",
+    "domain": "ramp.com",
     "ats": "lever",
     "board": "Instrumentl",
     "area": "AI"
@@ -368,6 +361,13 @@
     "domain": "netic.ai",
     "ats": "ashby",
     "board": "netic",
+    "area": "AI"
+  },
+  {
+    "company": "Neye Systems Inc.",
+    "domain": "openai.com",
+    "ats": "lever",
+    "board": "neye-systems-inc.",
     "area": "AI"
   },
   {
@@ -424,13 +424,6 @@
     "domain": "reddit.com",
     "ats": "greenhouse",
     "board": "reddit",
-    "area": "AI"
-  },
-  {
-    "company": "Regscale",
-    "domain": "snowflake.com",
-    "ats": "greenhouse",
-    "board": "regscale",
     "area": "AI"
   },
   {
@@ -540,7 +533,7 @@
   },
   {
     "company": "Super.com",
-    "domain": "sigmacomputing.com",
+    "domain": "lyft.com",
     "ats": "ashby",
     "board": "super.com",
     "area": "AI"
@@ -553,10 +546,24 @@
     "area": "AI"
   },
   {
+    "company": "Taxbit",
+    "domain": "openai.com",
+    "ats": "greenhouse",
+    "board": "taxbit",
+    "area": "AI"
+  },
+  {
     "company": "Tessera Labs",
     "domain": "zoox.com",
     "ats": "ashby",
     "board": "tessera-labs",
+    "area": "AI"
+  },
+  {
+    "company": "Thunkable",
+    "domain": "perplexity.ai",
+    "ats": "lever",
+    "board": "thunkable",
     "area": "AI"
   },
   {
