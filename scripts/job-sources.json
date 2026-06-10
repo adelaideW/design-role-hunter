@@ -56,6 +56,13 @@
     "area": "AI"
   },
   {
+    "company": "Billiontoone",
+    "domain": "flutterflow.io",
+    "ats": "greenhouse",
+    "board": "billiontoone",
+    "area": "AI"
+  },
+  {
     "company": "Bloomreach",
     "domain": "bloomreach.com",
     "ats": "greenhouse",
@@ -109,6 +116,13 @@
     "domain": "datadoghq.com",
     "ats": "ashby",
     "board": "clickup",
+    "area": "AI"
+  },
+  {
+    "company": "Cloaked",
+    "domain": "cresta.com",
+    "ats": "ashby",
+    "board": "cloaked",
     "area": "AI"
   },
   {
@@ -182,13 +196,6 @@
     "area": "AI"
   },
   {
-    "company": "Education",
-    "domain": "udio.com",
-    "ats": "greenhouse",
-    "board": "education",
-    "area": "AI"
-  },
-  {
     "company": "Eliyan",
     "domain": "deepgram.com",
     "ats": "lever",
@@ -200,6 +207,13 @@
     "domain": "glean.com",
     "ats": "lever",
     "board": "ethena",
+    "area": "AI"
+  },
+  {
+    "company": "Exa",
+    "domain": "stripe.com",
+    "ats": "ashby",
+    "board": "exa",
     "area": "AI"
   },
   {
@@ -322,6 +336,13 @@
     "area": "AI"
   },
   {
+    "company": "Integrate",
+    "domain": "stripe.com",
+    "ats": "lever",
+    "board": "integrate",
+    "area": "AI"
+  },
+  {
     "company": "Krea",
     "domain": "krea.ai",
     "ats": "ashby",
@@ -364,13 +385,6 @@
     "area": "AI"
   },
   {
-    "company": "Neye Systems Inc.",
-    "domain": "openai.com",
-    "ats": "lever",
-    "board": "neye-systems-inc.",
-    "area": "AI"
-  },
-  {
     "company": "Noise Labs",
     "domain": "noise.xyz",
     "ats": "ashby",
@@ -396,6 +410,13 @@
     "domain": "palantir.com",
     "ats": "lever",
     "board": "palantir",
+    "area": "AI"
+  },
+  {
+    "company": "Pendo",
+    "domain": "robinhood.com",
+    "ats": "greenhouse",
+    "board": "pendo",
     "area": "AI"
   },
   {
