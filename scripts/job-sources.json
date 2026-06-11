@@ -35,17 +35,17 @@
     "area": "AI"
   },
   {
-    "company": "Ashby",
-    "domain": "chime.com",
-    "ats": "ashby",
-    "board": "ashby",
-    "area": "AI"
-  },
-  {
     "company": "Augmentcomputing",
     "domain": "augmentcode.com",
     "ats": "greenhouse",
     "board": "augmentcomputing",
+    "area": "AI"
+  },
+  {
+    "company": "Auxia",
+    "domain": "hex.tech",
+    "ats": "lever",
+    "board": "auxia",
     "area": "AI"
   },
   {
@@ -260,7 +260,7 @@
   },
   {
     "company": "Gigaml",
-    "domain": "hightouch.com",
+    "domain": "gigaml.com",
     "ats": "ashby",
     "board": "gigaml",
     "area": "AI"
@@ -308,13 +308,6 @@
     "area": "AI"
   },
   {
-    "company": "Hiive",
-    "domain": "chime.com",
-    "ats": "ashby",
-    "board": "hiive",
-    "area": "AI"
-  },
-  {
     "company": "Ideogram",
     "domain": "ideogram.ai",
     "ats": "ashby",
@@ -333,13 +326,6 @@
     "domain": "ramp.com",
     "ats": "lever",
     "board": "Instrumentl",
-    "area": "AI"
-  },
-  {
-    "company": "Integrate",
-    "domain": "stripe.com",
-    "ats": "lever",
-    "board": "integrate",
     "area": "AI"
   },
   {
@@ -554,7 +540,7 @@
   },
   {
     "company": "Super.com",
-    "domain": "lyft.com",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "super.com",
     "area": "AI"
@@ -592,13 +578,6 @@
     "domain": "together.ai",
     "ats": "greenhouse",
     "board": "togetherai",
-    "area": "AI"
-  },
-  {
-    "company": "Trellis",
-    "domain": "openai.com",
-    "ats": "lever",
-    "board": "trellis",
     "area": "AI"
   },
   {
