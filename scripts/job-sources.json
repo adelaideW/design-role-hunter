@@ -35,20 +35,6 @@
     "area": "AI"
   },
   {
-    "company": "Augmentcomputing",
-    "domain": "augmentcode.com",
-    "ats": "greenhouse",
-    "board": "augmentcomputing",
-    "area": "AI"
-  },
-  {
-    "company": "Auxia",
-    "domain": "hex.tech",
-    "ats": "lever",
-    "board": "auxia",
-    "area": "AI"
-  },
-  {
     "company": "Benchling",
     "domain": "benchling.com",
     "ats": "ashby",
@@ -67,6 +53,13 @@
     "domain": "bloomreach.com",
     "ats": "greenhouse",
     "board": "bloomreach",
+    "area": "AI"
+  },
+  {
+    "company": "Brainco",
+    "domain": "lovable.dev",
+    "ats": "ashby",
+    "board": "brainco",
     "area": "AI"
   },
   {
@@ -147,24 +140,10 @@
     "area": "AI"
   },
   {
-    "company": "Cohere",
-    "domain": "cohere.com",
-    "ats": "ashby",
-    "board": "cohere",
-    "area": "AI"
-  },
-  {
     "company": "ComfyUI",
     "domain": "comfy.org",
     "ats": "ashby",
     "board": "comfy-org",
-    "area": "AI"
-  },
-  {
-    "company": "Contentful",
-    "domain": "contentful.com",
-    "ats": "greenhouse",
-    "board": "contentful",
     "area": "AI"
   },
   {
@@ -308,6 +287,13 @@
     "area": "AI"
   },
   {
+    "company": "Hiive",
+    "domain": "chime.com",
+    "ats": "ashby",
+    "board": "hiive",
+    "area": "AI"
+  },
+  {
     "company": "Ideogram",
     "domain": "ideogram.ai",
     "ats": "ashby",
@@ -326,6 +312,13 @@
     "domain": "ramp.com",
     "ats": "lever",
     "board": "Instrumentl",
+    "area": "AI"
+  },
+  {
+    "company": "Integrate",
+    "domain": "stripe.com",
+    "ats": "lever",
+    "board": "integrate",
     "area": "AI"
   },
   {
@@ -410,6 +403,13 @@
     "domain": "perplexity.ai",
     "ats": "ashby",
     "board": "perplexity",
+    "area": "AI"
+  },
+  {
+    "company": "Qualysoft",
+    "domain": "x.ai",
+    "ats": "lever",
+    "board": "qualysoft",
     "area": "AI"
   },
   {
@@ -511,13 +511,6 @@
     "area": "AI"
   },
   {
-    "company": "Stackblitz",
-    "domain": "bolt.new",
-    "ats": "greenhouse",
-    "board": "stackblitz",
-    "area": "AI"
-  },
-  {
     "company": "Stytch",
     "domain": "stytch.com",
     "ats": "ashby",
@@ -557,13 +550,6 @@
     "domain": "openai.com",
     "ats": "greenhouse",
     "board": "taxbit",
-    "area": "AI"
-  },
-  {
-    "company": "Tessera Labs",
-    "domain": "zoox.com",
-    "ats": "ashby",
-    "board": "tessera-labs",
     "area": "AI"
   },
   {
