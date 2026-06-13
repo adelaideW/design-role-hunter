@@ -43,7 +43,7 @@
   },
   {
     "company": "Billiontoone",
-    "domain": "flutterflow.io",
+    "domain": "billiontoone.com",
     "ats": "greenhouse",
     "board": "billiontoone",
     "area": "AI"
@@ -287,13 +287,6 @@
     "area": "AI"
   },
   {
-    "company": "Hiive",
-    "domain": "chime.com",
-    "ats": "ashby",
-    "board": "hiive",
-    "area": "AI"
-  },
-  {
     "company": "Ideogram",
     "domain": "ideogram.ai",
     "ats": "ashby",
@@ -312,13 +305,6 @@
     "domain": "ramp.com",
     "ats": "lever",
     "board": "Instrumentl",
-    "area": "AI"
-  },
-  {
-    "company": "Integrate",
-    "domain": "stripe.com",
-    "ats": "lever",
-    "board": "integrate",
     "area": "AI"
   },
   {
@@ -550,6 +536,13 @@
     "domain": "openai.com",
     "ats": "greenhouse",
     "board": "taxbit",
+    "area": "AI"
+  },
+  {
+    "company": "Tessera Labs",
+    "domain": "zoox.com",
+    "ats": "ashby",
+    "board": "tessera-labs",
     "area": "AI"
   },
   {
