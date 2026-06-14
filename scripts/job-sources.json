@@ -35,6 +35,13 @@
     "area": "AI"
   },
   {
+    "company": "Ashby",
+    "domain": "asana.com",
+    "ats": "ashby",
+    "board": "ashby",
+    "area": "AI"
+  },
+  {
     "company": "Benchling",
     "domain": "benchling.com",
     "ats": "ashby",
@@ -126,13 +133,6 @@
     "area": "AI"
   },
   {
-    "company": "Clozd",
-    "domain": "infisical.com",
-    "ats": "lever",
-    "board": "Clozd",
-    "area": "AI"
-  },
-  {
     "company": "Coframe",
     "domain": "coframe.ai",
     "ats": "ashby",
@@ -189,13 +189,6 @@
     "area": "AI"
   },
   {
-    "company": "Exa",
-    "domain": "stripe.com",
-    "ats": "ashby",
-    "board": "exa",
-    "area": "AI"
-  },
-  {
     "company": "Factory",
     "domain": "factory.ai",
     "ats": "ashby",
@@ -239,7 +232,7 @@
   },
   {
     "company": "Gigaml",
-    "domain": "gigaml.com",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "gigaml",
     "area": "AI"
@@ -305,6 +298,13 @@
     "domain": "ramp.com",
     "ats": "lever",
     "board": "Instrumentl",
+    "area": "AI"
+  },
+  {
+    "company": "Integrate",
+    "domain": "stripe.com",
+    "ats": "lever",
+    "board": "integrate",
     "area": "AI"
   },
   {
