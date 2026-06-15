@@ -35,10 +35,10 @@
     "area": "AI"
   },
   {
-    "company": "Ashby",
-    "domain": "asana.com",
+    "company": "Assembledhq",
+    "domain": "databricks.com",
     "ats": "ashby",
-    "board": "ashby",
+    "board": "assembledhq",
     "area": "AI"
   },
   {
@@ -130,6 +130,13 @@
     "domain": "cloudflare.com",
     "ats": "greenhouse",
     "board": "cloudflare",
+    "area": "AI"
+  },
+  {
+    "company": "Clozd",
+    "domain": "infisical.com",
+    "ats": "lever",
+    "board": "Clozd",
     "area": "AI"
   },
   {
@@ -298,13 +305,6 @@
     "domain": "ramp.com",
     "ats": "lever",
     "board": "Instrumentl",
-    "area": "AI"
-  },
-  {
-    "company": "Integrate",
-    "domain": "stripe.com",
-    "ats": "lever",
-    "board": "integrate",
     "area": "AI"
   },
   {
@@ -529,13 +529,6 @@
     "domain": "synthesia.io",
     "ats": "ashby",
     "board": "synthesia",
-    "area": "AI"
-  },
-  {
-    "company": "Taxbit",
-    "domain": "openai.com",
-    "ats": "greenhouse",
-    "board": "taxbit",
     "area": "AI"
   },
   {
