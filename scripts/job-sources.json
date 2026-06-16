@@ -42,6 +42,13 @@
     "area": "AI"
   },
   {
+    "company": "Auxia",
+    "domain": "hex.tech",
+    "ats": "lever",
+    "board": "auxia",
+    "area": "AI"
+  },
+  {
     "company": "Benchling",
     "domain": "benchling.com",
     "ats": "ashby",
@@ -190,7 +197,7 @@
   },
   {
     "company": "Ethena",
-    "domain": "glean.com",
+    "domain": "sierra.ai",
     "ats": "lever",
     "board": "ethena",
     "area": "AI"
@@ -284,6 +291,13 @@
     "domain": "hightouch.com",
     "ats": "greenhouse",
     "board": "hightouch",
+    "area": "AI"
+  },
+  {
+    "company": "Hiive",
+    "domain": "openai.com",
+    "ats": "ashby",
+    "board": "hiive",
     "area": "AI"
   },
   {
@@ -389,13 +403,6 @@
     "domain": "perplexity.ai",
     "ats": "ashby",
     "board": "perplexity",
-    "area": "AI"
-  },
-  {
-    "company": "Qualysoft",
-    "domain": "x.ai",
-    "ats": "lever",
-    "board": "qualysoft",
     "area": "AI"
   },
   {

@@ -1,5 +1,17 @@
 [
   {
+    "id": 1355888332,
+    "company": "Railway",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=railway.app",
+    "role": "Product Designer",
+    "location": "Remote (United States)",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/railway/6fb07755-acd8-4400-9de3-fa598e4eeb7d",
+    "postedAt": "2025-11-03T23:54:45.950+00:00",
+    "postedDays": 224,
+    "source": "ashby"
+  },
+  {
     "id": 1593790972,
     "company": "ComfyUI",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=comfy.org",
@@ -8,20 +20,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/comfy-org/a7ccc2b4-4d9d-4e04-b39c-28a711995b5b",
     "postedAt": "2025-10-23T19:00:04.024+00:00",
-    "postedDays": 234,
+    "postedDays": 235,
     "source": "ashby"
-  },
-  {
-    "id": 1772380302,
-    "company": "Qualysoft",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
-    "role": "Frontend Developer (Angular, UI/UX Designer & Developer)",
-    "location": "Wien",
-    "area": "AI",
-    "url": "https://jobs.lever.co/qualysoft/71047c9f-5621-4f9c-9f67-f1ae1ecd63cb",
-    "postedAt": "2025-09-18T09:35:21.444Z",
-    "postedDays": 270,
-    "source": "lever"
   },
   {
     "id": 1902979366,
@@ -32,7 +32,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/24616c39-e293-4bcc-a3dd-e6f33a71c8ee",
     "postedAt": "2025-09-12T23:39:38.961+00:00",
-    "postedDays": 275,
+    "postedDays": 276,
     "source": "ashby"
   },
   {
@@ -44,20 +44,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/factory/7b479181-f6f0-4f54-ab42-2c0c93c530ea",
     "postedAt": "2025-08-21T02:03:25.427+00:00",
-    "postedDays": 298,
-    "source": "ashby"
-  },
-  {
-    "id": 1036431984,
-    "company": "Qualysoft",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
-    "role": "Solution Architect/ Solution Designer",
-    "location": "Wien",
-    "area": "AI",
-    "url": "https://jobs.lever.co/qualysoft/15616ed5-b1e0-4092-bc42-09e96c34e797",
-    "postedAt": "2025-08-20T07:35:44.049Z",
     "postedDays": 299,
-    "source": "lever"
+    "source": "ashby"
   },
   {
     "id": 80057085,
@@ -68,7 +56,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sierra/a5402a9c-d0ea-4e60-a1bc-68574d54950f",
     "postedAt": "2025-08-19T20:29:22.296+00:00",
-    "postedDays": 299,
+    "postedDays": 300,
     "source": "ashby"
   },
   {
@@ -80,7 +68,7 @@
     "area": "Project Management",
     "url": "https://jobs.ashbyhq.com/Linear/4f10c2ca-d19a-42b5-9e1f-d1794c43dd89",
     "postedAt": "2025-07-16T22:11:02.305+00:00",
-    "postedDays": 333,
+    "postedDays": 334,
     "source": "ashby"
   },
   {
@@ -92,7 +80,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/cf78be5e-41ca-478a-b480-0d0839c24543",
     "postedAt": "2025-07-17T16:03:07.517+00:00",
-    "postedDays": 333,
+    "postedDays": 334,
     "source": "ashby"
   },
   {
@@ -104,7 +92,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/brainco/2d637c98-2622-4cc8-b083-f94f6e520669",
     "postedAt": "2025-06-25T17:51:09.244+00:00",
-    "postedDays": 355,
+    "postedDays": 356,
     "source": "ashby"
   },
   {
@@ -116,7 +104,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/stytch/da3bf988-95dd-4061-9554-7ef939bac074",
     "postedAt": "2025-04-18T23:19:59.100+00:00",
-    "postedDays": 422,
+    "postedDays": 423,
     "source": "ashby"
   },
   {
@@ -128,7 +116,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/c2d11af1-5b84-4be0-92ac-36113fb8f2b5",
     "postedAt": "2025-04-03T18:13:34.536Z",
-    "postedDays": 438,
+    "postedDays": 439,
     "source": "lever"
   },
   {
@@ -140,19 +128,7 @@
     "area": "AI Research",
     "url": "https://jobs.ashbyhq.com/openai/09d97355-0437-4054-8604-73920c0beb1a",
     "postedAt": "2025-02-26T22:39:00.136+00:00",
-    "postedDays": 473,
-    "source": "ashby"
-  },
-  {
-    "id": 1027439366,
-    "company": "Synthesia",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=synthesia.io",
-    "role": "Digital Designer (French-Speaking)",
-    "location": "Paris",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/synthesia/7afbc805-b77e-4382-8577-5818dfdaea28",
-    "postedAt": "2025-02-24T14:52:26.426+00:00",
-    "postedDays": 476,
+    "postedDays": 474,
     "source": "ashby"
   },
   {
@@ -164,7 +140,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/coframe/29a944ba-7cae-429e-84e3-32f047d21c4a",
     "postedAt": "2024-09-25T04:50:26.207+00:00",
-    "postedDays": 628,
+    "postedDays": 629,
     "source": "ashby"
   },
   {
@@ -176,7 +152,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/e0fec99f-ae6e-4f92-ac1a-7d227179261f",
     "postedAt": "2023-08-31T19:41:06.375+00:00",
-    "postedDays": 1018,
+    "postedDays": 1019,
     "source": "ashby"
   },
   {
@@ -188,7 +164,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24",
     "postedAt": "2019-05-14T22:45:59.021Z",
-    "postedDays": 2588,
+    "postedDays": 2589,
     "source": "lever"
   },
   {
@@ -200,7 +176,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d",
     "postedAt": "2013-01-31T00:00:00.000Z",
-    "postedDays": 4883,
+    "postedDays": 4884,
     "source": "lever"
   }
 ]
