@@ -189,15 +189,8 @@
     "area": "AI"
   },
   {
-    "company": "Eliyan",
-    "domain": "deepgram.com",
-    "ats": "lever",
-    "board": "eliyan",
-    "area": "AI"
-  },
-  {
     "company": "Ethena",
-    "domain": "sierra.ai",
+    "domain": "glean.com",
     "ats": "lever",
     "board": "ethena",
     "area": "AI"
@@ -393,7 +386,7 @@
   },
   {
     "company": "Pendo",
-    "domain": "robinhood.com",
+    "domain": "lyft.com",
     "ats": "greenhouse",
     "board": "pendo",
     "area": "AI"
@@ -543,13 +536,6 @@
     "domain": "zoox.com",
     "ats": "ashby",
     "board": "tessera-labs",
-    "area": "AI"
-  },
-  {
-    "company": "Thunkable",
-    "domain": "perplexity.ai",
-    "ats": "lever",
-    "board": "thunkable",
     "area": "AI"
   },
   {
