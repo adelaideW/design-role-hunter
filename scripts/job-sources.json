@@ -43,7 +43,7 @@
   },
   {
     "company": "Auxia",
-    "domain": "hex.tech",
+    "domain": "deepmind.google",
     "ats": "lever",
     "board": "auxia",
     "area": "AI"
@@ -119,13 +119,6 @@
     "area": "AI"
   },
   {
-    "company": "ClickUp",
-    "domain": "datadoghq.com",
-    "ats": "ashby",
-    "board": "clickup",
-    "area": "AI"
-  },
-  {
     "company": "Cloaked",
     "domain": "cresta.com",
     "ats": "ashby",
@@ -190,7 +183,7 @@
   },
   {
     "company": "Ethena",
-    "domain": "glean.com",
+    "domain": "sierra.ai",
     "ats": "lever",
     "board": "ethena",
     "area": "AI"
@@ -242,13 +235,6 @@
     "domain": "stripe.com",
     "ats": "ashby",
     "board": "gigaml",
-    "area": "AI"
-  },
-  {
-    "company": "Gleanwork",
-    "domain": "glean.com",
-    "ats": "greenhouse",
-    "board": "gleanwork",
     "area": "AI"
   },
   {
@@ -494,6 +480,13 @@
     "domain": "socket.dev",
     "ats": "ashby",
     "board": "socket",
+    "area": "AI"
+  },
+  {
+    "company": "Standtogether",
+    "domain": "asana.com",
+    "ats": "lever",
+    "board": "standtogether",
     "area": "AI"
   },
   {
