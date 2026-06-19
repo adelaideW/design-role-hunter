@@ -56,13 +56,6 @@
     "area": "AI"
   },
   {
-    "company": "Billiontoone",
-    "domain": "billiontoone.com",
-    "ats": "greenhouse",
-    "board": "billiontoone",
-    "area": "AI"
-  },
-  {
     "company": "Bloomreach",
     "domain": "bloomreach.com",
     "ats": "greenhouse",
@@ -71,7 +64,7 @@
   },
   {
     "company": "Brainco",
-    "domain": "lovable.dev",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "brainco",
     "area": "AI"
@@ -130,13 +123,6 @@
     "domain": "cloudflare.com",
     "ats": "greenhouse",
     "board": "cloudflare",
-    "area": "AI"
-  },
-  {
-    "company": "Clozd",
-    "domain": "infisical.com",
-    "ats": "lever",
-    "board": "Clozd",
     "area": "AI"
   },
   {
@@ -266,13 +252,6 @@
     "area": "Legal AI"
   },
   {
-    "company": "Hightouch",
-    "domain": "hightouch.com",
-    "ats": "greenhouse",
-    "board": "hightouch",
-    "area": "AI"
-  },
-  {
     "company": "Hiive",
     "domain": "openai.com",
     "ats": "ashby",
@@ -313,6 +292,13 @@
     "ats": "ashby",
     "board": "Linear",
     "area": "Project Management"
+  },
+  {
+    "company": "Livechatinc",
+    "domain": "figure.ai",
+    "ats": "lever",
+    "board": "livechatinc",
+    "area": "AI"
   },
   {
     "company": "Logrocket",
@@ -483,13 +469,6 @@
     "area": "AI"
   },
   {
-    "company": "Standtogether",
-    "domain": "asana.com",
-    "ats": "lever",
-    "board": "standtogether",
-    "area": "AI"
-  },
-  {
     "company": "Stytch",
     "domain": "stytch.com",
     "ats": "ashby",
@@ -529,6 +508,13 @@
     "domain": "zoox.com",
     "ats": "ashby",
     "board": "tessera-labs",
+    "area": "AI"
+  },
+  {
+    "company": "Thunkable",
+    "domain": "perplexity.ai",
+    "ats": "lever",
+    "board": "thunkable",
     "area": "AI"
   },
   {
