@@ -42,13 +42,6 @@
     "area": "AI"
   },
   {
-    "company": "Auxia",
-    "domain": "deepmind.google",
-    "ats": "lever",
-    "board": "auxia",
-    "area": "AI"
-  },
-  {
     "company": "Benchling",
     "domain": "benchling.com",
     "ats": "ashby",
@@ -64,7 +57,7 @@
   },
   {
     "company": "Brainco",
-    "domain": "stripe.com",
+    "domain": "hightouch.com",
     "ats": "ashby",
     "board": "brainco",
     "area": "AI"
@@ -252,6 +245,13 @@
     "area": "Legal AI"
   },
   {
+    "company": "Hightouch",
+    "domain": "hightouch.com",
+    "ats": "greenhouse",
+    "board": "hightouch",
+    "area": "AI"
+  },
+  {
     "company": "Hiive",
     "domain": "openai.com",
     "ats": "ashby",
@@ -357,6 +357,13 @@
     "area": "AI"
   },
   {
+    "company": "Pandektes",
+    "domain": "infisical.com",
+    "ats": "ashby",
+    "board": "pandektes",
+    "area": "AI"
+  },
+  {
     "company": "Pendo",
     "domain": "lyft.com",
     "ats": "greenhouse",
@@ -368,6 +375,13 @@
     "domain": "perplexity.ai",
     "ats": "ashby",
     "board": "perplexity",
+    "area": "AI"
+  },
+  {
+    "company": "Qualysoft",
+    "domain": "x.ai",
+    "ats": "lever",
+    "board": "qualysoft",
     "area": "AI"
   },
   {
@@ -448,13 +462,6 @@
     "area": "AI"
   },
   {
-    "company": "Skio",
-    "domain": "glossgenius.com",
-    "ats": "lever",
-    "board": "skio",
-    "area": "AI"
-  },
-  {
     "company": "Snowflake",
     "domain": "snowflake.com",
     "ats": "ashby",
@@ -501,13 +508,6 @@
     "domain": "synthesia.io",
     "ats": "ashby",
     "board": "synthesia",
-    "area": "AI"
-  },
-  {
-    "company": "Tessera Labs",
-    "domain": "zoox.com",
-    "ats": "ashby",
-    "board": "tessera-labs",
     "area": "AI"
   },
   {
