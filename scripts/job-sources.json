@@ -56,13 +56,6 @@
     "area": "AI"
   },
   {
-    "company": "Brainco",
-    "domain": "hightouch.com",
-    "ats": "ashby",
-    "board": "brainco",
-    "area": "AI"
-  },
-  {
     "company": "Braintrust",
     "domain": "braintrust.dev",
     "ats": "ashby",
@@ -243,13 +236,6 @@
     "ats": "ashby",
     "board": "harvey",
     "area": "Legal AI"
-  },
-  {
-    "company": "Hightouch",
-    "domain": "hightouch.com",
-    "ats": "greenhouse",
-    "board": "hightouch",
-    "area": "AI"
   },
   {
     "company": "Hiive",
@@ -459,6 +445,13 @@
     "domain": "sigmacomputing.com",
     "ats": "greenhouse",
     "board": "sigmacomputing",
+    "area": "AI"
+  },
+  {
+    "company": "Skio",
+    "domain": "glossgenius.com",
+    "ats": "lever",
+    "board": "skio",
     "area": "AI"
   },
   {

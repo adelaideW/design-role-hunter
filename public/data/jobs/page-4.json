@@ -1,41 +1,5 @@
 [
   {
-    "id": 111123161,
-    "company": "Linear",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=linear.app",
-    "role": "Designer, Web & Brand",
-    "location": "Europe",
-    "area": "Project Management",
-    "url": "https://jobs.ashbyhq.com/Linear/4f10c2ca-d19a-42b5-9e1f-d1794c43dd89",
-    "postedAt": "2025-07-16T22:11:02.305+00:00",
-    "postedDays": 338,
-    "source": "ashby"
-  },
-  {
-    "id": 561550300,
-    "company": "Brainco",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hightouch.com",
-    "role": "Product Designer",
-    "location": "San Francisco Bay Area",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/brainco/2d637c98-2622-4cc8-b083-f94f6e520669",
-    "postedAt": "2025-06-25T17:51:09.244+00:00",
-    "postedDays": 359,
-    "source": "ashby"
-  },
-  {
-    "id": 32852257,
-    "company": "Stytch",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stytch.com",
-    "role": "Experienced Product Designer",
-    "location": "San Francisco, California",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/stytch/da3bf988-95dd-4061-9554-7ef939bac074",
-    "postedAt": "2025-04-18T23:19:59.100+00:00",
-    "postedDays": 427,
-    "source": "ashby"
-  },
-  {
     "id": 671861269,
     "company": "Palantir",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
@@ -44,7 +8,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/c2d11af1-5b84-4be0-92ac-36113fb8f2b5",
     "postedAt": "2025-04-03T18:13:34.536Z",
-    "postedDays": 442,
+    "postedDays": 443,
     "source": "lever"
   },
   {
@@ -56,7 +20,7 @@
     "area": "AI Research",
     "url": "https://jobs.ashbyhq.com/openai/09d97355-0437-4054-8604-73920c0beb1a",
     "postedAt": "2025-02-26T22:39:00.136+00:00",
-    "postedDays": 478,
+    "postedDays": 479,
     "source": "ashby"
   },
   {
@@ -68,7 +32,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/coframe/29a944ba-7cae-429e-84e3-32f047d21c4a",
     "postedAt": "2024-09-25T04:50:26.207+00:00",
-    "postedDays": 633,
+    "postedDays": 634,
     "source": "ashby"
   },
   {
@@ -80,7 +44,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/e0fec99f-ae6e-4f92-ac1a-7d227179261f",
     "postedAt": "2023-08-31T19:41:06.375+00:00",
-    "postedDays": 1023,
+    "postedDays": 1024,
     "source": "ashby"
   },
   {
@@ -92,7 +56,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24",
     "postedAt": "2019-05-14T22:45:59.021Z",
-    "postedDays": 2593,
+    "postedDays": 2594,
     "source": "lever"
   },
   {
@@ -104,7 +68,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d",
     "postedAt": "2013-01-31T00:00:00.000Z",
-    "postedDays": 4888,
+    "postedDays": 4889,
     "source": "lever"
   }
 ]
