@@ -238,6 +238,13 @@
     "area": "Legal AI"
   },
   {
+    "company": "Hightouch",
+    "domain": "hightouch.com",
+    "ats": "greenhouse",
+    "board": "hightouch",
+    "area": "AI"
+  },
+  {
     "company": "Hiive",
     "domain": "openai.com",
     "ats": "ashby",
@@ -365,7 +372,7 @@
   },
   {
     "company": "Qualysoft",
-    "domain": "x.ai",
+    "domain": "deepmind.google",
     "ats": "lever",
     "board": "qualysoft",
     "area": "AI"
