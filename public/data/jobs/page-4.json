@@ -1,41 +1,5 @@
 [
   {
-    "id": 32852257,
-    "company": "Stytch",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stytch.com",
-    "role": "Experienced Product Designer",
-    "location": "San Francisco, California",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/stytch/da3bf988-95dd-4061-9554-7ef939bac074",
-    "postedAt": "2025-04-18T23:19:59.100+00:00",
-    "postedDays": 429,
-    "source": "ashby"
-  },
-  {
-    "id": 671861269,
-    "company": "Palantir",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
-    "role": "Product Designer - US Government",
-    "location": "New York, NY",
-    "area": "AI",
-    "url": "https://jobs.lever.co/palantir/c2d11af1-5b84-4be0-92ac-36113fb8f2b5",
-    "postedAt": "2025-04-03T18:13:34.536Z",
-    "postedDays": 444,
-    "source": "lever"
-  },
-  {
-    "id": 7116842,
-    "company": "OpenAI",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
-    "role": "Product Designer, ChatGPT",
-    "location": "San Francisco",
-    "area": "AI Research",
-    "url": "https://jobs.ashbyhq.com/openai/09d97355-0437-4054-8604-73920c0beb1a",
-    "postedAt": "2025-02-26T22:39:00.136+00:00",
-    "postedDays": 480,
-    "source": "ashby"
-  },
-  {
     "id": 938127721,
     "company": "Coframe",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=coframe.ai",
@@ -44,7 +8,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/coframe/29a944ba-7cae-429e-84e3-32f047d21c4a",
     "postedAt": "2024-09-25T04:50:26.207+00:00",
-    "postedDays": 635,
+    "postedDays": 636,
     "source": "ashby"
   },
   {
@@ -56,7 +20,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/e0fec99f-ae6e-4f92-ac1a-7d227179261f",
     "postedAt": "2023-08-31T19:41:06.375+00:00",
-    "postedDays": 1025,
+    "postedDays": 1026,
     "source": "ashby"
   },
   {
@@ -68,7 +32,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24",
     "postedAt": "2019-05-14T22:45:59.021Z",
-    "postedDays": 2595,
+    "postedDays": 2596,
     "source": "lever"
   },
   {
@@ -80,7 +44,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d",
     "postedAt": "2013-01-31T00:00:00.000Z",
-    "postedDays": 4890,
+    "postedDays": 4891,
     "source": "lever"
   }
 ]
