@@ -70,13 +70,6 @@
     "area": "AI"
   },
   {
-    "company": "Browserbase",
-    "domain": "browserbase.com",
-    "ats": "ashby",
-    "board": "browserbase",
-    "area": "AI"
-  },
-  {
     "company": "Buildkite",
     "domain": "buildkite.com",
     "ats": "greenhouse",
@@ -385,13 +378,6 @@
     "area": "AI"
   },
   {
-    "company": "Reddit",
-    "domain": "reddit.com",
-    "ats": "greenhouse",
-    "board": "reddit",
-    "area": "AI"
-  },
-  {
     "company": "Replit",
     "domain": "replit.com",
     "ats": "ashby",
@@ -501,6 +487,13 @@
     "domain": "synthesia.io",
     "ats": "ashby",
     "board": "synthesia",
+    "area": "AI"
+  },
+  {
+    "company": "Tessera Labs",
+    "domain": "airtable.com",
+    "ats": "ashby",
+    "board": "tessera-labs",
     "area": "AI"
   },
   {
