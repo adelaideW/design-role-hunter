@@ -14,6 +14,13 @@
     "area": "Productivity"
   },
   {
+    "company": "Ando",
+    "domain": "fivetran.com",
+    "ats": "ashby",
+    "board": "ando",
+    "area": "AI"
+  },
+  {
     "company": "Anthropic",
     "domain": "anthropic.com",
     "ats": "greenhouse",
@@ -32,13 +39,6 @@
     "domain": "arize.com",
     "ats": "greenhouse",
     "board": "arizeai",
-    "area": "AI"
-  },
-  {
-    "company": "Assembledhq",
-    "domain": "databricks.com",
-    "ats": "ashby",
-    "board": "assembledhq",
     "area": "AI"
   },
   {
@@ -77,6 +77,13 @@
     "area": "AI"
   },
   {
+    "company": "Cesiumastro",
+    "domain": "notion.so",
+    "ats": "lever",
+    "board": "CesiumAstro",
+    "area": "AI"
+  },
+  {
     "company": "Chime",
     "domain": "chime.com",
     "ats": "greenhouse",
@@ -92,7 +99,7 @@
   },
   {
     "company": "Cloaked",
-    "domain": "cresta.com",
+    "domain": "glossgenius.com",
     "ats": "ashby",
     "board": "cloaked",
     "area": "AI"
@@ -144,6 +151,13 @@
     "domain": "doji.art",
     "ats": "ashby",
     "board": "doji",
+    "area": "AI"
+  },
+  {
+    "company": "Epsilon3",
+    "domain": "epsilon3.com",
+    "ats": "lever",
+    "board": "epsilon3",
     "area": "AI"
   },
   {
@@ -273,13 +287,6 @@
     "area": "Project Management"
   },
   {
-    "company": "Livechatinc",
-    "domain": "figure.ai",
-    "ats": "lever",
-    "board": "livechatinc",
-    "area": "AI"
-  },
-  {
     "company": "Logrocket",
     "domain": "logrocket.com",
     "ats": "lever",
@@ -354,13 +361,6 @@
     "domain": "perplexity.ai",
     "ats": "ashby",
     "board": "perplexity",
-    "area": "AI"
-  },
-  {
-    "company": "Qualysoft",
-    "domain": "deepmind.google",
-    "ats": "lever",
-    "board": "qualysoft",
     "area": "AI"
   },
   {
