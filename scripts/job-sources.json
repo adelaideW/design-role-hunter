@@ -42,10 +42,10 @@
     "area": "AI"
   },
   {
-    "company": "Benchling",
-    "domain": "benchling.com",
+    "company": "Ashby",
+    "domain": "stripe.com",
     "ats": "ashby",
-    "board": "benchling",
+    "board": "ashby",
     "area": "AI"
   },
   {
@@ -99,7 +99,7 @@
   },
   {
     "company": "Cloaked",
-    "domain": "glossgenius.com",
+    "domain": "figure.ai",
     "ats": "ashby",
     "board": "cloaked",
     "area": "AI"
@@ -155,16 +155,9 @@
   },
   {
     "company": "Epsilon3",
-    "domain": "epsilon3.com",
-    "ats": "lever",
-    "board": "epsilon3",
-    "area": "AI"
-  },
-  {
-    "company": "Ethena",
     "domain": "sierra.ai",
     "ats": "lever",
-    "board": "ethena",
+    "board": "epsilon3",
     "area": "AI"
   },
   {
@@ -238,13 +231,6 @@
     "area": "Legal AI"
   },
   {
-    "company": "Hightouch",
-    "domain": "hightouch.com",
-    "ats": "greenhouse",
-    "board": "hightouch",
-    "area": "AI"
-  },
-  {
     "company": "Hiive",
     "domain": "openai.com",
     "ats": "ashby",
@@ -263,13 +249,6 @@
     "domain": "infisical.com",
     "ats": "ashby",
     "board": "infisical",
-    "area": "AI"
-  },
-  {
-    "company": "Instrumentl",
-    "domain": "ramp.com",
-    "ats": "lever",
-    "board": "Instrumentl",
     "area": "AI"
   },
   {
@@ -340,13 +319,6 @@
     "domain": "palantir.com",
     "ats": "lever",
     "board": "palantir",
-    "area": "AI"
-  },
-  {
-    "company": "Pandektes",
-    "domain": "infisical.com",
-    "ats": "ashby",
-    "board": "pandektes",
     "area": "AI"
   },
   {
