@@ -49,6 +49,13 @@
     "area": "AI"
   },
   {
+    "company": "Assembledhq",
+    "domain": "openai.com",
+    "ats": "ashby",
+    "board": "assembledhq",
+    "area": "AI"
+  },
+  {
     "company": "Bloomreach",
     "domain": "bloomreach.com",
     "ats": "greenhouse",
@@ -77,13 +84,6 @@
     "area": "AI"
   },
   {
-    "company": "Cesiumastro",
-    "domain": "notion.so",
-    "ats": "lever",
-    "board": "CesiumAstro",
-    "area": "AI"
-  },
-  {
     "company": "Chime",
     "domain": "chime.com",
     "ats": "greenhouse",
@@ -99,7 +99,7 @@
   },
   {
     "company": "Cloaked",
-    "domain": "figure.ai",
+    "domain": "glossgenius.com",
     "ats": "ashby",
     "board": "cloaked",
     "area": "AI"
@@ -252,6 +252,13 @@
     "area": "AI"
   },
   {
+    "company": "Iru",
+    "domain": "coinbase.com",
+    "ats": "lever",
+    "board": "iru",
+    "area": "AI"
+  },
+  {
     "company": "Krea",
     "domain": "krea.ai",
     "ats": "ashby",
@@ -264,6 +271,13 @@
     "ats": "ashby",
     "board": "Linear",
     "area": "Project Management"
+  },
+  {
+    "company": "Livechatinc",
+    "domain": "figure.ai",
+    "ats": "lever",
+    "board": "livechatinc",
+    "area": "AI"
   },
   {
     "company": "Logrocket",
@@ -319,6 +333,13 @@
     "domain": "palantir.com",
     "ats": "lever",
     "board": "palantir",
+    "area": "AI"
+  },
+  {
+    "company": "Pandektes",
+    "domain": "infisical.com",
+    "ats": "ashby",
+    "board": "pandektes",
     "area": "AI"
   },
   {

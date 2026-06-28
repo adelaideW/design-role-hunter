@@ -1,5 +1,41 @@
 [
   {
+    "id": 750717662,
+    "company": "Together AI",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=together.ai",
+    "role": "Lead Product Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5062829007",
+    "postedAt": "2026-06-15T16:19:03-04:00",
+    "postedDays": 12,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1453224128,
+    "company": "Assembledhq",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Brand Designer",
+    "location": "San Francisco, CA",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/assembledhq/6d0d0a27-e694-4808-86a5-8fb7dee6eab3",
+    "postedAt": "2026-06-11T05:31:43.998+00:00",
+    "postedDays": 17,
+    "source": "ashby"
+  },
+  {
+    "id": 978396213,
+    "company": "Typeface",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=typeface.ai",
+    "role": "Staff Product Designer",
+    "location": "Palo Alto, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/typeface/jobs/4617046007",
+    "postedAt": "2026-06-11T08:39:21-04:00",
+    "postedDays": 17,
+    "source": "greenhouse"
+  },
+  {
     "id": 2063332894,
     "company": "Sigma Computing",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=sigmacomputing.com",
@@ -8,7 +44,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767897003",
     "postedAt": "2026-06-10T01:38:10-04:00",
-    "postedDays": 17,
+    "postedDays": 18,
     "source": "greenhouse"
   },
   {
@@ -20,7 +56,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/super.com/ee0aee7c-b92e-4d99-8ac6-4f510bf21a91",
     "postedAt": "2026-06-09T20:58:41.751+00:00",
-    "postedDays": 17,
+    "postedDays": 18,
     "source": "ashby"
   },
   {
@@ -32,7 +68,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/pendo/jobs/8568595002",
     "postedAt": "2026-06-09T10:43:35-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -44,7 +80,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/661c1bb9-6aa6-4110-990a-c09ff0923e4e",
     "postedAt": "2026-06-09T14:13:00.327+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -56,7 +92,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/snowflake/17502002-8d67-4697-aeb8-b6555ebb7094",
     "postedAt": "2026-06-08T02:53:46.042+00:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "ashby"
   },
   {
@@ -68,7 +104,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/mercor/1016f448-d1b5-41a0-8671-f0903550190b",
     "postedAt": "2026-06-05T19:55:39.137+00:00",
-    "postedDays": 21,
+    "postedDays": 22,
     "source": "ashby"
   },
   {
@@ -80,7 +116,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6014530004?gh_jid=6014530004",
     "postedAt": "2026-06-05T10:18:41-04:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "greenhouse"
   },
   {
@@ -92,20 +128,8 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4203054009",
     "postedAt": "2026-06-04T21:09:54-04:00",
-    "postedDays": 22,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1536196675,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=notion.so",
-    "role": "Senior PCB Designer II",
-    "location": "Melbourne, FL",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/f9a4a5b4-ac5c-4cee-917d-07dec403ad28",
-    "postedAt": "2026-06-03T20:53:25.579Z",
     "postedDays": 23,
-    "source": "lever"
+    "source": "greenhouse"
   },
   {
     "id": 1842543111,
@@ -116,7 +140,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/ideogram/54badc32-92ba-45b2-9ca7-a467a0b58545",
     "postedAt": "2026-06-03T15:53:17.935+00:00",
-    "postedDays": 23,
+    "postedDays": 24,
     "source": "ashby"
   },
   {
@@ -128,7 +152,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/notion/d177d052-ef57-4900-acf2-d58e9eded620",
     "postedAt": "2026-06-03T21:25:11.155+00:00",
-    "postedDays": 23,
+    "postedDays": 24,
     "source": "ashby"
   },
   {
@@ -140,20 +164,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/ramp/e9b80522-bda3-4fd0-915e-1e76d77b29b3",
     "postedAt": "2026-06-04T14:46:47.462+00:00",
-    "postedDays": 23,
-    "source": "ashby"
-  },
-  {
-    "id": 163673771,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=notion.so",
-    "role": "Principal CAD Designer",
-    "location": "Westminster, CO",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/b5c0ace0-ac24-49be-9913-12101200eed4",
-    "postedAt": "2026-06-03T13:04:05.470Z",
     "postedDays": 24,
-    "source": "lever"
+    "source": "ashby"
   },
   {
     "id": 1131664384,
@@ -164,7 +176,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
     "postedAt": "2026-06-03T09:40:30-04:00",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "greenhouse"
   },
   {
@@ -176,7 +188,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9",
     "postedAt": "2026-06-03T00:29:51.061+00:00",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "ashby"
   },
   {
@@ -188,7 +200,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/perplexity/678d1162-e650-4d6d-9532-b287255c00fb",
     "postedAt": "2026-06-03T00:34:17.136+00:00",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "ashby"
   },
   {
@@ -200,7 +212,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/perplexity/7ae341c4-411e-468c-bc26-bbdd8e55d388",
     "postedAt": "2026-06-03T00:33:38.233+00:00",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "ashby"
   },
   {
@@ -212,7 +224,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/3443ade4-e185-4dab-9b3f-7fdc27de72bf",
     "postedAt": "2026-06-03T14:41:26.679+00:00",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "ashby"
   },
   {
@@ -224,7 +236,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/4721d2c3-3d94-45d3-b9f7-ea5e1f549ce2",
     "postedAt": "2026-06-03T14:23:30.522+00:00",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "ashby"
   },
   {
@@ -236,7 +248,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/thunkable/9bbcc4b9-ee31-4921-b844-d8f1e0bc533f",
     "postedAt": "2026-06-02T21:57:12.412Z",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "lever"
   },
   {
@@ -248,7 +260,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/8684a735-fbef-422f-8fec-5ee08e264e1d",
     "postedAt": "2026-06-01T21:54:28.217+00:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "ashby"
   },
   {
@@ -260,7 +272,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/semgrep/cc1b67ab-953e-4f88-8f90-478ae207edfc",
     "postedAt": "2026-06-01T22:41:29.525+00:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "ashby"
   },
   {
@@ -272,7 +284,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/1dbcb20a-3701-4ccb-830f-745e85c31ef7",
     "postedAt": "2026-05-20T18:18:33.489+00:00",
-    "postedDays": 37,
+    "postedDays": 38,
     "source": "ashby"
   },
   {
@@ -284,7 +296,7 @@
     "area": "AI Safety",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
     "postedAt": "2026-05-18T23:20:35-04:00",
-    "postedDays": 39,
+    "postedDays": 40,
     "source": "greenhouse"
   },
   {
@@ -296,7 +308,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/infisical/361a7451-0cfe-491e-b07a-80eac6e29a43",
     "postedAt": "2026-05-18T20:43:41.422+00:00",
-    "postedDays": 39,
+    "postedDays": 40,
+    "source": "ashby"
+  },
+  {
+    "id": 389963979,
+    "company": "Pandektes",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=infisical.com",
+    "role": "Senior Product Designer",
+    "location": "Copenhagen",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/pandektes/e8b0ad19-66b7-4e1c-b5cf-3d6346009d19",
+    "postedAt": "2026-05-18T15:10:27.639+00:00",
+    "postedDays": 41,
     "source": "ashby"
   },
   {
@@ -308,7 +332,7 @@
     "area": "AI Safety",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116771008",
     "postedAt": "2026-05-15T12:39:48-04:00",
-    "postedDays": 42,
+    "postedDays": 43,
     "source": "greenhouse"
   },
   {
@@ -320,7 +344,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sierra/ba780c1d-ebd7-45b8-8c99-12666af5bfa3",
     "postedAt": "2026-05-15T23:00:57.287+00:00",
-    "postedDays": 42,
+    "postedDays": 43,
     "source": "ashby"
   },
   {
@@ -332,7 +356,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/epsilon3/388f36fb-3afd-4c99-99a4-60ea5a1fc2f6",
     "postedAt": "2026-05-14T17:50:47.779Z",
-    "postedDays": 43,
+    "postedDays": 44,
     "source": "lever"
   },
   {
@@ -344,7 +368,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/tessera-labs/742eb648-a305-4da8-90fa-6d3af8e16f8d",
     "postedAt": "2026-05-13T22:30:48.154+00:00",
-    "postedDays": 44,
+    "postedDays": 45,
     "source": "ashby"
   },
   {
@@ -356,7 +380,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/wisecode/83c3ce33-ad80-4c5b-a128-c55639d74620",
     "postedAt": "2026-05-13T17:13:49.003Z",
-    "postedDays": 44,
+    "postedDays": 45,
     "source": "lever"
   },
   {
@@ -368,7 +392,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/7325a214-908d-48a4-bbc2-f5c3a6c9ed00",
     "postedAt": "2026-05-12T18:15:49.040+00:00",
-    "postedDays": 45,
+    "postedDays": 46,
     "source": "ashby"
   },
   {
@@ -380,7 +404,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/deepgram/00fd8024-7804-4278-a38b-c9d60d929dbb",
     "postedAt": "2026-05-12T11:43:14.119+00:00",
-    "postedDays": 46,
+    "postedDays": 47,
     "source": "ashby"
   },
   {
@@ -392,7 +416,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
     "postedAt": "2026-05-12T05:16:38-04:00",
-    "postedDays": 46,
+    "postedDays": 47,
     "source": "greenhouse"
   },
   {
@@ -404,43 +428,31 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/udio/jobs/5071142008",
     "postedAt": "2026-05-12T01:00:55-04:00",
-    "postedDays": 46,
+    "postedDays": 47,
     "source": "greenhouse"
   },
   {
-    "id": 191164984,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=notion.so",
-    "role": "Senior PCB Designer II (RF)",
-    "location": "Westminster, CO",
+    "id": 1445231831,
+    "company": "Livechatinc",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figure.ai",
+    "role": "Senior Product Designer - Lifecycle Growth",
+    "location": "Wrocław",
     "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/9719bee7-6d5f-488a-9eee-a7b1e270f0bc",
-    "postedAt": "2026-05-07T14:11:43.022Z",
-    "postedDays": 51,
-    "source": "lever"
-  },
-  {
-    "id": 2115012237,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=notion.so",
-    "role": "Senior PCB Designer II (RF)",
-    "location": "Austin, TX",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/fc2dedc2-8c67-4f56-a5ca-831e8cdd5f6a",
-    "postedAt": "2026-05-07T14:45:05.678Z",
+    "url": "https://jobs.lever.co/livechatinc/48351ae1-0f3b-4538-982d-91a47e44ebae",
+    "postedAt": "2026-05-08T11:54:38.749Z",
     "postedDays": 51,
     "source": "lever"
   },
   {
     "id": 1697257157,
     "company": "Cloaked",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figure.ai",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=glossgenius.com",
     "role": "Sr. Product Designer",
     "location": "New York, NY",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/cloaked/823d3f2f-aaa2-4f90-b622-d28aa853603a",
     "postedAt": "2026-05-07T12:49:16.886+00:00",
-    "postedDays": 51,
+    "postedDays": 52,
     "source": "ashby"
   },
   {
@@ -452,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef",
     "postedAt": "2026-05-05T19:12:59.981+00:00",
-    "postedDays": 52,
+    "postedDays": 53,
     "source": "ashby"
   },
   {
@@ -464,7 +476,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/6b7837b7-72ec-46a3-9b21-74c1dfa997b6",
     "postedAt": "2026-05-05T19:39:17.165+00:00",
-    "postedDays": 52,
+    "postedDays": 53,
     "source": "ashby"
   },
   {
@@ -476,7 +488,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004",
     "postedAt": "2026-05-04T12:26:28-04:00",
-    "postedDays": 53,
+    "postedDays": 54,
     "source": "greenhouse"
   },
   {
@@ -488,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/super.com/9a81411b-dafe-4a3a-80c3-b2432a8a4fcb",
     "postedAt": "2026-04-30T18:48:48.783+00:00",
-    "postedDays": 57,
+    "postedDays": 58,
     "source": "ashby"
   },
   {
@@ -500,7 +512,7 @@
     "area": "Project Management",
     "url": "https://jobs.ashbyhq.com/Linear/ba8a41d2-4198-481a-a7f4-e09c5364ff7f",
     "postedAt": "2026-04-29T18:16:36.164+00:00",
-    "postedDays": 58,
+    "postedDays": 59,
     "source": "ashby"
   },
   {
@@ -512,7 +524,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/f16a63d9-4418-4ad3-b7e9-003e0bd1f051",
     "postedAt": "2026-04-29T23:18:57.616+00:00",
-    "postedDays": 58,
+    "postedDays": 59,
     "source": "ashby"
   },
   {
@@ -524,7 +536,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/factory/7a1dde6b-0d7c-45c8-a374-66e9f8aa0d1a",
     "postedAt": "2026-04-28T20:54:00.510+00:00",
-    "postedDays": 59,
+    "postedDays": 60,
     "source": "ashby"
   },
   {
@@ -536,7 +548,7 @@
     "area": "Project Management",
     "url": "https://jobs.ashbyhq.com/Linear/a264869e-f058-487c-ab7f-9b77dffa427c",
     "postedAt": "2026-04-23T21:39:39.618+00:00",
-    "postedDays": 64,
+    "postedDays": 65,
     "source": "ashby"
   },
   {
@@ -548,7 +560,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/claylabs/a284a622-0736-4558-be7a-76434f0dd147",
     "postedAt": "2026-04-22T21:21:09.451+00:00",
-    "postedDays": 65,
+    "postedDays": 66,
     "source": "ashby"
   },
   {
@@ -560,7 +572,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/zoox/16ab6fb9-66b3-40d3-b56f-4975646edd40",
     "postedAt": "2026-04-22T01:05:38.718Z",
-    "postedDays": 66,
+    "postedDays": 67,
     "source": "lever"
   },
   {
@@ -572,7 +584,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/noise-labs/cf251165-a1a3-4386-930b-ce5879a073bd",
     "postedAt": "2026-04-20T16:13:27.335+00:00",
-    "postedDays": 67,
+    "postedDays": 68,
     "source": "ashby"
   },
   {
@@ -584,19 +596,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/snowflake/53777cce-92ea-47dd-b9d3-7dc4c8db26ec",
     "postedAt": "2026-04-17T21:17:45.989+00:00",
-    "postedDays": 70,
+    "postedDays": 71,
     "source": "ashby"
-  },
-  {
-    "id": 1229974778,
-    "company": "Figma",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Product Designer, AI Models",
-    "location": "San Francisco, CA • New York, NY • United States",
-    "area": "Design Tools",
-    "url": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
-    "postedAt": "2026-04-15T15:32:40-04:00",
-    "postedDays": 72,
-    "source": "greenhouse"
   }
 ]
