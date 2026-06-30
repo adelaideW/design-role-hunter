@@ -77,6 +77,13 @@
     "area": "AI"
   },
   {
+    "company": "Cesiumastro",
+    "domain": "ramp.com",
+    "ats": "lever",
+    "board": "CesiumAstro",
+    "area": "AI"
+  },
+  {
     "company": "Chime",
     "domain": "chime.com",
     "ats": "greenhouse",
@@ -88,13 +95,6 @@
     "domain": "clay.com",
     "ats": "ashby",
     "board": "claylabs",
-    "area": "AI"
-  },
-  {
-    "company": "Cloaked",
-    "domain": "glossgenius.com",
-    "ats": "ashby",
-    "board": "cloaked",
     "area": "AI"
   },
   {
@@ -140,6 +140,13 @@
     "area": "AI"
   },
   {
+    "company": "Descript",
+    "domain": "descript.com",
+    "ats": "greenhouse",
+    "board": "descript",
+    "area": "AI"
+  },
+  {
     "company": "Doji",
     "domain": "doji.art",
     "ats": "ashby",
@@ -148,7 +155,7 @@
   },
   {
     "company": "Epsilon3",
-    "domain": "sierra.ai",
+    "domain": "epsilon3.com",
     "ats": "lever",
     "board": "epsilon3",
     "area": "AI"
@@ -179,6 +186,13 @@
     "domain": "figure.ai",
     "ats": "greenhouse",
     "board": "figureai",
+    "area": "AI"
+  },
+  {
+    "company": "Firefly Co",
+    "domain": "sierra.ai",
+    "ats": "ashby",
+    "board": "firefly-co",
     "area": "AI"
   },
   {
@@ -326,13 +340,6 @@
     "domain": "palantir.com",
     "ats": "lever",
     "board": "palantir",
-    "area": "AI"
-  },
-  {
-    "company": "Pandektes",
-    "domain": "infisical.com",
-    "ats": "ashby",
-    "board": "pandektes",
     "area": "AI"
   },
   {
