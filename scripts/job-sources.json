@@ -56,24 +56,10 @@
     "area": "AI"
   },
   {
-    "company": "Bloomreach",
-    "domain": "bloomreach.com",
-    "ats": "greenhouse",
-    "board": "bloomreach",
-    "area": "AI"
-  },
-  {
     "company": "Braintrust",
     "domain": "braintrust.dev",
     "ats": "ashby",
     "board": "braintrust",
-    "area": "AI"
-  },
-  {
-    "company": "Braze",
-    "domain": "braze.com",
-    "ats": "greenhouse",
-    "board": "braze",
     "area": "AI"
   },
   {
@@ -95,6 +81,13 @@
     "domain": "clay.com",
     "ats": "ashby",
     "board": "claylabs",
+    "area": "AI"
+  },
+  {
+    "company": "ClickUp",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "clickup",
     "area": "AI"
   },
   {
@@ -151,6 +144,13 @@
     "domain": "doji.art",
     "ats": "ashby",
     "board": "doji",
+    "area": "AI"
+  },
+  {
+    "company": "Electrifiedthermalsolutions",
+    "domain": "supabase.com",
+    "ats": "lever",
+    "board": "ElectrifiedThermalSolutions",
     "area": "AI"
   },
   {
@@ -256,13 +256,6 @@
     "domain": "infisical.com",
     "ats": "ashby",
     "board": "infisical",
-    "area": "AI"
-  },
-  {
-    "company": "Iru",
-    "domain": "coinbase.com",
-    "ats": "lever",
-    "board": "iru",
     "area": "AI"
   },
   {
@@ -522,13 +515,6 @@
     "domain": "vercel.com",
     "ats": "greenhouse",
     "board": "vercel",
-    "area": "AI"
-  },
-  {
-    "company": "Wisecode",
-    "domain": "together.ai",
-    "ats": "lever",
-    "board": "wisecode",
     "area": "AI"
   },
   {
