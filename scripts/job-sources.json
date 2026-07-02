@@ -105,6 +105,13 @@
     "area": "AI"
   },
   {
+    "company": "Cohere",
+    "domain": "cohere.com",
+    "ats": "ashby",
+    "board": "cohere",
+    "area": "AI"
+  },
+  {
     "company": "ComfyUI",
     "domain": "comfy.org",
     "ats": "ashby",
@@ -144,6 +151,13 @@
     "domain": "doji.art",
     "ats": "ashby",
     "board": "doji",
+    "area": "AI"
+  },
+  {
+    "company": "Dutch",
+    "domain": "datadoghq.com",
+    "ats": "lever",
+    "board": "dutch",
     "area": "AI"
   },
   {
@@ -259,10 +273,24 @@
     "area": "AI"
   },
   {
+    "company": "Iru",
+    "domain": "coinbase.com",
+    "ats": "lever",
+    "board": "iru",
+    "area": "AI"
+  },
+  {
     "company": "Krea",
     "domain": "krea.ai",
     "ats": "ashby",
     "board": "krea",
+    "area": "AI"
+  },
+  {
+    "company": "Latticepartners",
+    "domain": "gong.io",
+    "ats": "ashby",
+    "board": "latticepartners",
     "area": "AI"
   },
   {
@@ -271,13 +299,6 @@
     "ats": "ashby",
     "board": "Linear",
     "area": "Project Management"
-  },
-  {
-    "company": "Livechatinc",
-    "domain": "figure.ai",
-    "ats": "lever",
-    "board": "livechatinc",
-    "area": "AI"
   },
   {
     "company": "Logrocket",
