@@ -168,10 +168,24 @@
     "area": "AI"
   },
   {
+    "company": "Eliseai",
+    "domain": "together.ai",
+    "ats": "ashby",
+    "board": "eliseai",
+    "area": "AI"
+  },
+  {
     "company": "Epsilon3",
     "domain": "epsilon3.com",
     "ats": "lever",
     "board": "epsilon3",
+    "area": "AI"
+  },
+  {
+    "company": "Eve",
+    "domain": "sigmacomputing.com",
+    "ats": "greenhouse",
+    "board": "eve",
     "area": "AI"
   },
   {
