@@ -56,6 +56,13 @@
     "area": "AI"
   },
   {
+    "company": "Baseten",
+    "domain": "baseten.co",
+    "ats": "ashby",
+    "board": "baseten",
+    "area": "AI"
+  },
+  {
     "company": "Braintrust",
     "domain": "braintrust.dev",
     "ats": "ashby",
@@ -64,7 +71,7 @@
   },
   {
     "company": "Cesiumastro",
-    "domain": "duolingo.com",
+    "domain": "notion.so",
     "ats": "lever",
     "board": "CesiumAstro",
     "area": "AI"
@@ -81,13 +88,6 @@
     "domain": "clay.com",
     "ats": "ashby",
     "board": "claylabs",
-    "area": "AI"
-  },
-  {
-    "company": "ClickUp",
-    "domain": "pinterest.com",
-    "ats": "ashby",
-    "board": "clickup",
     "area": "AI"
   },
   {
@@ -165,13 +165,6 @@
     "domain": "supabase.com",
     "ats": "lever",
     "board": "ElectrifiedThermalSolutions",
-    "area": "AI"
-  },
-  {
-    "company": "Eliseai",
-    "domain": "together.ai",
-    "ats": "ashby",
-    "board": "eliseai",
     "area": "AI"
   },
   {
@@ -267,7 +260,7 @@
   },
   {
     "company": "Hiive",
-    "domain": "openai.com",
+    "domain": "ramp.com",
     "ats": "ashby",
     "board": "hiive",
     "area": "AI"
@@ -491,7 +484,7 @@
   },
   {
     "company": "Super.com",
-    "domain": "stripe.com",
+    "domain": "pinterest.com",
     "ats": "ashby",
     "board": "super.com",
     "area": "AI"
