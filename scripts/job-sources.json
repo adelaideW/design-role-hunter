@@ -14,6 +14,13 @@
     "area": "Productivity"
   },
   {
+    "company": "Amplitude",
+    "domain": "amplitude.com",
+    "ats": "greenhouse",
+    "board": "amplitude",
+    "area": "AI"
+  },
+  {
     "company": "Ando",
     "domain": "fivetran.com",
     "ats": "ashby",
@@ -42,13 +49,6 @@
     "area": "AI"
   },
   {
-    "company": "Ashby",
-    "domain": "stripe.com",
-    "ats": "ashby",
-    "board": "ashby",
-    "area": "AI"
-  },
-  {
     "company": "Assembledhq",
     "domain": "openai.com",
     "ats": "ashby",
@@ -70,8 +70,15 @@
     "area": "AI"
   },
   {
+    "company": "Browserbase",
+    "domain": "browserbase.com",
+    "ats": "ashby",
+    "board": "browserbase",
+    "area": "AI"
+  },
+  {
     "company": "Cesiumastro",
-    "domain": "notion.so",
+    "domain": "ramp.com",
     "ats": "lever",
     "board": "CesiumAstro",
     "area": "AI"
@@ -102,13 +109,6 @@
     "domain": "coframe.ai",
     "ats": "ashby",
     "board": "coframe",
-    "area": "AI"
-  },
-  {
-    "company": "Cohere",
-    "domain": "cohere.com",
-    "ats": "ashby",
-    "board": "cohere",
     "area": "AI"
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "company": "Eve",
-    "domain": "sigmacomputing.com",
+    "domain": "coreweave.com",
     "ats": "greenhouse",
     "board": "eve",
     "area": "AI"
@@ -448,6 +448,13 @@
     "area": "AI"
   },
   {
+    "company": "Skio",
+    "domain": "glossgenius.com",
+    "ats": "lever",
+    "board": "skio",
+    "area": "AI"
+  },
+  {
     "company": "Snowflake",
     "domain": "snowflake.com",
     "ats": "ashby",
@@ -484,7 +491,7 @@
   },
   {
     "company": "Super.com",
-    "domain": "pinterest.com",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "super.com",
     "area": "AI"
