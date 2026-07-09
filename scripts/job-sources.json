@@ -49,6 +49,13 @@
     "area": "AI"
   },
   {
+    "company": "Ashby",
+    "domain": "stripe.com",
+    "ats": "ashby",
+    "board": "ashby",
+    "area": "AI"
+  },
+  {
     "company": "Assembledhq",
     "domain": "openai.com",
     "ats": "ashby",
@@ -172,13 +179,6 @@
     "domain": "epsilon3.com",
     "ats": "lever",
     "board": "epsilon3",
-    "area": "AI"
-  },
-  {
-    "company": "Eve",
-    "domain": "coreweave.com",
-    "ats": "greenhouse",
-    "board": "eve",
     "area": "AI"
   },
   {
