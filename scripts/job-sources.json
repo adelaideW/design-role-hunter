@@ -49,20 +49,6 @@
     "area": "AI"
   },
   {
-    "company": "Ashby",
-    "domain": "stripe.com",
-    "ats": "ashby",
-    "board": "ashby",
-    "area": "AI"
-  },
-  {
-    "company": "Assembledhq",
-    "domain": "openai.com",
-    "ats": "ashby",
-    "board": "assembledhq",
-    "area": "AI"
-  },
-  {
     "company": "Baseten",
     "domain": "baseten.co",
     "ats": "ashby",
@@ -102,6 +88,13 @@
     "domain": "clay.com",
     "ats": "ashby",
     "board": "claylabs",
+    "area": "AI"
+  },
+  {
+    "company": "ClickUp",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "clickup",
     "area": "AI"
   },
   {
@@ -231,6 +224,13 @@
     "area": "AI"
   },
   {
+    "company": "Gatherai",
+    "domain": "descript.com",
+    "ats": "greenhouse",
+    "board": "gatherai",
+    "area": "AI"
+  },
+  {
     "company": "Glossgenius",
     "domain": "glossgenius.com",
     "ats": "greenhouse",
@@ -257,13 +257,6 @@
     "ats": "ashby",
     "board": "harvey",
     "area": "Legal AI"
-  },
-  {
-    "company": "Hiive",
-    "domain": "ramp.com",
-    "ats": "ashby",
-    "board": "hiive",
-    "area": "AI"
   },
   {
     "company": "Ideogram",
@@ -392,6 +385,13 @@
     "area": "AI"
   },
   {
+    "company": "Reddit",
+    "domain": "reddit.com",
+    "ats": "greenhouse",
+    "board": "reddit",
+    "area": "AI"
+  },
+  {
     "company": "Replit",
     "domain": "replit.com",
     "ats": "ashby",
@@ -501,6 +501,13 @@
     "domain": "synthesia.io",
     "ats": "ashby",
     "board": "synthesia",
+    "area": "AI"
+  },
+  {
+    "company": "Tavus",
+    "domain": "tavus.io",
+    "ats": "ashby",
+    "board": "tavus",
     "area": "AI"
   },
   {
