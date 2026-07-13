@@ -56,6 +56,20 @@
     "area": "AI"
   },
   {
+    "company": "Betterup",
+    "domain": "snowflake.com",
+    "ats": "ashby",
+    "board": "betterup",
+    "area": "AI"
+  },
+  {
+    "company": "Bjakcareer",
+    "domain": "baseten.co",
+    "ats": "ashby",
+    "board": "bjakcareer",
+    "area": "AI"
+  },
+  {
     "company": "Braintrust",
     "domain": "braintrust.dev",
     "ats": "ashby",
@@ -126,6 +140,13 @@
     "area": "AI"
   },
   {
+    "company": "Decagon",
+    "domain": "coreweave.com",
+    "ats": "ashby",
+    "board": "decagon",
+    "area": "AI"
+  },
+  {
     "company": "Deepgram",
     "domain": "deepgram.com",
     "ats": "ashby",
@@ -176,7 +197,7 @@
   },
   {
     "company": "Epsilon3",
-    "domain": "epsilon3.com",
+    "domain": "sierra.ai",
     "ats": "lever",
     "board": "epsilon3",
     "area": "AI"
@@ -207,13 +228,6 @@
     "domain": "figure.ai",
     "ats": "greenhouse",
     "board": "figureai",
-    "area": "AI"
-  },
-  {
-    "company": "Firefly Co",
-    "domain": "sierra.ai",
-    "ats": "ashby",
-    "board": "firefly-co",
     "area": "AI"
   },
   {
@@ -284,6 +298,13 @@
     "domain": "coinbase.com",
     "ats": "lever",
     "board": "iru",
+    "area": "AI"
+  },
+  {
+    "company": "Kota",
+    "domain": "anthropic.com",
+    "ats": "ashby",
+    "board": "kota",
     "area": "AI"
   },
   {
@@ -452,13 +473,6 @@
     "domain": "sigmacomputing.com",
     "ats": "greenhouse",
     "board": "sigmacomputing",
-    "area": "AI"
-  },
-  {
-    "company": "Skio",
-    "domain": "glossgenius.com",
-    "ats": "lever",
-    "board": "skio",
     "area": "AI"
   },
   {
