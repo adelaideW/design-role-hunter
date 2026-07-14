@@ -85,7 +85,7 @@
   },
   {
     "company": "Cesiumastro",
-    "domain": "ramp.com",
+    "domain": "klaviyo.com",
     "ats": "lever",
     "board": "CesiumAstro",
     "area": "AI"
@@ -116,13 +116,6 @@
     "domain": "cloudflare.com",
     "ats": "greenhouse",
     "board": "cloudflare",
-    "area": "AI"
-  },
-  {
-    "company": "Coframe",
-    "domain": "coframe.ai",
-    "ats": "ashby",
-    "board": "coframe",
     "area": "AI"
   },
   {
@@ -172,6 +165,13 @@
     "domain": "doji.art",
     "ats": "ashby",
     "board": "doji",
+    "area": "AI"
+  },
+  {
+    "company": "Dust",
+    "domain": "dust.tt",
+    "ats": "ashby",
+    "board": "dust",
     "area": "AI"
   },
   {
@@ -441,24 +441,10 @@
     "area": "AI"
   },
   {
-    "company": "Scale AI",
-    "domain": "scale.com",
-    "ats": "greenhouse",
-    "board": "scaleai",
-    "area": "AI Infrastructure"
-  },
-  {
     "company": "Semgrep",
     "domain": "semgrep.com",
     "ats": "ashby",
     "board": "semgrep",
-    "area": "AI"
-  },
-  {
-    "company": "Sentry",
-    "domain": "sentry.io",
-    "ats": "ashby",
-    "board": "sentry",
     "area": "AI"
   },
   {
