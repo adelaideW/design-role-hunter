@@ -1,14 +1,62 @@
 [
   {
-    "id": 1611412937,
+    "id": 127586642,
     "company": "Bjakcareer",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
-    "role": "Interaction Designer, HCI",
+    "role": "Conversation Designer, HCI",
     "location": "Seoul, Korea",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/fb5e0e63-1a24-4fa0-b16e-a668fde5ba88",
-    "postedAt": "2026-06-02T13:08:35.606+00:00",
-    "postedDays": 43,
+    "url": "https://jobs.ashbyhq.com/bjakcareer/9527a0c3-ba0b-442b-9a1b-d99e3bf9aaa9",
+    "postedAt": "2026-06-02T13:13:50.643+00:00",
+    "postedDays": 44,
+    "source": "ashby"
+  },
+  {
+    "id": 394897448,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Motion Designer (UX/Interface)",
+    "location": "Seoul, Korea",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/719f88bf-7c6d-4b6e-9058-18d8e15af377",
+    "postedAt": "2026-06-02T13:17:54.346+00:00",
+    "postedDays": 44,
+    "source": "ashby"
+  },
+  {
+    "id": 839871225,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Visual Designer",
+    "location": "Seoul, Korea",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/5211e846-4515-4dce-b730-342b6267d76a",
+    "postedAt": "2026-06-02T13:20:22.103+00:00",
+    "postedDays": 44,
+    "source": "ashby"
+  },
+  {
+    "id": 890676261,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "UX Designer, AI App",
+    "location": "Seoul, Korea",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/8d4c3306-d070-42d6-aed8-e807fcd08862",
+    "postedAt": "2026-06-02T13:27:54.217+00:00",
+    "postedDays": 44,
+    "source": "ashby"
+  },
+  {
+    "id": 1831872926,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Product Designer (UX), HCI",
+    "location": "Seoul, Korea",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/3c2fca0b-f112-4987-bf50-42c2cd7a2eed",
+    "postedAt": "2026-06-02T13:05:21.235+00:00",
+    "postedDays": 44,
     "source": "ashby"
   },
   {
@@ -20,7 +68,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/8684a735-fbef-422f-8fec-5ee08e264e1d",
     "postedAt": "2026-06-01T21:54:28.217+00:00",
-    "postedDays": 43,
+    "postedDays": 44,
     "source": "ashby"
   },
   {
@@ -32,7 +80,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/semgrep/cc1b67ab-953e-4f88-8f90-478ae207edfc",
     "postedAt": "2026-06-01T22:41:29.525+00:00",
-    "postedDays": 43,
+    "postedDays": 44,
     "source": "ashby"
   },
   {
@@ -44,19 +92,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/latticepartners/0d22eb9d-3a3b-4a21-86b6-99ba3f228173",
     "postedAt": "2026-05-27T00:50:48.127+00:00",
-    "postedDays": 49,
-    "source": "ashby"
-  },
-  {
-    "id": 1217467754,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
-    "role": "Interaction Designer, HCI",
-    "location": "United Kingdom",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/1546b14d-6bd3-4bb2-acd2-a36a11856b1e",
-    "postedAt": "2026-05-21T12:51:58.678+00:00",
-    "postedDays": 55,
+    "postedDays": 50,
     "source": "ashby"
   },
   {
@@ -68,7 +104,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5e449fd4-73d6-49f6-a46d-91acd9f0ce93",
     "postedAt": "2026-05-21T12:48:44.998+00:00",
-    "postedDays": 55,
+    "postedDays": 56,
+    "source": "ashby"
+  },
+  {
+    "id": 1217467754,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Interaction Designer, HCI",
+    "location": "United Kingdom",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/1546b14d-6bd3-4bb2-acd2-a36a11856b1e",
+    "postedAt": "2026-05-21T12:51:58.678+00:00",
+    "postedDays": 56,
     "source": "ashby"
   },
   {
@@ -80,67 +128,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/betterup/faa62bc5-cee2-4514-aab2-e656cf40b88c",
     "postedAt": "2026-05-19T12:53:13.591+00:00",
-    "postedDays": 57,
-    "source": "ashby"
-  },
-  {
-    "id": 1288350467,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
-    "role": "Conversation Designer, HCI",
-    "location": "New York, United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/1080c9cb-f5fa-4ce7-88ec-cd888027ca6a",
-    "postedAt": "2026-05-19T14:34:32.157+00:00",
-    "postedDays": 57,
-    "source": "ashby"
-  },
-  {
-    "id": 77412097,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
-    "role": "Visual Designer",
-    "location": "New York, United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/a7c3de0b-6513-49d7-aba8-4c0a15bcae3c",
-    "postedAt": "2026-05-19T14:32:37.730+00:00",
-    "postedDays": 57,
-    "source": "ashby"
-  },
-  {
-    "id": 1578861223,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
-    "role": "Interaction Designer, HCI",
-    "location": "United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/a8504fb1-5cd9-49fc-a3b3-4c39ad2a52ac",
-    "postedAt": "2026-05-19T14:32:25.841+00:00",
-    "postedDays": 57,
-    "source": "ashby"
-  },
-  {
-    "id": 1804848087,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
-    "role": "UX Designer, AI App",
-    "location": "New York, United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/c246767a-624a-4f7c-af0e-48353acb192c",
-    "postedAt": "2026-05-19T14:31:29.369+00:00",
-    "postedDays": 57,
-    "source": "ashby"
-  },
-  {
-    "id": 744305916,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
-    "role": "Motion Designer (UX/Interface)",
-    "location": "New York, United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/c8a45923-af0f-4570-a53d-7edac286a02d",
-    "postedAt": "2026-05-19T14:32:48.671+00:00",
-    "postedDays": 57,
+    "postedDays": 58,
     "source": "ashby"
   },
   {
@@ -152,7 +140,67 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/d0ccb5bc-a558-439f-b8b6-2ba865bfabf9",
     "postedAt": "2026-05-19T14:28:24.870+00:00",
-    "postedDays": 57,
+    "postedDays": 58,
+    "source": "ashby"
+  },
+  {
+    "id": 1804848087,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "UX Designer, AI App",
+    "location": "New York, United States",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/c246767a-624a-4f7c-af0e-48353acb192c",
+    "postedAt": "2026-05-19T14:31:29.369+00:00",
+    "postedDays": 58,
+    "source": "ashby"
+  },
+  {
+    "id": 1578861223,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Interaction Designer, HCI",
+    "location": "United States",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/a8504fb1-5cd9-49fc-a3b3-4c39ad2a52ac",
+    "postedAt": "2026-05-19T14:32:25.841+00:00",
+    "postedDays": 58,
+    "source": "ashby"
+  },
+  {
+    "id": 77412097,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Visual Designer",
+    "location": "New York, United States",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/a7c3de0b-6513-49d7-aba8-4c0a15bcae3c",
+    "postedAt": "2026-05-19T14:32:37.730+00:00",
+    "postedDays": 58,
+    "source": "ashby"
+  },
+  {
+    "id": 744305916,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Motion Designer (UX/Interface)",
+    "location": "New York, United States",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/c8a45923-af0f-4570-a53d-7edac286a02d",
+    "postedAt": "2026-05-19T14:32:48.671+00:00",
+    "postedDays": 58,
+    "source": "ashby"
+  },
+  {
+    "id": 1288350467,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Conversation Designer, HCI",
+    "location": "New York, United States",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/1080c9cb-f5fa-4ce7-88ec-cd888027ca6a",
+    "postedAt": "2026-05-19T14:34:32.157+00:00",
+    "postedDays": 58,
     "source": "ashby"
   },
   {
@@ -164,8 +212,20 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sierra/ba780c1d-ebd7-45b8-8c99-12666af5bfa3",
     "postedAt": "2026-05-15T23:00:57.287+00:00",
-    "postedDays": 60,
+    "postedDays": 61,
     "source": "ashby"
+  },
+  {
+    "id": 1594020214,
+    "company": "Epsilon3",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=sierra.ai",
+    "role": "Senior Product Designer",
+    "location": "Los Angeles",
+    "area": "AI",
+    "url": "https://jobs.lever.co/epsilon3/388f36fb-3afd-4c99-99a4-60ea5a1fc2f6",
+    "postedAt": "2026-05-14T17:50:47.779Z",
+    "postedDays": 62,
+    "source": "lever"
   },
   {
     "id": 1622453653,
@@ -176,7 +236,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/tessera-labs/742eb648-a305-4da8-90fa-6d3af8e16f8d",
     "postedAt": "2026-05-13T22:30:48.154+00:00",
-    "postedDays": 62,
+    "postedDays": 63,
     "source": "ashby"
   },
   {
@@ -188,7 +248,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/7325a214-908d-48a4-bbc2-f5c3a6c9ed00",
     "postedAt": "2026-05-12T18:15:49.040+00:00",
-    "postedDays": 63,
+    "postedDays": 64,
     "source": "ashby"
   },
   {
@@ -200,7 +260,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/deepgram/00fd8024-7804-4278-a38b-c9d60d929dbb",
     "postedAt": "2026-05-12T11:43:14.119+00:00",
-    "postedDays": 64,
+    "postedDays": 65,
     "source": "ashby"
   },
   {
@@ -212,7 +272,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004",
     "postedAt": "2026-05-12T05:16:38-04:00",
-    "postedDays": 64,
+    "postedDays": 65,
     "source": "greenhouse"
   },
   {
@@ -224,7 +284,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/udio/jobs/5071142008",
     "postedAt": "2026-05-12T01:00:55-04:00",
-    "postedDays": 64,
+    "postedDays": 65,
     "source": "greenhouse"
   },
   {
@@ -236,7 +296,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef",
     "postedAt": "2026-05-05T19:12:59.981+00:00",
-    "postedDays": 70,
+    "postedDays": 71,
     "source": "ashby"
   },
   {
@@ -248,7 +308,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/6b7837b7-72ec-46a3-9b21-74c1dfa997b6",
     "postedAt": "2026-05-05T19:39:17.165+00:00",
-    "postedDays": 70,
+    "postedDays": 71,
     "source": "ashby"
   },
   {
@@ -260,7 +320,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004",
     "postedAt": "2026-05-04T12:26:28-04:00",
-    "postedDays": 71,
+    "postedDays": 72,
     "source": "greenhouse"
   },
   {
@@ -272,7 +332,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/super.com/9a81411b-dafe-4a3a-80c3-b2432a8a4fcb",
     "postedAt": "2026-04-30T18:48:48.783+00:00",
-    "postedDays": 75,
+    "postedDays": 76,
     "source": "ashby"
   },
   {
@@ -284,7 +344,7 @@
     "area": "Project Management",
     "url": "https://jobs.ashbyhq.com/Linear/ba8a41d2-4198-481a-a7f4-e09c5364ff7f",
     "postedAt": "2026-04-29T18:16:36.164+00:00",
-    "postedDays": 76,
+    "postedDays": 77,
     "source": "ashby"
   },
   {
@@ -296,7 +356,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/factory/7a1dde6b-0d7c-45c8-a374-66e9f8aa0d1a",
     "postedAt": "2026-04-28T20:54:00.510+00:00",
-    "postedDays": 77,
+    "postedDays": 78,
     "source": "ashby"
   },
   {
@@ -308,7 +368,7 @@
     "area": "Project Management",
     "url": "https://jobs.ashbyhq.com/Linear/a264869e-f058-487c-ab7f-9b77dffa427c",
     "postedAt": "2026-04-23T21:39:39.618+00:00",
-    "postedDays": 82,
+    "postedDays": 83,
     "source": "ashby"
   },
   {
@@ -320,7 +380,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/claylabs/a284a622-0736-4558-be7a-76434f0dd147",
     "postedAt": "2026-04-22T21:21:09.451+00:00",
-    "postedDays": 83,
+    "postedDays": 84,
     "source": "ashby"
   },
   {
@@ -332,7 +392,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/zoox/16ab6fb9-66b3-40d3-b56f-4975646edd40",
     "postedAt": "2026-04-22T01:05:38.718Z",
-    "postedDays": 84,
+    "postedDays": 85,
     "source": "lever"
   },
   {
@@ -344,7 +404,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/betterup/3eb362fc-4911-42d4-b022-69d5c8c343ac",
     "postedAt": "2026-04-20T20:13:01.407+00:00",
-    "postedDays": 85,
+    "postedDays": 86,
     "source": "ashby"
   },
   {
@@ -356,7 +416,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/betterup/5b54523c-44e4-4913-8599-da4e641706e7",
     "postedAt": "2026-04-20T15:25:06.690+00:00",
-    "postedDays": 86,
+    "postedDays": 87,
     "source": "ashby"
   },
   {
@@ -368,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/snowflake/53777cce-92ea-47dd-b9d3-7dc4c8db26ec",
     "postedAt": "2026-04-17T21:17:45.989+00:00",
-    "postedDays": 88,
+    "postedDays": 89,
     "source": "ashby"
   },
   {
@@ -380,7 +440,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
     "postedAt": "2026-04-15T15:32:40-04:00",
-    "postedDays": 90,
+    "postedDays": 91,
     "source": "greenhouse"
   },
   {
@@ -392,7 +452,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
     "postedAt": "2026-04-15T15:32:40-04:00",
-    "postedDays": 90,
+    "postedDays": 91,
     "source": "greenhouse"
   },
   {
@@ -404,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/5635b88f-a361-4f5f-8209-ca343a003947",
     "postedAt": "2026-04-15T09:33:02.896+00:00",
-    "postedDays": 91,
+    "postedDays": 92,
     "source": "ashby"
   },
   {
@@ -416,7 +476,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/e4b620ad-d1ba-410f-8042-4753c740e7cb",
     "postedAt": "2026-04-07T15:38:05.758+00:00",
-    "postedDays": 98,
+    "postedDays": 100,
     "source": "ashby"
   },
   {
@@ -428,7 +488,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/777f2aa8-50fb-40ef-9dcf-9f8c0df2b03f",
     "postedAt": "2026-04-01T17:36:54.517+00:00",
-    "postedDays": 104,
+    "postedDays": 105,
     "source": "ashby"
   },
   {
@@ -440,7 +500,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/deepmind/jobs/7762107",
     "postedAt": "2026-03-27T14:52:29-04:00",
-    "postedDays": 109,
+    "postedDays": 110,
     "source": "greenhouse"
   },
   {
@@ -452,7 +512,7 @@
     "area": "AI Research",
     "url": "https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d",
     "postedAt": "2026-03-26T23:22:08.357+00:00",
-    "postedDays": 110,
+    "postedDays": 111,
     "source": "ashby"
   },
   {
@@ -464,18 +524,6 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/super.com/e7722dfa-4079-43b3-b2f3-fdfe8da754e3",
     "postedAt": "2026-03-27T14:33:02.242+00:00",
-    "postedDays": 110,
-    "source": "ashby"
-  },
-  {
-    "id": 47284326,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
-    "role": "Graphic Designer - Freelance",
-    "location": "Malaysia",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/06f78b31-4f2d-4b52-a948-2762a7265cbe",
-    "postedAt": "2026-03-26T09:10:35.189+00:00",
     "postedDays": 111,
     "source": "ashby"
   },
@@ -488,19 +536,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/9334b579-4b24-41e0-9db5-11190eb7d9d2",
     "postedAt": "2026-03-26T08:58:41.991+00:00",
-    "postedDays": 111,
+    "postedDays": 112,
     "source": "ashby"
   },
   {
-    "id": 646420639,
-    "company": "Notion",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=notion.so",
-    "role": "AI Conversation Designer, Customer Support",
-    "location": "San Francisco, California",
+    "id": 47284326,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Graphic Designer - Freelance",
+    "location": "Malaysia",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/notion/753883ee-23a9-4150-804f-342d32743d56",
-    "postedAt": "2026-03-25T21:58:44.040+00:00",
-    "postedDays": 111,
+    "url": "https://jobs.ashbyhq.com/bjakcareer/06f78b31-4f2d-4b52-a948-2762a7265cbe",
+    "postedAt": "2026-03-26T09:10:35.189+00:00",
+    "postedDays": 112,
     "source": "ashby"
   },
   {
@@ -512,7 +560,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/75c90455-75c8-44e0-ab38-887120dbb1d0",
     "postedAt": "2026-03-26T15:12:54.277+00:00",
-    "postedDays": 111,
+    "postedDays": 112,
     "source": "ashby"
   },
   {
@@ -524,7 +572,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/deepmind/jobs/7662676",
     "postedAt": "2026-03-24T17:31:43-04:00",
-    "postedDays": 112,
+    "postedDays": 113,
     "source": "greenhouse"
   },
   {
@@ -536,7 +584,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/kota/17be8362-a6d0-49fa-a127-53d66ca8745e",
     "postedAt": "2026-03-19T15:44:53.567+00:00",
-    "postedDays": 117,
+    "postedDays": 118,
     "source": "ashby"
   },
   {
@@ -548,55 +596,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/deepmind/jobs/7728122",
     "postedAt": "2026-03-17T13:28:00-04:00",
-    "postedDays": 119,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1703620627,
-    "company": "Synthesia",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=synthesia.io",
-    "role": "Product Designer, Growth (Senior/Staff-Level)",
-    "location": "Europe",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/synthesia/eb06b813-b691-45fa-884e-abc06c674390",
-    "postedAt": "2026-03-17T12:17:15.448+00:00",
     "postedDays": 120,
-    "source": "ashby"
-  },
-  {
-    "id": 748669092,
-    "company": "Synthesia",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=synthesia.io",
-    "role": "Senior Brand Designer, Experiential",
-    "location": "UK Remote",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/synthesia/2bb161ef-7355-474c-a051-dc57322f8225",
-    "postedAt": "2026-03-13T18:58:04.873+00:00",
-    "postedDays": 123,
-    "source": "ashby"
-  },
-  {
-    "id": 1113133390,
-    "company": "Ando",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=fivetran.com",
-    "role": "Brand Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/ando/3ea1e324-dbe6-488f-94a1-00a4a03aec76",
-    "postedAt": "2026-03-09T16:45:08.439+00:00",
-    "postedDays": 127,
-    "source": "ashby"
-  },
-  {
-    "id": 1088111822,
-    "company": "Ando",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=fivetran.com",
-    "role": "Product Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/ando/7de86b5b-cda4-4c3f-9d32-8defb3a1a191",
-    "postedAt": "2026-03-09T16:51:04.215+00:00",
-    "postedDays": 127,
-    "source": "ashby"
+    "source": "greenhouse"
   }
 ]
