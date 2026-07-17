@@ -21,6 +21,13 @@
     "area": "AI"
   },
   {
+    "company": "Ando",
+    "domain": "fivetran.com",
+    "ats": "ashby",
+    "board": "ando",
+    "area": "AI"
+  },
+  {
     "company": "Anthropic",
     "domain": "anthropic.com",
     "ats": "greenhouse",
@@ -42,13 +49,6 @@
     "area": "AI"
   },
   {
-    "company": "Ashby",
-    "domain": "asana.com",
-    "ats": "ashby",
-    "board": "ashby",
-    "area": "AI"
-  },
-  {
     "company": "Baseten",
     "domain": "baseten.co",
     "ats": "ashby",
@@ -57,7 +57,7 @@
   },
   {
     "company": "Betterup",
-    "domain": "snowflake.com",
+    "domain": "databricks.com",
     "ats": "ashby",
     "board": "betterup",
     "area": "AI"
@@ -154,6 +154,13 @@
     "area": "AI"
   },
   {
+    "company": "Docebo",
+    "domain": "snowflake.com",
+    "ats": "ashby",
+    "board": "docebo",
+    "area": "AI"
+  },
+  {
     "company": "Doji",
     "domain": "doji.art",
     "ats": "ashby",
@@ -179,13 +186,6 @@
     "domain": "supabase.com",
     "ats": "lever",
     "board": "ElectrifiedThermalSolutions",
-    "area": "AI"
-  },
-  {
-    "company": "Enterpret",
-    "domain": "pinterest.com",
-    "ats": "greenhouse",
-    "board": "enterpret",
     "area": "AI"
   },
   {
@@ -238,6 +238,13 @@
     "area": "AI"
   },
   {
+    "company": "Gatherai",
+    "domain": "descript.com",
+    "ats": "greenhouse",
+    "board": "gatherai",
+    "area": "AI"
+  },
+  {
     "company": "Glossgenius",
     "domain": "glossgenius.com",
     "ats": "greenhouse",
@@ -266,13 +273,6 @@
     "area": "Legal AI"
   },
   {
-    "company": "Ideogram",
-    "domain": "ideogram.ai",
-    "ats": "ashby",
-    "board": "ideogram",
-    "area": "AI"
-  },
-  {
     "company": "Infisical",
     "domain": "infisical.com",
     "ats": "ashby",
@@ -281,7 +281,7 @@
   },
   {
     "company": "Kota",
-    "domain": "anthropic.com",
+    "domain": "klaviyo.com",
     "ats": "ashby",
     "board": "kota",
     "area": "AI"
@@ -473,13 +473,6 @@
     "domain": "supabase.com",
     "ats": "ashby",
     "board": "supabase",
-    "area": "AI"
-  },
-  {
-    "company": "Super.com",
-    "domain": "stripe.com",
-    "ats": "ashby",
-    "board": "super.com",
     "area": "AI"
   },
   {
