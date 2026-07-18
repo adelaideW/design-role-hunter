@@ -329,6 +329,13 @@
     "area": "AI"
   },
   {
+    "company": "Mintlify",
+    "domain": "mintlify.com",
+    "ats": "ashby",
+    "board": "mintlify",
+    "area": "AI"
+  },
+  {
     "company": "Netic",
     "domain": "netic.ai",
     "ats": "ashby",
@@ -375,6 +382,13 @@
     "domain": "perplexity.ai",
     "ats": "ashby",
     "board": "perplexity",
+    "area": "AI"
+  },
+  {
+    "company": "Pragmatike",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "pragmatike",
     "area": "AI"
   },
   {
@@ -473,6 +487,13 @@
     "domain": "supabase.com",
     "ats": "ashby",
     "board": "supabase",
+    "area": "AI"
+  },
+  {
+    "company": "Super.com",
+    "domain": "stripe.com",
+    "ats": "ashby",
+    "board": "super.com",
     "area": "AI"
   },
   {
