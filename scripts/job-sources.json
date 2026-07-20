@@ -63,6 +63,13 @@
     "area": "AI"
   },
   {
+    "company": "Billiontoone",
+    "domain": "ramp.com",
+    "ats": "greenhouse",
+    "board": "billiontoone",
+    "area": "AI"
+  },
+  {
     "company": "Bjakcareer",
     "domain": "baseten.co",
     "ats": "ashby",
@@ -186,20 +193,6 @@
     "domain": "supabase.com",
     "ats": "lever",
     "board": "ElectrifiedThermalSolutions",
-    "area": "AI"
-  },
-  {
-    "company": "Enterpret",
-    "domain": "pinterest.com",
-    "ats": "greenhouse",
-    "board": "enterpret",
-    "area": "AI"
-  },
-  {
-    "company": "Epsilon3",
-    "domain": "sierra.ai",
-    "ats": "lever",
-    "board": "epsilon3",
     "area": "AI"
   },
   {
@@ -515,13 +508,6 @@
     "domain": "tavus.io",
     "ats": "ashby",
     "board": "tavus",
-    "area": "AI"
-  },
-  {
-    "company": "Tessera Labs",
-    "domain": "airtable.com",
-    "ats": "ashby",
-    "board": "tessera-labs",
     "area": "AI"
   },
   {
