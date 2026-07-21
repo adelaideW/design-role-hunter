@@ -21,13 +21,6 @@
     "area": "AI"
   },
   {
-    "company": "Ando",
-    "domain": "fivetran.com",
-    "ats": "ashby",
-    "board": "ando",
-    "area": "AI"
-  },
-  {
     "company": "Anthropic",
     "domain": "anthropic.com",
     "ats": "greenhouse",
@@ -186,13 +179,6 @@
     "domain": "datadoghq.com",
     "ats": "lever",
     "board": "dutch",
-    "area": "AI"
-  },
-  {
-    "company": "Electrifiedthermalsolutions",
-    "domain": "supabase.com",
-    "ats": "lever",
-    "board": "ElectrifiedThermalSolutions",
     "area": "AI"
   },
   {
@@ -491,7 +477,7 @@
   },
   {
     "company": "Super.com",
-    "domain": "stripe.com",
+    "domain": "deepmind.google",
     "ats": "ashby",
     "board": "super.com",
     "area": "AI"
