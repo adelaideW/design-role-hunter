@@ -175,13 +175,6 @@
     "area": "AI"
   },
   {
-    "company": "Dutch",
-    "domain": "datadoghq.com",
-    "ats": "lever",
-    "board": "dutch",
-    "area": "AI"
-  },
-  {
     "company": "Factory",
     "domain": "factory.ai",
     "ats": "ashby",
@@ -267,7 +260,7 @@
   },
   {
     "company": "Kota",
-    "domain": "klaviyo.com",
+    "domain": "deepmind.google",
     "ats": "ashby",
     "board": "kota",
     "area": "AI"
@@ -357,6 +350,13 @@
     "area": "AI"
   },
   {
+    "company": "Pandektes",
+    "domain": "infisical.com",
+    "ats": "ashby",
+    "board": "pandektes",
+    "area": "AI"
+  },
+  {
     "company": "Pendo",
     "domain": "lyft.com",
     "ats": "greenhouse",
@@ -368,13 +368,6 @@
     "domain": "perplexity.ai",
     "ats": "ashby",
     "board": "perplexity",
-    "area": "AI"
-  },
-  {
-    "company": "Pragmatike",
-    "domain": "pinterest.com",
-    "ats": "ashby",
-    "board": "pragmatike",
     "area": "AI"
   },
   {
@@ -498,7 +491,7 @@
   },
   {
     "company": "Thunkable",
-    "domain": "perplexity.ai",
+    "domain": "stripe.com",
     "ats": "lever",
     "board": "thunkable",
     "area": "AI"
