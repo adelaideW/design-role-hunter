@@ -64,7 +64,7 @@
   },
   {
     "company": "Bjakcareer",
-    "domain": "baseten.co",
+    "domain": "supabase.com",
     "ats": "ashby",
     "board": "bjakcareer",
     "area": "AI"
@@ -127,7 +127,7 @@
   },
   {
     "company": "Decagon",
-    "domain": "coreweave.com",
+    "domain": "gusto.com",
     "ats": "ashby",
     "board": "decagon",
     "area": "AI"
@@ -238,6 +238,13 @@
     "area": "AI"
   },
   {
+    "company": "Gradial",
+    "domain": "openai.com",
+    "ats": "greenhouse",
+    "board": "gradial",
+    "area": "AI"
+  },
+  {
     "company": "Gusto",
     "domain": "gusto.com",
     "ats": "greenhouse",
@@ -270,6 +277,20 @@
     "domain": "krea.ai",
     "ats": "ashby",
     "board": "krea",
+    "area": "AI"
+  },
+  {
+    "company": "Lab37",
+    "domain": "klaviyo.com",
+    "ats": "greenhouse",
+    "board": "lab37",
+    "area": "AI"
+  },
+  {
+    "company": "Langchain",
+    "domain": "langchain.com",
+    "ats": "ashby",
+    "board": "langchain",
     "area": "AI"
   },
   {
@@ -333,6 +354,13 @@
     "domain": "notion.so",
     "ats": "ashby",
     "board": "notion",
+    "area": "AI"
+  },
+  {
+    "company": "Nubank",
+    "domain": "stability.ai",
+    "ats": "ashby",
+    "board": "nubank",
     "area": "AI"
   },
   {
@@ -501,6 +529,13 @@
     "domain": "together.ai",
     "ats": "greenhouse",
     "board": "togetherai",
+    "area": "AI"
+  },
+  {
+    "company": "Truelogic",
+    "domain": "mercor.com",
+    "ats": "ashby",
+    "board": "truelogic",
     "area": "AI"
   },
   {
