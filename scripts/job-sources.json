@@ -1,5 +1,12 @@
 [
   {
+    "company": "Affinity.co",
+    "domain": "asana.com",
+    "ats": "ashby",
+    "board": "affinity.co",
+    "area": "AI"
+  },
+  {
     "company": "Affirm",
     "domain": "affirm.com",
     "ats": "greenhouse",
@@ -18,6 +25,13 @@
     "domain": "amplitude.com",
     "ats": "greenhouse",
     "board": "amplitude",
+    "area": "AI"
+  },
+  {
+    "company": "Ando",
+    "domain": "fivetran.com",
+    "ats": "ashby",
+    "board": "ando",
     "area": "AI"
   },
   {
@@ -259,6 +273,13 @@
     "area": "Legal AI"
   },
   {
+    "company": "Hiive",
+    "domain": "ramp.com",
+    "ats": "ashby",
+    "board": "hiive",
+    "area": "AI"
+  },
+  {
     "company": "Infisical",
     "domain": "infisical.com",
     "ats": "ashby",
@@ -281,7 +302,7 @@
   },
   {
     "company": "Lab37",
-    "domain": "klaviyo.com",
+    "domain": "synthesia.io",
     "ats": "greenhouse",
     "board": "lab37",
     "area": "AI"
@@ -399,13 +420,6 @@
     "area": "AI"
   },
   {
-    "company": "Railway",
-    "domain": "railway.app",
-    "ats": "ashby",
-    "board": "railway",
-    "area": "AI"
-  },
-  {
     "company": "Ramp",
     "domain": "ramp.com",
     "ats": "ashby",
@@ -445,6 +459,13 @@
     "domain": "semgrep.com",
     "ats": "ashby",
     "board": "semgrep",
+    "area": "AI"
+  },
+  {
+    "company": "Sevenai",
+    "domain": "anthropic.com",
+    "ats": "ashby",
+    "board": "sevenai",
     "area": "AI"
   },
   {
