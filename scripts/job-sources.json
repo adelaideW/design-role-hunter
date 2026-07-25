@@ -28,13 +28,6 @@
     "area": "AI"
   },
   {
-    "company": "Ando",
-    "domain": "fivetran.com",
-    "ats": "ashby",
-    "board": "ando",
-    "area": "AI"
-  },
-  {
     "company": "Anthropic",
     "domain": "anthropic.com",
     "ats": "greenhouse",
@@ -63,24 +56,10 @@
     "area": "AI"
   },
   {
-    "company": "Betterup",
-    "domain": "databricks.com",
-    "ats": "ashby",
-    "board": "betterup",
-    "area": "AI"
-  },
-  {
     "company": "Billiontoone",
     "domain": "ramp.com",
     "ats": "greenhouse",
     "board": "billiontoone",
-    "area": "AI"
-  },
-  {
-    "company": "Bjakcareer",
-    "domain": "supabase.com",
-    "ats": "ashby",
-    "board": "bjakcareer",
     "area": "AI"
   },
   {
@@ -140,13 +119,6 @@
     "area": "AI"
   },
   {
-    "company": "Decagon",
-    "domain": "gusto.com",
-    "ats": "ashby",
-    "board": "decagon",
-    "area": "AI"
-  },
-  {
     "company": "Deepgram",
     "domain": "deepgram.com",
     "ats": "ashby",
@@ -186,6 +158,13 @@
     "domain": "dust.tt",
     "ats": "ashby",
     "board": "dust",
+    "area": "AI"
+  },
+  {
+    "company": "Enterpret",
+    "domain": "reddit.com",
+    "ats": "greenhouse",
+    "board": "enterpret",
     "area": "AI"
   },
   {
@@ -253,7 +232,7 @@
   },
   {
     "company": "Gradial",
-    "domain": "openai.com",
+    "domain": "supabase.com",
     "ats": "greenhouse",
     "board": "gradial",
     "area": "AI"
@@ -284,13 +263,6 @@
     "domain": "infisical.com",
     "ats": "ashby",
     "board": "infisical",
-    "area": "AI"
-  },
-  {
-    "company": "Kota",
-    "domain": "deepmind.google",
-    "ats": "ashby",
-    "board": "kota",
     "area": "AI"
   },
   {
@@ -357,6 +329,13 @@
     "area": "AI"
   },
   {
+    "company": "Mobentertainment",
+    "domain": "stability.ai",
+    "ats": "greenhouse",
+    "board": "mobentertainment",
+    "area": "AI"
+  },
+  {
     "company": "Netic",
     "domain": "netic.ai",
     "ats": "ashby",
@@ -379,7 +358,7 @@
   },
   {
     "company": "Nubank",
-    "domain": "stability.ai",
+    "domain": "datadoghq.com",
     "ats": "ashby",
     "board": "nubank",
     "area": "AI"
@@ -417,6 +396,13 @@
     "domain": "perplexity.ai",
     "ats": "ashby",
     "board": "perplexity",
+    "area": "AI"
+  },
+  {
+    "company": "Qualdoc",
+    "domain": "dust.tt",
+    "ats": "lever",
+    "board": "qualdoc",
     "area": "AI"
   },
   {
@@ -462,13 +448,6 @@
     "area": "AI"
   },
   {
-    "company": "Sevenai",
-    "domain": "anthropic.com",
-    "ats": "ashby",
-    "board": "sevenai",
-    "area": "AI"
-  },
-  {
     "company": "Sierra",
     "domain": "sierra.ai",
     "ats": "ashby",
@@ -494,6 +473,13 @@
     "domain": "socket.dev",
     "ats": "ashby",
     "board": "socket",
+    "area": "AI"
+  },
+  {
+    "company": "Striiminc",
+    "domain": "striiminc.com",
+    "ats": "greenhouse",
+    "board": "striiminc",
     "area": "AI"
   },
   {
@@ -553,13 +539,6 @@
     "area": "AI"
   },
   {
-    "company": "Truelogic",
-    "domain": "mercor.com",
-    "ats": "ashby",
-    "board": "truelogic",
-    "area": "AI"
-  },
-  {
     "company": "Typeface",
     "domain": "typeface.ai",
     "ats": "greenhouse",
@@ -571,13 +550,6 @@
     "domain": "udio.com",
     "ats": "greenhouse",
     "board": "udio",
-    "area": "AI"
-  },
-  {
-    "company": "Uipath",
-    "domain": "coreweave.com",
-    "ats": "ashby",
-    "board": "uipath",
     "area": "AI"
   },
   {
