@@ -1,7 +1,7 @@
 [
   {
     "company": "Affinity.co",
-    "domain": "asana.com",
+    "domain": "affinityco.com",
     "ats": "ashby",
     "board": "affinity.co",
     "area": "AI"
@@ -25,6 +25,13 @@
     "domain": "amplitude.com",
     "ats": "greenhouse",
     "board": "amplitude",
+    "area": "AI"
+  },
+  {
+    "company": "Ando",
+    "domain": "fivetran.com",
+    "ats": "ashby",
+    "board": "ando",
     "area": "AI"
   },
   {
@@ -413,6 +420,13 @@
     "area": "AI"
   },
   {
+    "company": "Redcellpartners",
+    "domain": "robinhood.com",
+    "ats": "greenhouse",
+    "board": "redcellpartners",
+    "area": "AI"
+  },
+  {
     "company": "Reddit",
     "domain": "reddit.com",
     "ats": "greenhouse",
@@ -441,10 +455,24 @@
     "area": "AI"
   },
   {
+    "company": "Sauna.ai",
+    "domain": "asana.com",
+    "ats": "ashby",
+    "board": "sauna.ai",
+    "area": "AI"
+  },
+  {
     "company": "Semgrep",
     "domain": "semgrep.com",
     "ats": "ashby",
     "board": "semgrep",
+    "area": "AI"
+  },
+  {
+    "company": "Sevenai",
+    "domain": "anthropic.com",
+    "ats": "ashby",
+    "board": "sevenai",
     "area": "AI"
   },
   {
