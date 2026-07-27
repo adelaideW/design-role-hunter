@@ -1,7 +1,7 @@
 [
   {
     "company": "Affinity.co",
-    "domain": "affinityco.com",
+    "domain": "asana.com",
     "ats": "ashby",
     "board": "affinity.co",
     "area": "AI"
@@ -25,13 +25,6 @@
     "domain": "amplitude.com",
     "ats": "greenhouse",
     "board": "amplitude",
-    "area": "AI"
-  },
-  {
-    "company": "Ando",
-    "domain": "fivetran.com",
-    "ats": "ashby",
-    "board": "ando",
     "area": "AI"
   },
   {
@@ -60,13 +53,6 @@
     "domain": "baseten.co",
     "ats": "ashby",
     "board": "baseten",
-    "area": "AI"
-  },
-  {
-    "company": "Billiontoone",
-    "domain": "ramp.com",
-    "ats": "greenhouse",
-    "board": "billiontoone",
     "area": "AI"
   },
   {
@@ -165,13 +151,6 @@
     "domain": "dust.tt",
     "ats": "ashby",
     "board": "dust",
-    "area": "AI"
-  },
-  {
-    "company": "Enterpret",
-    "domain": "reddit.com",
-    "ats": "greenhouse",
-    "board": "enterpret",
     "area": "AI"
   },
   {
@@ -336,13 +315,6 @@
     "area": "AI"
   },
   {
-    "company": "Mobentertainment",
-    "domain": "stability.ai",
-    "ats": "greenhouse",
-    "board": "mobentertainment",
-    "area": "AI"
-  },
-  {
     "company": "Netic",
     "domain": "netic.ai",
     "ats": "ashby",
@@ -365,7 +337,7 @@
   },
   {
     "company": "Nubank",
-    "domain": "datadoghq.com",
+    "domain": "stability.ai",
     "ats": "ashby",
     "board": "nubank",
     "area": "AI"
@@ -382,13 +354,6 @@
     "domain": "palantir.com",
     "ats": "lever",
     "board": "palantir",
-    "area": "AI"
-  },
-  {
-    "company": "Pandektes",
-    "domain": "infisical.com",
-    "ats": "ashby",
-    "board": "pandektes",
     "area": "AI"
   },
   {
@@ -455,24 +420,10 @@
     "area": "AI"
   },
   {
-    "company": "Sauna.ai",
-    "domain": "asana.com",
-    "ats": "ashby",
-    "board": "sauna.ai",
-    "area": "AI"
-  },
-  {
     "company": "Semgrep",
     "domain": "semgrep.com",
     "ats": "ashby",
     "board": "semgrep",
-    "area": "AI"
-  },
-  {
-    "company": "Sevenai",
-    "domain": "anthropic.com",
-    "ats": "ashby",
-    "board": "sevenai",
     "area": "AI"
   },
   {
@@ -501,13 +452,6 @@
     "domain": "socket.dev",
     "ats": "ashby",
     "board": "socket",
-    "area": "AI"
-  },
-  {
-    "company": "Striiminc",
-    "domain": "striiminc.com",
-    "ats": "greenhouse",
-    "board": "striiminc",
     "area": "AI"
   },
   {
