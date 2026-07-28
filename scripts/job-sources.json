@@ -1,7 +1,7 @@
 [
   {
     "company": "Affinity.co",
-    "domain": "asana.com",
+    "domain": "affinityco.com",
     "ats": "ashby",
     "board": "affinity.co",
     "area": "AI"
@@ -25,6 +25,13 @@
     "domain": "amplitude.com",
     "ats": "greenhouse",
     "board": "amplitude",
+    "area": "AI"
+  },
+  {
+    "company": "Ando",
+    "domain": "fivetran.com",
+    "ats": "ashby",
+    "board": "ando",
     "area": "AI"
   },
   {
@@ -112,6 +119,13 @@
     "area": "AI"
   },
   {
+    "company": "Cssmerge",
+    "domain": "synthesia.io",
+    "ats": "greenhouse",
+    "board": "cssmerge",
+    "area": "AI"
+  },
+  {
     "company": "Deepgram",
     "domain": "deepgram.com",
     "ats": "ashby",
@@ -151,6 +165,13 @@
     "domain": "dust.tt",
     "ats": "ashby",
     "board": "dust",
+    "area": "AI"
+  },
+  {
+    "company": "Enterpret",
+    "domain": "reddit.com",
+    "ats": "greenhouse",
+    "board": "enterpret",
     "area": "AI"
   },
   {
@@ -218,7 +239,7 @@
   },
   {
     "company": "Gradial",
-    "domain": "supabase.com",
+    "domain": "openai.com",
     "ats": "greenhouse",
     "board": "gradial",
     "area": "AI"
@@ -256,13 +277,6 @@
     "domain": "krea.ai",
     "ats": "ashby",
     "board": "krea",
-    "area": "AI"
-  },
-  {
-    "company": "Lab37",
-    "domain": "synthesia.io",
-    "ats": "greenhouse",
-    "board": "lab37",
     "area": "AI"
   },
   {
@@ -315,6 +329,20 @@
     "area": "AI"
   },
   {
+    "company": "Mobentertainment",
+    "domain": "snowflake.com",
+    "ats": "greenhouse",
+    "board": "mobentertainment",
+    "area": "AI"
+  },
+  {
+    "company": "Nectar Social",
+    "domain": "supabase.com",
+    "ats": "ashby",
+    "board": "nectar-social",
+    "area": "AI"
+  },
+  {
     "company": "Netic",
     "domain": "netic.ai",
     "ats": "ashby",
@@ -337,7 +365,7 @@
   },
   {
     "company": "Nubank",
-    "domain": "stability.ai",
+    "domain": "datadoghq.com",
     "ats": "ashby",
     "board": "nubank",
     "area": "AI"
@@ -420,6 +448,13 @@
     "area": "AI"
   },
   {
+    "company": "Sauna.ai",
+    "domain": "asana.com",
+    "ats": "ashby",
+    "board": "sauna.ai",
+    "area": "AI"
+  },
+  {
     "company": "Semgrep",
     "domain": "semgrep.com",
     "ats": "ashby",
@@ -452,6 +487,13 @@
     "domain": "socket.dev",
     "ats": "ashby",
     "board": "socket",
+    "area": "AI"
+  },
+  {
+    "company": "Striiminc",
+    "domain": "striiminc.com",
+    "ats": "greenhouse",
+    "board": "striiminc",
     "area": "AI"
   },
   {
