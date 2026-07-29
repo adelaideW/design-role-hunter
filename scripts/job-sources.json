@@ -120,7 +120,7 @@
   },
   {
     "company": "Cssmerge",
-    "domain": "synthesia.io",
+    "domain": "harvey.ai",
     "ats": "greenhouse",
     "board": "cssmerge",
     "area": "AI"
@@ -168,10 +168,10 @@
     "area": "AI"
   },
   {
-    "company": "Enterpret",
-    "domain": "reddit.com",
+    "company": "Echo",
+    "domain": "mintlify.com",
     "ats": "greenhouse",
-    "board": "enterpret",
+    "board": "echo",
     "area": "AI"
   },
   {
@@ -214,13 +214,6 @@
     "domain": "flutterflow.io",
     "ats": "ashby",
     "board": "FlutterFlow",
-    "area": "AI"
-  },
-  {
-    "company": "Gatherai",
-    "domain": "descript.com",
-    "ats": "greenhouse",
-    "board": "gatherai",
     "area": "AI"
   },
   {
@@ -287,13 +280,6 @@
     "area": "AI"
   },
   {
-    "company": "Latticepartners",
-    "domain": "gong.io",
-    "ats": "ashby",
-    "board": "latticepartners",
-    "area": "AI"
-  },
-  {
     "company": "Linear",
     "domain": "linear.app",
     "ats": "ashby",
@@ -337,7 +323,7 @@
   },
   {
     "company": "Nectar Social",
-    "domain": "supabase.com",
+    "domain": "okta.com",
     "ats": "ashby",
     "board": "nectar-social",
     "area": "AI"
@@ -361,13 +347,6 @@
     "domain": "notion.so",
     "ats": "ashby",
     "board": "notion",
-    "area": "AI"
-  },
-  {
-    "company": "Nubank",
-    "domain": "datadoghq.com",
-    "ats": "ashby",
-    "board": "nubank",
     "area": "AI"
   },
   {
