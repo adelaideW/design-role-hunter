@@ -1,7 +1,7 @@
 [
   {
     "company": "Affinity.co",
-    "domain": "affinityco.com",
+    "domain": "asana.com",
     "ats": "ashby",
     "board": "affinity.co",
     "area": "AI"
@@ -25,13 +25,6 @@
     "domain": "amplitude.com",
     "ats": "greenhouse",
     "board": "amplitude",
-    "area": "AI"
-  },
-  {
-    "company": "Ando",
-    "domain": "fivetran.com",
-    "ats": "ashby",
-    "board": "ando",
     "area": "AI"
   },
   {
@@ -120,7 +113,7 @@
   },
   {
     "company": "Cssmerge",
-    "domain": "harvey.ai",
+    "domain": "synthesia.io",
     "ats": "greenhouse",
     "board": "cssmerge",
     "area": "AI"
@@ -168,10 +161,10 @@
     "area": "AI"
   },
   {
-    "company": "Echo",
-    "domain": "mintlify.com",
+    "company": "Enterpret",
+    "domain": "reddit.com",
     "ats": "greenhouse",
-    "board": "echo",
+    "board": "enterpret",
     "area": "AI"
   },
   {
@@ -231,13 +224,6 @@
     "area": "AI"
   },
   {
-    "company": "Gradial",
-    "domain": "openai.com",
-    "ats": "greenhouse",
-    "board": "gradial",
-    "area": "AI"
-  },
-  {
     "company": "Gusto",
     "domain": "gusto.com",
     "ats": "greenhouse",
@@ -253,7 +239,7 @@
   },
   {
     "company": "Hiive",
-    "domain": "ramp.com",
+    "domain": "openai.com",
     "ats": "ashby",
     "board": "hiive",
     "area": "AI"
@@ -378,13 +364,6 @@
     "area": "AI"
   },
   {
-    "company": "Qualdoc",
-    "domain": "dust.tt",
-    "ats": "lever",
-    "board": "qualdoc",
-    "area": "AI"
-  },
-  {
     "company": "Ramp",
     "domain": "ramp.com",
     "ats": "ashby",
@@ -427,10 +406,10 @@
     "area": "AI"
   },
   {
-    "company": "Sauna.ai",
-    "domain": "asana.com",
-    "ats": "ashby",
-    "board": "sauna.ai",
+    "company": "Scale AI",
+    "domain": "scale.com",
+    "ats": "greenhouse",
+    "board": "scaleai",
     "area": "AI"
   },
   {
@@ -466,13 +445,6 @@
     "domain": "socket.dev",
     "ats": "ashby",
     "board": "socket",
-    "area": "AI"
-  },
-  {
-    "company": "Striiminc",
-    "domain": "striiminc.com",
-    "ats": "greenhouse",
-    "board": "striiminc",
     "area": "AI"
   },
   {
