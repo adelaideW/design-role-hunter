@@ -56,6 +56,20 @@
     "area": "AI"
   },
   {
+    "company": "Betterup",
+    "domain": "databricks.com",
+    "ats": "ashby",
+    "board": "betterup",
+    "area": "AI"
+  },
+  {
+    "company": "Bjakcareer",
+    "domain": "baseten.co",
+    "ats": "ashby",
+    "board": "bjakcareer",
+    "area": "AI"
+  },
+  {
     "company": "Braintrust",
     "domain": "braintrust.dev",
     "ats": "ashby",
@@ -112,10 +126,10 @@
     "area": "AI"
   },
   {
-    "company": "Cssmerge",
-    "domain": "synthesia.io",
-    "ats": "greenhouse",
-    "board": "cssmerge",
+    "company": "Decagon",
+    "domain": "gusto.com",
+    "ats": "ashby",
+    "board": "decagon",
     "area": "AI"
   },
   {
@@ -161,10 +175,10 @@
     "area": "AI"
   },
   {
-    "company": "Enterpret",
-    "domain": "reddit.com",
+    "company": "Echo",
+    "domain": "mintlify.com",
     "ats": "greenhouse",
-    "board": "enterpret",
+    "board": "echo",
     "area": "AI"
   },
   {
@@ -231,6 +245,13 @@
     "area": "AI"
   },
   {
+    "company": "Happy Sleep",
+    "domain": "webflow.com",
+    "ats": "lever",
+    "board": "happy-sleep",
+    "area": "AI"
+  },
+  {
     "company": "Harvey",
     "domain": "harvey.ai",
     "ats": "ashby",
@@ -249,6 +270,13 @@
     "domain": "infisical.com",
     "ats": "ashby",
     "board": "infisical",
+    "area": "AI"
+  },
+  {
+    "company": "Kota",
+    "domain": "deepmind.google",
+    "ats": "ashby",
+    "board": "kota",
     "area": "AI"
   },
   {
@@ -284,6 +312,13 @@
     "domain": "lovable.dev",
     "ats": "ashby",
     "board": "lovable",
+    "area": "AI"
+  },
+  {
+    "company": "Merciv",
+    "domain": "merciv.com",
+    "ats": "ashby",
+    "board": "merciv",
     "area": "AI"
   },
   {
@@ -448,6 +483,13 @@
     "area": "AI"
   },
   {
+    "company": "Striiminc",
+    "domain": "striiminc.com",
+    "ats": "greenhouse",
+    "board": "striiminc",
+    "area": "AI"
+  },
+  {
     "company": "Stytch",
     "domain": "stytch.com",
     "ats": "ashby",
@@ -466,13 +508,6 @@
     "domain": "supabase.com",
     "ats": "ashby",
     "board": "supabase",
-    "area": "AI"
-  },
-  {
-    "company": "Super.com",
-    "domain": "deepmind.google",
-    "ats": "ashby",
-    "board": "super.com",
     "area": "AI"
   },
   {
@@ -518,10 +553,24 @@
     "area": "AI"
   },
   {
+    "company": "Uipath",
+    "domain": "anthropic.com",
+    "ats": "ashby",
+    "board": "uipath",
+    "area": "AI"
+  },
+  {
     "company": "Vercel",
     "domain": "vercel.com",
     "ats": "greenhouse",
     "board": "vercel",
+    "area": "AI"
+  },
+  {
+    "company": "Webflow",
+    "domain": "webflow.com",
+    "ats": "greenhouse",
+    "board": "webflow",
     "area": "AI"
   },
   {
