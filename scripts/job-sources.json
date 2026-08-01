@@ -1,16 +1,16 @@
 [
   {
-    "company": "Affinity.co",
-    "domain": "asana.com",
-    "ats": "ashby",
-    "board": "affinity.co",
-    "area": "AI"
-  },
-  {
     "company": "Affirm",
     "domain": "affirm.com",
     "ats": "greenhouse",
     "board": "affirm",
+    "area": "AI"
+  },
+  {
+    "company": "Aircallioinc",
+    "domain": "webflow.com",
+    "ats": "greenhouse",
+    "board": "aircallioinc",
     "area": "AI"
   },
   {
@@ -64,7 +64,7 @@
   },
   {
     "company": "Bjakcareer",
-    "domain": "baseten.co",
+    "domain": "datadoghq.com",
     "ats": "ashby",
     "board": "bjakcareer",
     "area": "AI"
@@ -210,13 +210,6 @@
     "area": "AI"
   },
   {
-    "company": "Fireworksai",
-    "domain": "fireworks.ai",
-    "ats": "greenhouse",
-    "board": "fireworksai",
-    "area": "AI"
-  },
-  {
     "company": "FlutterFlow",
     "domain": "flutterflow.io",
     "ats": "ashby",
@@ -242,13 +235,6 @@
     "domain": "gusto.com",
     "ats": "greenhouse",
     "board": "gusto",
-    "area": "AI"
-  },
-  {
-    "company": "Happy Sleep",
-    "domain": "webflow.com",
-    "ats": "lever",
-    "board": "happy-sleep",
     "area": "AI"
   },
   {
@@ -336,10 +322,10 @@
     "area": "AI"
   },
   {
-    "company": "Mobentertainment",
-    "domain": "snowflake.com",
-    "ats": "greenhouse",
-    "board": "mobentertainment",
+    "company": "Nace.ai",
+    "domain": "figma.com",
+    "ats": "ashby",
+    "board": "nace.ai",
     "area": "AI"
   },
   {
@@ -407,7 +393,7 @@
   },
   {
     "company": "Redcellpartners",
-    "domain": "robinhood.com",
+    "domain": "snowflake.com",
     "ats": "greenhouse",
     "board": "redcellpartners",
     "area": "AI"
@@ -424,6 +410,13 @@
     "domain": "replit.com",
     "ats": "ashby",
     "board": "replit",
+    "area": "AI"
+  },
+  {
+    "company": "Resend",
+    "domain": "resend.com",
+    "ats": "ashby",
+    "board": "resend",
     "area": "AI"
   },
   {
@@ -480,13 +473,6 @@
     "domain": "socket.dev",
     "ats": "ashby",
     "board": "socket",
-    "area": "AI"
-  },
-  {
-    "company": "Striiminc",
-    "domain": "striiminc.com",
-    "ats": "greenhouse",
-    "board": "striiminc",
     "area": "AI"
   },
   {
