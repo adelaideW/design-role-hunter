@@ -57,7 +57,7 @@
   },
   {
     "company": "Betterup",
-    "domain": "databricks.com",
+    "domain": "snowflake.com",
     "ats": "ashby",
     "board": "betterup",
     "area": "AI"
@@ -154,13 +154,6 @@
     "area": "AI"
   },
   {
-    "company": "Docebo",
-    "domain": "snowflake.com",
-    "ats": "ashby",
-    "board": "docebo",
-    "area": "AI"
-  },
-  {
     "company": "Doji",
     "domain": "doji.art",
     "ats": "ashby",
@@ -231,6 +224,13 @@
     "area": "AI"
   },
   {
+    "company": "Gradial",
+    "domain": "figma.com",
+    "ats": "greenhouse",
+    "board": "gradial",
+    "area": "AI"
+  },
+  {
     "company": "Gusto",
     "domain": "gusto.com",
     "ats": "greenhouse",
@@ -246,7 +246,7 @@
   },
   {
     "company": "Hiive",
-    "domain": "openai.com",
+    "domain": "ramp.com",
     "ats": "ashby",
     "board": "hiive",
     "area": "AI"
@@ -277,6 +277,13 @@
     "domain": "langchain.com",
     "ats": "ashby",
     "board": "langchain",
+    "area": "AI"
+  },
+  {
+    "company": "Latticepartners",
+    "domain": "gong.io",
+    "ats": "ashby",
+    "board": "latticepartners",
     "area": "AI"
   },
   {
@@ -473,6 +480,13 @@
     "domain": "socket.dev",
     "ats": "ashby",
     "board": "socket",
+    "area": "AI"
+  },
+  {
+    "company": "Striiminc",
+    "domain": "stability.ai",
+    "ats": "greenhouse",
+    "board": "striiminc",
     "area": "AI"
   },
   {
