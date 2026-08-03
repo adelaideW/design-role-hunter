@@ -84,6 +84,13 @@
     "area": "AI"
   },
   {
+    "company": "Cesiumastro",
+    "domain": "stripe.com",
+    "ats": "lever",
+    "board": "CesiumAstro",
+    "area": "AI"
+  },
+  {
     "company": "Chime",
     "domain": "chime.com",
     "ats": "greenhouse",
@@ -235,6 +242,13 @@
     "domain": "gusto.com",
     "ats": "greenhouse",
     "board": "gusto",
+    "area": "AI"
+  },
+  {
+    "company": "Happy Sleep",
+    "domain": "happysleep.com",
+    "ats": "lever",
+    "board": "happy-sleep",
     "area": "AI"
   },
   {
@@ -526,7 +540,7 @@
   },
   {
     "company": "Thunkable",
-    "domain": "stripe.com",
+    "domain": "thunkable.com",
     "ats": "lever",
     "board": "thunkable",
     "area": "AI"
