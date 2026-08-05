@@ -217,6 +217,13 @@
     "area": "AI"
   },
   {
+    "company": "G2",
+    "domain": "g2.com",
+    "ats": "ashby",
+    "board": "G2",
+    "area": "AI"
+  },
+  {
     "company": "Glossgenius",
     "domain": "glossgenius.com",
     "ats": "greenhouse",
@@ -274,7 +281,7 @@
   },
   {
     "company": "Kota",
-    "domain": "deepmind.google",
+    "domain": "mercor.com",
     "ats": "ashby",
     "board": "kota",
     "area": "AI"
@@ -322,13 +329,6 @@
     "area": "AI"
   },
   {
-    "company": "Merciv",
-    "domain": "merciv.com",
-    "ats": "ashby",
-    "board": "merciv",
-    "area": "AI"
-  },
-  {
     "company": "Mercor",
     "domain": "mercor.com",
     "ats": "ashby",
@@ -344,7 +344,7 @@
   },
   {
     "company": "Nectar Social",
-    "domain": "okta.com",
+    "domain": "supabase.com",
     "ats": "ashby",
     "board": "nectar-social",
     "area": "AI"
