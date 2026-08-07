@@ -57,7 +57,7 @@
   },
   {
     "company": "Betterup",
-    "domain": "snowflake.com",
+    "domain": "databricks.com",
     "ats": "ashby",
     "board": "betterup",
     "area": "AI"
@@ -161,6 +161,13 @@
     "area": "AI"
   },
   {
+    "company": "Docebo",
+    "domain": "snowflake.com",
+    "ats": "ashby",
+    "board": "docebo",
+    "area": "AI"
+  },
+  {
     "company": "Doji",
     "domain": "doji.art",
     "ats": "ashby",
@@ -175,10 +182,10 @@
     "area": "AI"
   },
   {
-    "company": "Echo",
-    "domain": "mintlify.com",
+    "company": "Enterpret",
+    "domain": "reddit.com",
     "ats": "greenhouse",
-    "board": "echo",
+    "board": "enterpret",
     "area": "AI"
   },
   {
@@ -218,7 +225,7 @@
   },
   {
     "company": "G2",
-    "domain": "g2.com",
+    "domain": "anthropic.com",
     "ats": "ashby",
     "board": "G2",
     "area": "AI"
@@ -249,13 +256,6 @@
     "domain": "gusto.com",
     "ats": "greenhouse",
     "board": "gusto",
-    "area": "AI"
-  },
-  {
-    "company": "Happy Sleep",
-    "domain": "happysleep.com",
-    "ats": "lever",
-    "board": "happy-sleep",
     "area": "AI"
   },
   {
@@ -344,7 +344,7 @@
   },
   {
     "company": "Nectar Social",
-    "domain": "supabase.com",
+    "domain": "nectarsocial.com",
     "ats": "ashby",
     "board": "nectar-social",
     "area": "AI"
@@ -399,17 +399,17 @@
     "area": "AI"
   },
   {
+    "company": "Plaud",
+    "domain": "linear.app",
+    "ats": "ashby",
+    "board": "Plaud",
+    "area": "AI"
+  },
+  {
     "company": "Ramp",
     "domain": "ramp.com",
     "ats": "ashby",
     "board": "ramp",
-    "area": "AI"
-  },
-  {
-    "company": "Redcellpartners",
-    "domain": "snowflake.com",
-    "ats": "greenhouse",
-    "board": "redcellpartners",
     "area": "AI"
   },
   {
@@ -469,6 +469,13 @@
     "area": "AI"
   },
   {
+    "company": "Sevenai",
+    "domain": "anthropic.com",
+    "ats": "ashby",
+    "board": "sevenai",
+    "area": "AI"
+  },
+  {
     "company": "Sierra",
     "domain": "sierra.ai",
     "ats": "ashby",
@@ -494,6 +501,13 @@
     "domain": "socket.dev",
     "ats": "ashby",
     "board": "socket",
+    "area": "AI"
+  },
+  {
+    "company": "Stackblitz",
+    "domain": "bolt.new",
+    "ats": "greenhouse",
+    "board": "stackblitz",
     "area": "AI"
   },
   {
@@ -546,6 +560,13 @@
     "area": "AI"
   },
   {
+    "company": "Tremendous",
+    "domain": "lovable.dev",
+    "ats": "ashby",
+    "board": "Tremendous",
+    "area": "AI"
+  },
+  {
     "company": "Typeface",
     "domain": "typeface.ai",
     "ats": "greenhouse",
@@ -578,13 +599,6 @@
     "domain": "webflow.com",
     "ats": "greenhouse",
     "board": "webflow",
-    "area": "AI"
-  },
-  {
-    "company": "Xai",
-    "domain": "x.ai",
-    "ats": "greenhouse",
-    "board": "xai",
     "area": "AI"
   },
   {
