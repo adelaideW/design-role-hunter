@@ -57,7 +57,7 @@
   },
   {
     "company": "Betterup",
-    "domain": "databricks.com",
+    "domain": "snowflake.com",
     "ats": "ashby",
     "board": "betterup",
     "area": "AI"
@@ -161,13 +161,6 @@
     "area": "AI"
   },
   {
-    "company": "Docebo",
-    "domain": "snowflake.com",
-    "ats": "ashby",
-    "board": "docebo",
-    "area": "AI"
-  },
-  {
     "company": "Doji",
     "domain": "doji.art",
     "ats": "ashby",
@@ -186,6 +179,13 @@
     "domain": "reddit.com",
     "ats": "greenhouse",
     "board": "enterpret",
+    "area": "AI"
+  },
+  {
+    "company": "Exa",
+    "domain": "palantir.com",
+    "ats": "ashby",
+    "board": "exa",
     "area": "AI"
   },
   {
@@ -301,13 +301,6 @@
     "area": "AI"
   },
   {
-    "company": "Latticepartners",
-    "domain": "gong.io",
-    "ats": "ashby",
-    "board": "latticepartners",
-    "area": "AI"
-  },
-  {
     "company": "Linear",
     "domain": "linear.app",
     "ats": "ashby",
@@ -340,13 +333,6 @@
     "domain": "mintlify.com",
     "ats": "ashby",
     "board": "mintlify",
-    "area": "AI"
-  },
-  {
-    "company": "Nectar Social",
-    "domain": "nectarsocial.com",
-    "ats": "ashby",
-    "board": "nectar-social",
     "area": "AI"
   },
   {
@@ -399,13 +385,6 @@
     "area": "AI"
   },
   {
-    "company": "Plaud",
-    "domain": "linear.app",
-    "ats": "ashby",
-    "board": "Plaud",
-    "area": "AI"
-  },
-  {
     "company": "Ramp",
     "domain": "ramp.com",
     "ats": "ashby",
@@ -455,24 +434,10 @@
     "area": "AI"
   },
   {
-    "company": "Schoolhouse World",
-    "domain": "figma.com",
-    "ats": "ashby",
-    "board": "schoolhouse-world",
-    "area": "AI"
-  },
-  {
     "company": "Semgrep",
     "domain": "semgrep.com",
     "ats": "ashby",
     "board": "semgrep",
-    "area": "AI"
-  },
-  {
-    "company": "Sevenai",
-    "domain": "anthropic.com",
-    "ats": "ashby",
-    "board": "sevenai",
     "area": "AI"
   },
   {
@@ -508,13 +473,6 @@
     "domain": "bolt.new",
     "ats": "greenhouse",
     "board": "stackblitz",
-    "area": "AI"
-  },
-  {
-    "company": "Striiminc",
-    "domain": "stability.ai",
-    "ats": "greenhouse",
-    "board": "striiminc",
     "area": "AI"
   },
   {
