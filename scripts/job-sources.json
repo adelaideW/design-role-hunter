@@ -182,13 +182,6 @@
     "area": "AI"
   },
   {
-    "company": "Exa",
-    "domain": "palantir.com",
-    "ats": "ashby",
-    "board": "exa",
-    "area": "AI"
-  },
-  {
     "company": "Factory",
     "domain": "factory.ai",
     "ats": "ashby",
@@ -329,6 +322,13 @@
     "area": "AI"
   },
   {
+    "company": "Metropolis",
+    "domain": "together.ai",
+    "ats": "greenhouse",
+    "board": "metropolis",
+    "area": "AI"
+  },
+  {
     "company": "Mintlify",
     "domain": "mintlify.com",
     "ats": "ashby",
@@ -385,6 +385,13 @@
     "area": "AI"
   },
   {
+    "company": "Plaud",
+    "domain": "linear.app",
+    "ats": "ashby",
+    "board": "Plaud",
+    "area": "AI"
+  },
+  {
     "company": "Ramp",
     "domain": "ramp.com",
     "ats": "ashby",
@@ -434,10 +441,24 @@
     "area": "AI"
   },
   {
+    "company": "Schoolhouse World",
+    "domain": "figma.com",
+    "ats": "ashby",
+    "board": "schoolhouse-world",
+    "area": "AI"
+  },
+  {
     "company": "Semgrep",
     "domain": "semgrep.com",
     "ats": "ashby",
     "board": "semgrep",
+    "area": "AI"
+  },
+  {
+    "company": "Sevenai",
+    "domain": "anthropic.com",
+    "ats": "ashby",
+    "board": "sevenai",
     "area": "AI"
   },
   {
@@ -466,6 +487,13 @@
     "domain": "socket.dev",
     "ats": "ashby",
     "board": "socket",
+    "area": "AI"
+  },
+  {
+    "company": "Solutions",
+    "domain": "solutions.com",
+    "ats": "greenhouse",
+    "board": "solutions",
     "area": "AI"
   },
   {
