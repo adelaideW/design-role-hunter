@@ -1,5 +1,17 @@
 [
   {
+    "id": 1385607609,
+    "company": "Gusto",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
+    "role": "Product Designer, Contractors",
+    "location": "New York, NY; San Francisco, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7488373",
+    "postedAt": "2026-08-10T10:20:56-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
     "id": 1532798165,
     "company": "Harvey",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
@@ -8,7 +20,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/c84964b6-9e60-4005-8580-b865f3e47b4f",
     "postedAt": "2026-08-07T19:36:08.977+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -20,7 +32,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/851b416f-9869-4b9c-9c10-5105bded4330",
     "postedAt": "2026-08-07T19:34:52.631+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -32,7 +44,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244",
     "postedAt": "2026-08-07T15:55:00-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -44,7 +56,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/stackblitz/jobs/4354791009",
     "postedAt": "2026-08-07T16:48:44-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -56,7 +68,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/webflow/jobs/8096142",
     "postedAt": "2026-08-07T13:57:09-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -68,7 +80,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002",
     "postedAt": "2026-08-06T16:31:48-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -80,7 +92,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/faire/jobs/8445628002?gh_jid=8445628002",
     "postedAt": "2026-08-07T06:17:49-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -92,19 +104,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8020155",
     "postedAt": "2026-08-06T17:14:18-04:00",
-    "postedDays": 2,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1385607609,
-    "company": "Gusto",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
-    "role": "Product Designer, Contractors",
-    "location": "New York, NY; San Francisco, CA",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/7488373",
-    "postedAt": "2026-08-06T17:14:18-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -116,7 +116,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
     "postedAt": "2026-08-06T22:05:46-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -128,7 +128,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7905702",
     "postedAt": "2026-08-06T17:14:18-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -140,7 +140,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7514758",
     "postedAt": "2026-08-06T17:14:18-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -152,7 +152,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/Linear/5b9997fd-7507-4437-8fd7-14178c99ab5d",
     "postedAt": "2026-08-06T19:59:06.175+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -164,7 +164,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/Linear/b32de590-06ce-47d4-8994-66b936df908d",
     "postedAt": "2026-08-06T19:59:03.067+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -176,7 +176,7 @@
     "area": "AI Research",
     "url": "https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc",
     "postedAt": "2026-08-06T17:31:18.776+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -188,7 +188,7 @@
     "area": "AI Research",
     "url": "https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4",
     "postedAt": "2026-08-06T17:39:11.107+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -200,7 +200,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/replit/9398cc6a-8e30-4bfe-a6c3-59e8b384a848",
     "postedAt": "2026-08-06T16:33:38.602+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -212,7 +212,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/51885ae5-4f4c-46c4-abd3-d7aad1c8d9c0",
     "postedAt": "2026-08-06T09:29:34.131+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -224,7 +224,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/df79d83b-e366-4998-afdd-694d06183d75",
     "postedAt": "2026-08-06T09:10:40.707+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -236,7 +236,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/metropolis/jobs/7732225003",
     "postedAt": "2026-08-05T14:29:33-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -248,7 +248,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/metropolis/jobs/7732229003",
     "postedAt": "2026-08-05T14:29:34-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -260,7 +260,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/Tremendous/61534849-aa96-450b-b3a6-0ea9d14d8753",
     "postedAt": "2026-08-05T23:23:58.076+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -272,7 +272,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/G2/56155ca1-0338-41a2-8a1f-13f36fb70d45",
     "postedAt": "2026-08-05T07:08:19.628+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -284,7 +284,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/kota/17be8362-a6d0-49fa-a127-53d66ca8745e",
     "postedAt": "2026-08-04T17:56:21.572+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -296,7 +296,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/mercor/b1f4f69b-efd2-407b-bc86-f8a111104cf3",
     "postedAt": "2026-08-04T20:59:01.349+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -308,7 +308,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/solutions/jobs/4702266006",
     "postedAt": "2026-08-05T10:31:44-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -320,7 +320,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/a1f0d6c0-7a9a-483d-84a7-e8a4ffb8eee9",
     "postedAt": "2026-08-04T16:52:32.961+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -332,7 +332,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/d0b208a8-90ea-4b4a-a315-d3463492381e",
     "postedAt": "2026-08-04T04:11:58.661+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -344,7 +344,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/6d232dd4-313d-479c-9531-d76e31e17351",
     "postedAt": "2026-08-04T04:22:33.335+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -356,7 +356,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/16f826cd-485c-49a3-91dd-2680349036ed",
     "postedAt": "2026-08-04T04:12:58.332+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -368,7 +368,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/a9449a19-2844-4e06-ae74-aafa7fca1997",
     "postedAt": "2026-08-04T04:11:04.661+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -380,7 +380,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/61de39cb-c88d-48c3-a686-13c2c3924b5d",
     "postedAt": "2026-08-04T04:21:34.677+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -392,7 +392,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5efa3853-47dc-4422-8598-e537d25ce270",
     "postedAt": "2026-08-04T03:40:03.010+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -404,7 +404,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/db47af7b-3372-4e9d-a0a5-3274b35b2ad4",
     "postedAt": "2026-08-04T04:20:46.456+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -416,7 +416,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/761b931a-9603-4306-820b-e567df736c67",
     "postedAt": "2026-08-04T03:49:59.719+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -428,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b0ddf520-1f4d-43bb-b22a-18298494cf38",
     "postedAt": "2026-08-04T04:10:09.292+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -440,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b27cfce5-bd26-4aea-89dc-37df161f4c1c",
     "postedAt": "2026-08-04T04:19:27.672+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -452,7 +452,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/f15de6cb-bdd0-4143-86df-a73c45bedff1",
     "postedAt": "2026-08-04T03:46:49.233+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -464,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5af6fcc7-54e6-4bcd-a635-e9c6d5f27b96",
     "postedAt": "2026-08-04T02:01:06.658+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -476,7 +476,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/aca9464d-8ba4-4aa4-b0bc-a26d6c159fdc",
     "postedAt": "2026-08-04T04:17:57.692+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -488,7 +488,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/9d65dbb5-da25-4f1a-b63d-c07beb8417bc",
     "postedAt": "2026-08-04T01:16:26.351+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -500,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ecc75a12-b190-42d8-8fd1-437b2d2285b5",
     "postedAt": "2026-08-04T01:17:13.963+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -512,7 +512,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b73403d2-8e69-4bc8-b8a7-6e070de96c85",
     "postedAt": "2026-08-04T04:23:25.699+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -524,7 +524,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b6437c41-261a-4af9-ba45-57d6480a42d4",
     "postedAt": "2026-08-04T04:24:32.745+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -536,7 +536,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/6a2445a5-6d17-4362-b35e-05033634b39d",
     "postedAt": "2026-08-04T01:58:34.629+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -548,7 +548,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/75b5b4ee-5235-4291-82b3-5ed8b7d32868",
     "postedAt": "2026-08-04T03:43:08.704+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -560,7 +560,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b1a3bc27-72fb-4b9c-8699-4a923f35c977",
     "postedAt": "2026-08-04T03:45:14.818+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -572,7 +572,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b2946157-811b-481b-9bc4-16c2cd1de29c",
     "postedAt": "2026-08-04T02:45:39.658+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -584,7 +584,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/483befe4-2d39-458a-9742-64cdc14e6a2c",
     "postedAt": "2026-08-04T03:48:41.912+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -596,7 +596,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/8f46d25c-2278-4155-982e-750e8852bcc3",
     "postedAt": "2026-08-04T02:49:17.431+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   }
 ]

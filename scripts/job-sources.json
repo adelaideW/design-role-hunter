@@ -85,7 +85,7 @@
   },
   {
     "company": "Cesiumastro",
-    "domain": "stripe.com",
+    "domain": "figma.com",
     "ats": "lever",
     "board": "CesiumAstro",
     "area": "AI"
@@ -238,13 +238,6 @@
     "area": "AI"
   },
   {
-    "company": "Gradial",
-    "domain": "figma.com",
-    "ats": "greenhouse",
-    "board": "gradial",
-    "area": "AI"
-  },
-  {
     "company": "Gusto",
     "domain": "gusto.com",
     "ats": "greenhouse",
@@ -260,7 +253,7 @@
   },
   {
     "company": "Hiive",
-    "domain": "ramp.com",
+    "domain": "tavus.io",
     "ats": "ashby",
     "board": "hiive",
     "area": "AI"
@@ -536,6 +529,13 @@
     "domain": "tavus.io",
     "ats": "ashby",
     "board": "tavus",
+    "area": "AI"
+  },
+  {
+    "company": "Thunkable",
+    "domain": "thunkable.com",
+    "ats": "lever",
+    "board": "thunkable",
     "area": "AI"
   },
   {
