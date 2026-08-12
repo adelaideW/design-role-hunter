@@ -112,6 +112,13 @@
     "area": "AI"
   },
   {
+    "company": "Coframe",
+    "domain": "coframe.ai",
+    "ats": "ashby",
+    "board": "coframe",
+    "area": "AI"
+  },
+  {
     "company": "ComfyUI",
     "domain": "comfy.org",
     "ats": "ashby",
@@ -168,6 +175,13 @@
     "area": "AI"
   },
   {
+    "company": "Eliseai",
+    "domain": "coframe.ai",
+    "ats": "ashby",
+    "board": "EliseAI",
+    "area": "AI"
+  },
+  {
     "company": "Enterpret",
     "domain": "reddit.com",
     "ats": "greenhouse",
@@ -186,6 +200,13 @@
     "domain": "faire.com",
     "ats": "greenhouse",
     "board": "faire",
+    "area": "AI"
+  },
+  {
+    "company": "Fathom5",
+    "domain": "snowflake.com",
+    "ats": "lever",
+    "board": "Fathom5",
     "area": "AI"
   },
   {
@@ -211,7 +232,7 @@
   },
   {
     "company": "G2",
-    "domain": "anthropic.com",
+    "domain": "datadoghq.com",
     "ats": "ashby",
     "board": "G2",
     "area": "AI"
@@ -326,6 +347,13 @@
     "domain": "netic.ai",
     "ats": "ashby",
     "board": "netic",
+    "area": "AI"
+  },
+  {
+    "company": "Netspend Careers Page",
+    "domain": "netspendcareerspage.com",
+    "ats": "ashby",
+    "board": "Netspend-Careers-Page",
     "area": "AI"
   },
   {
@@ -477,7 +505,7 @@
   },
   {
     "company": "Solutions",
-    "domain": "solutions.com",
+    "domain": "waymo.com",
     "ats": "greenhouse",
     "board": "solutions",
     "area": "AI"
@@ -561,7 +589,7 @@
   },
   {
     "company": "Uipath",
-    "domain": "anthropic.com",
+    "domain": "suno.com",
     "ats": "ashby",
     "board": "uipath",
     "area": "AI"
