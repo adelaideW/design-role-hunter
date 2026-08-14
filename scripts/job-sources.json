@@ -42,6 +42,13 @@
     "area": "AI"
   },
   {
+    "company": "Assemblyai",
+    "domain": "assemblyai.com",
+    "ats": "greenhouse",
+    "board": "assemblyai",
+    "area": "AI"
+  },
+  {
     "company": "Baseten",
     "domain": "baseten.co",
     "ats": "ashby",
@@ -133,8 +140,15 @@
     "area": "AI"
   },
   {
+    "company": "D Matrix",
+    "domain": "klaviyo.com",
+    "ats": "ashby",
+    "board": "d-matrix",
+    "area": "AI"
+  },
+  {
     "company": "Decagon",
-    "domain": "gusto.com",
+    "domain": "openai.com",
     "ats": "ashby",
     "board": "decagon",
     "area": "AI"
@@ -179,13 +193,6 @@
     "domain": "coframe.ai",
     "ats": "ashby",
     "board": "EliseAI",
-    "area": "AI"
-  },
-  {
-    "company": "Enterpret",
-    "domain": "reddit.com",
-    "ats": "greenhouse",
-    "board": "enterpret",
     "area": "AI"
   },
   {
@@ -281,7 +288,7 @@
   },
   {
     "company": "Kota",
-    "domain": "mercor.com",
+    "domain": "snowflake.com",
     "ats": "ashby",
     "board": "kota",
     "area": "AI"
@@ -340,6 +347,13 @@
     "domain": "mintlify.com",
     "ats": "ashby",
     "board": "mintlify",
+    "area": "AI"
+  },
+  {
+    "company": "Nectar Social",
+    "domain": "nectarsocial.com",
+    "ats": "ashby",
+    "board": "nectar-social",
     "area": "AI"
   },
   {
@@ -434,6 +448,13 @@
     "area": "AI"
   },
   {
+    "company": "Retell Ai",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "retell-ai",
+    "area": "AI"
+  },
+  {
     "company": "Robinhood",
     "domain": "robinhood.com",
     "ats": "greenhouse",
@@ -459,13 +480,6 @@
     "domain": "semgrep.com",
     "ats": "ashby",
     "board": "semgrep",
-    "area": "AI"
-  },
-  {
-    "company": "Sevenai",
-    "domain": "anthropic.com",
-    "ats": "ashby",
-    "board": "sevenai",
     "area": "AI"
   },
   {
@@ -599,6 +613,13 @@
     "domain": "webflow.com",
     "ats": "greenhouse",
     "board": "webflow",
+    "area": "AI"
+  },
+  {
+    "company": "Zerocarbonsystems",
+    "domain": "supabase.com",
+    "ats": "lever",
+    "board": "zerocarbonsystems",
     "area": "AI"
   },
   {
