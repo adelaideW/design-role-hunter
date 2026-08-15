@@ -141,7 +141,7 @@
   },
   {
     "company": "D Matrix",
-    "domain": "klaviyo.com",
+    "domain": "deepmind.google",
     "ats": "ashby",
     "board": "d-matrix",
     "area": "AI"
@@ -193,6 +193,13 @@
     "domain": "coframe.ai",
     "ats": "ashby",
     "board": "EliseAI",
+    "area": "AI"
+  },
+  {
+    "company": "Enterpret",
+    "domain": "reddit.com",
+    "ats": "greenhouse",
+    "board": "enterpret",
     "area": "AI"
   },
   {
@@ -263,6 +270,13 @@
     "domain": "gusto.com",
     "ats": "greenhouse",
     "board": "gusto",
+    "area": "AI"
+  },
+  {
+    "company": "Happy Sleep",
+    "domain": "webflow.com",
+    "ats": "lever",
+    "board": "happy-sleep",
     "area": "AI"
   },
   {
@@ -347,13 +361,6 @@
     "domain": "mintlify.com",
     "ats": "ashby",
     "board": "mintlify",
-    "area": "AI"
-  },
-  {
-    "company": "Nectar Social",
-    "domain": "nectarsocial.com",
-    "ats": "ashby",
-    "board": "nectar-social",
     "area": "AI"
   },
   {
@@ -560,13 +567,6 @@
     "area": "AI"
   },
   {
-    "company": "Thunkable",
-    "domain": "thunkable.com",
-    "ats": "lever",
-    "board": "thunkable",
-    "area": "AI"
-  },
-  {
     "company": "Together AI",
     "domain": "together.ai",
     "ats": "greenhouse",
@@ -613,13 +613,6 @@
     "domain": "webflow.com",
     "ats": "greenhouse",
     "board": "webflow",
-    "area": "AI"
-  },
-  {
-    "company": "Zerocarbonsystems",
-    "domain": "supabase.com",
-    "ats": "lever",
-    "board": "zerocarbonsystems",
     "area": "AI"
   },
   {
