@@ -7,6 +7,13 @@
     "area": "AI"
   },
   {
+    "company": "Aircallioinc",
+    "domain": "webflow.com",
+    "ats": "greenhouse",
+    "board": "aircallioinc",
+    "area": "AI"
+  },
+  {
     "company": "Airtable",
     "domain": "airtable.com",
     "ats": "greenhouse",
@@ -141,7 +148,7 @@
   },
   {
     "company": "D Matrix",
-    "domain": "deepmind.google",
+    "domain": "klaviyo.com",
     "ats": "ashby",
     "board": "d-matrix",
     "area": "AI"
@@ -274,7 +281,7 @@
   },
   {
     "company": "Happy Sleep",
-    "domain": "webflow.com",
+    "domain": "happysleep.com",
     "ats": "lever",
     "board": "happy-sleep",
     "area": "AI"
@@ -452,13 +459,6 @@
     "domain": "resend.com",
     "ats": "ashby",
     "board": "resend",
-    "area": "AI"
-  },
-  {
-    "company": "Retell Ai",
-    "domain": "pinterest.com",
-    "ats": "ashby",
-    "board": "retell-ai",
     "area": "AI"
   },
   {
