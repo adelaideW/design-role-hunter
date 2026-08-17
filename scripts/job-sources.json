@@ -1,5 +1,12 @@
 [
   {
+    "company": "Affinity.co",
+    "domain": "affinityco.com",
+    "ats": "ashby",
+    "board": "affinity.co",
+    "area": "AI"
+  },
+  {
     "company": "Affirm",
     "domain": "affirm.com",
     "ats": "greenhouse",
@@ -148,7 +155,7 @@
   },
   {
     "company": "D Matrix",
-    "domain": "klaviyo.com",
+    "domain": "deepmind.google",
     "ats": "ashby",
     "board": "d-matrix",
     "area": "AI"
@@ -200,13 +207,6 @@
     "domain": "coframe.ai",
     "ats": "ashby",
     "board": "EliseAI",
-    "area": "AI"
-  },
-  {
-    "company": "Enterpret",
-    "domain": "reddit.com",
-    "ats": "greenhouse",
-    "board": "enterpret",
     "area": "AI"
   },
   {
@@ -280,25 +280,11 @@
     "area": "AI"
   },
   {
-    "company": "Happy Sleep",
-    "domain": "happysleep.com",
-    "ats": "lever",
-    "board": "happy-sleep",
-    "area": "AI"
-  },
-  {
     "company": "Harvey",
     "domain": "harvey.ai",
     "ats": "ashby",
     "board": "harvey",
     "area": "Legal AI"
-  },
-  {
-    "company": "Hiive",
-    "domain": "tavus.io",
-    "ats": "ashby",
-    "board": "hiive",
-    "area": "AI"
   },
   {
     "company": "Infisical",
@@ -424,6 +410,13 @@
     "domain": "perplexity.ai",
     "ats": "ashby",
     "board": "perplexity",
+    "area": "AI"
+  },
+  {
+    "company": "Phoenixtechnologies",
+    "domain": "coinbase.com",
+    "ats": "lever",
+    "board": "phoenixtechnologies",
     "area": "AI"
   },
   {
