@@ -155,7 +155,7 @@
   },
   {
     "company": "D Matrix",
-    "domain": "deepmind.google",
+    "domain": "klaviyo.com",
     "ats": "ashby",
     "board": "d-matrix",
     "area": "AI"
@@ -277,6 +277,13 @@
     "domain": "gusto.com",
     "ats": "greenhouse",
     "board": "gusto",
+    "area": "AI"
+  },
+  {
+    "company": "Happy Sleep",
+    "domain": "happysleep.com",
+    "ats": "lever",
+    "board": "happy-sleep",
     "area": "AI"
   },
   {
@@ -599,6 +606,13 @@
     "domain": "vercel.com",
     "ats": "greenhouse",
     "board": "vercel",
+    "area": "AI"
+  },
+  {
+    "company": "Way",
+    "domain": "flutterflow.io",
+    "ats": "lever",
+    "board": "Way",
     "area": "AI"
   },
   {
