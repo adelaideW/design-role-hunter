@@ -120,7 +120,7 @@
   },
   {
     "company": "ClickUp",
-    "domain": "airtable.com",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "clickup",
     "area": "AI"
@@ -155,7 +155,7 @@
   },
   {
     "company": "D Matrix",
-    "domain": "klaviyo.com",
+    "domain": "mercor.com",
     "ats": "ashby",
     "board": "d-matrix",
     "area": "AI"
@@ -200,13 +200,6 @@
     "domain": "dust.tt",
     "ats": "ashby",
     "board": "dust",
-    "area": "AI"
-  },
-  {
-    "company": "Eliseai",
-    "domain": "coframe.ai",
-    "ats": "ashby",
-    "board": "EliseAI",
     "area": "AI"
   },
   {
@@ -308,13 +301,6 @@
     "area": "AI"
   },
   {
-    "company": "Krea",
-    "domain": "krea.ai",
-    "ats": "ashby",
-    "board": "krea",
-    "area": "AI"
-  },
-  {
     "company": "Langchain",
     "domain": "langchain.com",
     "ats": "ashby",
@@ -372,7 +358,7 @@
   },
   {
     "company": "Netspend Careers Page",
-    "domain": "netspendcareerspage.com",
+    "domain": "coframe.ai",
     "ats": "ashby",
     "board": "Netspend-Careers-Page",
     "area": "AI"
@@ -480,13 +466,6 @@
     "domain": "scale.com",
     "ats": "greenhouse",
     "board": "scaleai",
-    "area": "AI"
-  },
-  {
-    "company": "Semgrep",
-    "domain": "semgrep.com",
-    "ats": "ashby",
-    "board": "semgrep",
     "area": "AI"
   },
   {
@@ -620,6 +599,13 @@
     "domain": "webflow.com",
     "ats": "greenhouse",
     "board": "webflow",
+    "area": "AI"
+  },
+  {
+    "company": "Xai",
+    "domain": "x.ai",
+    "ats": "greenhouse",
+    "board": "xai",
     "area": "AI"
   },
   {
