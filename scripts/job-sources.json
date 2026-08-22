@@ -1,5 +1,12 @@
 [
   {
+    "company": "Abakaai",
+    "domain": "stripe.com",
+    "ats": "greenhouse",
+    "board": "abakaai",
+    "area": "AI"
+  },
+  {
     "company": "Affinity.co",
     "domain": "vercel.com",
     "ats": "ashby",
@@ -182,6 +189,13 @@
     "area": "AI"
   },
   {
+    "company": "Eliseai",
+    "domain": "coframe.ai",
+    "ats": "ashby",
+    "board": "EliseAI",
+    "area": "AI"
+  },
+  {
     "company": "Factory",
     "domain": "factory.ai",
     "ats": "ashby",
@@ -217,6 +231,13 @@
     "area": "AI"
   },
   {
+    "company": "Gatherai",
+    "domain": "descript.com",
+    "ats": "greenhouse",
+    "board": "gatherai",
+    "area": "AI"
+  },
+  {
     "company": "Glossgenius",
     "domain": "glossgenius.com",
     "ats": "greenhouse",
@@ -239,7 +260,7 @@
   },
   {
     "company": "Happy Sleep",
-    "domain": "webflow.com",
+    "domain": "vercel.com",
     "ats": "lever",
     "board": "happy-sleep",
     "area": "AI"
@@ -434,6 +455,13 @@
     "area": "AI"
   },
   {
+    "company": "Sevenai",
+    "domain": "anthropic.com",
+    "ats": "ashby",
+    "board": "sevenai",
+    "area": "AI"
+  },
+  {
     "company": "Sierra",
     "domain": "sierra.ai",
     "ats": "ashby",
@@ -550,20 +578,6 @@
     "domain": "vercel.com",
     "ats": "greenhouse",
     "board": "vercel",
-    "area": "AI"
-  },
-  {
-    "company": "Way",
-    "domain": "way.com",
-    "ats": "lever",
-    "board": "Way",
-    "area": "AI"
-  },
-  {
-    "company": "Webflow",
-    "domain": "webflow.com",
-    "ats": "greenhouse",
-    "board": "webflow",
     "area": "AI"
   },
   {
