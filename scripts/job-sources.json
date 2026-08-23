@@ -105,6 +105,13 @@
     "area": "AI"
   },
   {
+    "company": "Chartahealth",
+    "domain": "okta.com",
+    "ats": "ashby",
+    "board": "chartahealth",
+    "area": "AI"
+  },
+  {
     "company": "Chime",
     "domain": "chime.com",
     "ats": "greenhouse",
@@ -193,6 +200,13 @@
     "domain": "coframe.ai",
     "ats": "ashby",
     "board": "EliseAI",
+    "area": "AI"
+  },
+  {
+    "company": "Enter Ai",
+    "domain": "reddit.com",
+    "ats": "ashby",
+    "board": "enter-ai",
     "area": "AI"
   },
   {
@@ -322,13 +336,6 @@
     "area": "AI"
   },
   {
-    "company": "Metropolis",
-    "domain": "together.ai",
-    "ats": "greenhouse",
-    "board": "metropolis",
-    "area": "AI"
-  },
-  {
     "company": "Mintlify",
     "domain": "mintlify.com",
     "ats": "ashby",
@@ -427,6 +434,13 @@
     "area": "AI"
   },
   {
+    "company": "Retell Ai",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "retell-ai",
+    "area": "AI"
+  },
+  {
     "company": "Robinhood",
     "domain": "robinhood.com",
     "ats": "greenhouse",
@@ -459,6 +473,13 @@
     "domain": "anthropic.com",
     "ats": "ashby",
     "board": "sevenai",
+    "area": "AI"
+  },
+  {
+    "company": "Shopmy",
+    "domain": "reddit.com",
+    "ats": "greenhouse",
+    "board": "shopmy",
     "area": "AI"
   },
   {

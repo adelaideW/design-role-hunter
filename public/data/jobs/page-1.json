@@ -1,5 +1,17 @@
 [
   {
+    "id": 663245742,
+    "company": "Robinhood",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "role": "Senior Product Designer, DeFi",
+    "location": "Menlo Park, CA; New York, NY",
+    "area": "Fintech",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8147756?t=gh_src=&gh_jid=8147756",
+    "postedAt": "2026-08-23T03:02:52-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
     "id": 1656824431,
     "company": "Anthropic",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
@@ -8,7 +20,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393039008",
     "postedAt": "2026-08-21T12:51:06-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -20,7 +32,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5c1813c0-6ea1-4b0a-b0f5-1616dfa66f67",
     "postedAt": "2026-08-22T04:04:24.541+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -32,7 +44,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/40fb88e2-3090-4d97-8a1f-532dea572b3d",
     "postedAt": "2026-08-22T04:12:06.231+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -44,7 +56,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/95eabade-b2d7-447d-b196-ce2e62d9ecd7",
     "postedAt": "2026-08-22T04:23:03.376+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -56,7 +68,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/9d87a9aa-6cea-4dc1-98f7-6a37369cb08a",
     "postedAt": "2026-08-22T04:24:32.901+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -68,7 +80,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/74f7575f-9515-4b5c-a75f-39f08050a40c",
     "postedAt": "2026-08-22T04:26:12.935+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -80,7 +92,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/fab215d1-d747-495e-a895-8d9b8cdb0f80",
     "postedAt": "2026-08-22T02:55:39.256+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -92,7 +104,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/2030bd22-3959-4027-bf1a-1f46bd04e381",
     "postedAt": "2026-08-22T02:57:38.775+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -104,7 +116,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5135ab14-2876-4015-8bb1-5eed6e102b45",
     "postedAt": "2026-08-22T03:00:08.480+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -116,7 +128,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/c7b386c6-b3ea-4a85-9af7-5301591abc56",
     "postedAt": "2026-08-22T03:01:47.394+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -128,7 +140,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7905702",
     "postedAt": "2026-08-21T18:11:48-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -140,20 +152,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/langchain/1b125fc4-be24-422f-a180-30b7431fc6cf",
     "postedAt": "2026-08-22T02:01:29.778+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
-  },
-  {
-    "id": 663245742,
-    "company": "Robinhood",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
-    "role": "Senior Product Designer, DeFi",
-    "location": "Menlo Park, CA; New York, NY",
-    "area": "Fintech",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8147756?t=gh_src=&gh_jid=8147756",
-    "postedAt": "2026-08-21T16:15:41-04:00",
-    "postedDays": 0,
-    "source": "greenhouse"
   },
   {
     "id": 802916992,
@@ -164,7 +164,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/38e2a0ea-302b-4059-8e86-8b36ef08b352",
     "postedAt": "2026-08-21T20:11:37.382+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -176,7 +176,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/tailscale/jobs/4725881005",
     "postedAt": "2026-08-21T14:16:36-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -188,7 +188,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/tailscale/jobs/4725885005",
     "postedAt": "2026-08-21T14:16:47-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -200,7 +200,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/tailscale/jobs/4725870005",
     "postedAt": "2026-08-21T14:16:09-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -212,7 +212,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/tailscale/jobs/4725866005",
     "postedAt": "2026-08-21T14:15:49-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -224,7 +224,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5214336007",
     "postedAt": "2026-08-21T18:24:01-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -236,7 +236,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5150780007",
     "postedAt": "2026-08-21T18:24:01-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -248,7 +248,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002",
     "postedAt": "2026-08-20T11:45:07-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -260,7 +260,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/clickup/7fb8d11f-7ff7-4f6d-a41e-46e2d12e8774",
     "postedAt": "2026-08-21T05:42:46.122+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -272,7 +272,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/doji/8ae9d3c6-a136-4f08-be9a-bb22feef8c70",
     "postedAt": "2026-08-21T00:06:13.535+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -284,7 +284,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/Netspend-Careers-Page/60390b45-1f56-4744-8fe2-21fe5fda5bbb",
     "postedAt": "2026-08-20T14:44:43.019+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -296,7 +296,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7490017?t=gh_src=&gh_jid=7490017",
     "postedAt": "2026-08-20T10:44:44-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -308,7 +308,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244",
     "postedAt": "2026-08-20T10:44:44-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -320,7 +320,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648",
     "postedAt": "2026-08-20T10:44:44-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -332,7 +332,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/stackblitz/jobs/4362238009",
     "postedAt": "2026-08-20T15:55:54-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -344,8 +344,20 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/dc812ced-119a-42b0-9695-5d1fe23b9a35",
     "postedAt": "2026-08-19T21:44:27.435+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
+  },
+  {
+    "id": 2118605783,
+    "company": "Shopmy",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=reddit.com",
+    "role": "Senior Brand Designer, Creative",
+    "location": "US-Remote",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/shopmy/jobs/5385286008",
+    "postedAt": "2026-08-19T17:27:19-04:00",
+    "postedDays": 3,
+    "source": "greenhouse"
   },
   {
     "id": 2046143183,
@@ -356,7 +368,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/tailscale/jobs/4723980005",
     "postedAt": "2026-08-19T15:02:26-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -368,7 +380,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/tailscale/jobs/4723940005",
     "postedAt": "2026-08-19T15:01:31-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -380,7 +392,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/uipath/bf7296cc-1f50-4977-8e82-c5becd9fd679",
     "postedAt": "2026-08-19T17:31:53.849+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -392,7 +404,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/3feed577-6157-4fb4-b416-d4f493e1eb5c",
     "postedAt": "2026-08-18T20:17:11.715+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -404,7 +416,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/b6cfee1e-67c7-420e-a3fc-24677eda6d2c",
     "postedAt": "2026-08-18T20:17:19.948+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -416,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/mintlify/f4661035-7dce-4dbe-b5f5-6f1288d5ec07",
     "postedAt": "2026-08-18T15:57:51.561+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -428,7 +440,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8129209",
     "postedAt": "2026-08-18T15:33:36-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -440,7 +452,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8120566",
     "postedAt": "2026-08-18T12:13:45-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -452,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/72144066-ff3f-4cdd-b648-743592e414ca",
     "postedAt": "2026-08-19T14:10:58.010+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -464,7 +476,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
     "postedAt": "2026-08-18T18:06:18-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -476,7 +488,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/5579560004",
     "postedAt": "2026-08-18T18:05:55-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -488,7 +500,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6131210004",
     "postedAt": "2026-08-18T18:06:18-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -500,7 +512,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6115991004",
     "postedAt": "2026-08-18T18:06:16-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -512,7 +524,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b12525d7-ca8d-479d-bb83-75042fae4247",
     "postedAt": "2026-08-18T09:40:06.291+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -524,7 +536,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/0a4811d5-0ac1-4201-b38c-c67b2d0b41c3",
     "postedAt": "2026-08-18T09:41:03.421+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
+    "source": "ashby"
+  },
+  {
+    "id": 745628521,
+    "company": "Enter Ai",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=reddit.com",
+    "role": "Brand Designer",
+    "location": "São Paulo",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/enter-ai/d36f8293-40b0-4b74-939b-81226301b928",
+    "postedAt": "2026-08-18T13:10:15.646+00:00",
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -536,7 +560,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8111984",
     "postedAt": "2026-08-17T11:18:24-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -548,7 +572,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
     "postedAt": "2026-08-17T23:22:46-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -560,7 +584,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sanity/3c824a28-81be-4281-a211-2a30b785c66a",
     "postedAt": "2026-08-17T19:10:38.763+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -572,31 +596,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6131079004?gh_jid=6131079004",
     "postedAt": "2026-08-14T20:02:16-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 374815678,
-    "company": "Figma",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Product Designer, Design Systems",
-    "location": "San Francisco, CA • New York, NY • United States",
-    "area": "Design Tools",
-    "url": "https://boards.greenhouse.io/figma/jobs/5787576004?gh_jid=5787576004",
-    "postedAt": "2026-08-14T14:28:33-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 506356013,
-    "company": "Gusto",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
-    "role": "Head of Design, Unified Service Platform",
-    "location": "New York, New York, United States",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/8020155",
-    "postedAt": "2026-08-14T19:27:24-04:00",
-    "postedDays": 7,
+    "postedDays": 8,
     "source": "greenhouse"
   }
 ]
