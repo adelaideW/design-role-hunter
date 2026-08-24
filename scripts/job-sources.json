@@ -7,13 +7,6 @@
     "area": "AI"
   },
   {
-    "company": "Affinity.co",
-    "domain": "vercel.com",
-    "ats": "ashby",
-    "board": "affinity.co",
-    "area": "AI"
-  },
-  {
     "company": "Affirm",
     "domain": "affirm.com",
     "ats": "greenhouse",
@@ -78,7 +71,7 @@
   },
   {
     "company": "Bjakcareer",
-    "domain": "glossgenius.com",
+    "domain": "openai.com",
     "ats": "ashby",
     "board": "bjakcareer",
     "area": "AI"
@@ -193,20 +186,6 @@
     "domain": "dust.tt",
     "ats": "ashby",
     "board": "dust",
-    "area": "AI"
-  },
-  {
-    "company": "Eliseai",
-    "domain": "coframe.ai",
-    "ats": "ashby",
-    "board": "EliseAI",
-    "area": "AI"
-  },
-  {
-    "company": "Enter Ai",
-    "domain": "reddit.com",
-    "ats": "ashby",
-    "board": "enter-ai",
     "area": "AI"
   },
   {
@@ -466,13 +445,6 @@
     "domain": "scale.com",
     "ats": "greenhouse",
     "board": "scaleai",
-    "area": "AI"
-  },
-  {
-    "company": "Sevenai",
-    "domain": "anthropic.com",
-    "ats": "ashby",
-    "board": "sevenai",
     "area": "AI"
   },
   {
