@@ -71,7 +71,7 @@
   },
   {
     "company": "Bjakcareer",
-    "domain": "openai.com",
+    "domain": "lovable.dev",
     "ats": "ashby",
     "board": "bjakcareer",
     "area": "AI"
@@ -186,6 +186,13 @@
     "domain": "dust.tt",
     "ats": "ashby",
     "board": "dust",
+    "area": "AI"
+  },
+  {
+    "company": "Enter Ai",
+    "domain": "reddit.com",
+    "ats": "ashby",
+    "board": "enter-ai",
     "area": "AI"
   },
   {
@@ -515,13 +522,6 @@
     "domain": "synthesia.io",
     "ats": "ashby",
     "board": "synthesia",
-    "area": "AI"
-  },
-  {
-    "company": "Tailscale",
-    "domain": "assemblyai.com",
-    "ats": "greenhouse",
-    "board": "tailscale",
     "area": "AI"
   },
   {
