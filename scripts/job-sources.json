@@ -119,13 +119,6 @@
     "area": "AI"
   },
   {
-    "company": "ClickUp",
-    "domain": "stripe.com",
-    "ats": "ashby",
-    "board": "clickup",
-    "area": "AI"
-  },
-  {
     "company": "Cloudflare",
     "domain": "cloudflare.com",
     "ats": "greenhouse",
@@ -186,13 +179,6 @@
     "domain": "dust.tt",
     "ats": "ashby",
     "board": "dust",
-    "area": "AI"
-  },
-  {
-    "company": "Enter Ai",
-    "domain": "reddit.com",
-    "ats": "ashby",
-    "board": "enter-ai",
     "area": "AI"
   },
   {
@@ -287,6 +273,13 @@
     "area": "AI"
   },
   {
+    "company": "Lab37",
+    "domain": "anthropic.com",
+    "ats": "greenhouse",
+    "board": "lab37",
+    "area": "AI"
+  },
+  {
     "company": "Langchain",
     "domain": "langchain.com",
     "ats": "ashby",
@@ -319,6 +312,13 @@
     "domain": "mercor.com",
     "ats": "ashby",
     "board": "mercor",
+    "area": "AI"
+  },
+  {
+    "company": "Method",
+    "domain": "method.com",
+    "ats": "ashby",
+    "board": "method",
     "area": "AI"
   },
   {
