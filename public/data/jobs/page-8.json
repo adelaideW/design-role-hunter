@@ -1,0 +1,98 @@
+[
+  {
+    "id": 56712698,
+    "company": "Rogo",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=rogo.ai",
+    "role": "Product Designer",
+    "location": "New York City",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/Rogo/0fde5cb5-3c42-4395-b9f6-8912080d533a",
+    "postedAt": "2024-07-17T19:25:16.003+00:00",
+    "postedDays": 771,
+    "source": "ashby"
+  },
+  {
+    "id": 53251749,
+    "company": "Palantir",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
+    "role": "Product Designer, New Grad - US Government",
+    "location": "Washington, D.C.",
+    "area": "AI",
+    "url": "https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65",
+    "postedAt": "2024-01-02T22:21:00.937Z",
+    "postedDays": 968,
+    "source": "lever"
+  },
+  {
+    "id": 1983500629,
+    "company": "Runway",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=runwayml.com",
+    "role": "Sr./Staff Product Designer, Developer Platform",
+    "location": "Remote",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/runway-ml/e0fec99f-ae6e-4f92-ac1a-7d227179261f",
+    "postedAt": "2023-08-31T19:41:06.375+00:00",
+    "postedDays": 1092,
+    "source": "ashby"
+  },
+  {
+    "id": 375803609,
+    "company": "Palantir",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
+    "role": "Product Designer, Internship",
+    "location": "New York, NY",
+    "area": "AI",
+    "url": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6",
+    "postedAt": "2019-10-10T01:00:30.544Z",
+    "postedDays": 2513,
+    "source": "lever"
+  },
+  {
+    "id": 11272330,
+    "company": "Palantir",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
+    "role": "Product Designer - US Government",
+    "location": "Washington, D.C.",
+    "area": "AI",
+    "url": "https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24",
+    "postedAt": "2019-05-14T22:45:59.021Z",
+    "postedDays": 2662,
+    "source": "lever"
+  },
+  {
+    "id": 1227982147,
+    "company": "Palantir",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
+    "role": "Product Designer, Internship",
+    "location": "London, United Kingdom",
+    "area": "AI",
+    "url": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63",
+    "postedAt": "2019-01-29T17:51:33.349Z",
+    "postedDays": 2767,
+    "source": "lever"
+  },
+  {
+    "id": 551922583,
+    "company": "Palantir",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
+    "role": "Product Designer, New Grad",
+    "location": "New York, NY",
+    "area": "AI",
+    "url": "https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e",
+    "postedAt": "2017-08-10T19:39:38.910Z",
+    "postedDays": 3304,
+    "source": "lever"
+  },
+  {
+    "id": 336710148,
+    "company": "Palantir",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
+    "role": "Product Designer",
+    "location": "London, United Kingdom",
+    "area": "AI",
+    "url": "https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d",
+    "postedAt": "2013-01-31T00:00:00.000Z",
+    "postedDays": 4956,
+    "source": "lever"
+  }
+]
