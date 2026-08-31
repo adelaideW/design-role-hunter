@@ -126,24 +126,10 @@
     "area": "AI"
   },
   {
-    "company": "Berkadia",
-    "domain": "okta.com",
-    "ats": "greenhouse",
-    "board": "berkadia",
-    "area": "AI"
-  },
-  {
     "company": "Bjakcareer",
     "domain": "lovable.dev",
     "ats": "ashby",
     "board": "bjakcareer",
-    "area": "AI"
-  },
-  {
-    "company": "Blacksmith",
-    "domain": "blacksmith.com",
-    "ats": "ashby",
-    "board": "blacksmith",
     "area": "AI"
   },
   {
@@ -211,7 +197,7 @@
   },
   {
     "company": "ClickUp",
-    "domain": "clickup.com",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "clickup",
     "area": "AI"
@@ -259,6 +245,13 @@
     "area": "AI"
   },
   {
+    "company": "Crunchyroll",
+    "domain": "openai.com",
+    "ats": "greenhouse",
+    "board": "crunchyroll",
+    "area": "AI"
+  },
+  {
     "company": "Deepgram",
     "domain": "deepgram.com",
     "ats": "ashby",
@@ -270,6 +263,13 @@
     "domain": "deepmind.google",
     "ats": "greenhouse",
     "board": "deepmind",
+    "area": "AI"
+  },
+  {
+    "company": "Degreed",
+    "domain": "degreed.com",
+    "ats": "greenhouse",
+    "board": "degreed",
     "area": "AI"
   },
   {
@@ -298,13 +298,6 @@
     "domain": "asana.com",
     "ats": "ashby",
     "board": "dualentry",
-    "area": "AI"
-  },
-  {
-    "company": "Duck Duck Go",
-    "domain": "duckduckgo.com",
-    "ats": "ashby",
-    "board": "duck-duck-go",
     "area": "AI"
   },
   {
@@ -469,6 +462,13 @@
     "area": "AI"
   },
   {
+    "company": "Inter",
+    "domain": "gusto.com",
+    "ats": "greenhouse",
+    "board": "inter",
+    "area": "AI"
+  },
+  {
     "company": "Justworks",
     "domain": "dust.tt",
     "ats": "greenhouse",
@@ -589,7 +589,7 @@
   },
   {
     "company": "Molg",
-    "domain": "molg.com",
+    "domain": "duolingo.com",
     "ats": "ashby",
     "board": "molg",
     "area": "AI"
@@ -749,6 +749,13 @@
     "area": "AI"
   },
   {
+    "company": "Retell Ai",
+    "domain": "comfy.org",
+    "ats": "ashby",
+    "board": "retell-ai",
+    "area": "AI"
+  },
+  {
     "company": "Robinhood",
     "domain": "robinhood.com",
     "ats": "greenhouse",
@@ -841,7 +848,7 @@
   },
   {
     "company": "Spacex",
-    "domain": "duolingo.com",
+    "domain": "okta.com",
     "ats": "greenhouse",
     "board": "spacex",
     "area": "AI"
@@ -886,13 +893,6 @@
     "domain": "factory.ai",
     "ats": "ashby",
     "board": "tacto",
-    "area": "AI"
-  },
-  {
-    "company": "Tailscale",
-    "domain": "assemblyai.com",
-    "ats": "greenhouse",
-    "board": "tailscale",
     "area": "AI"
   },
   {
