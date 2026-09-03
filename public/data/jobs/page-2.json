@@ -1,5 +1,185 @@
 [
   {
+    "id": 1524663306,
+    "company": "Figma",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
+    "role": "Designer Advocate",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/figma/jobs/6176134004?gh_jid=6176134004",
+    "postedAt": "2026-09-01T17:43:21-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 516078273,
+    "company": "Oliverseapac",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=oliverseapac.com",
+    "role": "Integrated Designer",
+    "location": "Shanghai, China",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/oliverseapac/jobs/8120911",
+    "postedAt": "2026-09-02T06:06:01-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 941853281,
+    "company": "Perplexity",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=perplexity.ai",
+    "role": "Motion Designer",
+    "location": "New York City",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9",
+    "postedAt": "2026-09-02T16:39:29.359+00:00",
+    "postedDays": 1,
+    "source": "ashby"
+  },
+  {
+    "id": 734095448,
+    "company": "Perplexity",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=perplexity.ai",
+    "role": "Brand Designer, Growth",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860",
+    "postedAt": "2026-09-02T16:38:15.015+00:00",
+    "postedDays": 1,
+    "source": "ashby"
+  },
+  {
+    "id": 1070445466,
+    "company": "Perplexity",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=perplexity.ai",
+    "role": "Lead Product Designer, Growth",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/perplexity/74a5eaeb-0a4b-412b-ac3a-ad73403b3fb7",
+    "postedAt": "2026-09-02T16:37:40.891+00:00",
+    "postedDays": 1,
+    "source": "ashby"
+  },
+  {
+    "id": 508609639,
+    "company": "Perplexity",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=perplexity.ai",
+    "role": "Lead Product Designer, Enterprise",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/perplexity/9ce0fef8-7ead-4c0d-a71e-433bdd5b4d82",
+    "postedAt": "2026-09-02T16:37:43.421+00:00",
+    "postedDays": 1,
+    "source": "ashby"
+  },
+  {
+    "id": 108137020,
+    "company": "Quince",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Packaging and Print Marketing Designer",
+    "location": "San Francisco, California, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/quince/jobs/5237568008",
+    "postedAt": "2026-09-01T18:55:42-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 992541162,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Architectural Designer",
+    "location": "Hawthorne, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8616347002?gh_jid=8616347002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 745858973,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "CMF Designer - Color, Material, and Finish (Starlink)",
+    "location": "Bastrop, TX",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8570197002?gh_jid=8570197002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1919418209,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Electrical Designer (Construction)",
+    "location": "Hawthorne, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8727981002?gh_jid=8727981002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1353367062,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Graphic Designer (Starlink)",
+    "location": "Bastrop, TX",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8570230002?gh_jid=8570230002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1581179559,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Industrial Designer (Starlink)",
+    "location": "Bastrop, TX",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8570369002?gh_jid=8570369002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1378121556,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Lead Graphic Designer, Merchandising & Events",
+    "location": "Hawthorne, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8752585002?gh_jid=8752585002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1722935898,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Lead PCB Designer (Starshield)",
+    "location": "Hawthorne, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8517596002?gh_jid=8517596002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1858841331,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Mechanical Designer (HVAC)",
+    "location": "Hawthorne, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8727987002?gh_jid=8727987002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
     "id": 952254379,
     "company": "Spacex",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
@@ -8,7 +188,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8549216002?gh_jid=8549216002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -20,7 +200,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8565171002?gh_jid=8565171002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -32,7 +212,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8584326002?gh_jid=8584326002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -44,7 +224,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8676063002?gh_jid=8676063002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -56,7 +236,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8726924002?gh_jid=8726924002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -68,19 +248,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8642052002?gh_jid=8642052002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1522171541,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "RFIC Layout Designer (RFIC Engineering)",
-    "location": "Irvine, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642048002?gh_jid=8642048002",
-    "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -92,7 +260,19 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8642055002?gh_jid=8642055002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1522171541,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "RFIC Layout Designer (RFIC Engineering)",
+    "location": "Irvine, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642048002?gh_jid=8642048002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -104,7 +284,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8633381002?gh_jid=8633381002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -116,7 +296,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8485525002?gh_jid=8485525002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -128,7 +308,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8675927002?gh_jid=8675927002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -140,7 +320,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8731862002?gh_jid=8731862002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -152,7 +332,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8450147002?gh_jid=8450147002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -164,7 +344,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8662843002?gh_jid=8662843002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -176,19 +356,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8726753002?gh_jid=8726753002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
-    "source": "greenhouse"
-  },
-  {
-    "id": 759908778,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
-    "location": "Redmond, WA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642095002?gh_jid=8642095002",
-    "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -200,7 +368,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8642092002?gh_jid=8642092002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -212,7 +380,19 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8642096002?gh_jid=8642096002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 759908778,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
+    "location": "Redmond, WA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642095002?gh_jid=8642095002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -224,7 +404,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8633426002?gh_jid=8633426002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -236,7 +416,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8633924002?gh_jid=8633924002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -248,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ad0cb479-f828-459e-80f8-935e2e300ca4",
     "postedAt": "2026-09-01T04:04:29.095+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -260,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/7d949dfc-594c-4f09-818c-49bfaa7caaca",
     "postedAt": "2026-09-01T04:04:21.339+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -272,7 +452,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/8de7f80b-55fb-4ab0-9b39-1b06d9be033e",
     "postedAt": "2026-09-01T04:04:49.723+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -284,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b5fbf248-3c47-4a25-9dd6-4c99fc06e7d6",
     "postedAt": "2026-09-01T04:04:53.011+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -296,7 +476,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/08babfdb-6694-4765-ad21-e96242cf7bc7",
     "postedAt": "2026-09-01T01:31:21.378+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -308,7 +488,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002",
     "postedAt": "2026-08-31T15:17:03-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -320,7 +500,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7728150",
     "postedAt": "2026-08-31T21:11:20-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -332,7 +512,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/hugeinc/jobs/8094700",
     "postedAt": "2026-09-01T12:17:19-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -344,7 +524,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/hugeinc/jobs/8094900",
     "postedAt": "2026-09-01T11:29:28-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -356,7 +536,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/hugeinc/jobs/8094973",
     "postedAt": "2026-09-01T11:31:06-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -368,7 +548,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nubank/1effeb12-812f-4b9a-b168-468ac4259633",
     "postedAt": "2026-08-31T18:39:48.571+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -380,31 +560,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/point72/jobs/8408285002?gh_jid=8408285002",
     "postedAt": "2026-08-31T14:50:30-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1540379214,
-    "company": "Scale AI",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=scale.com",
-    "role": "Staff Product Designer",
-    "location": "New York, NY; Washington, DC",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4724276005",
-    "postedAt": "2026-08-31T17:31:15-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 325213069,
-    "company": "Vast",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=notion.so",
-    "role": "Senior CMF Designer",
-    "location": "Long Beach, California, United States",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/vast/jobs/4707911006?gh_jid=4707911006",
-    "postedAt": "2026-08-31T23:14:15-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -416,7 +572,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/1mind/71b5470e-9e8d-44a7-ab6d-482afbc84bd6",
     "postedAt": "2026-08-31T16:34:46.742+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -428,7 +584,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/CesiumAstro/d98d133a-8e6e-40bd-ab53-04ca9aabfa17",
     "postedAt": "2026-08-30T21:51:28.928Z",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "lever"
   },
   {
@@ -440,163 +596,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/CesiumAstro/934609af-5201-4a96-b890-23701088e9aa",
     "postedAt": "2026-08-30T21:55:01.233Z",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "lever"
-  },
-  {
-    "id": 964902879,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Principal CAD Designer",
-    "location": "Austin, TX",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/a58c6a4b-3494-4e0d-aff9-67fce6e8d34d",
-    "postedAt": "2026-08-30T21:55:51.946Z",
-    "postedDays": 2,
-    "source": "lever"
-  },
-  {
-    "id": 1701506861,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Principal CAD Designer",
-    "location": "Westminster, CO",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/f7bedf5c-03ec-44cc-a69e-1ac7e340ec1a",
-    "postedAt": "2026-08-30T21:56:31.464Z",
-    "postedDays": 2,
-    "source": "lever"
-  },
-  {
-    "id": 2035042407,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Senior PCB Designer (RF)",
-    "location": "Westminster, CO",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/16a62a59-6457-462f-b31b-285902ee3a23",
-    "postedAt": "2026-08-30T19:26:55.150Z",
-    "postedDays": 2,
-    "source": "lever"
-  },
-  {
-    "id": 543547769,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Senior PCB Designer (RF)",
-    "location": "Austin, TX",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/c2bb2fb4-8464-4d72-9d71-2b764859bd79",
-    "postedAt": "2026-08-30T19:27:28.550Z",
-    "postedDays": 2,
-    "source": "lever"
-  },
-  {
-    "id": 556764904,
-    "company": "Clera",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
-    "role": "Lead Product Designer",
-    "location": "Vienna",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clera/99110104-f9d3-4b52-a3e5-eb12b68dcca3",
-    "postedAt": "2026-08-31T17:12:15.244+00:00",
-    "postedDays": 2,
-    "source": "ashby"
-  },
-  {
-    "id": 1594568756,
-    "company": "Degreed",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Senior Brand Designer | SLC, US",
-    "location": "Utah, US | Hybrid",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/degreed/jobs/6164363004",
-    "postedAt": "2026-08-31T10:31:32-04:00",
-    "postedDays": 2,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1560812886,
-    "company": "Glance",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=amplitude.com",
-    "role": "Sr UX Designer",
-    "location": "Bangalore",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/glance/jobs/8112095",
-    "postedAt": "2026-08-31T09:43:07-04:00",
-    "postedDays": 2,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1984023913,
-    "company": "Inter",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
-    "role": "CONVERSATIONAL DESIGNER JUNIOR l Artificial Intelligence Analyst",
-    "location": "Belo Horizonte, MG",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/inter/jobs/4724824005?gh_jid=4724824005",
-    "postedAt": "2026-08-30T20:44:47-04:00",
-    "postedDays": 2,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1907939458,
-    "company": "Legora",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=waymo.com",
-    "role": "Senior Product Designer",
-    "location": "Stockholm HQ",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/legora/89073502-e8e3-49d9-ba4b-5642ef1a933d",
-    "postedAt": "2026-08-31T07:59:12.596+00:00",
-    "postedDays": 2,
-    "source": "ashby"
-  },
-  {
-    "id": 1010576192,
-    "company": "Lovable",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=lovable.dev",
-    "role": "Content Designer (Contract)",
-    "location": "London",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/lovable/8a196add-25ef-4dfa-a196-c54c986bda60",
-    "postedAt": "2026-08-31T17:12:44.572+00:00",
-    "postedDays": 2,
-    "source": "ashby"
-  },
-  {
-    "id": 841252566,
-    "company": "Mercor",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "Lead Brand Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/mercor/9a012d72-f296-48fa-a9b9-f77ea3ea14b0",
-    "postedAt": "2026-08-31T16:54:34.965+00:00",
-    "postedDays": 2,
-    "source": "ashby"
-  },
-  {
-    "id": 328621935,
-    "company": "Mercor",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "Visual Design Lead",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/mercor/faabb06e-5d95-4872-9655-1f18d9f91aac",
-    "postedAt": "2026-08-31T16:55:00.644+00:00",
-    "postedDays": 2,
-    "source": "ashby"
-  },
-  {
-    "id": 1501483359,
-    "company": "Nubank",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
-    "role": "Lead Product Designer - Lending",
-    "location": "São Paulo",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/nubank/6b9aabca-5d57-49c1-bb5a-58466d2a4538",
-    "postedAt": "2026-08-31T13:23:52.000+00:00",
-    "postedDays": 2,
-    "source": "ashby"
   }
 ]

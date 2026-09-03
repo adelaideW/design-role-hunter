@@ -1,5 +1,53 @@
 [
   {
+    "id": 2118605783,
+    "company": "Shopmy",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=reddit.com",
+    "role": "Senior Brand Designer, Creative",
+    "location": "US-Remote",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/shopmy/jobs/5385286008",
+    "postedAt": "2026-08-19T17:27:19-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 2046143183,
+    "company": "Tailscale",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=tailscale.com",
+    "role": "Brand Designer",
+    "location": "Remote (United States)",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4723980005",
+    "postedAt": "2026-08-19T15:02:26-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 613527213,
+    "company": "Tailscale",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=tailscale.com",
+    "role": "Brand Designer",
+    "location": "Remote (Canada)",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4723940005",
+    "postedAt": "2026-08-19T15:01:31-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 685082535,
+    "company": "Harvey",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
+    "role": "Senior Brand Designer",
+    "location": "New York",
+    "area": "Legal AI",
+    "url": "https://jobs.ashbyhq.com/harvey/3feed577-6157-4fb4-b416-d4f493e1eb5c",
+    "postedAt": "2026-08-18T20:17:11.715+00:00",
+    "postedDays": 15,
+    "source": "ashby"
+  },
+  {
     "id": 1924694179,
     "company": "Harvey",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
@@ -8,7 +56,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/b6cfee1e-67c7-420e-a3fc-24677eda6d2c",
     "postedAt": "2026-08-18T20:17:19.948+00:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "ashby"
   },
   {
@@ -20,7 +68,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/legora/acce1179-88d3-4f1f-bcce-597ed3a37d47",
     "postedAt": "2026-08-19T16:57:35.616+00:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "ashby"
   },
   {
@@ -32,7 +80,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/bce2bcbd-01e6-4afc-9109-d325483aa47e",
     "postedAt": "2026-08-18T19:20:37.481+00:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "ashby"
   },
   {
@@ -44,7 +92,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8129209",
     "postedAt": "2026-08-18T15:33:36-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -56,7 +104,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/simile/f9f1a847-f8bb-43f1-9012-8aeed56c2566",
     "postedAt": "2026-08-18T18:57:55.714+00:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "ashby"
   },
   {
@@ -68,19 +116,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/72144066-ff3f-4cdd-b648-743592e414ca",
     "postedAt": "2026-08-19T14:10:58.010+00:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "ashby"
   },
   {
     "id": 485519440,
     "company": "Telus Digital",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=telusdigital.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=coframe.ai",
     "role": "Team Leader Learning Experience Designer",
     "location": "Guatemala City, Guatemala",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/telus-digital/b9b1ff34-a2e4-48a8-ab39-ab3e36c1ae6c",
     "postedAt": "2026-08-19T15:57:44.394+00:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "ashby"
   },
   {
@@ -92,7 +140,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
     "postedAt": "2026-08-18T18:06:18-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -104,7 +152,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/5579560004",
     "postedAt": "2026-08-18T18:05:55-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -116,7 +164,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/0g/0b157aaa-27a4-4ffd-b978-ac8c8565f0fe",
     "postedAt": "2026-08-18T02:44:49.660+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -128,7 +176,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4680927006?gh_jid=4680927006",
     "postedAt": "2026-08-17T19:31:48-04:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "greenhouse"
   },
   {
@@ -140,7 +188,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4688864006?gh_jid=4688864006",
     "postedAt": "2026-08-17T19:33:06-04:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "greenhouse"
   },
   {
@@ -152,7 +200,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b12525d7-ca8d-479d-bb83-75042fae4247",
     "postedAt": "2026-08-18T09:40:06.291+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -164,7 +212,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/0a4811d5-0ac1-4201-b38c-c67b2d0b41c3",
     "postedAt": "2026-08-18T09:41:03.421+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -176,7 +224,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/enter-ai/d36f8293-40b0-4b74-939b-81226301b928",
     "postedAt": "2026-08-18T13:10:15.646+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -188,7 +236,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
     "postedAt": "2026-08-17T23:22:46-04:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "greenhouse"
   },
   {
@@ -200,7 +248,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/mintlify/f4661035-7dce-4dbe-b5f5-6f1288d5ec07",
     "postedAt": "2026-08-18T15:57:51.561+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -212,7 +260,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8120566",
     "postedAt": "2026-08-18T12:13:45-04:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "greenhouse"
   },
   {
@@ -224,7 +272,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sanity/3c824a28-81be-4281-a211-2a30b785c66a",
     "postedAt": "2026-08-17T19:10:38.763+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -236,7 +284,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/simile/e3a653fd-2d8a-4bf5-ab9c-e630aa7f5eec",
     "postedAt": "2026-08-18T16:27:11.302+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -248,8 +296,20 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/viktor/9e8a99be-3f95-46b9-baf5-9d005a510502",
     "postedAt": "2026-08-18T12:57:45.442+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
+  },
+  {
+    "id": 1059861143,
+    "company": "Accenturefederalservices",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=replit.com",
+    "role": "UX Designer",
+    "location": "Washington, DC",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4681255006?gh_jid=4681255006",
+    "postedAt": "2026-08-17T09:12:33-04:00",
+    "postedDays": 17,
+    "source": "greenhouse"
   },
   {
     "id": 2056686720,
@@ -260,7 +320,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/dualentry/bb8750f4-59fe-4d7a-877e-0efa0ee46f1f",
     "postedAt": "2026-08-16T10:53:09.063+00:00",
-    "postedDays": 17,
+    "postedDays": 18,
     "source": "ashby"
   },
   {
@@ -272,7 +332,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/figma/jobs/6131079004?gh_jid=6131079004",
     "postedAt": "2026-08-14T20:02:16-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -284,7 +344,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/figma/jobs/5787576004?gh_jid=5787576004",
     "postedAt": "2026-08-14T14:28:33-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -296,7 +356,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7514758",
     "postedAt": "2026-08-14T19:27:24-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -308,7 +368,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/patch.io/f050a34d-83ff-4b92-a073-7fee34176f41",
     "postedAt": "2026-08-15T04:01:44.116+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -320,7 +380,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bland/948112f0-8400-4b0c-a900-4ece9a7c2845",
     "postedAt": "2026-08-14T17:23:22.159+00:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "ashby"
   },
   {
@@ -332,7 +392,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/matteprojects/jobs/6143419004",
     "postedAt": "2026-08-13T15:56:57-04:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "greenhouse"
   },
   {
@@ -344,7 +404,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nubank/f2168974-d84b-4167-8991-af808ff74b59",
     "postedAt": "2026-08-14T17:20:48.576+00:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "ashby"
   },
   {
@@ -356,7 +416,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/d5de4cd0-9c4e-4266-93f2-8c1d5fc4a912",
     "postedAt": "2026-08-14T17:20:34.839+00:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "ashby"
   },
   {
@@ -368,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/7c1cd1ec-47a9-4d15-8eb9-2f44272db796",
     "postedAt": "2026-08-14T00:14:37.160+00:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "ashby"
   },
   {
@@ -380,7 +440,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7605936003",
     "postedAt": "2026-08-12T15:12:11-04:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "greenhouse"
   },
   {
@@ -392,7 +452,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7799295003",
     "postedAt": "2026-08-12T15:12:11-04:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "greenhouse"
   },
   {
@@ -404,42 +464,6 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/fireworks/17a81efc-93db-457d-b92b-996722a0f64d",
     "postedAt": "2026-08-13T00:12:17.655+00:00",
-    "postedDays": 20,
-    "source": "ashby"
-  },
-  {
-    "id": 592230306,
-    "company": "Retell Ai",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=sierra.ai",
-    "role": "Senior Brand Designer",
-    "location": "San Francisco Bay Area",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/retell-ai/b65e7015-f4fc-4599-9c08-cdf2a1700416",
-    "postedAt": "2026-08-13T02:29:42.009+00:00",
-    "postedDays": 20,
-    "source": "ashby"
-  },
-  {
-    "id": 2130795387,
-    "company": "Eliseai",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=coframe.ai",
-    "role": "Graphic Designer",
-    "location": "New York City",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/EliseAI/ef9611a4-58eb-4a4f-8e85-c5382ec3be44",
-    "postedAt": "2026-08-11T20:25:53.626+00:00",
-    "postedDays": 21,
-    "source": "ashby"
-  },
-  {
-    "id": 168318314,
-    "company": "Eliseai",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=coframe.ai",
-    "role": "Instructional Designer",
-    "location": "New York City",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/EliseAI/2756b585-961b-46e2-90bd-67a495597c25",
-    "postedAt": "2026-08-11T20:31:56.735+00:00",
     "postedDays": 21,
     "source": "ashby"
   },
@@ -452,7 +476,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/perplexity/78675022-c4a7-41d2-9259-7c59be4de93c",
     "postedAt": "2026-08-11T23:23:02.484+00:00",
-    "postedDays": 21,
+    "postedDays": 22,
     "source": "ashby"
   },
   {
@@ -464,7 +488,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767897003",
     "postedAt": "2026-08-12T01:01:56-04:00",
-    "postedDays": 21,
+    "postedDays": 22,
     "source": "greenhouse"
   },
   {
@@ -476,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/enter-ai/733013f0-6f79-43a7-9be3-a4dcd4b78d1e",
     "postedAt": "2026-08-10T20:57:53.046+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -488,7 +512,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/enter-ai/8629afdf-eb03-4359-b2b9-943b5a66c30a",
     "postedAt": "2026-08-10T21:02:22.128+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -500,7 +524,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/7af73358-0a99-4d3a-8fde-b0f735045613",
     "postedAt": "2026-08-11T00:17:55.225+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -512,7 +536,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/4cea74f1-7c08-4a9c-884f-796903aa77ed",
     "postedAt": "2026-08-10T23:52:31.660+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -524,7 +548,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/6541a2da-ab46-467b-8aaa-289a6a1d087b",
     "postedAt": "2026-08-11T00:05:31.170+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -536,7 +560,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/legora/8b00a66a-c06b-44b9-a374-7c3b733fce20",
     "postedAt": "2026-08-11T12:23:36.690+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -548,7 +572,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/notion/fb969acc-dcbd-4124-b648-bfbfad7231b3",
     "postedAt": "2026-08-11T14:25:44.579+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -560,7 +584,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/serval/3f46a49b-8e19-48ac-ae1a-70558f142b12",
     "postedAt": "2026-08-11T17:23:53.924+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -572,31 +596,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/f3f67f4d-16f0-4221-a430-45f73e5a4eb9",
     "postedAt": "2026-08-11T03:27:42.112+00:00",
-    "postedDays": 22,
-    "source": "ashby"
-  },
-  {
-    "id": 961485784,
-    "company": "Echo",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=echo.com",
-    "role": "Brand and Visual Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/echo/jobs/4320977009",
-    "postedAt": "2026-08-07T23:38:48-04:00",
-    "postedDays": 25,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1532798165,
-    "company": "Harvey",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
-    "role": "Staff Web Designer",
-    "location": "San Francisco",
-    "area": "Legal AI",
-    "url": "https://jobs.ashbyhq.com/harvey/c84964b6-9e60-4005-8580-b865f3e47b4f",
-    "postedAt": "2026-08-07T19:36:08.977+00:00",
-    "postedDays": 25,
+    "postedDays": 23,
     "source": "ashby"
   }
 ]
