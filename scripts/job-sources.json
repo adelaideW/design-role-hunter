@@ -28,6 +28,13 @@
     "area": "AI"
   },
   {
+    "company": "Academy",
+    "domain": "zoox.com",
+    "ats": "lever",
+    "board": "Academy",
+    "area": "AI"
+  },
+  {
     "company": "Accenturefederalservices",
     "domain": "waymo.com",
     "ats": "greenhouse",
@@ -47,13 +54,6 @@
     "ats": "greenhouse",
     "board": "airtable",
     "area": "Productivity"
-  },
-  {
-    "company": "Americaatwork",
-    "domain": "americaatwork.com",
-    "ats": "lever",
-    "board": "americaatwork",
-    "area": "AI"
   },
   {
     "company": "Amplitude",
@@ -105,6 +105,13 @@
     "area": "AI"
   },
   {
+    "company": "Atomcomputing",
+    "domain": "doji.art",
+    "ats": "lever",
+    "board": "atomcomputing",
+    "area": "AI"
+  },
+  {
     "company": "Baseten",
     "domain": "baseten.co",
     "ats": "ashby",
@@ -137,6 +144,13 @@
     "domain": "browserbase.com",
     "ats": "ashby",
     "board": "browserbase",
+    "area": "AI"
+  },
+  {
+    "company": "Calm",
+    "domain": "calm.com",
+    "ats": "greenhouse",
+    "board": "calm",
     "area": "AI"
   },
   {
@@ -210,6 +224,13 @@
     "area": "AI"
   },
   {
+    "company": "Cssmerge",
+    "domain": "anthropic.com",
+    "ats": "greenhouse",
+    "board": "cssmerge",
+    "area": "AI"
+  },
+  {
     "company": "Degreed",
     "domain": "chime.com",
     "ats": "greenhouse",
@@ -273,6 +294,13 @@
     "area": "AI"
   },
   {
+    "company": "Fantasy",
+    "domain": "fantasy.com",
+    "ats": "lever",
+    "board": "fantasy",
+    "area": "AI"
+  },
+  {
     "company": "Figma",
     "domain": "figma.com",
     "ats": "greenhouse",
@@ -308,6 +336,13 @@
     "area": "AI"
   },
   {
+    "company": "Getyourguide",
+    "domain": "duolingo.com",
+    "ats": "greenhouse",
+    "board": "getyourguide",
+    "area": "AI"
+  },
+  {
     "company": "Glance",
     "domain": "pinterest.com",
     "ats": "greenhouse",
@@ -333,13 +368,6 @@
     "domain": "gusto.com",
     "ats": "greenhouse",
     "board": "gusto",
-    "area": "AI"
-  },
-  {
-    "company": "Happy Sleep",
-    "domain": "vercel.com",
-    "ats": "lever",
-    "board": "happy-sleep",
     "area": "AI"
   },
   {
@@ -378,24 +406,10 @@
     "area": "AI"
   },
   {
-    "company": "Imagineart",
-    "domain": "imagineart.com",
-    "ats": "ashby",
-    "board": "imagineart",
-    "area": "AI"
-  },
-  {
     "company": "Infisical",
     "domain": "infisical.com",
     "ats": "ashby",
     "board": "infisical",
-    "area": "AI"
-  },
-  {
-    "company": "Instrumentl",
-    "domain": "modal.com",
-    "ats": "lever",
-    "board": "Instrumentl",
     "area": "AI"
   },
   {
@@ -406,10 +420,10 @@
     "area": "AI"
   },
   {
-    "company": "Jetbridge",
-    "domain": "reddit.com",
+    "company": "Kinsta",
+    "domain": "synthesia.io",
     "ats": "lever",
-    "board": "JetBridge",
+    "board": "kinsta",
     "area": "AI"
   },
   {
@@ -421,7 +435,7 @@
   },
   {
     "company": "Lab37",
-    "domain": "anthropic.com",
+    "domain": "databricks.com",
     "ats": "greenhouse",
     "board": "lab37",
     "area": "AI"
@@ -431,13 +445,6 @@
     "domain": "langchain.com",
     "ats": "ashby",
     "board": "langchain",
-    "area": "AI"
-  },
-  {
-    "company": "Latticepartners",
-    "domain": "gong.io",
-    "ats": "ashby",
-    "board": "latticepartners",
     "area": "AI"
   },
   {
@@ -512,7 +519,7 @@
   },
   {
     "company": "Midjourney",
-    "domain": "midjourney.com",
+    "domain": "fivetran.com",
     "ats": "ashby",
     "board": "midjourney",
     "area": "AI"
@@ -630,13 +637,6 @@
     "area": "AI"
   },
   {
-    "company": "Pushpay",
-    "domain": "pushpay.com",
-    "ats": "greenhouse",
-    "board": "pushpay",
-    "area": "AI"
-  },
-  {
     "company": "Quince",
     "domain": "openai.com",
     "ats": "greenhouse",
@@ -700,13 +700,6 @@
     "area": "Fintech"
   },
   {
-    "company": "Rumble",
-    "domain": "langchain.com",
-    "ats": "greenhouse",
-    "board": "rumble",
-    "area": "AI"
-  },
-  {
     "company": "Runway",
     "domain": "runwayml.com",
     "ats": "ashby",
@@ -739,6 +732,13 @@
     "domain": "reddit.com",
     "ats": "ashby",
     "board": "serval",
+    "area": "AI"
+  },
+  {
+    "company": "Shopmy",
+    "domain": "reddit.com",
+    "ats": "greenhouse",
+    "board": "shopmy",
     "area": "AI"
   },
   {
@@ -823,6 +823,13 @@
     "domain": "synthesia.io",
     "ats": "ashby",
     "board": "synthesia",
+    "area": "AI"
+  },
+  {
+    "company": "Tailscale",
+    "domain": "tailscale.com",
+    "ats": "greenhouse",
+    "board": "tailscale",
     "area": "AI"
   },
   {
