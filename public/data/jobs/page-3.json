@@ -1,5 +1,89 @@
 [
   {
+    "id": 929635847,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "PCB Designer (Starlink)",
+    "location": "Bastrop, TX",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8584326002?gh_jid=8584326002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1447008731,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "PCB Designer (Starlink)",
+    "location": "Redmond, WA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8565171002?gh_jid=8565171002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1298199724,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "PCB Designer (Starshield)",
+    "location": "Hawthorne, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8676063002?gh_jid=8676063002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 311752465,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "PCB Designer (Starship)",
+    "location": "Hawthorne, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8726924002?gh_jid=8726924002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 678736441,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "RFIC Layout Designer (RFIC Engineering)",
+    "location": "Redmond, WA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642052002?gh_jid=8642052002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 771046707,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "RFIC Layout Designer (RFIC Engineering)",
+    "location": "Palo Alto, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642055002?gh_jid=8642055002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1522171541,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "RFIC Layout Designer (RFIC Engineering)",
+    "location": "Irvine, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642048002?gh_jid=8642048002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
     "id": 1503115690,
     "company": "Spacex",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
@@ -8,7 +92,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8633381002?gh_jid=8633381002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -20,7 +104,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8485525002?gh_jid=8485525002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -32,7 +116,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8675927002?gh_jid=8675927002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -44,7 +128,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8731862002?gh_jid=8731862002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -56,7 +140,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8450147002?gh_jid=8450147002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -68,7 +152,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8662843002?gh_jid=8662843002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -80,31 +164,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8726753002?gh_jid=8726753002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
-    "source": "greenhouse"
-  },
-  {
-    "id": 783977560,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
-    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
-    "location": "Palo Alto, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642096002?gh_jid=8642096002",
-    "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1096600496,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
-    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
-    "location": "Irvine, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642092002?gh_jid=8642092002",
-    "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -116,7 +176,31 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8642095002?gh_jid=8642095002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 783977560,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
+    "location": "Palo Alto, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642096002?gh_jid=8642096002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1096600496,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
+    "location": "Irvine, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642092002?gh_jid=8642092002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -128,7 +212,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8633426002?gh_jid=8633426002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -140,7 +224,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8633924002?gh_jid=8633924002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -152,7 +236,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/typeface/jobs/4617046007",
     "postedAt": "2026-09-02T13:40:31-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -164,7 +248,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ad0cb479-f828-459e-80f8-935e2e300ca4",
     "postedAt": "2026-09-01T04:04:29.095+00:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "ashby"
   },
   {
@@ -176,7 +260,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/7d949dfc-594c-4f09-818c-49bfaa7caaca",
     "postedAt": "2026-09-01T04:04:21.339+00:00",
-    "postedDays": 6,
+    "postedDays": 7,
+    "source": "ashby"
+  },
+  {
+    "id": 1070911092,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
+    "role": "Lead Graphic Designer",
+    "location": "Seoul, Korea",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/16005724-bb32-4793-ba1d-b05295ebc381",
+    "postedAt": "2026-09-01T04:04:32.163+00:00",
+    "postedDays": 7,
     "source": "ashby"
   },
   {
@@ -188,7 +284,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/8de7f80b-55fb-4ab0-9b39-1b06d9be033e",
     "postedAt": "2026-09-01T04:04:49.723+00:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "ashby"
   },
   {
@@ -200,7 +296,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b5fbf248-3c47-4a25-9dd6-4c99fc06e7d6",
     "postedAt": "2026-09-01T04:04:53.011+00:00",
-    "postedDays": 6,
+    "postedDays": 7,
+    "source": "ashby"
+  },
+  {
+    "id": 14229774,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
+    "role": "Senior Graphic Designer",
+    "location": "Seoul, Korea",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/aa8d9b57-d9d4-47de-9c53-f280396194b0",
+    "postedAt": "2026-09-01T04:05:03.803+00:00",
+    "postedDays": 7,
     "source": "ashby"
   },
   {
@@ -212,7 +320,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/08babfdb-6694-4765-ad21-e96242cf7bc7",
     "postedAt": "2026-09-01T01:31:21.378+00:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "ashby"
   },
   {
@@ -224,43 +332,43 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002",
     "postedAt": "2026-08-31T15:17:03-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
     "id": 291787842,
     "company": "Hugeinc",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stability.ai",
     "role": "Experience Design Lead",
     "location": "Colombia",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/hugeinc/jobs/8094700",
     "postedAt": "2026-09-01T12:17:19-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
     "id": 308234511,
     "company": "Hugeinc",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stability.ai",
     "role": "Senior Visual Designer",
     "location": "Colombia",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/hugeinc/jobs/8094900",
     "postedAt": "2026-09-01T11:29:28-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
     "id": 1536204170,
     "company": "Hugeinc",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stability.ai",
     "role": "Visual Design Lead",
     "location": "Colombia",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/hugeinc/jobs/8094973",
     "postedAt": "2026-09-01T11:31:06-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -272,20 +380,8 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/point72/jobs/8408285002?gh_jid=8408285002",
     "postedAt": "2026-08-31T14:50:30-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1854276628,
-    "company": "1mind",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "Lead Product Designer",
-    "location": "Remote - US",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/1mind/71b5470e-9e8d-44a7-ab6d-482afbc84bd6",
-    "postedAt": "2026-08-31T16:34:46.742+00:00",
     "postedDays": 7,
-    "source": "ashby"
+    "source": "greenhouse"
   },
   {
     "id": 1594568756,
@@ -296,31 +392,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/degreed/jobs/6164363004",
     "postedAt": "2026-08-31T10:31:32-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 849199308,
-    "company": "Fantasy",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=fantasy.com",
-    "role": "Freelance Mid to Senior Web & Mobile Designer - Design Systems",
-    "location": "Remote",
-    "area": "AI",
-    "url": "https://jobs.lever.co/fantasy/03d41c8d-0a6c-403a-a22e-3f49e8363023",
-    "postedAt": "2026-08-31T14:52:37.882Z",
-    "postedDays": 7,
-    "source": "lever"
-  },
-  {
-    "id": 1249604048,
-    "company": "Getyourguide",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=duolingo.com",
-    "role": "UX Researcher, Programs & Operations (Zurich)",
-    "location": "Zurich",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8129943",
-    "postedAt": "2026-08-31T07:34:25-04:00",
-    "postedDays": 7,
+    "postedDays": 8,
     "source": "greenhouse"
   },
   {
@@ -332,7 +404,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8112095",
     "postedAt": "2026-08-31T09:43:07-04:00",
-    "postedDays": 7,
+    "postedDays": 8,
     "source": "greenhouse"
   },
   {
@@ -344,7 +416,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/legora/89073502-e8e3-49d9-ba4b-5642ef1a933d",
     "postedAt": "2026-08-31T07:59:12.596+00:00",
-    "postedDays": 7,
+    "postedDays": 8,
     "source": "ashby"
   },
   {
@@ -356,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/8a196add-25ef-4dfa-a196-c54c986bda60",
     "postedAt": "2026-08-31T17:12:44.572+00:00",
-    "postedDays": 7,
+    "postedDays": 8,
     "source": "ashby"
   },
   {
@@ -368,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/mercor/9a012d72-f296-48fa-a9b9-f77ea3ea14b0",
     "postedAt": "2026-08-31T16:54:34.965+00:00",
-    "postedDays": 7,
+    "postedDays": 8,
     "source": "ashby"
   },
   {
@@ -380,115 +452,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/mercor/faabb06e-5d95-4872-9655-1f18d9f91aac",
     "postedAt": "2026-08-31T16:55:00.644+00:00",
-    "postedDays": 7,
-    "source": "ashby"
-  },
-  {
-    "id": 1501483359,
-    "company": "Nubank",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
-    "role": "Lead Product Designer - Lending",
-    "location": "São Paulo",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/nubank/6b9aabca-5d57-49c1-bb5a-58466d2a4538",
-    "postedAt": "2026-08-31T13:23:52.000+00:00",
-    "postedDays": 7,
-    "source": "ashby"
-  },
-  {
-    "id": 655911966,
-    "company": "Oliverseapac",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=oliverseapac.com",
-    "role": "Designer",
-    "location": "Mumbai, India",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oliverseapac/jobs/8014906",
-    "postedAt": "2026-08-31T12:13:41-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1882557896,
-    "company": "Oliverseapac",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=oliverseapac.com",
-    "role": "Designer / Retoucher",
-    "location": "Mumbai, India",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oliverseapac/jobs/8124452",
-    "postedAt": "2026-08-31T12:13:41-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 2027371893,
-    "company": "Oliverseapac",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=oliverseapac.com",
-    "role": "Design Lead",
-    "location": "Mumbai, India",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oliverseapac/jobs/8125471",
-    "postedAt": "2026-08-31T12:13:41-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1129894801,
-    "company": "Oliverseapac",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=oliverseapac.com",
-    "role": "Motion Designer",
-    "location": "Mumbai, India",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oliverseapac/jobs/8125597",
-    "postedAt": "2026-08-31T12:13:41-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 731513605,
-    "company": "Oliverseapac",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=oliverseapac.com",
-    "role": "Multimedia Designer",
-    "location": "Manila, Philippines",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oliverseapac/jobs/8083355",
-    "postedAt": "2026-08-31T12:13:41-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 478291148,
-    "company": "Oliverseapac",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=oliverseapac.com",
-    "role": "Senior Designer",
-    "location": "Mumbai, India",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oliverseapac/jobs/8121381",
-    "postedAt": "2026-08-31T12:13:41-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1000617627,
-    "company": "Nubank",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
-    "role": "Head of Design, Global Expansion",
-    "location": "Miami",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/nubank/a7e55abf-570f-4dc6-8b4b-b542c943e48b",
-    "postedAt": "2026-08-30T01:46:27.111+00:00",
     "postedDays": 8,
-    "source": "ashby"
-  },
-  {
-    "id": 894823375,
-    "company": "Nubank",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
-    "role": "Senior Motion Designer",
-    "location": "São Paulo",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/nubank/3b5d93e3-09bc-4abb-8bc0-b87721371f15",
-    "postedAt": "2026-08-28T21:07:20.663+00:00",
-    "postedDays": 9,
     "source": "ashby"
   },
   {
@@ -548,7 +512,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/legora/56ab32e6-1212-4f66-886b-5711f20fd3dd",
     "postedAt": "2026-08-28T13:44:22.660+00:00",
-    "postedDays": 10,
+    "postedDays": 11,
     "source": "ashby"
   },
   {
@@ -560,7 +524,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/matteprojects/jobs/6167870004",
     "postedAt": "2026-08-27T18:25:30-04:00",
-    "postedDays": 10,
+    "postedDays": 11,
     "source": "greenhouse"
   },
   {
@@ -572,7 +536,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8027458",
     "postedAt": "2026-08-28T12:02:44-04:00",
-    "postedDays": 10,
+    "postedDays": 11,
     "source": "greenhouse"
   },
   {
@@ -584,7 +548,19 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8160668?t=gh_src=&gh_jid=8160668",
     "postedAt": "2026-08-28T03:05:57-04:00",
-    "postedDays": 10,
+    "postedDays": 11,
+    "source": "greenhouse"
+  },
+  {
+    "id": 627468799,
+    "company": "Vercel",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
+    "role": "Visual Designer, Web",
+    "location": "Remote - United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6115991004",
+    "postedAt": "2026-08-27T14:13:52-04:00",
+    "postedDays": 11,
     "source": "greenhouse"
   },
   {
@@ -596,7 +572,31 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/baseten/2ae59494-97a5-4344-ae34-ffa3fab364be",
     "postedAt": "2026-08-27T03:57:18.737+00:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "ashby"
+  },
+  {
+    "id": 1298171269,
+    "company": "Baseten",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Product Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/baseten/382978bd-7eef-4657-a229-3381a1057b4e",
+    "postedAt": "2026-08-27T03:15:46.699+00:00",
+    "postedDays": 12,
+    "source": "ashby"
+  },
+  {
+    "id": 1340733742,
+    "company": "Outreach",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Staff Product Designer",
+    "location": "Seattle, WA",
+    "area": "AI",
+    "url": "https://jobs.lever.co/outreach/b44f7f9f-db13-4e46-a778-877e33b4c7b7",
+    "postedAt": "2026-08-26T19:32:14.492Z",
+    "postedDays": 12,
+    "source": "lever"
   }
 ]
