@@ -1,5 +1,137 @@
 [
   {
+    "id": 1215742501,
+    "company": "Robinhood",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "role": "Senior Product Designer, Redesign",
+    "location": "Menlo Park, CA; New York, NY",
+    "area": "Fintech",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244",
+    "postedAt": "2026-08-25T14:36:41-04:00",
+    "postedDays": 15,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1251543278,
+    "company": "Robinhood",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "role": "Staff Product Designer, National Impact",
+    "location": "Menlo Park, CA; New York, NY",
+    "area": "Fintech",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648",
+    "postedAt": "2026-08-25T14:36:41-04:00",
+    "postedDays": 15,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1866579505,
+    "company": "Via",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
+    "role": "Senior Product Designer, Transit Operations",
+    "location": "New York City",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/via/jobs/7896438002",
+    "postedAt": "2026-08-26T12:40:16-04:00",
+    "postedDays": 15,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1663837383,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Senior Motion Designer",
+    "location": "Remote - United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8428179002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 16,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1409866704,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Senior/Staff Product Designer",
+    "location": "New York, New York, United States; Remote - United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 16,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1759087188,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Senior/Staff Product Designer",
+    "location": "Helsinki, Uusimaa, Finland",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531111002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 16,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1373088588,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Senior/Staff Product Designer",
+    "location": "Remote - United Kingdom",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 16,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1439938411,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Staff/Senior Product Designer, Mobile",
+    "location": "Remote - United Kingdom",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8516322002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 16,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1460177595,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Staff/Senior Product Designer, Mobile",
+    "location": "Helsinki, Uusimaa, Finland",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8322118002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 16,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1569609058,
+    "company": "Bland",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=lyft.com",
+    "role": "Product Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bland/25b88b58-c567-4675-b41f-1d94f00192c9",
+    "postedAt": "2026-08-24T20:11:05.315+00:00",
+    "postedDays": 16,
+    "source": "ashby"
+  },
+  {
+    "id": 525550928,
+    "company": "Clara",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
+    "role": "Growth Designer (AI Focused) - Bogotá (Hybrid)",
+    "location": "Bogota / CUN / Colombia; Bogota D.C. / DC / Colombia",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/clara/jobs/5219624007",
+    "postedAt": "2026-08-25T09:53:31-04:00",
+    "postedDays": 16,
+    "source": "greenhouse"
+  },
+  {
     "id": 852050856,
     "company": "Notion",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=notion.so",
@@ -8,7 +140,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/notion/c799f1f0-0e7b-4eac-98ce-44223130f2b0",
     "postedAt": "2026-08-24T22:48:20.355+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -20,7 +152,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sarvam/9f15eec1-96c9-440f-8baf-dcb8b3d55568",
     "postedAt": "2026-08-25T10:00:22.203+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -32,7 +164,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sarvam/597119b9-ccb6-4b6e-be0e-39eb185093d0",
     "postedAt": "2026-08-25T10:27:35.312+00:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "ashby"
   },
   {
@@ -44,7 +176,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/e6c9809d-fd27-4bbe-98f0-d27b81c3718d",
     "postedAt": "2026-08-24T07:38:51.510+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -56,7 +188,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/4ddfe503-4e49-412a-9978-71b3e368d533",
     "postedAt": "2026-08-24T07:38:41.808+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -68,7 +200,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ff731fa5-9d14-431a-9fbc-3d21eb2ecf72",
     "postedAt": "2026-08-24T07:38:38.185+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -80,7 +212,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ece211c9-6493-4300-b2c0-fded15aa2749",
     "postedAt": "2026-08-24T07:38:16.213+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -92,7 +224,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/7829ba57-c304-4ca3-9dd5-86a4136868b3",
     "postedAt": "2026-08-24T07:43:22.042+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -104,7 +236,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/bad572c1-0a1d-470b-88ce-1073e21ff9ad",
     "postedAt": "2026-08-24T07:43:47.818+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -116,7 +248,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/6fcdea85-3b3e-4270-9969-1bed6e5dd5f1",
     "postedAt": "2026-08-24T07:44:07.495+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -128,7 +260,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/d1a82aff-e55b-467c-b9f9-bff79055052b",
     "postedAt": "2026-08-24T07:44:52.390+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -140,7 +272,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/271d151c-7a69-4832-a58a-5650258ef364",
     "postedAt": "2026-08-24T07:45:26.712+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -152,7 +284,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ac824c32-dbf5-4dbc-bb33-a688e93ad268",
     "postedAt": "2026-08-24T07:45:45.376+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -164,7 +296,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5219620007",
     "postedAt": "2026-08-23T23:32:03-04:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "greenhouse"
   },
   {
@@ -176,7 +308,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5219625007",
     "postedAt": "2026-08-23T23:33:42-04:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "greenhouse"
   },
   {
@@ -188,7 +320,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/76f4a64e-b343-4c0e-b5f1-ea7686001346",
     "postedAt": "2026-08-24T09:22:28.531+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -200,7 +332,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c",
     "postedAt": "2026-08-23T21:53:27.920+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -212,7 +344,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/viktor/def2dde8-a8b5-4526-b2dc-b3a1f19ac0bb",
     "postedAt": "2026-08-24T06:49:11.596+00:00",
-    "postedDays": 16,
+    "postedDays": 17,
     "source": "ashby"
   },
   {
@@ -224,7 +356,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5c1813c0-6ea1-4b0a-b0f5-1616dfa66f67",
     "postedAt": "2026-08-22T04:04:24.541+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -236,7 +368,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/40fb88e2-3090-4d97-8a1f-532dea572b3d",
     "postedAt": "2026-08-22T04:12:06.231+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -248,7 +380,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/95eabade-b2d7-447d-b196-ce2e62d9ecd7",
     "postedAt": "2026-08-22T04:23:03.376+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -260,7 +392,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/74f7575f-9515-4b5c-a75f-39f08050a40c",
     "postedAt": "2026-08-22T04:26:12.935+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -272,7 +404,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/fab215d1-d747-495e-a895-8d9b8cdb0f80",
     "postedAt": "2026-08-22T02:55:39.256+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -284,7 +416,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/2030bd22-3959-4027-bf1a-1f46bd04e381",
     "postedAt": "2026-08-22T02:57:38.775+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -296,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5135ab14-2876-4015-8bb1-5eed6e102b45",
     "postedAt": "2026-08-22T03:00:08.480+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -308,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/c7b386c6-b3ea-4a85-9af7-5301591abc56",
     "postedAt": "2026-08-22T03:01:47.394+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -320,7 +452,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/langchain/1b125fc4-be24-422f-a180-30b7431fc6cf",
     "postedAt": "2026-08-22T02:01:29.778+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -332,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nubank/d91e0c01-91ca-48f5-ac15-48e421b64f21",
     "postedAt": "2026-08-21T18:52:23.760+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -344,7 +476,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/38e2a0ea-302b-4059-8e86-8b36ef08b352",
     "postedAt": "2026-08-21T20:11:37.382+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -356,7 +488,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393039008",
     "postedAt": "2026-08-21T12:51:06-04:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "greenhouse"
   },
   {
@@ -368,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/doji/8ae9d3c6-a136-4f08-be9a-bb22feef8c70",
     "postedAt": "2026-08-21T00:06:13.535+00:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "ashby"
   },
   {
@@ -380,7 +512,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/engine/jobs/7734784003",
     "postedAt": "2026-08-21T06:43:12-04:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "greenhouse"
   },
   {
@@ -392,7 +524,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/happyrobot.ai/806f4e37-a267-4d31-a42c-a8939d3b9c30",
     "postedAt": "2026-08-19T22:46:34.062+00:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "ashby"
   },
   {
@@ -404,7 +536,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/kikoff/jobs/4231835009",
     "postedAt": "2026-08-19T19:44:44-04:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "greenhouse"
   },
   {
@@ -416,7 +548,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/kikoff/jobs/4218640009",
     "postedAt": "2026-08-19T19:44:44-04:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "greenhouse"
   },
   {
@@ -428,20 +560,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/dc812ced-119a-42b0-9695-5d1fe23b9a35",
     "postedAt": "2026-08-19T21:44:27.435+00:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "ashby"
-  },
-  {
-    "id": 613527213,
-    "company": "Tailscale",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=tailscale.com",
-    "role": "Brand Designer",
-    "location": "Remote (Canada)",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4723940005",
-    "postedAt": "2026-08-19T15:01:31-04:00",
-    "postedDays": 20,
-    "source": "greenhouse"
   },
   {
     "id": 2046143183,
@@ -452,7 +572,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/tailscale/jobs/4723980005",
     "postedAt": "2026-08-19T15:02:26-04:00",
-    "postedDays": 20,
+    "postedDays": 21,
+    "source": "greenhouse"
+  },
+  {
+    "id": 613527213,
+    "company": "Tailscale",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=tailscale.com",
+    "role": "Brand Designer",
+    "location": "Remote (Canada)",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4723940005",
+    "postedAt": "2026-08-19T15:01:31-04:00",
+    "postedDays": 21,
     "source": "greenhouse"
   },
   {
@@ -464,138 +596,6 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/3feed577-6157-4fb4-b416-d4f493e1eb5c",
     "postedAt": "2026-08-18T20:17:11.715+00:00",
-    "postedDays": 21,
-    "source": "ashby"
-  },
-  {
-    "id": 1924694179,
-    "company": "Harvey",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
-    "role": "Senior Brand Designer",
-    "location": "San Francisco",
-    "area": "Legal AI",
-    "url": "https://jobs.ashbyhq.com/harvey/b6cfee1e-67c7-420e-a3fc-24677eda6d2c",
-    "postedAt": "2026-08-18T20:17:19.948+00:00",
-    "postedDays": 21,
-    "source": "ashby"
-  },
-  {
-    "id": 220913433,
-    "company": "Nex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=infisical.com",
-    "role": "Social Graphic / Motion Designer (Contract)",
-    "location": "San Jose, California or Remote",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/nex/jobs/5394697008",
-    "postedAt": "2026-08-19T03:51:51-04:00",
-    "postedDays": 21,
-    "source": "greenhouse"
-  },
-  {
-    "id": 59054994,
-    "company": "OpenAI",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
-    "role": "Product Design Lead, Growth - Codex",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/openai/bce2bcbd-01e6-4afc-9109-d325483aa47e",
-    "postedAt": "2026-08-18T19:20:37.481+00:00",
-    "postedDays": 21,
-    "source": "ashby"
-  },
-  {
-    "id": 1365991034,
-    "company": "Simile",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
-    "role": "Brand Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/simile/f9f1a847-f8bb-43f1-9012-8aeed56c2566",
-    "postedAt": "2026-08-18T18:57:55.714+00:00",
-    "postedDays": 21,
-    "source": "ashby"
-  },
-  {
-    "id": 1549409159,
-    "company": "Synthesia",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=synthesia.io",
-    "role": "Product Designer, Enterprise (Staff-level / L6)",
-    "location": "London",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/synthesia/72144066-ff3f-4cdd-b648-743592e414ca",
-    "postedAt": "2026-08-19T14:10:58.010+00:00",
-    "postedDays": 21,
-    "source": "ashby"
-  },
-  {
-    "id": 485519440,
-    "company": "Telus Digital",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=telusdigital.com",
-    "role": "Team Leader Learning Experience Designer",
-    "location": "Guatemala City, Guatemala",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/telus-digital/b9b1ff34-a2e4-48a8-ab39-ab3e36c1ae6c",
-    "postedAt": "2026-08-19T15:57:44.394+00:00",
-    "postedDays": 21,
-    "source": "ashby"
-  },
-  {
-    "id": 1848721320,
-    "company": "Vercel",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
-    "role": "Presentation Designer",
-    "location": "Hybrid - San Francisco, New York City",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
-    "postedAt": "2026-08-18T18:06:18-04:00",
-    "postedDays": 21,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1425614095,
-    "company": "Vercel",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
-    "role": "Senior Brand Designer",
-    "location": "Hybrid - San Francisco, New York City",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/vercel/jobs/5579560004",
-    "postedAt": "2026-08-18T18:05:55-04:00",
-    "postedDays": 21,
-    "source": "greenhouse"
-  },
-  {
-    "id": 686136813,
-    "company": "0g",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
-    "role": "Brand Design Lead",
-    "location": "Los Angeles",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/0g/0b157aaa-27a4-4ffd-b978-ac8c8565f0fe",
-    "postedAt": "2026-08-18T02:44:49.660+00:00",
-    "postedDays": 22,
-    "source": "ashby"
-  },
-  {
-    "id": 959226070,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Mobile UI Designer",
-    "location": "Switzerland",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/b12525d7-ca8d-479d-bb83-75042fae4247",
-    "postedAt": "2026-08-18T09:40:06.291+00:00",
-    "postedDays": 22,
-    "source": "ashby"
-  },
-  {
-    "id": 1102861501,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "UI Designer - AI Neobank App",
-    "location": "Switzerland",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/0a4811d5-0ac1-4201-b38c-c67b2d0b41c3",
-    "postedAt": "2026-08-18T09:41:03.421+00:00",
     "postedDays": 22,
     "source": "ashby"
   }
