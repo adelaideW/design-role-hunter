@@ -112,13 +112,6 @@
     "area": "AI"
   },
   {
-    "company": "Assembledhq",
-    "domain": "klaviyo.com",
-    "ats": "ashby",
-    "board": "assembledhq",
-    "area": "AI"
-  },
-  {
     "company": "Assemblyai",
     "domain": "assemblyai.com",
     "ats": "greenhouse",
@@ -165,13 +158,6 @@
     "domain": "brandtechplus.com",
     "ats": "greenhouse",
     "board": "brandtechplus",
-    "area": "AI"
-  },
-  {
-    "company": "Calm",
-    "domain": "replit.com",
-    "ats": "greenhouse",
-    "board": "calm",
     "area": "AI"
   },
   {
@@ -224,6 +210,13 @@
     "area": "AI"
   },
   {
+    "company": "Clerk",
+    "domain": "openai.com",
+    "ats": "ashby",
+    "board": "clerk",
+    "area": "AI"
+  },
+  {
     "company": "ClickUp",
     "domain": "clickup.com",
     "ats": "ashby",
@@ -246,7 +239,7 @@
   },
   {
     "company": "Convex Dev",
-    "domain": "convexdev.com",
+    "domain": "duolingo.com",
     "ats": "ashby",
     "board": "convex-dev",
     "area": "AI"
@@ -295,7 +288,7 @@
   },
   {
     "company": "Eliseai",
-    "domain": "eliseai.com",
+    "domain": "klaviyo.com",
     "ats": "ashby",
     "board": "eliseai",
     "area": "AI"
@@ -354,13 +347,6 @@
     "domain": "gendigital.com",
     "ats": "ashby",
     "board": "gen-digital",
-    "area": "AI"
-  },
-  {
-    "company": "Getyourguide",
-    "domain": "duolingo.com",
-    "ats": "greenhouse",
-    "board": "getyourguide",
     "area": "AI"
   },
   {
@@ -442,7 +428,7 @@
   },
   {
     "company": "Inceptive",
-    "domain": "klaviyo.com",
+    "domain": "inceptive.com",
     "ats": "greenhouse",
     "board": "inceptive",
     "area": "AI"
@@ -470,7 +456,7 @@
   },
   {
     "company": "Lab37",
-    "domain": "lab37.com",
+    "domain": "databricks.com",
     "ats": "greenhouse",
     "board": "lab37",
     "area": "AI"
@@ -602,6 +588,13 @@
     "area": "AI"
   },
   {
+    "company": "Norm Ai",
+    "domain": "brex.com",
+    "ats": "ashby",
+    "board": "norm-ai",
+    "area": "AI"
+  },
+  {
     "company": "Notion",
     "domain": "notion.so",
     "ats": "ashby",
@@ -658,6 +651,13 @@
     "area": "AI"
   },
   {
+    "company": "Panthalassa",
+    "domain": "tavus.io",
+    "ats": "greenhouse",
+    "board": "panthalassa",
+    "area": "AI"
+  },
+  {
     "company": "Patch.io",
     "domain": "patchio.com",
     "ats": "ashby",
@@ -676,6 +676,13 @@
     "domain": "planetscale.com",
     "ats": "greenhouse",
     "board": "planetscale",
+    "area": "AI"
+  },
+  {
+    "company": "Plaud",
+    "domain": "linear.app",
+    "ats": "ashby",
+    "board": "Plaud",
     "area": "AI"
   },
   {
@@ -791,6 +798,13 @@
     "area": "AI"
   },
   {
+    "company": "Scopely",
+    "domain": "stripe.com",
+    "ats": "greenhouse",
+    "board": "scopely",
+    "area": "AI"
+  },
+  {
     "company": "Serval",
     "domain": "reddit.com",
     "ats": "ashby",
@@ -876,7 +890,7 @@
   },
   {
     "company": "Tailscale",
-    "domain": "tailscale.com",
+    "domain": "replit.com",
     "ats": "greenhouse",
     "board": "tailscale",
     "area": "AI"
