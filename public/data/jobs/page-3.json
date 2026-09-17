@@ -1,5 +1,233 @@
 [
   {
+    "id": 512916267,
+    "company": "Clera",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Founding Product Designer",
+    "location": "Copenhagen",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/clera/c41fdb5a-3fe6-46e1-87b1-c19a49c2da60",
+    "postedAt": "2026-09-12T17:26:23.873+00:00",
+    "postedDays": 5,
+    "source": "ashby"
+  },
+  {
+    "id": 585686497,
+    "company": "Clera",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Visual Designer",
+    "location": "Vienna",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/clera/2076c1aa-7d52-4039-bcde-32aeac762c3e",
+    "postedAt": "2026-09-12T17:19:40.806+00:00",
+    "postedDays": 5,
+    "source": "ashby"
+  },
+  {
+    "id": 1603033490,
+    "company": "Clera",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Fractional Founding Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/clera/c4d279c1-3a22-42e8-9e97-068f3cfcce2a",
+    "postedAt": "2026-09-12T17:25:34.547+00:00",
+    "postedDays": 5,
+    "source": "ashby"
+  },
+  {
+    "id": 1592771330,
+    "company": "Highwire",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Junior Designer",
+    "location": "New York, New York, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/highwire/jobs/4404500009",
+    "postedAt": "2026-09-11T17:35:21-04:00",
+    "postedDays": 5,
+    "source": "greenhouse"
+  },
+  {
+    "id": 658074841,
+    "company": "Highwire",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Junior Designer",
+    "location": "San Francisco, California, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/highwire/jobs/4404505009",
+    "postedAt": "2026-09-11T17:35:23-04:00",
+    "postedDays": 5,
+    "source": "greenhouse"
+  },
+  {
+    "id": 644923576,
+    "company": "Mercor",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
+    "role": "Senior Product Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/mercor/ecab827a-f5d7-4a7f-a1b5-898768fee04c",
+    "postedAt": "2026-09-12T16:51:00.365+00:00",
+    "postedDays": 5,
+    "source": "ashby"
+  },
+  {
+    "id": 37800358,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
+    "role": "Motion Designer (AI-Enabled Creative Production) (Bangkok-based, relocation provided)",
+    "location": "Bangkok",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8050056",
+    "postedAt": "2026-09-11T02:47:07-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 832360237,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
+    "role": "Product Designer L2/Senior Product Designer - Trip Marketing (Bangkok - Based, Relocation Provided)",
+    "location": "Bangkok, Thailand",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/7478051",
+    "postedAt": "2026-09-11T02:47:07-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 74212563,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
+    "role": "Product Designer - Rocket Travel by Agoda (6-month contract, Bangkok-based)",
+    "location": "Bangkok",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8185153",
+    "postedAt": "2026-09-11T02:47:07-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 405114296,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
+    "role": "Senior Motion Designer (AI-Enabled Creative Production) (Bangkok-based, relocation provided)",
+    "location": "Bangkok",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8043225",
+    "postedAt": "2026-09-11T02:47:07-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1246563392,
+    "company": "Armada",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Senior Data Center BIM Designer",
+    "location": "United States (Remote)",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/armada/jobs/5421120008",
+    "postedAt": "2026-09-10T15:24:30-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 665999229,
+    "company": "Cssmerge",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
+    "role": "Culinary Brand Designer",
+    "location": "Los Angeles, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8628396002",
+    "postedAt": "2026-09-10T18:33:29-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1350656551,
+    "company": "Cssmerge",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
+    "role": "Lead Designer, Brand & Growth",
+    "location": "San Francisco, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8583363002",
+    "postedAt": "2026-09-10T18:33:29-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1918818746,
+    "company": "Cssmerge",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
+    "role": "Lead Designer, Brand & Growth",
+    "location": "Los Angeles, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8583362002",
+    "postedAt": "2026-09-10T18:33:29-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1795536846,
+    "company": "Cssmerge",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
+    "role": "Product Designer, Product Platform",
+    "location": "Los Angeles, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8796082002",
+    "postedAt": "2026-09-10T18:33:29-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1046282287,
+    "company": "Cssmerge",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
+    "role": "Senior Electrical Engineer - PCB Designer",
+    "location": "Pittsburgh, PA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8583159002",
+    "postedAt": "2026-09-10T18:33:29-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1196087973,
+    "company": "Cssmerge",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
+    "role": "Staff Designer",
+    "location": "San Francisco, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8796071002",
+    "postedAt": "2026-09-10T18:33:29-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1563919086,
+    "company": "Cssmerge",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
+    "role": "UI/UX Designer",
+    "location": "Pittsburgh, PA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8612961002",
+    "postedAt": "2026-09-10T18:33:29-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
+    "id": 755190668,
+    "company": "Glance",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=pinterest.com",
+    "role": "Sr. Motion Designer",
+    "location": "Bangalore",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
+    "postedAt": "2026-09-11T04:31:31-04:00",
+    "postedDays": 6,
+    "source": "greenhouse"
+  },
+  {
     "id": 1560812886,
     "company": "Glance",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=pinterest.com",
@@ -8,7 +236,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8112095",
     "postedAt": "2026-09-11T04:31:31-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -20,7 +248,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8021585",
     "postedAt": "2026-09-11T04:31:31-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -32,7 +260,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8090486",
     "postedAt": "2026-09-11T04:31:31-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -44,7 +272,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/7733887",
     "postedAt": "2026-09-11T04:31:31-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -56,7 +284,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/lab37/jobs/8620045002",
     "postedAt": "2026-09-10T18:33:27-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -68,7 +296,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/lab37/jobs/8536536002",
     "postedAt": "2026-09-10T18:33:27-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -80,19 +308,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/lab37/jobs/8579139002",
     "postedAt": "2026-09-10T18:33:27-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
     "id": 220913433,
     "company": "Nex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
     "role": "Social Graphic / Motion Designer (Contract)",
     "location": "San Jose, California or Remote",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5394697008",
     "postedAt": "2026-09-10T14:20:30-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -104,7 +332,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/otter/jobs/8783008002",
     "postedAt": "2026-09-10T18:33:28-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -116,7 +344,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/otter/jobs/8783005002",
     "postedAt": "2026-09-10T18:33:28-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -128,7 +356,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
     "postedAt": "2026-09-10T17:01:17-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -140,7 +368,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/wordsmith/1cc4f7b3-9066-4a3d-9927-dd27c5f33d8c",
     "postedAt": "2026-09-11T09:14:36.988+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
@@ -148,59 +376,35 @@
     "company": "Writer",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=writer.com",
     "role": "Senior AI learning designer, rapid content",
-    "location": "US-Office Hubs",
+    "location": "San Francisco, CA",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/writer/04ad3b44-51df-4fa6-a17c-cab6875f70cd",
     "postedAt": "2026-09-10T18:13:13.501+00:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "ashby"
   },
   {
-    "id": 1831555680,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "GenAI Senior  Integrated Designer (Motion Exp)",
-    "location": "Mexico City, Mexico",
+    "id": 816600921,
+    "company": "Andurilindustries",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=pinterest.com",
+    "role": "Senior Product Designer, Space",
+    "location": "Seattle, Washington, United States",
     "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7959046",
-    "postedAt": "2026-09-10T04:48:13-04:00",
-    "postedDays": 6,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5230760007?gh_jid=5230760007",
+    "postedAt": "2026-09-10T13:56:48-04:00",
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
-    "id": 1667739416,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "GenAI Senior Integrated Designer (Motion Exp)",
-    "location": "Bogotá, Colombia",
+    "id": 222398881,
+    "company": "Andurilindustries",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=pinterest.com",
+    "role": "Senior Product Designer, Space",
+    "location": "Costa Mesa, California, United States",
     "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7959042",
-    "postedAt": "2026-09-10T04:48:24-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 107991763,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "PPT Designer",
-    "location": "Johannesburg, South Africa",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8152657",
-    "postedAt": "2026-09-10T03:26:12-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1983891606,
-    "company": "Chime",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Product Designer",
-    "location": "New York, NY, USA; San Francisco, CA, USA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002",
-    "postedAt": "2026-09-09T17:08:37-04:00",
-    "postedDays": 6,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5227607007?gh_jid=5227607007",
+    "postedAt": "2026-09-10T13:56:36-04:00",
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -212,7 +416,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002",
     "postedAt": "2026-09-09T17:08:33-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -224,7 +428,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8694809002?gh_jid=8694809002",
     "postedAt": "2026-09-09T17:08:44-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -236,20 +440,8 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/figma/jobs/6176134004?gh_jid=6176134004",
     "postedAt": "2026-09-09T15:20:55-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
-  },
-  {
-    "id": 769845823,
-    "company": "Immuta",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=immuta.com",
-    "role": "UX Designer Internship - Summer 2027",
-    "location": "College Park, MD | Columbus, OH | Boston, MA",
-    "area": "AI",
-    "url": "https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3",
-    "postedAt": "2026-09-09T19:40:28.416Z",
-    "postedDays": 6,
-    "source": "lever"
   },
   {
     "id": 1111614145,
@@ -260,7 +452,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/43ba8b53-4643-4544-bb21-f13efe99e0a0",
     "postedAt": "2026-09-10T03:58:53.061+00:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "ashby"
   },
   {
@@ -272,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/4342be72-0ec4-42b2-962a-6e7ca06b7070",
     "postedAt": "2026-09-10T17:00:50.925+00:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "ashby"
   },
   {
@@ -284,7 +476,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/2ace6bbe-a7ac-4930-bcdc-14c618179b1f",
     "postedAt": "2026-09-10T16:56:35.669+00:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "ashby"
   },
   {
@@ -296,7 +488,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/paypay/jobs/6008814004",
     "postedAt": "2026-09-10T02:22:41-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -308,7 +500,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/paypay/jobs/4182995004",
     "postedAt": "2026-09-10T02:29:09-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -320,7 +512,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/paypay/jobs/6015033004",
     "postedAt": "2026-09-10T02:34:13-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -332,31 +524,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scopely/jobs/5412268008?gh_jid=5412268008",
     "postedAt": "2026-09-09T14:04:25-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1068494407,
-    "company": "Tailscale",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=tailscale.com",
-    "role": "Product Designer (Growth)",
-    "location": "Remote (Canada)",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4726042005",
-    "postedAt": "2026-09-10T09:14:11-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 662873024,
-    "company": "Tailscale",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=tailscale.com",
-    "role": "Product Designer (Growth)",
-    "location": "Remote (United States)",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4726090005",
-    "postedAt": "2026-09-10T09:14:15-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -368,7 +536,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/5724174004",
     "postedAt": "2026-09-10T13:08:11-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -380,7 +548,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6115287004",
     "postedAt": "2026-09-10T13:08:11-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -392,7 +560,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6122580004",
     "postedAt": "2026-09-10T13:08:11-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -404,7 +572,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004",
     "postedAt": "2026-09-10T13:08:11-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -416,7 +584,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6127365004",
     "postedAt": "2026-09-10T13:08:11-04:00",
-    "postedDays": 6,
+    "postedDays": 7,
     "source": "greenhouse"
   },
   {
@@ -428,175 +596,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6119743004",
     "postedAt": "2026-09-10T13:08:11-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 539981409,
-    "company": "Zyngacareers",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "Senior Product Designer, Direct to Consumer",
-    "location": "Austin, TX; Toronto, Canada",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6119148004",
-    "postedAt": "2026-09-10T13:08:11-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 118915425,
-    "company": "Zyngacareers",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "UI/UX Designer - Poker",
-    "location": "Austin, TX",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6134522004",
-    "postedAt": "2026-09-10T13:08:11-04:00",
-    "postedDays": 6,
-    "source": "greenhouse"
-  },
-  {
-    "id": 436709,
-    "company": "Arizeai",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=arize.com",
-    "role": "UX Designer",
-    "location": "Remote (United States)",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/arizeai/jobs/5790042004",
-    "postedAt": "2026-09-08T16:38:12-04:00",
     "postedDays": 7,
     "source": "greenhouse"
-  },
-  {
-    "id": 1655058648,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "Digital Designer (French fluent)",
-    "location": "Kuala Lumpur, Malaysia",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7963249",
-    "postedAt": "2026-09-09T04:16:10-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 57474557,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "Digital Designer (French fluent)",
-    "location": "Mumbai, India",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7870007",
-    "postedAt": "2026-09-09T04:16:10-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 626879993,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "Digital Designer (German fluent)",
-    "location": "Mumbai, India",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7869997",
-    "postedAt": "2026-09-09T04:16:10-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1083395549,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "Digital Designer (German fluent)",
-    "location": "Kuala Lumpur, Malaysia",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7963251",
-    "postedAt": "2026-09-09T04:16:10-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1310247382,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "GenAI Senior Integrated Designer (Motion Exp)",
-    "location": "Mumbai, India",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7846658",
-    "postedAt": "2026-09-09T04:16:10-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1628524727,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
-    "role": "Integrated Designer (Powerpoint specialist)",
-    "location": "Bogotá, Colombia",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8152527",
-    "postedAt": "2026-09-09T04:16:10-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 847656955,
-    "company": "Nex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Senior Designer",
-    "location": "Hong Kong",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/nex/jobs/5419146008",
-    "postedAt": "2026-09-09T04:33:13-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 346673871,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
-    "role": "PCB Designer (Starlink)",
-    "location": "Bastrop, TX",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8571342002?gh_jid=8571342002",
-    "postedAt": "2026-09-09T07:27:23-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 564185846,
-    "company": "Xai",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
-    "role": "BIM Designer, Data Center - Memphis",
-    "location": "Memphis, TN",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/5214336007",
-    "postedAt": "2026-09-08T18:33:02-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 500016104,
-    "company": "Higgsfieldai",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=clay.com",
-    "role": "CX Graphic Designer",
-    "location": "Almaty, Kazakhstan",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/higgsfieldai/da3e45be-411f-4d29-9eb6-b87fed38d5c8",
-    "postedAt": "2026-09-08T13:35:08.327+00:00",
-    "postedDays": 8,
-    "source": "ashby"
-  },
-  {
-    "id": 2003228679,
-    "company": "Nash",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=waymo.com",
-    "role": "Product Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/nash/f3ab1bcb-4497-49c8-bdbb-d09776c2392f",
-    "postedAt": "2026-09-08T16:32:59.013+00:00",
-    "postedDays": 8,
-    "source": "ashby"
   }
 ]
