@@ -148,7 +148,7 @@
   },
   {
     "company": "Checkr",
-    "domain": "checkr.com",
+    "domain": "squarespace.com",
     "ats": "greenhouse",
     "board": "checkr",
     "area": "AI"
@@ -182,13 +182,6 @@
     "area": "AI"
   },
   {
-    "company": "ClickUp",
-    "domain": "clickup.com",
-    "ats": "ashby",
-    "board": "clickup",
-    "area": "AI"
-  },
-  {
     "company": "Cloudflare",
     "domain": "cloudflare.com",
     "ats": "greenhouse",
@@ -197,7 +190,7 @@
   },
   {
     "company": "Code Metal",
-    "domain": "codemetal.com",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "code-metal",
     "area": "AI"
@@ -221,6 +214,13 @@
     "domain": "otter.ai",
     "ats": "greenhouse",
     "board": "cssmerge",
+    "area": "AI"
+  },
+  {
+    "company": "Cylake Inc",
+    "domain": "cylakeinc.com",
+    "ats": "ashby",
+    "board": "cylake-inc",
     "area": "AI"
   },
   {
@@ -308,6 +308,13 @@
     "area": "AI"
   },
   {
+    "company": "Fireworks",
+    "domain": "fireworks.com",
+    "ats": "ashby",
+    "board": "fireworks",
+    "area": "AI"
+  },
+  {
     "company": "Flagshippioneeringinc",
     "domain": "scale.com",
     "ats": "greenhouse",
@@ -329,10 +336,24 @@
     "area": "AI"
   },
   {
+    "company": "Genmo",
+    "domain": "genmo.com",
+    "ats": "ashby",
+    "board": "genmo",
+    "area": "AI"
+  },
+  {
     "company": "Glance",
     "domain": "pinterest.com",
     "ats": "greenhouse",
     "board": "glance",
+    "area": "AI"
+  },
+  {
+    "company": "Gleanwork",
+    "domain": "glean.com",
+    "ats": "greenhouse",
+    "board": "gleanwork",
     "area": "AI"
   },
   {
@@ -414,7 +435,7 @@
   },
   {
     "company": "Inceptive",
-    "domain": "inceptive.com",
+    "domain": "klaviyo.com",
     "ats": "greenhouse",
     "board": "inceptive",
     "area": "AI"
@@ -438,6 +459,13 @@
     "domain": "harvey.ai",
     "ats": "ashby",
     "board": "kaizenlabs",
+    "area": "AI"
+  },
+  {
+    "company": "Kandou Ai",
+    "domain": "kandouai.com",
+    "ats": "ashby",
+    "board": "kandou-ai",
     "area": "AI"
   },
   {
@@ -526,7 +554,7 @@
   },
   {
     "company": "Midjourney",
-    "domain": "fivetran.com",
+    "domain": "midjourney.com",
     "ats": "ashby",
     "board": "midjourney",
     "area": "AI"
@@ -623,13 +651,6 @@
     "area": "AI"
   },
   {
-    "company": "Pandvil",
-    "domain": "pandvil.com",
-    "ats": "greenhouse",
-    "board": "pandvil",
-    "area": "AI"
-  },
-  {
     "company": "Pangramlabs",
     "domain": "anthropic.com",
     "ats": "ashby",
@@ -722,7 +743,7 @@
   },
   {
     "company": "Retell Ai",
-    "domain": "sierra.ai",
+    "domain": "retellai.com",
     "ats": "ashby",
     "board": "retell-ai",
     "area": "AI"
@@ -834,16 +855,9 @@
   },
   {
     "company": "Spacex",
-    "domain": "duolingo.com",
+    "domain": "okta.com",
     "ats": "greenhouse",
     "board": "spacex",
-    "area": "AI"
-  },
-  {
-    "company": "Stackblitz",
-    "domain": "bolt.new",
-    "ats": "greenhouse",
-    "board": "stackblitz",
     "area": "AI"
   },
   {
@@ -928,6 +942,13 @@
     "domain": "perplexity.ai",
     "ats": "ashby",
     "board": "viktor",
+    "area": "AI"
+  },
+  {
+    "company": "Wisdom Ai",
+    "domain": "wisdomai.com",
+    "ats": "ashby",
+    "board": "Wisdom-AI",
     "area": "AI"
   },
   {
