@@ -1,29 +1,5 @@
 [
   {
-    "id": 1944425100,
-    "company": "Palantir",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
-    "role": "Product Designer, New Grad - US Government",
-    "location": "Palo Alto, CA",
-    "area": "AI",
-    "url": "https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb",
-    "postedAt": "2024-08-15T22:43:39.366Z",
-    "postedDays": 763,
-    "source": "lever"
-  },
-  {
-    "id": 53251749,
-    "company": "Palantir",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
-    "role": "Product Designer, New Grad - US Government",
-    "location": "Washington, D.C.",
-    "area": "AI",
-    "url": "https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65",
-    "postedAt": "2024-01-02T22:21:00.937Z",
-    "postedDays": 989,
-    "source": "lever"
-  },
-  {
     "id": 1983500629,
     "company": "Runway",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=runwayml.com",
@@ -32,7 +8,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/e0fec99f-ae6e-4f92-ac1a-7d227179261f",
     "postedAt": "2023-08-31T19:41:06.375+00:00",
-    "postedDays": 1113,
+    "postedDays": 1114,
     "source": "ashby"
   },
   {
@@ -44,7 +20,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6",
     "postedAt": "2019-10-10T01:00:30.544Z",
-    "postedDays": 2535,
+    "postedDays": 2536,
     "source": "lever"
   },
   {
@@ -56,7 +32,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24",
     "postedAt": "2019-05-14T22:45:59.021Z",
-    "postedDays": 2683,
+    "postedDays": 2684,
     "source": "lever"
   },
   {
@@ -68,7 +44,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63",
     "postedAt": "2019-01-29T17:51:33.349Z",
-    "postedDays": 2788,
+    "postedDays": 2789,
     "source": "lever"
   },
   {
@@ -80,7 +56,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e",
     "postedAt": "2017-08-10T19:39:38.910Z",
-    "postedDays": 3325,
+    "postedDays": 3326,
     "source": "lever"
   },
   {
@@ -92,7 +68,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d",
     "postedAt": "2013-01-31T00:00:00.000Z",
-    "postedDays": 4978,
+    "postedDays": 4979,
     "source": "lever"
   }
 ]
