@@ -1,101 +1,5 @@
 [
   {
-    "id": 1701520609,
-    "company": "Landor",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=assemblyai.com",
-    "role": "Senior Designer (Consumer Packaging)",
-    "location": "Mumbai",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/landor/jobs/8173275",
-    "postedAt": "2026-09-17T21:37:06-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1967936060,
-    "company": "Landor",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=assemblyai.com",
-    "role": "Senior Designer (Type Specialist)",
-    "location": "Mumbai",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/landor/jobs/8129545",
-    "postedAt": "2026-09-17T21:37:06-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 209952328,
-    "company": "Oura",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Senior AI-Native Product Designer",
-    "location": "Hybrid - San Francisco, California",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4207833009",
-    "postedAt": "2026-09-17T17:34:53-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 2112466283,
-    "company": "Oura",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Senior Product Design Engineer",
-    "location": "Hybrid - San Francisco, California",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4203623009",
-    "postedAt": "2026-09-17T17:34:53-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 899409198,
-    "company": "Oura",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Senior Product Designer, B2B eCommerce",
-    "location": "Remote - San Francisco, California",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4396652009",
-    "postedAt": "2026-09-17T17:34:53-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1061613436,
-    "company": "Oura",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Senior UX Researcher, Human Care",
-    "location": "Hybrid - San Francisco, California",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4313292009",
-    "postedAt": "2026-09-17T17:34:53-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1962366484,
-    "company": "Oura",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Staff Designer, Women's Health",
-    "location": "Hybrid - San Francisco, California",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4110516009",
-    "postedAt": "2026-09-17T17:34:53-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 270447073,
-    "company": "Oura",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Staff Product Designer",
-    "location": "Hybrid - San Francisco, California",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/oura/jobs/4193678009",
-    "postedAt": "2026-09-17T17:34:53-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
     "id": 1054684383,
     "company": "Oura",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
@@ -104,7 +8,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/oura/jobs/4314496009",
     "postedAt": "2026-09-17T17:34:53-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -116,20 +20,92 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
     "postedAt": "2026-09-17T23:27:55-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
     "id": 1563168202,
     "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=duolingo.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
     "role": "Sr. Tooling Designer, Investment Casting",
     "location": "Bastrop, TX",
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8818102002?gh_jid=8818102002",
     "postedAt": "2026-09-17T19:44:04-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
+  },
+  {
+    "id": 92631055,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Senior Product Designer - Technology",
+    "location": "LatAm",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/67d7f84b-7cbd-4a33-ba5f-6147328deb0b",
+    "postedAt": "2026-09-17T20:20:51.518+00:00",
+    "postedDays": 2,
+    "source": "ashby"
+  },
+  {
+    "id": 1587110061,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Junior Mobile UI / Design Systems Designer - News & Media",
+    "location": "LatAm",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/1c571ddc-d821-4aef-b84b-ee31ec04d545",
+    "postedAt": "2026-09-17T21:18:08.020+00:00",
+    "postedDays": 2,
+    "source": "ashby"
+  },
+  {
+    "id": 2063439907,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Junior Mobile UI / Design Systems Designer - News & Media",
+    "location": "Mexico City",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/8f61ed34-ba68-454d-8216-7115103e2f84",
+    "postedAt": "2026-09-17T21:18:23.445+00:00",
+    "postedDays": 2,
+    "source": "ashby"
+  },
+  {
+    "id": 628684016,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Junior Mobile UI / Design Systems Designer - News & Media",
+    "location": "Santo Domingo",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/bcaac6c0-9f78-4b37-8c51-4fa32f35342e",
+    "postedAt": "2026-09-17T21:18:45.941+00:00",
+    "postedDays": 2,
+    "source": "ashby"
+  },
+  {
+    "id": 600566687,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Junior Mobile UI / Design Systems Designer - News & Media",
+    "location": "São Paulo",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/bf419394-8a98-40f9-8d05-56c24f6ce5b2",
+    "postedAt": "2026-09-17T21:19:45.920+00:00",
+    "postedDays": 2,
+    "source": "ashby"
+  },
+  {
+    "id": 1604897840,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Junior Mobile UI / Design Systems Designer - News & Media",
+    "location": "Bogota",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/018404ee-aedf-4f29-8b0f-3af1f6f21df6",
+    "postedAt": "2026-09-17T21:20:11.991+00:00",
+    "postedDays": 2,
+    "source": "ashby"
   },
   {
     "id": 1848721320,
@@ -140,7 +116,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
     "postedAt": "2026-09-17T16:40:14-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -152,7 +128,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6160974004",
     "postedAt": "2026-09-17T16:40:14-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -164,7 +140,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/5579560004",
     "postedAt": "2026-09-17T16:40:14-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -176,7 +152,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6131210004",
     "postedAt": "2026-09-17T16:40:14-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -188,7 +164,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6115991004",
     "postedAt": "2026-09-17T16:40:14-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
+    "source": "greenhouse"
+  },
+  {
+    "id": 992547760,
+    "company": "Webflow",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Staff Product Designer, Agentic CMS",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8213629",
+    "postedAt": "2026-09-18T13:02:40-04:00",
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -200,20 +188,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/writer/04ad3b44-51df-4fa6-a17c-cab6875f70cd",
     "postedAt": "2026-09-18T16:27:57.940+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1655058648,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
-    "role": "Digital Designer (French fluent)",
-    "location": "Kuala Lumpur, Malaysia",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7963249",
-    "postedAt": "2026-09-17T11:35:09-04:00",
     "postedDays": 2,
-    "source": "greenhouse"
+    "source": "ashby"
   },
   {
     "id": 57474557,
@@ -224,19 +200,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7870007",
     "postedAt": "2026-09-17T11:35:09-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
-    "id": 626879993,
+    "id": 1655058648,
     "company": "Brandtechplus",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
-    "role": "Digital Designer (German fluent)",
-    "location": "Mumbai, India",
+    "role": "Digital Designer (French fluent)",
+    "location": "Kuala Lumpur, Malaysia",
     "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7869997",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7963249",
     "postedAt": "2026-09-17T11:35:09-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -248,7 +224,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7963251",
     "postedAt": "2026-09-17T11:35:09-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
+    "source": "greenhouse"
+  },
+  {
+    "id": 626879993,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "Digital Designer (German fluent)",
+    "location": "Mumbai, India",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7869997",
+    "postedAt": "2026-09-17T11:35:09-04:00",
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -260,7 +248,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7959046",
     "postedAt": "2026-09-17T11:35:09-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -272,7 +260,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7959042",
     "postedAt": "2026-09-17T11:35:09-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -284,7 +272,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7846658",
     "postedAt": "2026-09-17T11:35:09-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -296,19 +284,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8152527",
     "postedAt": "2026-09-17T11:35:09-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
-    "id": 64751623,
+    "id": 332495131,
     "company": "Clera",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
-    "role": "Founding UI/UX and Graphic Designer",
-    "location": "London",
+    "role": "Social Media & Content Designer",
+    "location": "San Francisco",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clera/38af755b-44c1-47e4-a88a-82ffa5a5796f",
-    "postedAt": "2026-09-16T17:12:37.495+00:00",
-    "postedDays": 2,
+    "url": "https://jobs.ashbyhq.com/clera/a1ddce73-9c1a-4c8a-a865-23bad24443e6",
+    "postedAt": "2026-09-17T17:13:14.932+00:00",
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -320,7 +308,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8021716",
     "postedAt": "2026-09-17T10:20:42-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -332,7 +320,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155049",
     "postedAt": "2026-09-17T10:20:42-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -344,7 +332,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155046",
     "postedAt": "2026-09-17T10:20:42-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -356,7 +344,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155051",
     "postedAt": "2026-09-17T10:20:42-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -368,7 +356,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8158018",
     "postedAt": "2026-09-17T10:20:42-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -380,7 +368,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155050",
     "postedAt": "2026-09-17T10:20:42-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -392,7 +380,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7767373",
     "postedAt": "2026-09-17T10:20:42-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -404,20 +392,8 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/figma/jobs/6193686004?gh_jid=6193686004",
     "postedAt": "2026-09-16T16:07:42-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
-  },
-  {
-    "id": 96395853,
-    "company": "Gen Digital",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=suno.com",
-    "role": "Principal Product Designer, AI & Innovation",
-    "location": "USA - Mountain View, CA",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/gen-digital/59117edf-5268-4409-9cd0-d51c02935ef1",
-    "postedAt": "2026-09-16T17:02:04.636+00:00",
-    "postedDays": 2,
-    "source": "ashby"
   },
   {
     "id": 929088999,
@@ -428,19 +404,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/hightouch/jobs/6195151004",
     "postedAt": "2026-09-17T12:21:59-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
     "id": 2102876898,
     "company": "Nex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
     "role": "Senior Product Designer",
     "location": "Remote US",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5166369008",
     "postedAt": "2026-09-16T17:19:42-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -452,7 +428,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8055374",
     "postedAt": "2026-09-16T15:20:44-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -464,19 +440,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565768005",
     "postedAt": "2026-09-16T16:10:51-04:00",
-    "postedDays": 2,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1197892290,
-    "company": "Scopely",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Lead Systems Designer - Star Trek Fleet Command",
-    "location": "ES - Barcelona, Spain",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/scopely/jobs/5388806008?gh_jid=5388806008",
-    "postedAt": "2026-09-17T09:47:13-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -488,7 +452,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scopely/jobs/5388807008?gh_jid=5388807008",
     "postedAt": "2026-09-17T09:47:13-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1197892290,
+    "company": "Scopely",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
+    "role": "Lead Systems Designer - Star Trek Fleet Command",
+    "location": "ES - Barcelona, Spain",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5388806008?gh_jid=5388806008",
+    "postedAt": "2026-09-17T09:47:13-04:00",
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -500,19 +476,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scopely/jobs/5379017008?gh_jid=5379017008",
     "postedAt": "2026-09-17T09:47:13-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
     "id": 1557861783,
     "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=duolingo.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
     "role": "Spaceport Designer - Architect (Starbase Development)",
     "location": "Starbase, TX",
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8485525002?gh_jid=8485525002",
     "postedAt": "2026-09-16T16:00:59-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -524,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/295bdba3-7bdc-4f7f-b28e-956536311db7",
     "postedAt": "2026-09-16T21:02:32.057+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -536,7 +512,67 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/10cd0f73-a84a-4826-9892-42a655466f98",
     "postedAt": "2026-09-16T20:35:26.975+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
+    "source": "ashby"
+  },
+  {
+    "id": 1375864430,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Senior Visual Product Designer (2 months) - Marketing",
+    "location": "LatAm",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/afda2396-12b7-495c-8b2c-2c31dad94c2d",
+    "postedAt": "2026-09-16T18:20:21.853+00:00",
+    "postedDays": 3,
+    "source": "ashby"
+  },
+  {
+    "id": 1651411521,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Senior Visual Product Designer (2 months) - Marketing",
+    "location": "Bogota",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/bcdd4002-e65b-4299-af50-568313649593",
+    "postedAt": "2026-09-16T18:20:39.588+00:00",
+    "postedDays": 3,
+    "source": "ashby"
+  },
+  {
+    "id": 1418798091,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Senior Visual Product Designer (2 months) - Marketing",
+    "location": "Mexico City",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/3b294963-7132-4682-9481-332a58f7684e",
+    "postedAt": "2026-09-16T18:21:01.826+00:00",
+    "postedDays": 3,
+    "source": "ashby"
+  },
+  {
+    "id": 1410381665,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Senior Visual Product Designer (2 months) - Marketing",
+    "location": "Santo Domingo",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/d8fc23e6-6f08-42b5-85d6-d62b1e58e495",
+    "postedAt": "2026-09-16T18:21:23.597+00:00",
+    "postedDays": 3,
+    "source": "ashby"
+  },
+  {
+    "id": 1327787354,
+    "company": "Truelogic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "role": "Senior Visual Product Designer (2 months) - Marketing",
+    "location": "São Paulo",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/truelogic/791b4d15-fca0-4ba2-879e-ec72b8ba87d4",
+    "postedAt": "2026-09-16T18:21:40.060+00:00",
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -548,55 +584,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/appnovation/jobs/8799913002",
     "postedAt": "2026-09-16T09:40:36-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
-    "id": 981128502,
+    "id": 64751623,
     "company": "Clera",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
-    "role": "Freelance Product Designer (Fractional)",
-    "location": "San Francisco",
+    "role": "Founding UI/UX and Graphic Designer",
+    "location": "London",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clera/7726d574-3d9e-46f9-ae79-b6478a133de1",
-    "postedAt": "2026-09-15T17:12:48.690+00:00",
-    "postedDays": 3,
+    "url": "https://jobs.ashbyhq.com/clera/38af755b-44c1-47e4-a88a-82ffa5a5796f",
+    "postedAt": "2026-09-16T17:12:37.495+00:00",
+    "postedDays": 4,
     "source": "ashby"
-  },
-  {
-    "id": 1731592947,
-    "company": "Faire",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=faire.com",
-    "role": "Lead Product Designer",
-    "location": "New York City, NY; San Francisco, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/faire/jobs/8445630002?gh_jid=8445630002",
-    "postedAt": "2026-09-15T20:05:39-04:00",
-    "postedDays": 3,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1763142794,
-    "company": "Matteprojects",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Senior Experiential Designer (On-Site)",
-    "location": "New York, New York",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/matteprojects/jobs/6193251004",
-    "postedAt": "2026-09-15T13:04:49-04:00",
-    "postedDays": 3,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1002952547,
-    "company": "Smartlyio",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=perplexity.ai",
-    "role": "Production Designer",
-    "location": "Philippines",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126661004",
-    "postedAt": "2026-09-16T06:17:24-04:00",
-    "postedDays": 3,
-    "source": "greenhouse"
   }
 ]
