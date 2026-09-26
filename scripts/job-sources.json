@@ -29,7 +29,7 @@
   },
   {
     "company": "Agoda",
-    "domain": "brex.com",
+    "domain": "agoda.com",
     "ats": "greenhouse",
     "board": "agoda",
     "area": "AI"
@@ -120,7 +120,7 @@
   },
   {
     "company": "Bjakcareer",
-    "domain": "stripe.com",
+    "domain": "anthropic.com",
     "ats": "ashby",
     "board": "bjakcareer",
     "area": "AI"
@@ -169,7 +169,7 @@
   },
   {
     "company": "Checkr",
-    "domain": "checkr.com",
+    "domain": "descript.com",
     "ats": "greenhouse",
     "board": "checkr",
     "area": "AI"
@@ -204,7 +204,7 @@
   },
   {
     "company": "Clera",
-    "domain": "coreweave.com",
+    "domain": "factory.ai",
     "ats": "ashby",
     "board": "clera",
     "area": "AI"
@@ -217,13 +217,6 @@
     "area": "AI"
   },
   {
-    "company": "Cloaked",
-    "domain": "figma.com",
-    "ats": "ashby",
-    "board": "cloaked",
-    "area": "AI"
-  },
-  {
     "company": "Cloudflare",
     "domain": "cloudflare.com",
     "ats": "greenhouse",
@@ -232,7 +225,7 @@
   },
   {
     "company": "Code Metal",
-    "domain": "stripe.com",
+    "domain": "codemetal.com",
     "ats": "ashby",
     "board": "code-metal",
     "area": "AI"
@@ -277,6 +270,13 @@
     "domain": "deepgram.com",
     "ats": "ashby",
     "board": "deepgram",
+    "area": "AI"
+  },
+  {
+    "company": "Descript",
+    "domain": "descript.com",
+    "ats": "greenhouse",
+    "board": "descript",
     "area": "AI"
   },
   {
@@ -343,6 +343,13 @@
     "area": "AI"
   },
   {
+    "company": "Felix Construction",
+    "domain": "langchain.com",
+    "ats": "lever",
+    "board": "felix-construction",
+    "area": "AI"
+  },
+  {
     "company": "Figma",
     "domain": "figma.com",
     "ats": "greenhouse",
@@ -399,13 +406,6 @@
     "area": "AI"
   },
   {
-    "company": "Happy Sleep",
-    "domain": "vercel.com",
-    "ats": "lever",
-    "board": "happy-sleep",
-    "area": "AI"
-  },
-  {
     "company": "Happyrobot.ai",
     "domain": "happyrobotai.com",
     "ats": "ashby",
@@ -456,7 +456,7 @@
   },
   {
     "company": "Highwire",
-    "domain": "openai.com",
+    "domain": "stripe.com",
     "ats": "greenhouse",
     "board": "highwire",
     "area": "AI"
@@ -484,9 +484,16 @@
   },
   {
     "company": "Inceptive",
-    "domain": "inceptive.com",
+    "domain": "klaviyo.com",
     "ats": "greenhouse",
     "board": "inceptive",
+    "area": "AI"
+  },
+  {
+    "company": "Inferact",
+    "domain": "coreweave.com",
+    "ats": "ashby",
+    "board": "inferact",
     "area": "AI"
   },
   {
@@ -742,6 +749,13 @@
     "area": "AI"
   },
   {
+    "company": "Project Wayfinder",
+    "domain": "projectwayfinder.com",
+    "ats": "lever",
+    "board": "project-wayfinder",
+    "area": "AI"
+  },
+  {
     "company": "Proxima Fusion",
     "domain": "proximafusion.com",
     "ats": "ashby",
@@ -897,7 +911,7 @@
   },
   {
     "company": "Spacex",
-    "domain": "duolingo.com",
+    "domain": "figma.com",
     "ats": "greenhouse",
     "board": "spacex",
     "area": "AI"
