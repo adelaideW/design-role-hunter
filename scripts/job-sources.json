@@ -169,7 +169,7 @@
   },
   {
     "company": "Checkr",
-    "domain": "descript.com",
+    "domain": "checkr.com",
     "ats": "greenhouse",
     "board": "checkr",
     "area": "AI"
@@ -204,7 +204,7 @@
   },
   {
     "company": "Clera",
-    "domain": "factory.ai",
+    "domain": "descript.com",
     "ats": "ashby",
     "board": "clera",
     "area": "AI"
@@ -225,16 +225,9 @@
   },
   {
     "company": "Code Metal",
-    "domain": "codemetal.com",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "code-metal",
-    "area": "AI"
-  },
-  {
-    "company": "Collate",
-    "domain": "tavus.io",
-    "ats": "lever",
-    "board": "collate",
     "area": "AI"
   },
   {
@@ -361,6 +354,13 @@
     "domain": "figure.ai",
     "ats": "greenhouse",
     "board": "figureai",
+    "area": "AI"
+  },
+  {
+    "company": "Fireworks",
+    "domain": "fireworks.com",
+    "ats": "ashby",
+    "board": "fireworks",
     "area": "AI"
   },
   {
@@ -546,6 +546,13 @@
     "area": "AI"
   },
   {
+    "company": "Latamcent",
+    "domain": "latamcent.com",
+    "ats": "ashby",
+    "board": "latamcent",
+    "area": "AI"
+  },
+  {
     "company": "Latentlabs",
     "domain": "latentlabs.com",
     "ats": "ashby",
@@ -606,13 +613,6 @@
     "domain": "mercor.com",
     "ats": "ashby",
     "board": "mercor",
-    "area": "AI"
-  },
-  {
-    "company": "Meshy",
-    "domain": "datadoghq.com",
-    "ats": "ashby",
-    "board": "meshy",
     "area": "AI"
   },
   {
@@ -945,17 +945,17 @@
     "area": "AI"
   },
   {
+    "company": "Tempo",
+    "domain": "replit.com",
+    "ats": "ashby",
+    "board": "Tempo",
+    "area": "AI"
+  },
+  {
     "company": "Tenstorrent",
     "domain": "openai.com",
     "ats": "greenhouse",
     "board": "tenstorrent",
-    "area": "AI"
-  },
-  {
-    "company": "Truelogic",
-    "domain": "webflow.com",
-    "ats": "ashby",
-    "board": "truelogic",
     "area": "AI"
   },
   {

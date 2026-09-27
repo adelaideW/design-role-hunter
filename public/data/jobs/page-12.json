@@ -1,137 +1,5 @@
 [
   {
-    "id": 1055393459,
-    "company": "Intro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
-    "role": "Brand Designer, Marketing (Contract)",
-    "location": "United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/intro/59e8c47c-e915-4d2c-be81-d915325325a0",
-    "postedAt": "2026-01-06T20:36:07.575+00:00",
-    "postedDays": 262,
-    "source": "ashby"
-  },
-  {
-    "id": 1986186340,
-    "company": "Logrocket",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=logrocket.com",
-    "role": "Senior Product Designer",
-    "location": "Boston or NYC",
-    "area": "AI",
-    "url": "https://jobs.lever.co/logrocket/cac67948-9675-4470-b98f-99471d6c6088",
-    "postedAt": "2025-12-30T03:25:09.180Z",
-    "postedDays": 270,
-    "source": "lever"
-  },
-  {
-    "id": 2097237154,
-    "company": "Harvey",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
-    "role": "Staff Product Designer",
-    "location": "New York",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/harvey/d527a336-24e3-46ef-8d05-1da557c7bff4",
-    "postedAt": "2025-12-22T20:07:43.460+00:00",
-    "postedDays": 277,
-    "source": "ashby"
-  },
-  {
-    "id": 847494340,
-    "company": "Meshy",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "Senior UI/UX Designer",
-    "location": "Beijing",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/meshy/9a58b214-b4fe-47ec-a0a6-cb1d0afc51c1",
-    "postedAt": "2025-12-19T08:35:58.762+00:00",
-    "postedDays": 281,
-    "source": "ashby"
-  },
-  {
-    "id": 654801067,
-    "company": "Agentio",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=coreweave.com",
-    "role": "Product Designer",
-    "location": "New York, NY",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/agentio/add1f39c-ca77-4af1-aa38-e8eb188cc0d4",
-    "postedAt": "2025-11-18T15:26:24.734+00:00",
-    "postedDays": 312,
-    "source": "ashby"
-  },
-  {
-    "id": 1902979366,
-    "company": "Harvey",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
-    "role": "Staff Product Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/harvey/24616c39-e293-4bcc-a3dd-e6f33a71c8ee",
-    "postedAt": "2025-09-12T23:39:38.961+00:00",
-    "postedDays": 378,
-    "source": "ashby"
-  },
-  {
-    "id": 798507914,
-    "company": "Factory",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=factory.ai",
-    "role": "Graphic Designer",
-    "location": "San Francisco, CA",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/factory/7b479181-f6f0-4f54-ab42-2c0c93c530ea",
-    "postedAt": "2025-08-21T02:03:25.427+00:00",
-    "postedDays": 401,
-    "source": "ashby"
-  },
-  {
-    "id": 1949454172,
-    "company": "Palantir",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
-    "role": "Product Designer, Internship - US Government",
-    "location": "New York, NY",
-    "area": "AI",
-    "url": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d",
-    "postedAt": "2025-08-12T18:31:27.150Z",
-    "postedDays": 409,
-    "source": "lever"
-  },
-  {
-    "id": 401729011,
-    "company": "Palantir",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
-    "role": "Product Designer, New Grad",
-    "location": "London, United Kingdom",
-    "area": "AI",
-    "url": "https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7",
-    "postedAt": "2025-08-12T16:38:56.637Z",
-    "postedDays": 410,
-    "source": "lever"
-  },
-  {
-    "id": 579496963,
-    "company": "Lovable",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=lovable.dev",
-    "role": "Product Designer",
-    "location": "Stockholm",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/lovable/cf78be5e-41ca-478a-b480-0d0839c24543",
-    "postedAt": "2025-07-17T16:03:07.517+00:00",
-    "postedDays": 436,
-    "source": "ashby"
-  },
-  {
-    "id": 638849770,
-    "company": "Intro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
-    "role": "Founding Product Designer",
-    "location": "Venice Beach, CA",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/intro/8db611ee-8340-4af3-af48-b6e26968dc2b",
-    "postedAt": "2025-04-24T20:46:31.989+00:00",
-    "postedDays": 519,
-    "source": "ashby"
-  },
-  {
     "id": 671861269,
     "company": "Palantir",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
@@ -140,7 +8,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/c2d11af1-5b84-4be0-92ac-36113fb8f2b5",
     "postedAt": "2025-04-03T18:13:34.536Z",
-    "postedDays": 540,
+    "postedDays": 541,
     "source": "lever"
   },
   {
@@ -152,7 +20,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02",
     "postedAt": "2024-11-21T19:29:33.139Z",
-    "postedDays": 673,
+    "postedDays": 674,
     "source": "lever"
   },
   {
@@ -164,7 +32,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5",
     "postedAt": "2024-08-19T09:22:15.474Z",
-    "postedDays": 768,
+    "postedDays": 769,
     "source": "lever"
   },
   {
@@ -176,7 +44,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb",
     "postedAt": "2024-08-15T22:43:39.366Z",
-    "postedDays": 771,
+    "postedDays": 772,
     "source": "lever"
   },
   {
@@ -188,7 +56,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65",
     "postedAt": "2024-01-02T22:21:00.937Z",
-    "postedDays": 997,
+    "postedDays": 998,
     "source": "lever"
   },
   {
@@ -200,7 +68,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/e0fec99f-ae6e-4f92-ac1a-7d227179261f",
     "postedAt": "2023-08-31T19:41:06.375+00:00",
-    "postedDays": 1121,
+    "postedDays": 1122,
     "source": "ashby"
   },
   {
@@ -212,7 +80,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6",
     "postedAt": "2019-10-10T01:00:30.544Z",
-    "postedDays": 2543,
+    "postedDays": 2544,
     "source": "lever"
   },
   {
@@ -224,7 +92,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24",
     "postedAt": "2019-05-14T22:45:59.021Z",
-    "postedDays": 2691,
+    "postedDays": 2692,
     "source": "lever"
   },
   {
@@ -236,7 +104,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63",
     "postedAt": "2019-01-29T17:51:33.349Z",
-    "postedDays": 2796,
+    "postedDays": 2798,
     "source": "lever"
   },
   {
@@ -248,7 +116,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e",
     "postedAt": "2017-08-10T19:39:38.910Z",
-    "postedDays": 3333,
+    "postedDays": 3334,
     "source": "lever"
   },
   {
@@ -260,7 +128,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d",
     "postedAt": "2013-01-31T00:00:00.000Z",
-    "postedDays": 4986,
+    "postedDays": 4987,
     "source": "lever"
   }
 ]
