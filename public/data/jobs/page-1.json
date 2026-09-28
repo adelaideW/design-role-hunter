@@ -1,209 +1,5 @@
 [
   {
-    "id": 1219336923,
-    "company": "Clera",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
-    "role": "Product Designer",
-    "location": "Copenhagen",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clera/0a84910d-714b-4a68-968b-62b82827c5f3",
-    "postedAt": "2026-09-27T17:05:13.904+00:00",
-    "postedDays": 0,
-    "source": "ashby"
-  },
-  {
-    "id": 764847019,
-    "company": "Clera",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
-    "role": "Fractional Founding Designer",
-    "location": "remote",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clera/8a354a7f-6fae-4a18-a682-993f59e6bd32",
-    "postedAt": "2026-09-27T17:04:23.593+00:00",
-    "postedDays": 0,
-    "source": "ashby"
-  },
-  {
-    "id": 782025424,
-    "company": "Clera",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
-    "role": "Junior Product Designer",
-    "location": "Munich",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clera/b620d8fb-d530-4785-8c6a-f2f6a2720ec9",
-    "postedAt": "2026-09-27T17:16:28.199+00:00",
-    "postedDays": 0,
-    "source": "ashby"
-  },
-  {
-    "id": 327228922,
-    "company": "Patch.io",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=patchio.com",
-    "role": "Lead Brand Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/patch.io/f050a34d-83ff-4b92-a073-7fee34176f41",
-    "postedAt": "2026-09-26T21:10:30.769+00:00",
-    "postedDays": 0,
-    "source": "ashby"
-  },
-  {
-    "id": 395374066,
-    "company": "Checkr",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=checkr.com",
-    "role": "Senior Product Designer, Verifications",
-    "location": "Denver, Colorado, United States; San Francisco, California, United States",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/checkr/jobs/8226465",
-    "postedAt": "2026-09-25T16:53:29-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 855949208,
-    "company": "Chime",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Principal Product Designer, Spending",
-    "location": "New York, NY, USA; San Francisco, CA, USA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/chime/jobs/8525325002?gh_jid=8525325002",
-    "postedAt": "2026-09-25T15:07:48-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 104242609,
-    "company": "Clera",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
-    "role": "Founding Product Designer",
-    "location": "Berlin",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clera/1dfdf07d-cc28-4710-8cbc-1fe2e5971222",
-    "postedAt": "2026-09-26T17:03:54.703+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 817459869,
-    "company": "Clera",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
-    "role": "Visual Designer",
-    "location": "Vienna",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clera/325e1c17-c8ae-4f71-9f30-5017558762ff",
-    "postedAt": "2026-09-26T17:26:44.724+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 254849333,
-    "company": "Descript",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
-    "role": "Brand Design Lead",
-    "location": "San Francisco, CA or Remote, US",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/descript/jobs/8003605003?gh_jid=8003605003",
-    "postedAt": "2026-09-25T18:15:24-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1596151598,
-    "company": "Hark",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
-    "role": "Interface Designer",
-    "location": "San Jose",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hark/jobs/4255138009",
-    "postedAt": "2026-09-25T15:18:27-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1176610589,
-    "company": "Hark",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
-    "role": "Lead Brand Designer",
-    "location": "San Jose",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hark/jobs/4193774009",
-    "postedAt": "2026-09-25T15:18:27-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 260349030,
-    "company": "Hark",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
-    "role": "Product Design Engineer",
-    "location": "San Jose",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hark/jobs/4115928009",
-    "postedAt": "2026-09-25T19:30:02-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1148773974,
-    "company": "Hark",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
-    "role": "Product Design Engineer, FEA",
-    "location": "San Jose",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hark/jobs/4317218009",
-    "postedAt": "2026-09-25T19:30:24-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 93162802,
-    "company": "Hark",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
-    "role": "Product Design Engineer, Thermals",
-    "location": "San Jose",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hark/jobs/4218847009",
-    "postedAt": "2026-09-25T19:30:49-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 857801337,
-    "company": "Project Wayfinder",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=projectwayfinder.com",
-    "role": "Senior Product Designer",
-    "location": "Remote",
-    "area": "AI",
-    "url": "https://jobs.lever.co/project-wayfinder/5efc639f-104e-443b-885a-722d8432c4ec",
-    "postedAt": "2026-09-25T22:02:49.139Z",
-    "postedDays": 1,
-    "source": "lever"
-  },
-  {
-    "id": 2060985070,
-    "company": "Ramp",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
-    "role": "Principal Brand Designer",
-    "location": "New York, NY (HQ)",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17",
-    "postedAt": "2026-09-25T21:05:27.698+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 328673858,
-    "company": "Anthropic",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
-    "role": "Product Designer, Safeguards",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
-    "postedAt": "2026-09-25T10:47:31-04:00",
-    "postedDays": 2,
-    "source": "greenhouse"
-  },
-  {
     "id": 1417629532,
     "company": "Bjakcareer",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
@@ -211,8 +7,8 @@
     "location": "United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5c1813c0-6ea1-4b0a-b0f5-1616dfa66f67",
-    "postedAt": "2026-09-25T02:15:15.228+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:00.218+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -223,8 +19,8 @@
     "location": "Seoul, Korea",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/40fb88e2-3090-4d97-8a1f-532dea572b3d",
-    "postedAt": "2026-09-25T02:15:55.071+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:56.767+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -235,8 +31,8 @@
     "location": "United Kingdom",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/95eabade-b2d7-447d-b196-ce2e62d9ecd7",
-    "postedAt": "2026-09-25T02:15:19.610+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:04.222+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -247,8 +43,8 @@
     "location": "United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/74f7575f-9515-4b5c-a75f-39f08050a40c",
-    "postedAt": "2026-09-25T02:15:23.525+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:15.309+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -259,8 +55,8 @@
     "location": "New York, United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/c8a45923-af0f-4570-a53d-7edac286a02d",
-    "postedAt": "2026-09-25T02:14:13.167+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:29:43.324+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -271,8 +67,8 @@
     "location": "United Kingdom",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/1546b14d-6bd3-4bb2-acd2-a36a11856b1e",
-    "postedAt": "2026-09-25T02:14:17.257+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:29:57.009+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -283,8 +79,8 @@
     "location": "Seoul, Korea",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/719f88bf-7c6d-4b6e-9058-18d8e15af377",
-    "postedAt": "2026-09-25T02:14:21.555+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:00.913+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -295,8 +91,8 @@
     "location": "United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/fb92928d-a488-4073-a340-b7cf3b85f4aa",
-    "postedAt": "2026-09-25T02:14:33.168+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:23.159+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -307,8 +103,8 @@
     "location": "Seoul, Korea",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/f56439fa-6214-43e0-b29c-2334f052cd8f",
-    "postedAt": "2026-09-25T02:14:25.147+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:05.766+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -319,8 +115,8 @@
     "location": "Seoul, Korea",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/af85459f-5539-4720-aa65-219ecbefbfd8",
-    "postedAt": "2026-09-25T02:14:38.906+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:27.704+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -331,8 +127,8 @@
     "location": "United Kingdom",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/1729d112-7969-4fc7-bc79-d6d6f02deeca",
-    "postedAt": "2026-09-25T02:14:29.199+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:19.047+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -343,8 +139,8 @@
     "location": "United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/3b664a5b-d0fc-4b8c-8bf2-b1656c363b29",
-    "postedAt": "2026-09-25T02:14:43.497+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:31.931+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -355,8 +151,8 @@
     "location": "Tokyo, Japan",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/87da6e95-b5bc-49b5-99ec-aea44264bcd3",
-    "postedAt": "2026-09-25T02:15:28.470+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:22.141+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -367,8 +163,8 @@
     "location": "Sweden",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/7451bd8d-56cd-4ac3-9240-eb774486d576",
-    "postedAt": "2026-09-25T02:15:31.765+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:28.415+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -379,8 +175,8 @@
     "location": "Netherlands",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b0cdd6ab-6cdc-4746-8224-181fd6446a24",
-    "postedAt": "2026-09-25T02:15:35.955+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:34.900+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -391,8 +187,8 @@
     "location": "Switzerland",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/f02d0053-0ae9-4992-bc96-b58979b2bfc7",
-    "postedAt": "2026-09-25T02:15:39.825+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:39.092+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -403,8 +199,8 @@
     "location": "Germany",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/293cbe0c-b356-4f35-818f-cf657e7b1b0b",
-    "postedAt": "2026-09-25T02:15:43.722+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:44.056+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -415,8 +211,8 @@
     "location": "Austria",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/3d7f263c-cab4-49dd-a473-8859d21facce",
-    "postedAt": "2026-09-25T02:15:47.756+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:47.783+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -427,8 +223,8 @@
     "location": "Spain",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/340337a9-d986-4d41-b0ed-f6f2de5f2d24",
-    "postedAt": "2026-09-25T02:15:51.511+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:31:52.562+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -439,8 +235,8 @@
     "location": "United Kingdom",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/fab215d1-d747-495e-a895-8d9b8cdb0f80",
-    "postedAt": "2026-09-25T02:14:49.106+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:36.313+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -451,8 +247,8 @@
     "location": "United Kingdom",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/2030bd22-3959-4027-bf1a-1f46bd04e381",
-    "postedAt": "2026-09-25T02:15:02.008+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:42.627+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -463,8 +259,8 @@
     "location": "New York, United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5135ab14-2876-4015-8bb1-5eed6e102b45",
-    "postedAt": "2026-09-25T02:15:06.712+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:48.856+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -475,8 +271,8 @@
     "location": "Seoul, Korea",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/c7b386c6-b3ea-4a85-9af7-5301591abc56",
-    "postedAt": "2026-09-25T02:15:10.631+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T06:30:54.096+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -487,8 +283,8 @@
     "location": "United Kingdom",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/e6c9809d-fd27-4bbe-98f0-d27b81c3718d",
-    "postedAt": "2026-09-25T01:12:08.746+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T04:24:32.296+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -499,8 +295,8 @@
     "location": "United Kingdom",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/4ddfe503-4e49-412a-9978-71b3e368d533",
-    "postedAt": "2026-09-25T01:12:06.813+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T04:24:28.937+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -511,8 +307,8 @@
     "location": "Seoul, Korea",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ff731fa5-9d14-431a-9fbc-3d21eb2ecf72",
-    "postedAt": "2026-09-25T01:11:59.794+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T04:24:34.068+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -523,32 +319,8 @@
     "location": "United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ece211c9-6493-4300-b2c0-fded15aa2749",
-    "postedAt": "2026-09-25T01:11:54.450+00:00",
-    "postedDays": 2,
-    "source": "ashby"
-  },
-  {
-    "id": 281396541,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
-    "role": "Visual Designer",
-    "location": "New York, United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/ad0cb479-f828-459e-80f8-935e2e300ca4",
-    "postedAt": "2026-09-25T02:18:06.309+00:00",
-    "postedDays": 2,
-    "source": "ashby"
-  },
-  {
-    "id": 1740573963,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
-    "role": "Visual Designer",
-    "location": "Seoul, Korea",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/7d949dfc-594c-4f09-818c-49bfaa7caaca",
-    "postedAt": "2026-09-25T02:17:53.277+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T04:24:23.087+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -559,8 +331,8 @@
     "location": "United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/7829ba57-c304-4ca3-9dd5-86a4136868b3",
-    "postedAt": "2026-09-25T01:12:17.483+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T04:24:41.495+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -571,8 +343,8 @@
     "location": "United Kingdom",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/bad572c1-0a1d-470b-88ce-1073e21ff9ad",
-    "postedAt": "2026-09-25T01:12:04.032+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T04:24:36.257+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -583,8 +355,8 @@
     "location": "Seoul, Korea",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/6fcdea85-3b3e-4270-9969-1bed6e5dd5f1",
-    "postedAt": "2026-09-25T01:11:57.876+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T04:24:39.243+00:00",
+    "postedDays": 0,
     "source": "ashby"
   },
   {
@@ -595,8 +367,236 @@
     "location": "United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/d1a82aff-e55b-467c-b9f9-bff79055052b",
-    "postedAt": "2026-09-25T01:12:12.894+00:00",
-    "postedDays": 2,
+    "postedAt": "2026-09-28T04:24:43.713+00:00",
+    "postedDays": 0,
     "source": "ashby"
+  },
+  {
+    "id": 999372028,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Senior Designer",
+    "location": "United Kingdom",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/271d151c-7a69-4832-a58a-5650258ef364",
+    "postedAt": "2026-09-28T04:24:47.569+00:00",
+    "postedDays": 0,
+    "source": "ashby"
+  },
+  {
+    "id": 143667885,
+    "company": "Bjakcareer",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Senior Designer",
+    "location": "Seoul, Korea",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/ac824c32-dbf5-4dbc-bb33-a688e93ad268",
+    "postedAt": "2026-09-28T04:24:45.583+00:00",
+    "postedDays": 0,
+    "source": "ashby"
+  },
+  {
+    "id": 1655058648,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "Digital Designer (French fluent)",
+    "location": "Kuala Lumpur, Malaysia",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7963249",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 57474557,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "Digital Designer (French fluent)",
+    "location": "Mumbai, India",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7870007",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 626879993,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "Digital Designer (German fluent)",
+    "location": "Mumbai, India",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7869997",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1083395549,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "Digital Designer (German fluent)",
+    "location": "Kuala Lumpur, Malaysia",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7963251",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 2055141430,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "GenAI Senior Integrated Designer",
+    "location": "Mumbai, India",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8225764",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1831555680,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "GenAI Senior  Integrated Designer (Motion Exp)",
+    "location": "Mexico City, Mexico",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7959046",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1667739416,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "GenAI Senior Integrated Designer (Motion Exp)",
+    "location": "Bogotá, Colombia",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7959042",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1310247382,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "GenAI Senior Integrated Designer (Motion Exp)",
+    "location": "Mumbai, India",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7846658",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 483105483,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "Presentation Designer",
+    "location": "Johannesburg, South Africa",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8152657",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 185727127,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "Presentation Designer",
+    "location": "Bogotá, Colombia",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8152527",
+    "postedAt": "2026-09-28T08:31:20-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 877329715,
+    "company": "Checkr",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=checkr.com",
+    "role": "Staff Product Designer, Growth",
+    "location": "Denver, Colorado, United States; San Francisco, California, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/checkr/jobs/8237272",
+    "postedAt": "2026-09-28T11:44:54-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1094301454,
+    "company": "Clera",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
+    "role": "Senior/Staff Product Designer",
+    "location": "Munich",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/clera/fc126b84-84f7-4194-92d3-5f7b9780e577",
+    "postedAt": "2026-09-28T17:08:36.878+00:00",
+    "postedDays": 0,
+    "source": "ashby"
+  },
+  {
+    "id": 140670378,
+    "company": "Clera",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
+    "role": "Product Designer",
+    "location": "remote",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/clera/bea2c64a-69d0-4f8a-ae61-d0bc82e9f2ca",
+    "postedAt": "2026-09-28T17:09:33.232+00:00",
+    "postedDays": 0,
+    "source": "ashby"
+  },
+  {
+    "id": 1577669415,
+    "company": "Clera",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
+    "role": "Lead Product Designer",
+    "location": "Vienna",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/clera/d14c20cd-02d8-441d-988a-8d1996e79c75",
+    "postedAt": "2026-09-28T17:17:54.277+00:00",
+    "postedDays": 0,
+    "source": "ashby"
+  },
+  {
+    "id": 918972555,
+    "company": "Dept",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Motion Designer",
+    "location": "Budapest",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8188401",
+    "postedAt": "2026-09-28T09:05:46-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 682999758,
+    "company": "Dept",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Senior Motion Designer (FTC)",
+    "location": "Sydney; Australia",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8237179",
+    "postedAt": "2026-09-28T11:55:29-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 439187960,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "Design Lead",
+    "location": "Los Angeles, CA; San Francisco, CA; New York, NY",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8157450",
+    "postedAt": "2026-09-28T10:02:49-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
   }
 ]

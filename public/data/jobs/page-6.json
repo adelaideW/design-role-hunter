@@ -1,17 +1,5 @@
 [
   {
-    "id": 1944233990,
-    "company": "Scopely",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Principal Systems Designer",
-    "location": "CA - Canada",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/scopely/jobs/5413049008?gh_jid=5413049008",
-    "postedAt": "2026-09-01T15:24:02-04:00",
-    "postedDays": 25,
-    "source": "greenhouse"
-  },
-  {
     "id": 992541162,
     "company": "Spacex",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
@@ -20,7 +8,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8616347002?gh_jid=8616347002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -32,7 +20,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8570197002?gh_jid=8570197002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -44,7 +32,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8727981002?gh_jid=8727981002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -56,7 +44,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8570230002?gh_jid=8570230002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -68,7 +56,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8570369002?gh_jid=8570369002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -80,7 +68,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8752585002?gh_jid=8752585002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -92,7 +80,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8517596002?gh_jid=8517596002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -104,7 +92,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8727987002?gh_jid=8727987002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -116,7 +104,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8549216002?gh_jid=8549216002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -128,19 +116,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8676063002?gh_jid=8676063002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
-    "source": "greenhouse"
-  },
-  {
-    "id": 771046707,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "RFIC Layout Designer (RFIC Engineering)",
-    "location": "Palo Alto, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642055002?gh_jid=8642055002",
-    "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -152,7 +128,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8642048002?gh_jid=8642048002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -164,7 +140,19 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8642052002?gh_jid=8642052002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
+    "source": "greenhouse"
+  },
+  {
+    "id": 771046707,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
+    "role": "RFIC Layout Designer (RFIC Engineering)",
+    "location": "Palo Alto, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642055002?gh_jid=8642055002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -176,7 +164,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8633381002?gh_jid=8633381002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -188,7 +176,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8675927002?gh_jid=8675927002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -200,7 +188,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8731862002?gh_jid=8731862002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -212,7 +200,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8450147002?gh_jid=8450147002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -224,31 +212,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8662843002?gh_jid=8662843002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
-    "source": "greenhouse"
-  },
-  {
-    "id": 783977560,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
-    "location": "Palo Alto, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642096002?gh_jid=8642096002",
-    "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1096600496,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
-    "location": "Irvine, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642092002?gh_jid=8642092002",
-    "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -260,7 +224,31 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8642095002?gh_jid=8642095002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1096600496,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
+    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
+    "location": "Irvine, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642092002?gh_jid=8642092002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 26,
+    "source": "greenhouse"
+  },
+  {
+    "id": 783977560,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
+    "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
+    "location": "Palo Alto, CA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642096002?gh_jid=8642096002",
+    "postedAt": "2026-09-01T19:48:33-04:00",
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -272,7 +260,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/spacex/jobs/8633426002?gh_jid=8633426002",
     "postedAt": "2026-09-01T19:48:33-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -284,8 +272,20 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/typeface/jobs/4617046007",
     "postedAt": "2026-09-02T13:40:31-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
+  },
+  {
+    "id": 2084221899,
+    "company": "Hypha",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hypha.com",
+    "role": "Visual Designer",
+    "location": "NYC",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/hypha/c7cf90da-c165-45ab-bd90-e80c78cd0d20",
+    "postedAt": "2026-09-01T13:07:56.974+00:00",
+    "postedDays": 27,
+    "source": "ashby"
   },
   {
     "id": 788213946,
@@ -296,80 +296,20 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scopely/jobs/5374032008?gh_jid=5374032008",
     "postedAt": "2026-09-01T10:57:15-04:00",
-    "postedDays": 26,
+    "postedDays": 27,
     "source": "greenhouse"
   },
   {
-    "id": 533342302,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "CAD Designer I",
-    "location": "Westminster, CO",
+    "id": 1944233990,
+    "company": "Scopely",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
+    "role": "Principal Systems Designer",
+    "location": "CA - Canada",
     "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/d98d133a-8e6e-40bd-ab53-04ca9aabfa17",
-    "postedAt": "2026-08-30T21:51:28.928Z",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5413049008?gh_jid=5413049008",
+    "postedAt": "2026-09-01T15:24:02-04:00",
     "postedDays": 27,
-    "source": "lever"
-  },
-  {
-    "id": 1814651723,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Principal CAD Designer",
-    "location": "El Segundo, CA",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/934609af-5201-4a96-b890-23701088e9aa",
-    "postedAt": "2026-08-30T21:55:01.233Z",
-    "postedDays": 27,
-    "source": "lever"
-  },
-  {
-    "id": 964902879,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Principal CAD Designer",
-    "location": "Austin, TX",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/a58c6a4b-3494-4e0d-aff9-67fce6e8d34d",
-    "postedAt": "2026-08-30T21:55:51.946Z",
-    "postedDays": 27,
-    "source": "lever"
-  },
-  {
-    "id": 1701506861,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Principal CAD Designer",
-    "location": "Westminster, CO",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/f7bedf5c-03ec-44cc-a69e-1ac7e340ec1a",
-    "postedAt": "2026-08-30T21:56:31.464Z",
-    "postedDays": 27,
-    "source": "lever"
-  },
-  {
-    "id": 2035042407,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Senior PCB Designer (RF)",
-    "location": "Westminster, CO",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/16a62a59-6457-462f-b31b-285902ee3a23",
-    "postedAt": "2026-08-30T19:26:55.150Z",
-    "postedDays": 27,
-    "source": "lever"
-  },
-  {
-    "id": 543547769,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Senior PCB Designer (RF)",
-    "location": "Austin, TX",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/c2bb2fb4-8464-4d72-9d71-2b764859bd79",
-    "postedAt": "2026-08-30T19:27:28.550Z",
-    "postedDays": 27,
-    "source": "lever"
+    "source": "greenhouse"
   },
   {
     "id": 1010576192,
@@ -380,7 +320,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/8a196add-25ef-4dfa-a196-c54c986bda60",
     "postedAt": "2026-08-31T17:12:44.572+00:00",
-    "postedDays": 27,
+    "postedDays": 28,
     "source": "ashby"
   },
   {
@@ -392,7 +332,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/mercor/9a012d72-f296-48fa-a9b9-f77ea3ea14b0",
     "postedAt": "2026-08-31T16:54:34.965+00:00",
-    "postedDays": 27,
+    "postedDays": 28,
     "source": "ashby"
   },
   {
@@ -404,19 +344,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/mercor/faabb06e-5d95-4872-9655-1f18d9f91aac",
     "postedAt": "2026-08-31T16:55:00.644+00:00",
-    "postedDays": 27,
+    "postedDays": 28,
     "source": "ashby"
   },
   {
     "id": 1501483359,
     "company": "Nubank",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hubspot.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
     "role": "Lead Product Designer - Lending",
     "location": "São Paulo",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nubank/6b9aabca-5d57-49c1-bb5a-58466d2a4538",
     "postedAt": "2026-08-31T13:23:52.000+00:00",
-    "postedDays": 27,
+    "postedDays": 28,
     "source": "ashby"
   },
   {
@@ -428,7 +368,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scopely/jobs/5397082008?gh_jid=5397082008",
     "postedAt": "2026-08-31T09:49:13-04:00",
-    "postedDays": 27,
+    "postedDays": 28,
     "source": "greenhouse"
   },
   {
@@ -440,7 +380,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scopely/jobs/5294097008?gh_jid=5294097008",
     "postedAt": "2026-08-31T11:32:58-04:00",
-    "postedDays": 27,
+    "postedDays": 28,
     "source": "greenhouse"
   },
   {
@@ -452,54 +392,30 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scopely/jobs/5394587008?gh_jid=5394587008",
     "postedAt": "2026-08-31T09:47:28-04:00",
-    "postedDays": 27,
-    "source": "greenhouse"
-  },
-  {
-    "id": 135126235,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Senior PCB Designer",
-    "location": "Melbourne, FL",
-    "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/5582b7cc-417a-4e13-bc1e-d2bb258bce8b",
-    "postedAt": "2026-08-30T16:53:45.728Z",
     "postedDays": 28,
-    "source": "lever"
+    "source": "greenhouse"
   },
   {
     "id": 1000617627,
     "company": "Nubank",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hubspot.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
     "role": "Head of Design, Global Expansion",
     "location": "Miami",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nubank/a7e55abf-570f-4dc6-8b4b-b542c943e48b",
     "postedAt": "2026-08-30T01:46:27.111+00:00",
-    "postedDays": 28,
+    "postedDays": 29,
     "source": "ashby"
   },
   {
     "id": 894823375,
     "company": "Nubank",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hubspot.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
     "role": "Senior Motion Designer",
     "location": "São Paulo",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nubank/3b5d93e3-09bc-4abb-8bc0-b87721371f15",
     "postedAt": "2026-08-28T21:07:20.663+00:00",
-    "postedDays": 29,
-    "source": "ashby"
-  },
-  {
-    "id": 2099421981,
-    "company": "Nubank",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hubspot.com",
-    "role": "Senior Staff Product Designer, Digital Assets",
-    "location": "Palo Alto",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/nubank/691d4bd9-7b3c-4488-b33b-e8a7dda0fe0c",
-    "postedAt": "2026-08-27T18:08:13.664+00:00",
     "postedDays": 30,
     "source": "ashby"
   },
@@ -512,7 +428,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8027458",
     "postedAt": "2026-08-28T12:02:44-04:00",
-    "postedDays": 30,
+    "postedDays": 31,
     "source": "greenhouse"
   },
   {
@@ -524,7 +440,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scopely/jobs/5394984008?gh_jid=5394984008",
     "postedAt": "2026-08-27T20:10:10-04:00",
-    "postedDays": 30,
+    "postedDays": 31,
     "source": "greenhouse"
   },
   {
@@ -536,7 +452,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/baseten/2ae59494-97a5-4344-ae34-ffa3fab364be",
     "postedAt": "2026-08-27T03:57:18.737+00:00",
-    "postedDays": 31,
+    "postedDays": 32,
     "source": "ashby"
   },
   {
@@ -548,7 +464,19 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/baseten/382978bd-7eef-4657-a229-3381a1057b4e",
     "postedAt": "2026-08-27T03:15:46.699+00:00",
-    "postedDays": 31,
+    "postedDays": 32,
+    "source": "ashby"
+  },
+  {
+    "id": 2099421981,
+    "company": "Nubank",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=nubank.com.br",
+    "role": "Senior Staff Product Designer, Digital Assets",
+    "location": "Palo Alto",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/nubank/691d4bd9-7b3c-4488-b33b-e8a7dda0fe0c",
+    "postedAt": "2026-08-27T18:08:13.664+00:00",
+    "postedDays": 32,
     "source": "ashby"
   },
   {
@@ -560,7 +488,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/circle/130695ad-687e-4c49-976f-eb46f9b45ac9",
     "postedAt": "2026-08-26T14:51:39.802+00:00",
-    "postedDays": 32,
+    "postedDays": 33,
     "source": "ashby"
   },
   {
@@ -572,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/circle/c6fd95f5-d7f8-4297-be2d-e91d19052469",
     "postedAt": "2026-08-26T14:55:59.223+00:00",
-    "postedDays": 32,
+    "postedDays": 33,
     "source": "ashby"
   },
   {
@@ -584,8 +512,20 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scopely/jobs/4981693008?gh_jid=4981693008",
     "postedAt": "2026-08-25T22:20:46-04:00",
-    "postedDays": 32,
+    "postedDays": 33,
     "source": "greenhouse"
+  },
+  {
+    "id": 663847889,
+    "company": "Whitecircle",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hex.tech",
+    "role": "Brand & Visual Designer",
+    "location": "NY",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/whitecircle/ef2a1eff-5c42-4db5-ac1b-f0db8597f2bf",
+    "postedAt": "2026-08-25T20:43:19.654+00:00",
+    "postedDays": 33,
+    "source": "ashby"
   },
   {
     "id": 1663837383,
@@ -596,7 +536,67 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/alphasense/jobs/8428179002",
     "postedAt": "2026-08-25T06:12:00-04:00",
-    "postedDays": 33,
+    "postedDays": 34,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1373088588,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Senior/Staff Product Designer",
+    "location": "Remote - United Kingdom",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 34,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1409866704,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Senior/Staff Product Designer",
+    "location": "New York, New York, United States; Remote - United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 34,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1759087188,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Senior/Staff Product Designer",
+    "location": "Helsinki, Uusimaa, Finland",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531111002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 34,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1439938411,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Staff/Senior Product Designer, Mobile",
+    "location": "Remote - United Kingdom",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8516322002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 34,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1460177595,
+    "company": "Alphasense",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Staff/Senior Product Designer, Mobile",
+    "location": "Helsinki, Uusimaa, Finland",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8322118002",
+    "postedAt": "2026-08-25T06:12:00-04:00",
+    "postedDays": 34,
     "source": "greenhouse"
   }
 ]
