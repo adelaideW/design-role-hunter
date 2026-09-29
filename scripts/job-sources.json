@@ -7,10 +7,24 @@
     "area": "AI"
   },
   {
+    "company": "Abakaai",
+    "domain": "stripe.com",
+    "ats": "greenhouse",
+    "board": "abakaai",
+    "area": "AI"
+  },
+  {
     "company": "Absci",
     "domain": "anthropic.com",
     "ats": "ashby",
     "board": "absci",
+    "area": "AI"
+  },
+  {
+    "company": "Aegis Ai",
+    "domain": "aegisai.com",
+    "ats": "ashby",
+    "board": "aegis-ai",
     "area": "AI"
   },
   {
@@ -22,7 +36,7 @@
   },
   {
     "company": "Agoda",
-    "domain": "agoda.com",
+    "domain": "brex.com",
     "ats": "greenhouse",
     "board": "agoda",
     "area": "AI"
@@ -42,20 +56,6 @@
     "area": "AI"
   },
   {
-    "company": "Alphasense",
-    "domain": "snowflake.com",
-    "ats": "greenhouse",
-    "board": "alphasense",
-    "area": "AI"
-  },
-  {
-    "company": "Amplitude",
-    "domain": "amplitude.com",
-    "ats": "greenhouse",
-    "board": "amplitude",
-    "area": "AI"
-  },
-  {
     "company": "Anthropic",
     "domain": "anthropic.com",
     "ats": "greenhouse",
@@ -64,7 +64,7 @@
   },
   {
     "company": "Antimetal",
-    "domain": "figma.com",
+    "domain": "antimetal.com",
     "ats": "ashby",
     "board": "antimetal",
     "area": "AI"
@@ -119,8 +119,15 @@
     "area": "AI"
   },
   {
+    "company": "Basis Ai",
+    "domain": "basisai.com",
+    "ats": "ashby",
+    "board": "basis-ai",
+    "area": "AI"
+  },
+  {
     "company": "Bjakcareer",
-    "domain": "anthropic.com",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "bjakcareer",
     "area": "AI"
@@ -130,6 +137,13 @@
     "domain": "notion.so",
     "ats": "ashby",
     "board": "bland",
+    "area": "AI"
+  },
+  {
+    "company": "Brainco",
+    "domain": "vercel.com",
+    "ats": "ashby",
+    "board": "brainco",
     "area": "AI"
   },
   {
@@ -203,10 +217,10 @@
     "area": "AI"
   },
   {
-    "company": "Code Metal",
-    "domain": "codemetal.com",
+    "company": "Coderabbit",
+    "domain": "baseten.co",
     "ats": "ashby",
-    "board": "code-metal",
+    "board": "coderabbit",
     "area": "AI"
   },
   {
@@ -214,13 +228,6 @@
     "domain": "comfy.org",
     "ats": "ashby",
     "board": "comfy-org",
-    "area": "AI"
-  },
-  {
-    "company": "Convex Dev",
-    "domain": "convexdev.com",
-    "ats": "ashby",
-    "board": "convex-dev",
     "area": "AI"
   },
   {
@@ -232,7 +239,7 @@
   },
   {
     "company": "Cylake Inc",
-    "domain": "cylakeinc.com",
+    "domain": "fivetran.com",
     "ats": "ashby",
     "board": "cylake-inc",
     "area": "AI"
@@ -242,13 +249,6 @@
     "domain": "deepgram.com",
     "ats": "ashby",
     "board": "deepgram",
-    "area": "AI"
-  },
-  {
-    "company": "Dept",
-    "domain": "datadoghq.com",
-    "ats": "greenhouse",
-    "board": "dept",
     "area": "AI"
   },
   {
@@ -273,6 +273,13 @@
     "area": "AI"
   },
   {
+    "company": "Dorsia",
+    "domain": "figma.com",
+    "ats": "greenhouse",
+    "board": "dorsia",
+    "area": "AI"
+  },
+  {
     "company": "Dualentry",
     "domain": "asana.com",
     "ats": "ashby",
@@ -291,13 +298,6 @@
     "domain": "datadoghq.com",
     "ats": "greenhouse",
     "board": "enchargeai36",
-    "area": "AI"
-  },
-  {
-    "company": "Engine",
-    "domain": "stripe.com",
-    "ats": "greenhouse",
-    "board": "engine",
     "area": "AI"
   },
   {
@@ -350,6 +350,13 @@
     "area": "AI"
   },
   {
+    "company": "Geniusai",
+    "domain": "waymo.com",
+    "ats": "ashby",
+    "board": "geniusai",
+    "area": "AI"
+  },
+  {
     "company": "Genmo",
     "domain": "typeface.ai",
     "ats": "ashby",
@@ -393,7 +400,7 @@
   },
   {
     "company": "Happyrobot.ai",
-    "domain": "happyrobotai.com",
+    "domain": "waymo.com",
     "ats": "ashby",
     "board": "happyrobot.ai",
     "area": "AI"
@@ -403,6 +410,13 @@
     "domain": "planetscale.com",
     "ats": "greenhouse",
     "board": "hark",
+    "area": "AI"
+  },
+  {
+    "company": "Harrys",
+    "domain": "runwayml.com",
+    "ats": "greenhouse",
+    "board": "harrys",
     "area": "AI"
   },
   {
@@ -448,15 +462,8 @@
     "area": "AI"
   },
   {
-    "company": "Hypha",
-    "domain": "hypha.com",
-    "ats": "ashby",
-    "board": "hypha",
-    "area": "AI"
-  },
-  {
     "company": "Inceptive",
-    "domain": "nubank.com.br",
+    "domain": "klaviyo.com",
     "ats": "greenhouse",
     "board": "inceptive",
     "area": "AI"
@@ -476,10 +483,24 @@
     "area": "AI"
   },
   {
+    "company": "Inter",
+    "domain": "anthropic.com",
+    "ats": "greenhouse",
+    "board": "inter",
+    "area": "AI"
+  },
+  {
     "company": "Ivo Inc",
     "domain": "harvey.ai",
     "ats": "ashby",
     "board": "ivo-inc",
+    "area": "AI"
+  },
+  {
+    "company": "Jazzx Ai",
+    "domain": "coreweave.com",
+    "ats": "greenhouse",
+    "board": "jazzx-ai",
     "area": "AI"
   },
   {
@@ -508,6 +529,20 @@
     "domain": "latentlabs.com",
     "ats": "ashby",
     "board": "latentlabs",
+    "area": "AI"
+  },
+  {
+    "company": "Legionhealth",
+    "domain": "legionhealth.com",
+    "ats": "ashby",
+    "board": "legionhealth",
+    "area": "AI"
+  },
+  {
+    "company": "Lightningai",
+    "domain": "nubank.com.br",
+    "ats": "greenhouse",
+    "board": "lightningai",
     "area": "AI"
   },
   {
@@ -581,6 +616,13 @@
     "area": "AI"
   },
   {
+    "company": "Mytechnologyinc",
+    "domain": "mytechnologyinc.com",
+    "ats": "greenhouse",
+    "board": "mytechnologyinc",
+    "area": "AI"
+  },
+  {
     "company": "Nash",
     "domain": "waymo.com",
     "ats": "ashby",
@@ -616,13 +658,6 @@
     "area": "AI"
   },
   {
-    "company": "Nooks",
-    "domain": "nooks.com",
-    "ats": "ashby",
-    "board": "nooks",
-    "area": "AI"
-  },
-  {
     "company": "Notion",
     "domain": "notion.so",
     "ats": "ashby",
@@ -637,13 +672,6 @@
     "area": "AI"
   },
   {
-    "company": "Oliverseapac",
-    "domain": "oliverseapac.com",
-    "ats": "greenhouse",
-    "board": "oliverseapac",
-    "area": "AI"
-  },
-  {
     "company": "OpenAI",
     "domain": "openai.com",
     "ats": "ashby",
@@ -652,16 +680,9 @@
   },
   {
     "company": "Opusclip",
-    "domain": "opusclip.com",
+    "domain": "figma.com",
     "ats": "ashby",
     "board": "opusclip",
-    "area": "AI"
-  },
-  {
-    "company": "Orchard",
-    "domain": "waymo.com",
-    "ats": "ashby",
-    "board": "orchard",
     "area": "AI"
   },
   {
@@ -693,6 +714,13 @@
     "area": "AI"
   },
   {
+    "company": "Peachpilot",
+    "domain": "peachpilot.com",
+    "ats": "greenhouse",
+    "board": "peachpilot",
+    "area": "AI"
+  },
+  {
     "company": "Perplexity",
     "domain": "perplexity.ai",
     "ats": "ashby",
@@ -714,8 +742,15 @@
     "area": "AI"
   },
   {
+    "company": "Projectaservicesgmbhcokg",
+    "domain": "projectaservicesgmbhcokg.com",
+    "ats": "greenhouse",
+    "board": "projectaservicesgmbhcokg",
+    "area": "AI"
+  },
+  {
     "company": "Proxima Fusion",
-    "domain": "proximafusion.com",
+    "domain": "sierra.ai",
     "ats": "ashby",
     "board": "proxima-fusion",
     "area": "AI"
@@ -735,6 +770,13 @@
     "area": "AI"
   },
   {
+    "company": "Redpine",
+    "domain": "brex.com",
+    "ats": "ashby",
+    "board": "redpine",
+    "area": "AI"
+  },
+  {
     "company": "Reducto",
     "domain": "stripe.com",
     "ats": "ashby",
@@ -742,17 +784,17 @@
     "area": "AI"
   },
   {
+    "company": "Reevo",
+    "domain": "reevo.com",
+    "ats": "ashby",
+    "board": "reevo",
+    "area": "AI"
+  },
+  {
     "company": "Replit",
     "domain": "replit.com",
     "ats": "ashby",
     "board": "replit",
-    "area": "AI"
-  },
-  {
-    "company": "Retell Ai",
-    "domain": "retellai.com",
-    "ats": "ashby",
-    "board": "retell-ai",
     "area": "AI"
   },
   {
@@ -770,6 +812,13 @@
     "area": "AI"
   },
   {
+    "company": "Rzr",
+    "domain": "anthropic.com",
+    "ats": "greenhouse",
+    "board": "rzr",
+    "area": "AI"
+  },
+  {
     "company": "Sabi",
     "domain": "sabi.com",
     "ats": "ashby",
@@ -778,7 +827,7 @@
   },
   {
     "company": "Samsungsemiconductor",
-    "domain": "gusto.com",
+    "domain": "brex.com",
     "ats": "greenhouse",
     "board": "samsungsemiconductor",
     "area": "AI"
@@ -809,13 +858,6 @@
     "domain": "scale.com",
     "ats": "greenhouse",
     "board": "scaleai",
-    "area": "AI"
-  },
-  {
-    "company": "Scopely",
-    "domain": "stripe.com",
-    "ats": "greenhouse",
-    "board": "scopely",
     "area": "AI"
   },
   {
@@ -851,6 +893,20 @@
     "domain": "snowflake.com",
     "ats": "ashby",
     "board": "snowflake",
+    "area": "AI"
+  },
+  {
+    "company": "Sonder",
+    "domain": "deepgram.com",
+    "ats": "ashby",
+    "board": "sonder",
+    "area": "AI"
+  },
+  {
+    "company": "Soraunion",
+    "domain": "vercel.com",
+    "ats": "greenhouse",
+    "board": "soraunion",
     "area": "AI"
   },
   {
@@ -896,10 +952,10 @@
     "area": "AI"
   },
   {
-    "company": "Translucent",
-    "domain": "translucent.com",
-    "ats": "greenhouse",
-    "board": "translucent",
+    "company": "Trm Labs",
+    "domain": "webflow.com",
+    "ats": "ashby",
+    "board": "trm-labs",
     "area": "AI"
   },
   {
@@ -914,6 +970,13 @@
     "domain": "udio.com",
     "ats": "greenhouse",
     "board": "udio",
+    "area": "AI"
+  },
+  {
+    "company": "Universalagi",
+    "domain": "stripe.com",
+    "ats": "ashby",
+    "board": "universalagi",
     "area": "AI"
   },
   {
@@ -966,13 +1029,6 @@
     "area": "AI"
   },
   {
-    "company": "Ww",
-    "domain": "brex.com",
-    "ats": "greenhouse",
-    "board": "ww",
-    "area": "AI"
-  },
-  {
     "company": "Xai",
     "domain": "x.ai",
     "ats": "greenhouse",
@@ -987,10 +1043,10 @@
     "area": "AI"
   },
   {
-    "company": "Yurtsai",
-    "domain": "suno.com",
-    "ats": "greenhouse",
-    "board": "yurtsai",
+    "company": "Zapier",
+    "domain": "zapier.com",
+    "ats": "ashby",
+    "board": "zapier",
     "area": "AI"
   },
   {
