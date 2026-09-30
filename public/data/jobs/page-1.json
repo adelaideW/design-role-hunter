@@ -1,5 +1,245 @@
 [
   {
+    "id": 1656824431,
+    "company": "Anthropic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Physical Security Design Lead and Contract Document Specialist",
+    "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393039008",
+    "postedAt": "2026-09-29T15:34:41-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 323920970,
+    "company": "Checkr",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "role": "Lead Brand Designer, Web",
+    "location": "San Francisco, California, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/checkr/jobs/8232233",
+    "postedAt": "2026-09-29T15:53:27-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 395374066,
+    "company": "Checkr",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "role": "Senior Product Designer, Verifications",
+    "location": "Denver, Colorado, United States; San Francisco, California, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/checkr/jobs/8226465",
+    "postedAt": "2026-09-30T13:32:58-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1858679368,
+    "company": "Cresta",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=cresta.com",
+    "role": "Senior Product Designer, AI Builders",
+    "location": "United States (Remote)",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/5173681008",
+    "postedAt": "2026-09-29T19:19:56-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 439187960,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "Design Lead",
+    "location": "Los Angeles, CA; San Francisco, CA; New York, NY",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8157450",
+    "postedAt": "2026-09-29T15:25:51-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1124385775,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "Industrial Designer - DoorDash Dot",
+    "location": "San Francisco, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8021716",
+    "postedAt": "2026-09-29T15:25:51-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1543995242,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "Staff Product Designer, Dasher Growth",
+    "location": "San Francisco, CA; New York, NY; Sunnyvale, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155049",
+    "postedAt": "2026-09-29T15:25:51-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 2135432972,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "Staff Product Designer, Integrity",
+    "location": "New York, NY",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155046",
+    "postedAt": "2026-09-29T15:25:51-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1623779211,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "Staff Product Designer, Merchant Marketing",
+    "location": "San Francisco, CA; New York, NY; Seattle, WA; Sunnyvale, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155051",
+    "postedAt": "2026-09-29T15:25:51-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 340351744,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "Staff Product Designer, New Bets",
+    "location": "San Francisco, CA; New York, NY; Seattle, WA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8230773",
+    "postedAt": "2026-09-29T15:25:51-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1599070454,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "Staff Product Designer, SevenRooms",
+    "location": "New York, NY",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8158018",
+    "postedAt": "2026-09-29T15:25:51-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 132194457,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "Staff Product Designer, Support",
+    "location": "New York, NY",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8155050",
+    "postedAt": "2026-09-29T15:25:51-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1773196065,
+    "company": "Doordashusa",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=algolia.com",
+    "role": "UX Design Engineer, Content Tooling",
+    "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7767373",
+    "postedAt": "2026-09-29T15:25:51-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1136521715,
+    "company": "Oura",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=heygen.com",
+    "role": "Senior Product Designer, Movement",
+    "location": "Hybrid - San Francisco, California",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/oura/jobs/4421754009",
+    "postedAt": "2026-09-29T17:22:37-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1867562259,
+    "company": "Ramp",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
+    "role": "Design Systems Lead",
+    "location": "New York, NY (HQ)",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/ramp/baa94095-c976-46d0-8d18-25a951950714",
+    "postedAt": "2026-09-30T16:00:23.869+00:00",
+    "postedDays": 0,
+    "source": "ashby"
+  },
+  {
+    "id": 2070640129,
+    "company": "Reddit",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=reddit.com",
+    "role": "Staff Product Designer, Growth",
+    "location": "Remote - United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7701558",
+    "postedAt": "2026-09-29T16:01:06-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 2012681544,
+    "company": "Robinhood",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "role": "Product Designer, International",
+    "location": "Menlo Park, CA; New York, NY",
+    "area": "Fintech",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8240638?t=gh_src=&gh_jid=8240638",
+    "postedAt": "2026-09-29T17:04:00-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 751845501,
+    "company": "Rzr",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Senior UI/UX Designer",
+    "location": "Bangalore",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/rzr/jobs/4414867009",
+    "postedAt": "2026-09-30T05:23:44-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1848721320,
+    "company": "Vercel",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
+    "role": "Presentation Designer",
+    "location": "Hybrid - San Francisco, New York City",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
+    "postedAt": "2026-09-30T12:13:14-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1425614095,
+    "company": "Vercel",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
+    "role": "Senior Brand Designer",
+    "location": "Hybrid - San Francisco, New York City",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5579560004",
+    "postedAt": "2026-09-30T12:12:41-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
     "id": 326099638,
     "company": "Abakaai",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
@@ -8,7 +248,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/abakaai/jobs/4423757009",
     "postedAt": "2026-09-29T02:17:55-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -20,7 +260,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/agoda/jobs/8239223",
     "postedAt": "2026-09-29T07:31:55-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -32,19 +272,43 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008",
     "postedAt": "2026-09-28T17:06:36-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
     "id": 835914623,
     "company": "Appnovation",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=appnovation.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
     "role": "Motion Designer - Cantonese Speaker",
     "location": "Malaysia",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/appnovation/jobs/8799913002",
     "postedAt": "2026-09-29T07:01:55-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 400094496,
+    "company": "Archer56",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
+    "role": "Staff UX Designer",
+    "location": "San Jose, California, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/archer56/jobs/7805057003",
+    "postedAt": "2026-09-29T12:23:45-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 427376423,
+    "company": "Archer56",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
+    "role": "Wire Harness Designer",
+    "location": "San Jose, California, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/archer56/jobs/7836106003",
+    "postedAt": "2026-09-28T16:17:53-04:00",
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -56,20 +320,8 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8239461",
     "postedAt": "2026-09-29T10:17:47-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
-  },
-  {
-    "id": 1224946846,
-    "company": "Clera",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
-    "role": "Freelance Product Designer (Fractional)",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/clera/48e857c0-d3f0-4722-96cf-7e7e8c5d2fd5",
-    "postedAt": "2026-09-29T17:08:44.702+00:00",
-    "postedDays": 0,
-    "source": "ashby"
   },
   {
     "id": 1201738723,
@@ -80,7 +332,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8111984",
     "postedAt": "2026-09-29T11:44:03-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -92,7 +344,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
     "postedAt": "2026-09-29T11:44:03-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -104,7 +356,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8168907",
     "postedAt": "2026-09-29T11:44:03-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -116,7 +368,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7728150",
     "postedAt": "2026-09-29T11:44:03-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -128,7 +380,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7905702",
     "postedAt": "2026-09-29T11:44:03-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -140,68 +392,56 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7514758",
     "postedAt": "2026-09-29T11:44:03-04:00",
-    "postedDays": 0,
-    "source": "greenhouse"
-  },
-  {
-    "id": 929088999,
-    "company": "Hightouch",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=hightouch.com",
-    "role": "Forward Deployed Creative Designer, Email",
-    "location": "Remote, United States",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hightouch/jobs/6195151004",
-    "postedAt": "2026-09-29T14:28:35-04:00",
-    "postedDays": 0,
-    "source": "greenhouse"
-  },
-  {
-    "id": 83953980,
-    "company": "Humanagency",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=humanagency.com",
-    "role": "Digital Designer (Contractor)",
-    "location": "US or Canada",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/humanagency/jobs/8008324003",
-    "postedAt": "2026-09-29T14:35:57-04:00",
-    "postedDays": 0,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1778041085,
-    "company": "Humanagency",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=humanagency.com",
-    "role": "Digital Designer (Contractor)",
-    "location": "Austin",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/humanagency/jobs/8008576003",
-    "postedAt": "2026-09-29T14:42:45-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
     "id": 1491434212,
     "company": "Humanagency",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=humanagency.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
     "role": "Digital Designer (Contractor)",
     "location": "St Louis",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/humanagency/jobs/8008577003",
     "postedAt": "2026-09-29T14:43:19-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
-    "id": 1809239773,
-    "company": "Inmobi",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=inmobi.com",
-    "role": "Brand Designer – Identity & Campaigns",
-    "location": "New York, NY",
+    "id": 83953980,
+    "company": "Humanagency",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
+    "role": "Digital Designer (Contractor)",
+    "location": "US or Canada",
     "area": "AI",
-    "url": "https://job-boards.greenhouse.io/inmobi/jobs/8187961",
-    "postedAt": "2026-09-29T00:58:38-04:00",
-    "postedDays": 0,
+    "url": "https://job-boards.greenhouse.io/humanagency/jobs/8008324003",
+    "postedAt": "2026-09-29T14:35:57-04:00",
+    "postedDays": 1,
     "source": "greenhouse"
+  },
+  {
+    "id": 1778041085,
+    "company": "Humanagency",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
+    "role": "Digital Designer (Contractor)",
+    "location": "Austin",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/humanagency/jobs/8008576003",
+    "postedAt": "2026-09-29T14:42:45-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1731719626,
+    "company": "Krea",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
+    "role": "Motion Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/krea/a18b2fa2-e435-478f-9554-ed2e418987d6",
+    "postedAt": "2026-09-29T15:39:38.981+00:00",
+    "postedDays": 1,
+    "source": "ashby"
   },
   {
     "id": 117551663,
@@ -212,7 +452,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/mytechnologyinc/jobs/4247460009",
     "postedAt": "2026-09-29T11:51:31-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -224,7 +464,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/oura/jobs/4411439009",
     "postedAt": "2026-09-29T14:17:42-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -236,7 +476,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244",
     "postedAt": "2026-09-29T13:41:14-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -248,31 +488,19 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648",
     "postedAt": "2026-09-29T13:40:48-04:00",
-    "postedDays": 0,
-    "source": "greenhouse"
-  },
-  {
-    "id": 324822969,
-    "company": "Smartlyio",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=perplexity.ai",
-    "role": "Lead Product Designer",
-    "location": "Mexico City",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6208020004",
-    "postedAt": "2026-09-29T13:14:08-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
     "id": 1088437922,
     "company": "Trm Labs",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=webflow.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figure.ai",
     "role": "Senior Product Designer",
     "location": "United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/trm-labs/2a42c549-793f-4b2b-83c8-b87a94730e31",
     "postedAt": "2026-09-29T00:06:50.258+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
   },
   {
@@ -284,7 +512,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5c1813c0-6ea1-4b0a-b0f5-1616dfa66f67",
     "postedAt": "2026-09-28T06:31:00.218+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -296,7 +524,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/40fb88e2-3090-4d97-8a1f-532dea572b3d",
     "postedAt": "2026-09-28T06:31:56.767+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -308,7 +536,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/95eabade-b2d7-447d-b196-ce2e62d9ecd7",
     "postedAt": "2026-09-28T06:31:04.222+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -320,7 +548,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/74f7575f-9515-4b5c-a75f-39f08050a40c",
     "postedAt": "2026-09-28T06:31:15.309+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -332,7 +560,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/c8a45923-af0f-4570-a53d-7edac286a02d",
     "postedAt": "2026-09-28T06:29:43.324+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -344,7 +572,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/1546b14d-6bd3-4bb2-acd2-a36a11856b1e",
     "postedAt": "2026-09-28T06:29:57.009+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -356,7 +584,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/719f88bf-7c6d-4b6e-9058-18d8e15af377",
     "postedAt": "2026-09-28T06:30:00.913+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -368,235 +596,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/fb92928d-a488-4073-a340-b7cf3b85f4aa",
     "postedAt": "2026-09-28T06:30:23.159+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1914196130,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "UX Designer",
-    "location": "Seoul, Korea",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/f56439fa-6214-43e0-b29c-2334f052cd8f",
-    "postedAt": "2026-09-28T06:30:05.766+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1983874158,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Lead UX Designer",
-    "location": "Seoul, Korea",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/af85459f-5539-4720-aa65-219ecbefbfd8",
-    "postedAt": "2026-09-28T06:30:27.704+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 511966754,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "UX Designer",
-    "location": "United Kingdom",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/1729d112-7969-4fc7-bc79-d6d6f02deeca",
-    "postedAt": "2026-09-28T06:30:19.047+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1235712965,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Interaction Designer, HCI",
-    "location": "United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/3b664a5b-d0fc-4b8c-8bf2-b1656c363b29",
-    "postedAt": "2026-09-28T06:30:31.931+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 2033865893,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Product Designer (UX), HCI",
-    "location": "Tokyo, Japan",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/87da6e95-b5bc-49b5-99ec-aea44264bcd3",
-    "postedAt": "2026-09-28T06:31:22.141+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 720958307,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Product Designer (UX), HCI",
-    "location": "Sweden",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/7451bd8d-56cd-4ac3-9240-eb774486d576",
-    "postedAt": "2026-09-28T06:31:28.415+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1650868103,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Lead UX Designer",
-    "location": "Netherlands",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/b0cdd6ab-6cdc-4746-8224-181fd6446a24",
-    "postedAt": "2026-09-28T06:31:34.900+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 977869362,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Lead UX Designer",
-    "location": "Switzerland",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/f02d0053-0ae9-4992-bc96-b58979b2bfc7",
-    "postedAt": "2026-09-28T06:31:39.092+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 550185701,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Lead UX Designer",
-    "location": "Germany",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/293cbe0c-b356-4f35-818f-cf657e7b1b0b",
-    "postedAt": "2026-09-28T06:31:44.056+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1585886931,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "UX Designer, AI App",
-    "location": "Austria",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/3d7f263c-cab4-49dd-a473-8859d21facce",
-    "postedAt": "2026-09-28T06:31:47.783+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 388021481,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "UX Designer, AI App",
-    "location": "Spain",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/340337a9-d986-4d41-b0ed-f6f2de5f2d24",
-    "postedAt": "2026-09-28T06:31:52.562+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 924619263,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Product Designer (UX), HCI",
-    "location": "United Kingdom",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/fab215d1-d747-495e-a895-8d9b8cdb0f80",
-    "postedAt": "2026-09-28T06:30:36.313+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 2142407244,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "UX Designer, AI App",
-    "location": "United Kingdom",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/2030bd22-3959-4027-bf1a-1f46bd04e381",
-    "postedAt": "2026-09-28T06:30:42.627+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1383351750,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "UX Designer, AI App",
-    "location": "New York, United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/5135ab14-2876-4015-8bb1-5eed6e102b45",
-    "postedAt": "2026-09-28T06:30:48.856+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1507497619,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Interaction Designer, HCI",
-    "location": "Seoul, Korea",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/c7b386c6-b3ea-4a85-9af7-5301591abc56",
-    "postedAt": "2026-09-28T06:30:54.096+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 773419554,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Lead Brand Designer",
-    "location": "United Kingdom",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/e6c9809d-fd27-4bbe-98f0-d27b81c3718d",
-    "postedAt": "2026-09-28T04:24:32.296+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1140108893,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Senior Brand Designer",
-    "location": "United Kingdom",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/4ddfe503-4e49-412a-9978-71b3e368d533",
-    "postedAt": "2026-09-28T04:24:28.937+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 1666565741,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Senior Brand Designer",
-    "location": "Seoul, Korea",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/ff731fa5-9d14-431a-9fbc-3d21eb2ecf72",
-    "postedAt": "2026-09-28T04:24:34.068+00:00",
-    "postedDays": 1,
-    "source": "ashby"
-  },
-  {
-    "id": 64965075,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Senior Brand Designer",
-    "location": "United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/ece211c9-6493-4300-b2c0-fded15aa2749",
-    "postedAt": "2026-09-28T04:24:23.087+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   }
 ]
