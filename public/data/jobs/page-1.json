@@ -1,29 +1,5 @@
 [
   {
-    "id": 2055141430,
-    "company": "Brandtechplus",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
-    "role": "GenAI Senior Integrated Designer",
-    "location": "Mumbai, India",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8225764",
-    "postedAt": "2026-10-07T07:41:33-04:00",
-    "postedDays": 0,
-    "source": "greenhouse"
-  },
-  {
-    "id": 855949208,
-    "company": "Chime",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
-    "role": "Principal Product Designer, Spending",
-    "location": "New York, NY, USA; San Francisco, CA, USA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/chime/jobs/8525325002?gh_jid=8525325002",
-    "postedAt": "2026-10-07T13:19:09-04:00",
-    "postedDays": 0,
-    "source": "greenhouse"
-  },
-  {
     "id": 2067484803,
     "company": "Chime",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
@@ -31,7 +7,7 @@
     "location": "Remote, USA",
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8842932002?gh_jid=8842932002",
-    "postedAt": "2026-10-07T15:06:10-04:00",
+    "postedAt": "2026-10-08T12:06:07-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
@@ -43,19 +19,79 @@
     "location": "Bogota D.C. / DC / Colombia; Buenos Aires / C / Argentina; Mexico City / CDMX / Mexico; Sao Paulo / SP / Brazil",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5260138007",
-    "postedAt": "2026-10-07T11:30:05-04:00",
+    "postedAt": "2026-10-07T23:25:41-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
   {
-    "id": 254849333,
-    "company": "Descript",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
-    "role": "Brand Design Lead",
-    "location": "San Francisco, CA or Remote, US",
+    "id": 525550928,
+    "company": "Clara",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
+    "role": "Growth Designer (AI Focused) - Bogotá (Hybrid)",
+    "location": "Bogota / CUN / Colombia; Bogota D.C. / DC / Colombia",
     "area": "AI",
-    "url": "https://boards.greenhouse.io/descript/jobs/8003605003?gh_jid=8003605003",
-    "postedAt": "2026-10-07T15:12:04-04:00",
+    "url": "https://job-boards.greenhouse.io/clara/jobs/5219624007",
+    "postedAt": "2026-10-07T23:26:57-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 337133146,
+    "company": "Clara",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
+    "role": "Growth Designer (AI Focused) - Mexico City (Hybrid)",
+    "location": "Mexico City / CDMX / Mexico",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/clara/jobs/5219620007",
+    "postedAt": "2026-10-07T23:27:03-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 132375377,
+    "company": "Clara",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
+    "role": "Growth Designer (AI Focused) - São Paulo (Hybrid)",
+    "location": "São Paulo / SP / Brasil",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/clara/jobs/5219625007",
+    "postedAt": "2026-10-07T23:27:09-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1050290967,
+    "company": "Clara",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
+    "role": "Product Designer Associate (Designer de Produto Associado) - São Paulo [Hybrid]",
+    "location": "Sao Paulo / SP / Brazil",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/clara/jobs/5230221007",
+    "postedAt": "2026-10-07T23:29:45-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1872744917,
+    "company": "Clara",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
+    "role": "Product Designer Associate (Diseñador asociado de Producto) - Bogotá [Hybrid]",
+    "location": "Bogota D.C. / DC / Colombia",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/clara/jobs/5230220007",
+    "postedAt": "2026-10-07T23:29:50-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 527830483,
+    "company": "Clara",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
+    "role": "Product Designer Associate (Diseñador asociado de Producto) - México City (Hybrid)",
+    "location": "Mexico City / CDMX / Mexico",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/clara/jobs/5230243007",
+    "postedAt": "2026-10-07T23:29:56-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
@@ -67,8 +103,104 @@
     "location": "San Jose, CA",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4718506006",
-    "postedAt": "2026-10-07T14:26:54-04:00",
+    "postedAt": "2026-10-08T14:49:13-04:00",
     "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 847656955,
+    "company": "Nex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
+    "role": "Senior Designer",
+    "location": "Hong Kong",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/nex/jobs/5419146008",
+    "postedAt": "2026-10-08T13:36:23-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 2102876898,
+    "company": "Nex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
+    "role": "Senior Product Designer",
+    "location": "Remote US",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/nex/jobs/5166369008",
+    "postedAt": "2026-10-08T13:36:23-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 220913433,
+    "company": "Nex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
+    "role": "Social Graphic / Motion Designer (Contract)",
+    "location": "San Jose, California or Remote",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/nex/jobs/5394697008",
+    "postedAt": "2026-10-08T13:36:23-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1497805118,
+    "company": "Nex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
+    "role": "UI Designer (Localization)",
+    "location": "Hong Kong",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/nex/jobs/5430977008",
+    "postedAt": "2026-10-08T13:36:23-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 994642669,
+    "company": "Nex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
+    "role": "UI/UX Designer (Contract)",
+    "location": "Hong Kong",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/nex/jobs/5372367008",
+    "postedAt": "2026-10-08T13:36:23-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 2055141430,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
+    "role": "GenAI Senior Integrated Designer",
+    "location": "Mumbai, India",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8225764",
+    "postedAt": "2026-10-07T07:41:33-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 855949208,
+    "company": "Chime",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=chime.com",
+    "role": "Principal Product Designer, Spending",
+    "location": "New York, NY, USA; San Francisco, CA, USA",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/chime/jobs/8525325002?gh_jid=8525325002",
+    "postedAt": "2026-10-07T13:19:09-04:00",
+    "postedDays": 1,
+    "source": "greenhouse"
+  },
+  {
+    "id": 254849333,
+    "company": "Descript",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
+    "role": "Brand Design Lead",
+    "location": "San Francisco, CA or Remote, US",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/descript/jobs/8003605003?gh_jid=8003605003",
+    "postedAt": "2026-10-07T15:12:04-04:00",
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -80,7 +212,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7701558",
     "postedAt": "2026-10-06T20:21:17-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -92,7 +224,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8120566",
     "postedAt": "2026-10-06T18:13:46-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -104,7 +236,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565768005",
     "postedAt": "2026-10-06T18:37:39-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -116,7 +248,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4724276005",
     "postedAt": "2026-10-07T13:48:59-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -128,7 +260,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
     "postedAt": "2026-10-06T18:37:39-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
@@ -140,43 +272,31 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735360005",
     "postedAt": "2026-10-06T18:37:39-04:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "greenhouse"
   },
   {
     "id": 1854527847,
     "company": "Checkr",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=writer.com",
     "role": "Senior Product Designer, Verifications",
     "location": "Denver, Colorado, United States; San Francisco, California, United States",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/checkr/jobs/8257338",
     "postedAt": "2026-10-05T16:12:33-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
     "id": 255689269,
     "company": "Checkr",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=writer.com",
     "role": "Staff Product Designer, Growth",
     "location": "Denver, Colorado, United States; San Francisco, California, United States",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/checkr/jobs/8257344",
     "postedAt": "2026-10-05T16:13:36-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 402413255,
-    "company": "Dept",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "Senior UI Designer",
-    "location": "Rotterdam, Amsterdam; Netherlands",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8003076",
-    "postedAt": "2026-10-06T07:39:11-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -188,79 +308,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gongio/jobs/4716960006",
     "postedAt": "2026-10-06T05:18:17-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1825220987,
-    "company": "Inter",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
-    "role": "PRODUCT DESIGNER SPECIALIST",
-    "location": "Belo Horizonte, MG; São Paulo, SP",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/inter/jobs/4738863005?gh_jid=4738863005",
-    "postedAt": "2026-10-06T08:28:24-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 847656955,
-    "company": "Nex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
-    "role": "Senior Designer",
-    "location": "Hong Kong",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/nex/jobs/5419146008",
-    "postedAt": "2026-10-06T14:21:50-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 2102876898,
-    "company": "Nex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
-    "role": "Senior Product Designer",
-    "location": "Remote US",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/nex/jobs/5166369008",
-    "postedAt": "2026-10-06T14:21:50-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 220913433,
-    "company": "Nex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
-    "role": "Social Graphic / Motion Designer (Contract)",
-    "location": "San Jose, California or Remote",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/nex/jobs/5394697008",
-    "postedAt": "2026-10-06T14:21:50-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1497805118,
-    "company": "Nex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
-    "role": "UI Designer (Localization)",
-    "location": "Hong Kong",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/nex/jobs/5430977008",
-    "postedAt": "2026-10-06T14:21:50-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 994642669,
-    "company": "Nex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=braze.com",
-    "role": "UI/UX Designer (Contract)",
-    "location": "Hong Kong",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/nex/jobs/5372367008",
-    "postedAt": "2026-10-06T14:21:50-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -272,7 +320,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8191836",
     "postedAt": "2026-10-05T16:47:57-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -284,7 +332,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8238018",
     "postedAt": "2026-10-05T17:36:28-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -296,8 +344,20 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/snowflake/1113abae-e091-45e7-b15a-ba07ed7fdbf0",
     "postedAt": "2026-10-06T16:24:28.299+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
+  },
+  {
+    "id": 1937552254,
+    "company": "Ww",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=brex.com",
+    "role": "Senior Motion & Brand Designer",
+    "location": "United States - New York",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/ww/jobs/5415244008",
+    "postedAt": "2026-10-06T10:49:14-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
   },
   {
     "id": 374599007,
@@ -308,19 +368,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8239461",
     "postedAt": "2026-10-05T05:25:28-04:00",
-    "postedDays": 2,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1077242975,
-    "company": "Dept",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "Senior UX Designer (Focus on Research)",
-    "location": "Zagreb",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8176202",
-    "postedAt": "2026-10-05T09:40:30-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -332,7 +380,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8111984",
     "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -344,7 +392,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
     "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -356,19 +404,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8168907",
     "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 2,
-    "source": "greenhouse"
-  },
-  {
-    "id": 28224833,
-    "company": "Gusto",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
-    "role": "Staff Brand & Motion Designer",
-    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/7728150",
-    "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -380,7 +416,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7905702",
     "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -392,7 +428,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7514758",
     "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -404,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lightspeedhq/cb4d8050-0a90-4fa0-92ea-1a94a4e7fa7d",
     "postedAt": "2026-10-05T10:07:52.228+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
@@ -416,42 +452,6 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8159896?t=gh_src=&gh_jid=8159896",
     "postedAt": "2026-10-05T12:10:17-04:00",
-    "postedDays": 2,
-    "source": "greenhouse"
-  },
-  {
-    "id": 525550928,
-    "company": "Clara",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
-    "role": "Growth Designer (AI Focused) - Bogotá (Hybrid)",
-    "location": "Bogota / CUN / Colombia; Bogota D.C. / DC / Colombia",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/clara/jobs/5219624007",
-    "postedAt": "2026-10-03T15:47:06-04:00",
-    "postedDays": 3,
-    "source": "greenhouse"
-  },
-  {
-    "id": 337133146,
-    "company": "Clara",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
-    "role": "Growth Designer (AI Focused) - Mexico City (Hybrid)",
-    "location": "Mexico City / CDMX / Mexico",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/clara/jobs/5219620007",
-    "postedAt": "2026-10-03T15:47:11-04:00",
-    "postedDays": 3,
-    "source": "greenhouse"
-  },
-  {
-    "id": 132375377,
-    "company": "Clara",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=x.ai",
-    "role": "Growth Designer (AI Focused) - São Paulo (Hybrid)",
-    "location": "São Paulo / SP / Brasil",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/clara/jobs/5219625007",
-    "postedAt": "2026-10-03T15:47:15-04:00",
     "postedDays": 3,
     "source": "greenhouse"
   },
@@ -464,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nen-creative/80b2d341-f14b-4ba8-a1fc-2393b91d2f22",
     "postedAt": "2026-10-04T17:04:01.721+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -476,7 +476,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8796082002",
     "postedAt": "2026-10-03T10:22:22-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -488,7 +488,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/otter/jobs/8783008002",
     "postedAt": "2026-10-03T10:22:22-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -500,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/pika/cc4dffe4-2cad-4287-a28b-b875ee35b541",
     "postedAt": "2026-10-03T00:37:03.841+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -512,7 +512,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7490017?t=gh_src=&gh_jid=7490017",
     "postedAt": "2026-10-02T18:50:18-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -524,7 +524,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8240638?t=gh_src=&gh_jid=8240638",
     "postedAt": "2026-10-02T18:34:08-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -536,7 +536,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7489964?t=gh_src=&gh_jid=7489964",
     "postedAt": "2026-10-02T18:50:06-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -548,7 +548,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8220730?t=gh_src=&gh_jid=8220730",
     "postedAt": "2026-10-02T18:39:48-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -560,7 +560,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8160668?t=gh_src=&gh_jid=8160668",
     "postedAt": "2026-10-02T19:05:50-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -572,7 +572,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244",
     "postedAt": "2026-10-02T18:48:01-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -584,7 +584,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648",
     "postedAt": "2026-10-02T18:53:41-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -596,7 +596,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002",
     "postedAt": "2026-10-01T18:59:01-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   }
 ]
