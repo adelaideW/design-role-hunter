@@ -7,7 +7,7 @@
     "location": "Bogota D.C. / DC / Colombia; Buenos Aires / C / Argentina; Mexico City / CDMX / Mexico; Sao Paulo / SP / Brazil",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5260138007",
-    "postedAt": "2026-10-10T12:53:34-04:00",
+    "postedAt": "2026-10-11T01:08:30-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
@@ -19,7 +19,7 @@
     "location": "Bogota / CUN / Colombia; Bogota D.C. / DC / Colombia",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5219624007",
-    "postedAt": "2026-10-10T12:53:34-04:00",
+    "postedAt": "2026-10-11T01:08:30-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
@@ -31,7 +31,7 @@
     "location": "Mexico City / CDMX / Mexico",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5219620007",
-    "postedAt": "2026-10-10T12:53:34-04:00",
+    "postedAt": "2026-10-11T01:08:30-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
@@ -43,7 +43,7 @@
     "location": "São Paulo / SP / Brasil",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5219625007",
-    "postedAt": "2026-10-10T12:53:34-04:00",
+    "postedAt": "2026-10-11T01:08:30-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
@@ -55,7 +55,7 @@
     "location": "Sao Paulo / SP / Brazil",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5230221007",
-    "postedAt": "2026-10-10T12:53:34-04:00",
+    "postedAt": "2026-10-11T01:08:30-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
@@ -67,7 +67,7 @@
     "location": "Bogota D.C. / DC / Colombia",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5230220007",
-    "postedAt": "2026-10-10T12:53:34-04:00",
+    "postedAt": "2026-10-11T01:08:30-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
@@ -79,7 +79,43 @@
     "location": "Mexico City / CDMX / Mexico",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/clara/jobs/5230243007",
-    "postedAt": "2026-10-10T12:53:34-04:00",
+    "postedAt": "2026-10-11T01:08:30-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1456972421,
+    "company": "Robinhood",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "role": "Staff Product Designer, Core Experience",
+    "location": "Menlo Park, CA; New York, NY",
+    "area": "Fintech",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244",
+    "postedAt": "2026-10-11T03:14:59-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1251543278,
+    "company": "Robinhood",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "role": "Staff Product Designer, National Impact",
+    "location": "Menlo Park, CA; New York, NY",
+    "area": "Fintech",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648",
+    "postedAt": "2026-10-11T03:14:59-04:00",
+    "postedDays": 0,
+    "source": "greenhouse"
+  },
+  {
+    "id": 385228991,
+    "company": "Spacex",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
+    "role": "Sr. Spaceport Designer, Interior Design",
+    "location": "Starbase, TX",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8822756002?gh_jid=8822756002",
+    "postedAt": "2026-10-11T01:42:54-04:00",
     "postedDays": 0,
     "source": "greenhouse"
   },
@@ -92,8 +128,116 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nen-creative/4cc19ff3-fbb4-41c7-8325-00e6e60432f1",
     "postedAt": "2026-10-09T19:46:18.046+00:00",
-    "postedDays": 0,
+    "postedDays": 1,
     "source": "ashby"
+  },
+  {
+    "id": 1649417445,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "[Design] Product Designer L2 - Accommodation (Bangkok-Based)",
+    "location": "Bangkok, Thailand",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8248603",
+    "postedAt": "2026-10-09T07:08:40-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1824696228,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Motion Designer (AI-Enabled Creative Production; Brand creative) (Bangkok-based, relocation provided)",
+    "location": "Bangkok",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8239223",
+    "postedAt": "2026-10-09T07:08:26-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
+  },
+  {
+    "id": 74212563,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Product Designer - Rocket Travel by Agoda (6-month contract, Bangkok-based)",
+    "location": "Bangkok",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8185153",
+    "postedAt": "2026-10-09T07:08:34-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
+  },
+  {
+    "id": 847284514,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Senior Product Designer - CEG (Bangkok - Based, Relocation Provided)",
+    "location": "Bangkok, Thailand",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8173395",
+    "postedAt": "2026-10-09T07:08:11-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1537524376,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Senior Product Designer - Trip Marketing (Bangkok - Based, Relocation Provided)",
+    "location": "Bangkok, Thailand",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/7478051",
+    "postedAt": "2026-10-09T07:08:11-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1138647133,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Specialist, Animation Designer (Bangkok-based, relocation provided)",
+    "location": "Bangkok",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8263608",
+    "postedAt": "2026-10-09T07:08:26-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
+  },
+  {
+    "id": 535236743,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Specialist, Interactive Designer (Bangkok-based, relocation provided)",
+    "location": "Bangkok",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8263606",
+    "postedAt": "2026-10-09T07:08:25-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1625681858,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Specialist, Multimedia designer (Bangkok-based, relocation provided)",
+    "location": "Bangkok",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8263604",
+    "postedAt": "2026-10-09T07:08:27-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1928892198,
+    "company": "Agoda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=okta.com",
+    "role": "Specialist, Video Content Designer (Bangkok-based, relocation provided)",
+    "location": "Bangkok",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/8263612",
+    "postedAt": "2026-10-09T07:08:26-04:00",
+    "postedDays": 2,
+    "source": "greenhouse"
   },
   {
     "id": 1193111531,
@@ -104,7 +248,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
     "postedAt": "2026-10-08T23:12:41-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -116,7 +260,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/deepgram/1d340a0d-9d55-4452-a6dc-38534c4fd06f",
     "postedAt": "2026-10-08T23:17:12.516+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -128,7 +272,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/dept/jobs/8267357",
     "postedAt": "2026-10-09T10:48:04-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -140,7 +284,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/figma/jobs/6216211004?gh_jid=6216211004",
     "postedAt": "2026-10-09T09:44:43-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -152,7 +296,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4718506006",
     "postedAt": "2026-10-08T14:49:13-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -164,20 +308,8 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gongio/jobs/4716960006",
     "postedAt": "2026-10-08T18:03:46-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
-  },
-  {
-    "id": 1443087292,
-    "company": "Padsplit",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
-    "role": "Senior Product Designer (Fully Remote - anywhere in South America)",
-    "location": "Anywhere In South America",
-    "area": "AI",
-    "url": "https://jobs.lever.co/padsplit/c5a92d2c-de7a-4737-a900-748926c6da99",
-    "postedAt": "2026-10-09T15:26:54.783Z",
-    "postedDays": 1,
-    "source": "lever"
   },
   {
     "id": 1129489077,
@@ -188,7 +320,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8262776?t=gh_src=&gh_jid=8262776",
     "postedAt": "2026-10-09T11:42:58-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -200,19 +332,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005",
     "postedAt": "2026-10-09T13:20:35-04:00",
-    "postedDays": 1,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1582439135,
-    "company": "Shopmy",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "Senior or Lead Product Designer",
-    "location": "Remote, USA",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/shopmy/jobs/5448826008",
-    "postedAt": "2026-10-09T11:43:09-04:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "greenhouse"
   },
   {
@@ -224,7 +344,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/snowflake/eb9f1871-de71-4d76-8a7b-e885d491dd12",
     "postedAt": "2026-10-09T16:56:54.879+00:00",
-    "postedDays": 1,
+    "postedDays": 2,
     "source": "ashby"
   },
   {
@@ -236,7 +356,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8842932002?gh_jid=8842932002",
     "postedAt": "2026-10-08T12:06:07-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -248,7 +368,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/dept/jobs/8003076",
     "postedAt": "2026-10-08T06:35:39-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -260,7 +380,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/dept/jobs/8264143",
     "postedAt": "2026-10-08T06:36:05-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -272,7 +392,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/descript/jobs/8003605003?gh_jid=8003605003",
     "postedAt": "2026-10-07T15:12:04-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -284,7 +404,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5419146008",
     "postedAt": "2026-10-08T13:36:23-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -296,7 +416,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5166369008",
     "postedAt": "2026-10-08T13:36:23-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -308,7 +428,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5394697008",
     "postedAt": "2026-10-08T13:36:23-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -320,7 +440,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5430977008",
     "postedAt": "2026-10-08T13:36:23-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -332,7 +452,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5372367008",
     "postedAt": "2026-10-08T13:36:23-04:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "greenhouse"
   },
   {
@@ -344,7 +464,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8225764",
     "postedAt": "2026-10-07T07:41:33-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -356,7 +476,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8525325002?gh_jid=8525325002",
     "postedAt": "2026-10-07T13:19:09-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -368,7 +488,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7701558",
     "postedAt": "2026-10-06T20:21:17-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -380,7 +500,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8120566",
     "postedAt": "2026-10-06T18:13:46-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -392,7 +512,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565768005",
     "postedAt": "2026-10-06T18:37:39-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -404,7 +524,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4724276005",
     "postedAt": "2026-10-07T13:48:59-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -416,7 +536,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735360005",
     "postedAt": "2026-10-06T18:37:39-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -428,7 +548,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/checkr/jobs/8257338",
     "postedAt": "2026-10-05T16:12:33-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -440,7 +560,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/checkr/jobs/8257344",
     "postedAt": "2026-10-05T16:13:36-04:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "greenhouse"
   },
   {
@@ -452,7 +572,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8239461",
     "postedAt": "2026-10-05T05:25:28-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -464,7 +584,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/dept/jobs/8176202",
     "postedAt": "2026-10-05T09:40:30-04:00",
-    "postedDays": 5,
+    "postedDays": 6,
     "source": "greenhouse"
   },
   {
@@ -476,127 +596,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8111984",
     "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 5,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1729878031,
-    "company": "Gusto",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
-    "role": "Senior Staff Product Designer, Finance",
-    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
-    "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 5,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1682026306,
-    "company": "Gusto",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
-    "role": "Senior Staff UX Researcher, Quantitative",
-    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/8168907",
-    "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 5,
-    "source": "greenhouse"
-  },
-  {
-    "id": 52345976,
-    "company": "Gusto",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
-    "role": "Staff Product Designer, HR Experiences",
-    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/7905702",
-    "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 5,
-    "source": "greenhouse"
-  },
-  {
-    "id": 796919335,
-    "company": "Lightspeedhq",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
-    "role": "Staff Product Designer, Hospitality (all genders)",
-    "location": "Berlin",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/lightspeedhq/cb4d8050-0a90-4fa0-92ea-1a94a4e7fa7d",
-    "postedAt": "2026-10-05T10:07:52.228+00:00",
-    "postedDays": 5,
-    "source": "ashby"
-  },
-  {
-    "id": 713779977,
-    "company": "Robinhood",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
-    "role": "Senior Product Designer, Sports",
-    "location": "Menlo Park, CA; New York, NY",
-    "area": "Fintech",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8159896?t=gh_src=&gh_jid=8159896",
-    "postedAt": "2026-10-05T12:10:17-04:00",
-    "postedDays": 5,
-    "source": "greenhouse"
-  },
-  {
-    "id": 21994517,
-    "company": "Whitecircle",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=pinterest.com",
-    "role": "Communications Designer",
-    "location": "NY",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/whitecircle/0c241cb5-7405-4dc5-a1b8-849b3e135a6f",
-    "postedAt": "2026-10-05T09:03:04.803+00:00",
-    "postedDays": 5,
-    "source": "ashby"
-  },
-  {
-    "id": 1795536846,
-    "company": "Cssmerge",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
-    "role": "Product Designer, Product Platform",
-    "location": "Los Angeles, CA",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8796082002",
-    "postedAt": "2026-10-03T10:22:22-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 39414351,
-    "company": "Otter",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
-    "role": "Product Designer, Product Platform",
-    "location": "Los Angeles, CA",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/otter/jobs/8783008002",
-    "postedAt": "2026-10-03T10:22:22-04:00",
-    "postedDays": 7,
-    "source": "greenhouse"
-  },
-  {
-    "id": 762457979,
-    "company": "Pika",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=pika.art",
-    "role": "Product Designer",
-    "location": "US remote",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/pika/cc4dffe4-2cad-4287-a28b-b875ee35b541",
-    "postedAt": "2026-10-03T00:37:03.841+00:00",
-    "postedDays": 7,
-    "source": "ashby"
-  },
-  {
-    "id": 603172014,
-    "company": "Robinhood",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
-    "role": "Product Designer",
-    "location": "Menlo Park, CA; New York, NY",
-    "area": "Fintech",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7490017?t=gh_src=&gh_jid=7490017",
-    "postedAt": "2026-10-02T18:50:18-04:00",
-    "postedDays": 7,
+    "postedDays": 6,
     "source": "greenhouse"
   }
 ]

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T18:14:11.117Z",
+  "generatedAt": "2026-10-11T18:37:40.623Z",
   "counts": {
-    "ats": 381,
-    "merged": 375,
-    "verified": 375,
+    "ats": 370,
+    "merged": 364,
+    "verified": 364,
     "dropped": 0
   },
-  "sources": 149
+  "sources": 141
 }
