@@ -1,125 +1,5 @@
 [
   {
-    "id": 1722935898,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Lead PCB Designer (Starshield)",
-    "location": "Hawthorne, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8517596002?gh_jid=8517596002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1785485244,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Mechanical Designer, Automation & Controls (Starship Launch Pad)",
-    "location": "Starbase, TX",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8767266002?gh_jid=8767266002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1858841331,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Mechanical Designer (HVAC)",
-    "location": "Hawthorne, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8727987002?gh_jid=8727987002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
-    "id": 952254379,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "PCB Designer, Avionics (Falcon & Dragon)",
-    "location": "Hawthorne, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8549216002?gh_jid=8549216002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
-    "id": 929635847,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "PCB Designer (Starlink)",
-    "location": "Bastrop, TX",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8584326002?gh_jid=8584326002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1298199724,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "PCB Designer (Starshield)",
-    "location": "Hawthorne, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8676063002?gh_jid=8676063002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
-    "id": 311752465,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "PCB Designer (Starship)",
-    "location": "Hawthorne, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8726924002?gh_jid=8726924002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
-    "id": 771046707,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "RFIC Layout Designer (RFIC Engineering)",
-    "location": "Palo Alto, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642055002?gh_jid=8642055002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1522171541,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "RFIC Layout Designer (RFIC Engineering)",
-    "location": "Irvine, CA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642048002?gh_jid=8642048002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
-    "id": 678736441,
-    "company": "Spacex",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "RFIC Layout Designer (RFIC Engineering)",
-    "location": "Redmond, WA",
-    "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642052002?gh_jid=8642052002",
-    "postedAt": "2026-09-29T17:52:51-04:00",
-    "postedDays": 13,
-    "source": "greenhouse"
-  },
-  {
     "id": 1503115690,
     "company": "Spacex",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
@@ -192,13 +72,13 @@
     "source": "greenhouse"
   },
   {
-    "id": 1096600496,
+    "id": 759908778,
     "company": "Spacex",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
     "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
-    "location": "Irvine, CA",
+    "location": "Redmond, WA",
     "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642092002?gh_jid=8642092002",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642095002?gh_jid=8642095002",
     "postedAt": "2026-09-29T17:52:51-04:00",
     "postedDays": 13,
     "source": "greenhouse"
@@ -216,13 +96,13 @@
     "source": "greenhouse"
   },
   {
-    "id": 759908778,
+    "id": 1096600496,
     "company": "Spacex",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
     "role": "Sr. RFIC Layout Designer (RFIC Engineering)",
-    "location": "Redmond, WA",
+    "location": "Irvine, CA",
     "area": "AI",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8642095002?gh_jid=8642095002",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642092002?gh_jid=8642092002",
     "postedAt": "2026-09-29T17:52:51-04:00",
     "postedDays": 13,
     "source": "greenhouse"
@@ -264,6 +144,42 @@
     "source": "greenhouse"
   },
   {
+    "id": 1848721320,
+    "company": "Vercel",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
+    "role": "Presentation Designer",
+    "location": "Hybrid - San Francisco, New York City",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
+    "postedAt": "2026-09-30T12:13:14-04:00",
+    "postedDays": 13,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1425614095,
+    "company": "Vercel",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=vercel.com",
+    "role": "Senior Brand Designer",
+    "location": "Hybrid - San Francisco, New York City",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5579560004",
+    "postedAt": "2026-09-30T12:12:41-04:00",
+    "postedDays": 13,
+    "source": "greenhouse"
+  },
+  {
+    "id": 326099638,
+    "company": "Abakaai",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=abakaai.com",
+    "role": "Product Designer",
+    "location": "Mountain View, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/abakaai/jobs/4423757009",
+    "postedAt": "2026-09-29T02:17:55-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
     "id": 201460423,
     "company": "Anthropic",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
@@ -276,6 +192,90 @@
     "source": "greenhouse"
   },
   {
+    "id": 835914623,
+    "company": "Appnovation",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=appnovation.com",
+    "role": "Motion Designer - Cantonese Speaker",
+    "location": "Malaysia",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/appnovation/jobs/8799913002",
+    "postedAt": "2026-09-29T07:01:55-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 323920970,
+    "company": "Checkr",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=writer.com",
+    "role": "Lead Brand Designer, Web",
+    "location": "San Francisco, California, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/checkr/jobs/8232233",
+    "postedAt": "2026-09-29T15:53:27-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1491434212,
+    "company": "Humanagency",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
+    "role": "Digital Designer (Contractor)",
+    "location": "St Louis",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/humanagency/jobs/8008577003",
+    "postedAt": "2026-09-29T14:43:19-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1778041085,
+    "company": "Humanagency",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
+    "role": "Digital Designer (Contractor)",
+    "location": "Austin",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/humanagency/jobs/8008576003",
+    "postedAt": "2026-09-29T14:42:45-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 83953980,
+    "company": "Humanagency",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
+    "role": "Digital Designer (Contractor)",
+    "location": "US or Canada",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/humanagency/jobs/8008324003",
+    "postedAt": "2026-09-29T14:35:57-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1731719626,
+    "company": "Krea",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
+    "role": "Motion Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/krea/a18b2fa2-e435-478f-9554-ed2e418987d6",
+    "postedAt": "2026-09-29T15:39:38.981+00:00",
+    "postedDays": 14,
+    "source": "ashby"
+  },
+  {
+    "id": 117551663,
+    "company": "Mytechnologyinc",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mytechnologyinc.com",
+    "role": "Senior Product Designer",
+    "location": "Remote",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/mytechnologyinc/jobs/4247460009",
+    "postedAt": "2026-09-29T11:51:31-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
     "id": 1831555680,
     "company": "Brandtechplus",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=brandtechplus.com",
@@ -284,7 +284,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7959046",
     "postedAt": "2026-09-28T08:31:20-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -296,7 +296,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7846658",
     "postedAt": "2026-09-28T08:31:20-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -308,7 +308,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/7959042",
     "postedAt": "2026-09-28T08:31:20-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -320,56 +320,8 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8152657",
     "postedAt": "2026-09-28T08:31:20-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
-  },
-  {
-    "id": 260349030,
-    "company": "Hark",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
-    "role": "Product Design Engineer",
-    "location": "San Jose",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hark/jobs/4115928009",
-    "postedAt": "2026-09-25T19:30:02-04:00",
-    "postedDays": 16,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1148773974,
-    "company": "Hark",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
-    "role": "Product Design Engineer, FEA",
-    "location": "San Jose",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hark/jobs/4317218009",
-    "postedAt": "2026-09-25T19:30:24-04:00",
-    "postedDays": 16,
-    "source": "greenhouse"
-  },
-  {
-    "id": 93162802,
-    "company": "Hark",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
-    "role": "Product Design Engineer, Thermals",
-    "location": "San Jose",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hark/jobs/4218847009",
-    "postedAt": "2026-09-25T19:30:49-04:00",
-    "postedDays": 16,
-    "source": "greenhouse"
-  },
-  {
-    "id": 981675069,
-    "company": "Legionhealth",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=legionhealth.com",
-    "role": "Growth Designer — Paid Creative, Brand & Web UX (Remote Part-Time; backed by Y Combinator, $5M+ ARR, $23M+ raised)",
-    "location": "Remote",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/legionhealth/825cef11-fda4-4eec-8753-f06ba3914b4a",
-    "postedAt": "2026-09-25T23:48:47.188+00:00",
-    "postedDays": 16,
-    "source": "ashby"
   },
   {
     "id": 327228922,
@@ -384,40 +336,52 @@
     "source": "ashby"
   },
   {
-    "id": 328673858,
-    "company": "Anthropic",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
-    "role": "Product Designer, Safeguards",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
-    "postedAt": "2026-09-25T10:47:31-04:00",
-    "postedDays": 17,
-    "source": "greenhouse"
-  },
-  {
-    "id": 556957964,
-    "company": "Gen Digital",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=suno.com",
-    "role": "Staff Product Designer",
-    "location": "GBR - London",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/gen-digital/924b1114-d90e-44db-9b8e-5878b0d23128",
-    "postedAt": "2026-09-25T17:19:32.753+00:00",
-    "postedDays": 17,
-    "source": "ashby"
-  },
-  {
-    "id": 1596151598,
+    "id": 260349030,
     "company": "Hark",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
-    "role": "Interface Designer",
+    "role": "Product Design Engineer",
     "location": "San Jose",
     "area": "AI",
-    "url": "https://job-boards.greenhouse.io/hark/jobs/4255138009",
-    "postedAt": "2026-09-25T15:18:27-04:00",
+    "url": "https://job-boards.greenhouse.io/hark/jobs/4115928009",
+    "postedAt": "2026-09-25T19:30:02-04:00",
     "postedDays": 17,
     "source": "greenhouse"
+  },
+  {
+    "id": 1148773974,
+    "company": "Hark",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
+    "role": "Product Design Engineer, FEA",
+    "location": "San Jose",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/hark/jobs/4317218009",
+    "postedAt": "2026-09-25T19:30:24-04:00",
+    "postedDays": 17,
+    "source": "greenhouse"
+  },
+  {
+    "id": 93162802,
+    "company": "Hark",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
+    "role": "Product Design Engineer, Thermals",
+    "location": "San Jose",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/hark/jobs/4218847009",
+    "postedAt": "2026-09-25T19:30:49-04:00",
+    "postedDays": 17,
+    "source": "greenhouse"
+  },
+  {
+    "id": 981675069,
+    "company": "Legionhealth",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=legionhealth.com",
+    "role": "Growth Designer — Paid Creative, Brand & Web UX (Remote Part-Time; backed by Y Combinator, $5M+ ARR, $23M+ raised)",
+    "location": "Remote",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/legionhealth/825cef11-fda4-4eec-8753-f06ba3914b4a",
+    "postedAt": "2026-09-25T23:48:47.188+00:00",
+    "postedDays": 17,
+    "source": "ashby"
   },
   {
     "id": 2060985070,
@@ -432,6 +396,42 @@
     "source": "ashby"
   },
   {
+    "id": 328673858,
+    "company": "Anthropic",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Product Designer, Safeguards",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+    "postedAt": "2026-09-25T10:47:31-04:00",
+    "postedDays": 18,
+    "source": "greenhouse"
+  },
+  {
+    "id": 556957964,
+    "company": "Gen Digital",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=suno.com",
+    "role": "Staff Product Designer",
+    "location": "GBR - London",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/gen-digital/924b1114-d90e-44db-9b8e-5878b0d23128",
+    "postedAt": "2026-09-25T17:19:32.753+00:00",
+    "postedDays": 18,
+    "source": "ashby"
+  },
+  {
+    "id": 1596151598,
+    "company": "Hark",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=planetscale.com",
+    "role": "Interface Designer",
+    "location": "San Jose",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/hark/jobs/4255138009",
+    "postedAt": "2026-09-25T15:18:27-04:00",
+    "postedDays": 18,
+    "source": "greenhouse"
+  },
+  {
     "id": 2100375176,
     "company": "Ramp",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
@@ -440,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/ramp/566c4ad0-03ea-4022-8f11-04f0d8969f97",
     "postedAt": "2026-09-25T17:55:21.295+00:00",
-    "postedDays": 17,
+    "postedDays": 18,
     "source": "ashby"
   },
   {
@@ -452,8 +452,20 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/3da14a90-a4fb-47b9-a17e-7412a63882d4",
     "postedAt": "2026-09-25T15:31:30.217+00:00",
-    "postedDays": 17,
+    "postedDays": 18,
     "source": "ashby"
+  },
+  {
+    "id": 436709,
+    "company": "Arizeai",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=arize.com",
+    "role": "UX Designer",
+    "location": "Remote (United States)",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/arizeai/jobs/5790042004",
+    "postedAt": "2026-09-23T16:45:19-04:00",
+    "postedDays": 19,
+    "source": "greenhouse"
   },
   {
     "id": 653168694,
@@ -464,7 +476,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/checkr/jobs/8163475",
     "postedAt": "2026-09-24T15:56:08-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -476,7 +488,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/figma/jobs/6203089004?gh_jid=6203089004",
     "postedAt": "2026-09-24T14:11:41-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -488,7 +500,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
     "postedAt": "2026-09-24T04:31:44-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -500,7 +512,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8112095",
     "postedAt": "2026-09-24T04:31:44-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -512,7 +524,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8021585",
     "postedAt": "2026-09-24T04:31:44-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -524,7 +536,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8090486",
     "postedAt": "2026-09-24T04:31:44-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -536,7 +548,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
     "postedAt": "2026-09-24T14:30:03.095+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -548,7 +560,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/ba6d0833-902b-4f80-95e4-3b08b9e86cbb",
     "postedAt": "2026-09-24T09:44:21.906+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -560,7 +572,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5146176007",
     "postedAt": "2026-09-24T13:30:07-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -572,7 +584,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6160974004",
     "postedAt": "2026-09-24T13:45:18-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -584,18 +596,6 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6131210004",
     "postedAt": "2026-09-24T14:17:38-04:00",
-    "postedDays": 18,
-    "source": "greenhouse"
-  },
-  {
-    "id": 436709,
-    "company": "Arizeai",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=arize.com",
-    "role": "UX Designer",
-    "location": "Remote (United States)",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/arizeai/jobs/5790042004",
-    "postedAt": "2026-09-23T16:45:19-04:00",
     "postedDays": 19,
     "source": "greenhouse"
   }

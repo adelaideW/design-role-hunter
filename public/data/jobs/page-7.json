@@ -1,17 +1,5 @@
 [
   {
-    "id": 2057947353,
-    "company": "Notion",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=notion.so",
-    "role": "Product Designer",
-    "location": "San Francisco, California",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/notion/d177d052-ef57-4900-acf2-d58e9eded620",
-    "postedAt": "2026-07-02T17:18:41.823+00:00",
-    "postedDays": 102,
-    "source": "ashby"
-  },
-  {
     "id": 177029758,
     "company": "Peachpilot",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=peachpilot.com",
@@ -20,7 +8,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/peachpilot/jobs/5143506007",
     "postedAt": "2026-07-01T12:09:40-04:00",
-    "postedDays": 103,
+    "postedDays": 104,
     "source": "greenhouse"
   },
   {
@@ -32,7 +20,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/b01a7dae-95ed-4357-a46e-5f65041dcb38",
     "postedAt": "2026-06-26T15:46:05.012+00:00",
-    "postedDays": 108,
+    "postedDays": 109,
     "source": "ashby"
   },
   {
@@ -44,7 +32,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/posh/618fefbf-72f1-4fb9-8c7d-46e994200732",
     "postedAt": "2026-06-25T19:26:47.486+00:00",
-    "postedDays": 109,
+    "postedDays": 110,
     "source": "ashby"
   },
   {
@@ -56,7 +44,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/abakaai/jobs/4289289009",
     "postedAt": "2026-06-18T01:14:32-04:00",
-    "postedDays": 116,
+    "postedDays": 117,
     "source": "greenhouse"
   },
   {
@@ -68,7 +56,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/dualentry/53197eb5-f8c7-46f8-8552-145a5a559576",
     "postedAt": "2026-06-13T17:30:14.807+00:00",
-    "postedDays": 121,
+    "postedDays": 122,
     "source": "ashby"
   },
   {
@@ -80,7 +68,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/reevo/9a5ddfd9-f208-4172-a649-9362aeee5287",
     "postedAt": "2026-06-09T00:46:01.968+00:00",
-    "postedDays": 125,
+    "postedDays": 126,
     "source": "ashby"
   },
   {
@@ -104,7 +92,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/perplexity/7ae341c4-411e-468c-bc26-bbdd8e55d388",
     "postedAt": "2026-06-03T00:33:38.233+00:00",
-    "postedDays": 131,
+    "postedDays": 132,
     "source": "ashby"
   },
   {
@@ -116,7 +104,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/viktor/bda542f5-d0c7-4eec-a7c0-78d7b6e1fb35",
     "postedAt": "2026-06-02T15:38:23.923+00:00",
-    "postedDays": 132,
+    "postedDays": 133,
     "source": "ashby"
   },
   {
@@ -128,7 +116,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nen-creative/a7c735e1-32c4-4c00-871f-ffecbbb38ae8",
     "postedAt": "2026-05-31T23:45:44.967+00:00",
-    "postedDays": 133,
+    "postedDays": 134,
     "source": "ashby"
   },
   {
@@ -144,18 +132,6 @@
     "source": "ashby"
   },
   {
-    "id": 1199706880,
-    "company": "Sarvam",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Product Designer",
-    "location": "Bengaluru",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/sarvam/79bb725b-83d4-400c-a207-e2b0a7ccec68",
-    "postedAt": "2026-05-19T03:45:42.145+00:00",
-    "postedDays": 146,
-    "source": "ashby"
-  },
-  {
     "id": 753533327,
     "company": "Reducto",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=coreweave.com",
@@ -168,6 +144,18 @@
     "source": "ashby"
   },
   {
+    "id": 1199706880,
+    "company": "Sarvam",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
+    "role": "Product Designer",
+    "location": "Bengaluru",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/sarvam/79bb725b-83d4-400c-a207-e2b0a7ccec68",
+    "postedAt": "2026-05-19T03:45:42.145+00:00",
+    "postedDays": 147,
+    "source": "ashby"
+  },
+  {
     "id": 1667614296,
     "company": "Sierra",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=sierra.ai",
@@ -176,7 +164,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sierra/ba780c1d-ebd7-45b8-8c99-12666af5bfa3",
     "postedAt": "2026-05-15T23:00:57.287+00:00",
-    "postedDays": 149,
+    "postedDays": 150,
     "source": "ashby"
   },
   {
@@ -188,7 +176,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nen-creative/7c76f220-ba14-47bf-ae3c-ea397729a416",
     "postedAt": "2026-05-15T02:39:29.838+00:00",
-    "postedDays": 150,
+    "postedDays": 151,
     "source": "ashby"
   },
   {
@@ -200,7 +188,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/7325a214-908d-48a4-bbc2-f5c3a6c9ed00",
     "postedAt": "2026-05-12T18:15:49.040+00:00",
-    "postedDays": 153,
+    "postedDays": 154,
     "source": "ashby"
   },
   {
@@ -212,7 +200,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/udio/jobs/5071142008",
     "postedAt": "2026-05-12T01:00:55-04:00",
-    "postedDays": 153,
+    "postedDays": 154,
     "source": "greenhouse"
   },
   {
@@ -224,7 +212,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/noon-design/cad5c2de-d11c-4a7a-a706-15c26f4d5a93",
     "postedAt": "2026-05-09T17:39:53.581+00:00",
-    "postedDays": 156,
+    "postedDays": 157,
     "source": "ashby"
   },
   {
@@ -236,7 +224,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/sabi/a9daf037-4a71-42a7-bbbc-ea9fc953a089",
     "postedAt": "2026-05-07T13:39:10.622+00:00",
-    "postedDays": 158,
+    "postedDays": 159,
     "source": "ashby"
   },
   {
@@ -248,19 +236,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/6b7837b7-72ec-46a3-9b21-74c1dfa997b6",
     "postedAt": "2026-05-05T19:39:17.165+00:00",
-    "postedDays": 160,
-    "source": "ashby"
-  },
-  {
-    "id": 2053148025,
-    "company": "Linear",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=linear.app",
-    "role": "Principal Product Designer",
-    "location": "Europe",
-    "area": "Project Management",
-    "url": "https://jobs.ashbyhq.com/Linear/ba8a41d2-4198-481a-a7f4-e09c5364ff7f",
-    "postedAt": "2026-04-29T18:16:36.164+00:00",
-    "postedDays": 166,
+    "postedDays": 161,
     "source": "ashby"
   },
   {
@@ -276,6 +252,18 @@
     "source": "ashby"
   },
   {
+    "id": 2053148025,
+    "company": "Linear",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=linear.app",
+    "role": "Principal Product Designer",
+    "location": "Europe",
+    "area": "Project Management",
+    "url": "https://jobs.ashbyhq.com/Linear/ba8a41d2-4198-481a-a7f4-e09c5364ff7f",
+    "postedAt": "2026-04-29T18:16:36.164+00:00",
+    "postedDays": 167,
+    "source": "ashby"
+  },
+  {
     "id": 1123693688,
     "company": "Intangible.ai",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=intangibleai.com",
@@ -284,7 +272,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/intangible.ai/2795136f-fe77-47fc-b1f6-51c8547c782c",
     "postedAt": "2026-04-28T00:29:25.056+00:00",
-    "postedDays": 167,
+    "postedDays": 168,
     "source": "ashby"
   },
   {
@@ -296,7 +284,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/posh/8338ed78-ac35-45ad-9013-eee469c11019",
     "postedAt": "2026-04-28T15:41:01.067+00:00",
-    "postedDays": 167,
+    "postedDays": 168,
     "source": "ashby"
   },
   {
@@ -344,7 +332,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/5635b88f-a361-4f5f-8209-ca343a003947",
     "postedAt": "2026-04-15T09:33:02.896+00:00",
-    "postedDays": 180,
+    "postedDays": 181,
     "source": "ashby"
   },
   {
@@ -356,7 +344,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/75c90455-75c8-44e0-ab38-887120dbb1d0",
     "postedAt": "2026-03-26T15:12:54.277+00:00",
-    "postedDays": 200,
+    "postedDays": 201,
     "source": "ashby"
   },
   {
@@ -368,7 +356,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/synthesia/2bb161ef-7355-474c-a051-dc57322f8225",
     "postedAt": "2026-03-13T18:58:04.873+00:00",
-    "postedDays": 213,
+    "postedDays": 214,
     "source": "ashby"
   },
   {
@@ -380,7 +368,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/netic/2b65d752-605f-4ccc-a25e-c7a8b18c191e",
     "postedAt": "2026-02-16T22:50:36.829+00:00",
-    "postedDays": 237,
+    "postedDays": 238,
     "source": "ashby"
   },
   {
@@ -392,7 +380,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/aede4098-91f4-44f5-9d53-27c15cb2bae7",
     "postedAt": "2026-02-12T14:51:35.093+00:00",
-    "postedDays": 242,
+    "postedDays": 243,
     "source": "ashby"
   },
   {
@@ -404,19 +392,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/9814b9ca-5917-43f8-8f76-6df7aa7e2be3",
     "postedAt": "2026-02-12T14:49:37.515+00:00",
-    "postedDays": 242,
-    "source": "ashby"
-  },
-  {
-    "id": 1342329,
-    "company": "Sierra",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=sierra.ai",
-    "role": "Agent Experience Designer, Voice (Multilingual)",
-    "location": "San Francisco, CA",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/sierra/1a0e307f-7f02-4971-820c-a244ad909617",
-    "postedAt": "2026-02-10T19:18:52.581+00:00",
-    "postedDays": 244,
+    "postedDays": 243,
     "source": "ashby"
   },
   {
@@ -432,6 +408,18 @@
     "source": "ashby"
   },
   {
+    "id": 1342329,
+    "company": "Sierra",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=sierra.ai",
+    "role": "Agent Experience Designer, Voice (Multilingual)",
+    "location": "San Francisco, CA",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/sierra/1a0e307f-7f02-4971-820c-a244ad909617",
+    "postedAt": "2026-02-10T19:18:52.581+00:00",
+    "postedDays": 245,
+    "source": "ashby"
+  },
+  {
     "id": 2035851590,
     "company": "Retell Ai",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=retellai.com",
@@ -440,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/retell-ai/9b165c15-aa78-49a7-a755-8c2379fd5416",
     "postedAt": "2026-01-19T01:12:57.485+00:00",
-    "postedDays": 266,
+    "postedDays": 267,
     "source": "ashby"
   },
   {
@@ -452,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/logrocket/cac67948-9675-4470-b98f-99471d6c6088",
     "postedAt": "2025-12-30T03:25:09.180Z",
-    "postedDays": 286,
+    "postedDays": 287,
     "source": "lever"
   },
   {
@@ -476,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/whitecircle/ca1228ee-92e8-4eaa-9d67-cc4d3e3240ce",
     "postedAt": "2025-12-01T10:58:21.707+00:00",
-    "postedDays": 315,
+    "postedDays": 316,
     "source": "ashby"
   },
   {
@@ -488,7 +476,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/24616c39-e293-4bcc-a3dd-e6f33a71c8ee",
     "postedAt": "2025-09-12T23:39:38.961+00:00",
-    "postedDays": 394,
+    "postedDays": 395,
     "source": "ashby"
   },
   {
@@ -500,7 +488,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/factory/7b479181-f6f0-4f54-ab42-2c0c93c530ea",
     "postedAt": "2025-08-21T02:03:25.427+00:00",
-    "postedDays": 417,
+    "postedDays": 418,
     "source": "ashby"
   },
   {
@@ -512,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d",
     "postedAt": "2025-08-12T18:31:27.150Z",
-    "postedDays": 426,
+    "postedDays": 427,
     "source": "lever"
   },
   {
@@ -524,7 +512,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7",
     "postedAt": "2025-08-12T16:38:56.637Z",
-    "postedDays": 426,
+    "postedDays": 427,
     "source": "lever"
   },
   {
@@ -536,7 +524,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/cf78be5e-41ca-478a-b480-0d0839c24543",
     "postedAt": "2025-07-17T16:03:07.517+00:00",
-    "postedDays": 452,
+    "postedDays": 453,
     "source": "ashby"
   },
   {
@@ -548,7 +536,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/brainco/2d637c98-2622-4cc8-b083-f94f6e520669",
     "postedAt": "2025-06-25T17:51:09.244+00:00",
-    "postedDays": 474,
+    "postedDays": 475,
     "source": "ashby"
   },
   {
@@ -560,7 +548,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/c2d11af1-5b84-4be0-92ac-36113fb8f2b5",
     "postedAt": "2025-04-03T18:13:34.536Z",
-    "postedDays": 557,
+    "postedDays": 558,
     "source": "lever"
   },
   {
@@ -572,7 +560,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02",
     "postedAt": "2024-11-21T19:29:33.139Z",
-    "postedDays": 690,
+    "postedDays": 691,
     "source": "lever"
   },
   {
@@ -584,7 +572,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5",
     "postedAt": "2024-08-19T09:22:15.474Z",
-    "postedDays": 784,
+    "postedDays": 785,
     "source": "lever"
   },
   {
@@ -596,7 +584,19 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb",
     "postedAt": "2024-08-15T22:43:39.366Z",
-    "postedDays": 787,
+    "postedDays": 788,
+    "source": "lever"
+  },
+  {
+    "id": 53251749,
+    "company": "Palantir",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=palantir.com",
+    "role": "Product Designer, New Grad - US Government",
+    "location": "Washington, D.C.",
+    "area": "AI",
+    "url": "https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65",
+    "postedAt": "2024-01-02T22:21:00.937Z",
+    "postedDays": 1014,
     "source": "lever"
   }
 ]

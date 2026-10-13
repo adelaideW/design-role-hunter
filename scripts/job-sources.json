@@ -196,13 +196,6 @@
     "area": "AI"
   },
   {
-    "company": "ComfyUI",
-    "domain": "comfy.org",
-    "ats": "ashby",
-    "board": "comfy-org",
-    "area": "AI"
-  },
-  {
     "company": "Contentsquare",
     "domain": "contentsquare.com",
     "ats": "lever",
@@ -211,7 +204,7 @@
   },
   {
     "company": "Convex Dev",
-    "domain": "convexdev.com",
+    "domain": "duolingo.com",
     "ats": "ashby",
     "board": "convex-dev",
     "area": "AI"
@@ -564,6 +557,13 @@
     "domain": "noondesign.com",
     "ats": "ashby",
     "board": "noon-design",
+    "area": "AI"
+  },
+  {
+    "company": "Norm Ai",
+    "domain": "brex.com",
+    "ats": "ashby",
+    "board": "norm-ai",
     "area": "AI"
   },
   {
