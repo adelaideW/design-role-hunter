@@ -42,6 +42,13 @@
     "area": "AI"
   },
   {
+    "company": "Alpha Design Ai Inc",
+    "domain": "alphadesignaiinc.com",
+    "ats": "ashby",
+    "board": "alpha-design-ai-inc",
+    "area": "AI"
+  },
+  {
     "company": "Anthropic",
     "domain": "anthropic.com",
     "ats": "greenhouse",
@@ -78,7 +85,7 @@
   },
   {
     "company": "Ascend21",
-    "domain": "writer.com",
+    "domain": "ascend21.com",
     "ats": "greenhouse",
     "board": "ascend21",
     "area": "AI"
@@ -88,13 +95,6 @@
     "domain": "baseten.co",
     "ats": "ashby",
     "board": "baseten",
-    "area": "AI"
-  },
-  {
-    "company": "Bjakcareer",
-    "domain": "mercury.com",
-    "ats": "ashby",
-    "board": "bjakcareer",
     "area": "AI"
   },
   {
@@ -137,6 +137,13 @@
     "domain": "chime.com",
     "ats": "greenhouse",
     "board": "chime",
+    "area": "AI"
+  },
+  {
+    "company": "Clair",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "clair",
     "area": "AI"
   },
   {
@@ -343,18 +350,18 @@
     "area": "AI"
   },
   {
+    "company": "H1",
+    "domain": "h1.com",
+    "ats": "lever",
+    "board": "h1",
+    "area": "AI"
+  },
+  {
     "company": "Harvey",
     "domain": "harvey.ai",
     "ats": "ashby",
     "board": "harvey",
     "area": "Legal AI"
-  },
-  {
-    "company": "Hellyeah",
-    "domain": "databricks.com",
-    "ats": "ashby",
-    "board": "hellyeah",
-    "area": "AI"
   },
   {
     "company": "Heygen",
@@ -484,7 +491,7 @@
   },
   {
     "company": "Nectar Social",
-    "domain": "nectarsocial.com",
+    "domain": "scale.com",
     "ats": "ashby",
     "board": "nectar-social",
     "area": "AI"
@@ -701,7 +708,7 @@
   },
   {
     "company": "Quizlet Inc",
-    "domain": "quizletinc.com",
+    "domain": "pinterest.com",
     "ats": "ashby",
     "board": "quizlet-inc",
     "area": "AI"
@@ -753,6 +760,13 @@
     "domain": "replit.com",
     "ats": "ashby",
     "board": "replit",
+    "area": "AI"
+  },
+  {
+    "company": "Revel",
+    "domain": "writer.com",
+    "ats": "ashby",
+    "board": "revel",
     "area": "AI"
   },
   {
