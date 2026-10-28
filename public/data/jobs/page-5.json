@@ -1,5 +1,65 @@
 [
   {
+    "id": 1251543278,
+    "company": "Robinhood",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
+    "role": "Staff Product Designer, National Impact",
+    "location": "Menlo Park, CA; New York, NY",
+    "area": "Fintech",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648",
+    "postedAt": "2026-10-14T19:03:26-04:00",
+    "postedDays": 13,
+    "source": "greenhouse"
+  },
+  {
+    "id": 2143787111,
+    "company": "Cursor",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=cursor.com",
+    "role": "Senior Brand Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/cursor/6c80d6e2-5e59-418e-9ea6-15dface61698",
+    "postedAt": "2026-10-14T18:43:27.952+00:00",
+    "postedDays": 14,
+    "source": "ashby"
+  },
+  {
+    "id": 1886480270,
+    "company": "Dept",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercor.com",
+    "role": "Senior Motion Designer & Editor (m/f/div)",
+    "location": "Berlin, hybrid",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8090714",
+    "postedAt": "2026-10-14T10:14:39-04:00",
+    "postedDays": 14,
+    "source": "greenhouse"
+  },
+  {
+    "id": 136025337,
+    "company": "Embedding Vc",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Brand Designer",
+    "location": "Mountain View, CA",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/embedding-vc/62e711eb-183a-48ad-a022-4f016400e4c0",
+    "postedAt": "2026-10-13T20:15:48.667+00:00",
+    "postedDays": 14,
+    "source": "ashby"
+  },
+  {
+    "id": 1961624321,
+    "company": "Embedding Vc",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Product Designer",
+    "location": "Mountain View, CA",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/embedding-vc/e5cc6c69-27a2-4fe1-992e-7246c1130515",
+    "postedAt": "2026-10-13T20:14:32.965+00:00",
+    "postedDays": 14,
+    "source": "ashby"
+  },
+  {
     "id": 92515426,
     "company": "Engramme",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=cursor.com",
@@ -8,7 +68,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/engramme/6c52a19c-0a11-484f-8179-c39eb9982cc9",
     "postedAt": "2026-10-14T18:03:34.099+00:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "ashby"
   },
   {
@@ -20,7 +80,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8240638?t=gh_src=&gh_jid=8240638",
     "postedAt": "2026-10-13T16:05:29-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -32,7 +92,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7489964?t=gh_src=&gh_jid=7489964",
     "postedAt": "2026-10-13T16:05:29-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -44,7 +104,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8262776?t=gh_src=&gh_jid=8262776",
     "postedAt": "2026-10-13T16:05:29-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -56,7 +116,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8159896?t=gh_src=&gh_jid=8159896",
     "postedAt": "2026-10-13T16:05:29-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -68,7 +128,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8160668?t=gh_src=&gh_jid=8160668",
     "postedAt": "2026-10-13T16:05:28-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -80,7 +140,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
     "postedAt": "2026-10-08T23:12:41-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -92,7 +152,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/deepgram/1d340a0d-9d55-4452-a6dc-38534c4fd06f",
     "postedAt": "2026-10-08T23:17:12.516+00:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "ashby"
   },
   {
@@ -104,7 +164,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4393062009",
     "postedAt": "2026-10-08T18:10:57-04:00",
-    "postedDays": 18,
+    "postedDays": 19,
     "source": "greenhouse"
   },
   {
@@ -116,20 +176,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/snowflake/eb9f1871-de71-4d76-8a7b-e885d491dd12",
     "postedAt": "2026-10-09T16:56:54.879+00:00",
-    "postedDays": 18,
-    "source": "ashby"
-  },
-  {
-    "id": 776712026,
-    "company": "Ascend21",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ascend21.com",
-    "role": "Brand Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/ascend21/jobs/5447178008",
-    "postedAt": "2026-10-07T17:03:50-04:00",
     "postedDays": 19,
-    "source": "greenhouse"
+    "source": "ashby"
   },
   {
     "id": 1522390186,
@@ -140,7 +188,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8129415",
     "postedAt": "2026-10-08T13:52:07-04:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "greenhouse"
   },
   {
@@ -152,7 +200,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4718506006",
     "postedAt": "2026-10-08T14:49:13-04:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "greenhouse"
   },
   {
@@ -164,7 +212,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/stealth/a62fc8f1-c2cf-4ab4-be32-73f3e6f95453",
     "postedAt": "2026-10-07T22:32:40.981+00:00",
-    "postedDays": 19,
+    "postedDays": 20,
     "source": "ashby"
   },
   {
@@ -176,7 +224,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/cerebras/4a7be83c-5d32-46b7-9d30-cf6759922237",
     "postedAt": "2026-10-07T17:41:20.292+00:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "ashby"
   },
   {
@@ -188,7 +236,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8525325002?gh_jid=8525325002",
     "postedAt": "2026-10-07T13:19:09-04:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "greenhouse"
   },
   {
@@ -200,7 +248,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/descript/jobs/8003605003?gh_jid=8003605003",
     "postedAt": "2026-10-07T15:12:04-04:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "greenhouse"
   },
   {
@@ -212,7 +260,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/northbeam/jobs/4718365006",
     "postedAt": "2026-10-06T17:06:29-04:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "greenhouse"
   },
   {
@@ -224,19 +272,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/revel/c7358202-2627-4914-9d8b-96d5f16f50e3",
     "postedAt": "2026-10-07T18:51:21.380+00:00",
-    "postedDays": 20,
-    "source": "ashby"
-  },
-  {
-    "id": 966724985,
-    "company": "Trovehq",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=trovehq.com",
-    "role": "Senior Product Designer",
-    "location": "New York",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/trovehq/83f2d9c9-a8b8-4016-8f9e-2e4b13694cec",
-    "postedAt": "2026-10-07T15:57:39.966+00:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "ashby"
   },
   {
@@ -248,19 +284,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
     "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 22,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1682026306,
-    "company": "Gusto",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=gusto.com",
-    "role": "Senior Staff UX Researcher, Quantitative",
-    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/8168907",
-    "postedAt": "2026-10-05T13:22:28-04:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "greenhouse"
   },
   {
@@ -272,7 +296,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/parallel/68ea39b6-1ef1-4d97-82f5-b931c379a216",
     "postedAt": "2026-10-04T22:27:56.709+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -284,7 +308,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/whitecircle/0c241cb5-7405-4dc5-a1b8-849b3e135a6f",
     "postedAt": "2026-10-05T09:03:04.803+00:00",
-    "postedDays": 22,
+    "postedDays": 23,
     "source": "ashby"
   },
   {
@@ -296,7 +320,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/pika/cc4dffe4-2cad-4287-a28b-b875ee35b541",
     "postedAt": "2026-10-03T00:37:03.841+00:00",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "ashby"
   },
   {
@@ -308,7 +332,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8220730?t=gh_src=&gh_jid=8220730",
     "postedAt": "2026-10-02T18:39:48-04:00",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "greenhouse"
   },
   {
@@ -320,7 +344,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002",
     "postedAt": "2026-10-01T18:59:01-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -332,7 +356,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/deepgram/790f9a3f-82e8-4c55-995b-8ccb95d6eff9",
     "postedAt": "2026-10-02T16:09:02.605+00:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "ashby"
   },
   {
@@ -344,7 +368,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/hugeinc/jobs/8145743",
     "postedAt": "2026-10-02T10:51:42-04:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "greenhouse"
   },
   {
@@ -356,7 +380,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/2ee19240-419a-479a-a00e-72436ae2b27a",
     "postedAt": "2026-10-01T20:32:19.031+00:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "ashby"
   },
   {
@@ -368,7 +392,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/snowflake/e65f2ee8-c5a8-48bc-aca7-513fa99d6aef",
     "postedAt": "2026-10-01T20:53:06.180+00:00",
-    "postedDays": 25,
+    "postedDays": 26,
     "source": "ashby"
   },
   {
@@ -380,7 +404,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/contentsquare/5234af0a-e23e-4543-9f9f-a37b8d7e64d8",
     "postedAt": "2026-10-01T14:24:44.768Z",
-    "postedDays": 26,
+    "postedDays": 27,
     "source": "lever"
   },
   {
@@ -392,7 +416,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lambda/d9e9d02a-4d75-4132-a111-db490f124d6b",
     "postedAt": "2026-10-01T14:27:19.010+00:00",
-    "postedDays": 26,
+    "postedDays": 27,
     "source": "ashby"
   },
   {
@@ -404,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/trm-labs/7299a0d3-527f-4119-8d6a-7b64a020b169",
     "postedAt": "2026-10-01T00:33:27.629+00:00",
-    "postedDays": 26,
+    "postedDays": 27,
     "source": "ashby"
   },
   {
@@ -416,43 +440,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/boldin/jobs/4420462009",
     "postedAt": "2026-09-29T18:20:02-04:00",
-    "postedDays": 27,
-    "source": "greenhouse"
-  },
-  {
-    "id": 411083531,
-    "company": "Mercury",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercury.com",
-    "role": "Senior Product Designer - Cards & Credit",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6143552004",
-    "postedAt": "2026-09-30T01:02:04-04:00",
-    "postedDays": 27,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1342890144,
-    "company": "Mercury",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercury.com",
-    "role": "Staff Brand Designer",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/5995303004",
-    "postedAt": "2026-09-30T01:01:54-04:00",
-    "postedDays": 27,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1891497705,
-    "company": "Mercury",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercury.com",
-    "role": "Staff Motion Designer - 3D",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6196208004",
-    "postedAt": "2026-09-30T01:02:07-04:00",
-    "postedDays": 27,
+    "postedDays": 28,
     "source": "greenhouse"
   },
   {
@@ -464,7 +452,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6183981004",
     "postedAt": "2026-09-30T10:30:43-04:00",
-    "postedDays": 27,
+    "postedDays": 28,
     "source": "greenhouse"
   },
   {
@@ -476,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/ramp/baa94095-c976-46d0-8d18-25a951950714",
     "postedAt": "2026-09-30T16:00:23.869+00:00",
-    "postedDays": 27,
+    "postedDays": 28,
     "source": "ashby"
   },
   {
@@ -488,19 +476,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008",
     "postedAt": "2026-09-28T17:06:36-04:00",
-    "postedDays": 28,
-    "source": "greenhouse"
-  },
-  {
-    "id": 835914623,
-    "company": "Appnovation",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
-    "role": "Motion Designer - Cantonese Speaker",
-    "location": "Malaysia",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/appnovation/jobs/8799913002",
-    "postedAt": "2026-09-29T07:01:55-04:00",
-    "postedDays": 28,
+    "postedDays": 29,
     "source": "greenhouse"
   },
   {
@@ -512,7 +488,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/boldin/jobs/4420464009",
     "postedAt": "2026-09-28T17:04:35-04:00",
-    "postedDays": 28,
+    "postedDays": 29,
     "source": "greenhouse"
   },
   {
@@ -524,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/krea/a18b2fa2-e435-478f-9554-ed2e418987d6",
     "postedAt": "2026-09-29T15:39:38.981+00:00",
-    "postedDays": 28,
+    "postedDays": 29,
     "source": "ashby"
   },
   {
@@ -536,7 +512,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/mytechnologyinc/jobs/4247460009",
     "postedAt": "2026-09-29T11:51:31-04:00",
-    "postedDays": 28,
+    "postedDays": 29,
     "source": "greenhouse"
   },
   {
@@ -548,7 +524,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/trm-labs/2a42c549-793f-4b2b-83c8-b87a94730e31",
     "postedAt": "2026-09-29T00:06:50.258+00:00",
-    "postedDays": 28,
+    "postedDays": 29,
     "source": "ashby"
   },
   {
@@ -560,31 +536,31 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17",
     "postedAt": "2026-09-25T21:05:27.698+00:00",
-    "postedDays": 31,
+    "postedDays": 32,
     "source": "ashby"
   },
   {
     "id": 2033512523,
     "company": "Thumbtack",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=thumbtack.com",
     "role": "Senior Software Engineer, Design Systems",
     "location": "Remote, Ontario",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/thumbtack/c1b25268-09ef-44d0-b08c-af68b650463b",
     "postedAt": "2026-09-25T20:30:44.642+00:00",
-    "postedDays": 31,
+    "postedDays": 32,
     "source": "ashby"
   },
   {
     "id": 1776222463,
     "company": "Thumbtack",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=thumbtack.com",
     "role": "Senior Software Engineer, Design Systems",
     "location": "Remote, United States",
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/thumbtack/f82051f8-b3f1-498d-b273-58e1b56f4925",
     "postedAt": "2026-09-25T20:30:43.136+00:00",
-    "postedDays": 31,
+    "postedDays": 32,
     "source": "ashby"
   },
   {
@@ -596,7 +572,31 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/metaview/e0de1952-2c9d-4a83-a71d-273b2846658d",
     "postedAt": "2026-09-25T05:44:24.712+00:00",
-    "postedDays": 32,
+    "postedDays": 33,
+    "source": "ashby"
+  },
+  {
+    "id": 394005520,
+    "company": "Metaview",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Member of Product Staff, Product Designer",
+    "location": "London",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/metaview/196fa91b-b547-45e8-ab3f-d42a4aa02337",
+    "postedAt": "2026-09-25T05:44:50.384+00:00",
+    "postedDays": 33,
+    "source": "ashby"
+  },
+  {
+    "id": 2100375176,
+    "company": "Ramp",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
+    "role": "Growth Creative Designer, International",
+    "location": "London, UK",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/ramp/566c4ad0-03ea-4022-8f11-04f0d8969f97",
+    "postedAt": "2026-09-25T17:55:21.295+00:00",
+    "postedDays": 33,
     "source": "ashby"
   }
 ]

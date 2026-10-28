@@ -64,7 +64,7 @@
   },
   {
     "company": "Appnovation",
-    "domain": "openai.com",
+    "domain": "faire.com",
     "ats": "greenhouse",
     "board": "appnovation",
     "area": "AI"
@@ -74,13 +74,6 @@
     "domain": "arize.com",
     "ats": "greenhouse",
     "board": "arizeai",
-    "area": "AI"
-  },
-  {
-    "company": "Ascend21",
-    "domain": "ascend21.com",
-    "ats": "greenhouse",
-    "board": "ascend21",
     "area": "AI"
   },
   {
@@ -141,7 +134,7 @@
   },
   {
     "company": "Checkr",
-    "domain": "okta.com",
+    "domain": "openai.com",
     "ats": "greenhouse",
     "board": "checkr",
     "area": "AI"
@@ -253,7 +246,7 @@
   },
   {
     "company": "Dept",
-    "domain": "coinbase.com",
+    "domain": "mercor.com",
     "ats": "greenhouse",
     "board": "dept",
     "area": "AI"
@@ -329,13 +322,6 @@
     "area": "AI"
   },
   {
-    "company": "Frontcareers",
-    "domain": "linear.app",
-    "ats": "ashby",
-    "board": "frontcareers",
-    "area": "AI"
-  },
-  {
     "company": "Geniusai",
     "domain": "stripe.com",
     "ats": "ashby",
@@ -358,7 +344,7 @@
   },
   {
     "company": "Gumloop",
-    "domain": "replit.com",
+    "domain": "noise.xyz",
     "ats": "ashby",
     "board": "gumloop",
     "area": "AI"
@@ -400,7 +386,7 @@
   },
   {
     "company": "Hpiq",
-    "domain": "robinhood.com",
+    "domain": "glean.com",
     "ats": "greenhouse",
     "board": "hpiq",
     "area": "AI"
@@ -518,15 +504,8 @@
     "area": "AI"
   },
   {
-    "company": "Nectar Social",
-    "domain": "nectarsocial.com",
-    "ats": "ashby",
-    "board": "nectar-social",
-    "area": "AI"
-  },
-  {
     "company": "Nerostechnologies",
-    "domain": "duolingo.com",
+    "domain": "openai.com",
     "ats": "greenhouse",
     "board": "nerostechnologies",
     "area": "AI"
@@ -638,7 +617,7 @@
   },
   {
     "company": "Plaud",
-    "domain": "datadoghq.com",
+    "domain": "linear.app",
     "ats": "ashby",
     "board": "plaud",
     "area": "AI"
@@ -701,7 +680,7 @@
   },
   {
     "company": "Raylu Ai",
-    "domain": "openai.com",
+    "domain": "rayluai.com",
     "ats": "ashby",
     "board": "raylu-ai",
     "area": "AI"
@@ -711,13 +690,6 @@
     "domain": "reddit.com",
     "ats": "greenhouse",
     "board": "reddit",
-    "area": "AI"
-  },
-  {
-    "company": "Replit",
-    "domain": "replit.com",
-    "ats": "ashby",
-    "board": "replit",
     "area": "AI"
   },
   {
@@ -848,7 +820,7 @@
   },
   {
     "company": "Thumbtack",
-    "domain": "openai.com",
+    "domain": "thumbtack.com",
     "ats": "ashby",
     "board": "thumbtack",
     "area": "AI"
@@ -858,13 +830,6 @@
     "domain": "trmlabs.com",
     "ats": "ashby",
     "board": "trm-labs",
-    "area": "AI"
-  },
-  {
-    "company": "Trovehq",
-    "domain": "trovehq.com",
-    "ats": "ashby",
-    "board": "trovehq",
     "area": "AI"
   },
   {
