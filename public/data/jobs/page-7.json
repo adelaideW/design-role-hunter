@@ -1,5 +1,29 @@
 [
   {
+    "id": 1298171269,
+    "company": "Baseten",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=baseten.co",
+    "role": "Product Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/baseten/382978bd-7eef-4657-a229-3381a1057b4e",
+    "postedAt": "2026-08-27T03:15:46.699+00:00",
+    "postedDays": 65,
+    "source": "ashby"
+  },
+  {
+    "id": 901339353,
+    "company": "Whitecircle",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com",
+    "role": "Web Designer (Communication)",
+    "location": "NY",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/whitecircle/ef2a1eff-5c42-4db5-ac1b-f0db8597f2bf",
+    "postedAt": "2026-08-25T20:43:19.654+00:00",
+    "postedDays": 66,
+    "source": "ashby"
+  },
+  {
     "id": 865863789,
     "company": "Gumloop",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=noise.xyz",
@@ -8,19 +32,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/gumloop/7bd94324-7b7b-4bb8-b4f1-6bc20cfdd900",
     "postedAt": "2026-08-25T17:45:13.033+00:00",
-    "postedDays": 66,
-    "source": "ashby"
-  },
-  {
-    "id": 235840867,
-    "company": "Revel",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=pinterest.com",
-    "role": "Graphic Designer, Brand",
-    "location": "Los Angeles",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/revel/0bf52378-10f9-4b3d-a66e-9d043766a94c",
-    "postedAt": "2026-08-24T22:21:50.583+00:00",
-    "postedDays": 66,
+    "postedDays": 67,
     "source": "ashby"
   },
   {
@@ -32,7 +44,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/76f4a64e-b343-4c0e-b5f1-ea7686001346",
     "postedAt": "2026-08-24T09:22:28.531+00:00",
-    "postedDays": 67,
+    "postedDays": 68,
     "source": "ashby"
   },
   {
@@ -44,7 +56,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/plaud/bf4125c2-dbfa-4dd6-b1c8-004ce27eacaf",
     "postedAt": "2026-08-24T08:40:34.000+00:00",
-    "postedDays": 67,
+    "postedDays": 68,
     "source": "ashby"
   },
   {
@@ -56,7 +68,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/langchain/1b125fc4-be24-422f-a180-30b7431fc6cf",
     "postedAt": "2026-08-22T02:01:29.778+00:00",
-    "postedDays": 69,
+    "postedDays": 70,
     "source": "ashby"
   },
   {
@@ -68,7 +80,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/38e2a0ea-302b-4059-8e86-8b36ef08b352",
     "postedAt": "2026-08-21T20:11:37.382+00:00",
-    "postedDays": 69,
+    "postedDays": 70,
     "source": "ashby"
   },
   {
@@ -80,7 +92,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/clickup/7fb8d11f-7ff7-4f6d-a41e-46e2d12e8774",
     "postedAt": "2026-08-21T05:42:46.122+00:00",
-    "postedDays": 70,
+    "postedDays": 71,
     "source": "ashby"
   },
   {
@@ -92,7 +104,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/doji/8ae9d3c6-a136-4f08-be9a-bb22feef8c70",
     "postedAt": "2026-08-21T00:06:13.535+00:00",
-    "postedDays": 70,
+    "postedDays": 71,
     "source": "ashby"
   },
   {
@@ -104,7 +116,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/dc812ced-119a-42b0-9695-5d1fe23b9a35",
     "postedAt": "2026-08-19T21:44:27.435+00:00",
-    "postedDays": 71,
+    "postedDays": 72,
     "source": "ashby"
   },
   {
@@ -116,31 +128,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/gumloop/d7628845-fe92-458c-9587-5d5c68afc4fd",
     "postedAt": "2026-08-18T21:21:15.476+00:00",
-    "postedDays": 72,
-    "source": "ashby"
-  },
-  {
-    "id": 685082535,
-    "company": "Harvey",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
-    "role": "Senior Brand Designer",
-    "location": "New York",
-    "area": "Legal AI",
-    "url": "https://jobs.ashbyhq.com/harvey/3feed577-6157-4fb4-b416-d4f493e1eb5c",
-    "postedAt": "2026-08-18T20:17:11.715+00:00",
-    "postedDays": 72,
-    "source": "ashby"
-  },
-  {
-    "id": 1924694179,
-    "company": "Harvey",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=harvey.ai",
-    "role": "Senior Brand Designer",
-    "location": "San Francisco",
-    "area": "Legal AI",
-    "url": "https://jobs.ashbyhq.com/harvey/b6cfee1e-67c7-420e-a3fc-24677eda6d2c",
-    "postedAt": "2026-08-18T20:17:19.948+00:00",
-    "postedDays": 72,
+    "postedDays": 73,
     "source": "ashby"
   },
   {
@@ -152,7 +140,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/bce2bcbd-01e6-4afc-9109-d325483aa47e",
     "postedAt": "2026-08-18T19:20:37.481+00:00",
-    "postedDays": 72,
+    "postedDays": 73,
     "source": "ashby"
   },
   {
@@ -164,7 +152,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/0g/0b157aaa-27a4-4ffd-b978-ac8c8565f0fe",
     "postedAt": "2026-08-18T02:44:49.660+00:00",
-    "postedDays": 73,
+    "postedDays": 74,
     "source": "ashby"
   },
   {
@@ -176,7 +164,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/coram-ai/9083de2f-1806-4f79-bbb1-b2b6248f1b17",
     "postedAt": "2026-08-18T06:41:52.750+00:00",
-    "postedDays": 73,
+    "postedDays": 74,
     "source": "ashby"
   },
   {
@@ -188,7 +176,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/mintlify/f4661035-7dce-4dbe-b5f5-6f1288d5ec07",
     "postedAt": "2026-08-18T15:57:51.561+00:00",
-    "postedDays": 73,
+    "postedDays": 74,
     "source": "ashby"
   },
   {
@@ -200,7 +188,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/perplexity/78675022-c4a7-41d2-9259-7c59be4de93c",
     "postedAt": "2026-08-11T23:23:02.484+00:00",
-    "postedDays": 79,
+    "postedDays": 80,
     "source": "ashby"
   },
   {
@@ -212,7 +200,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767897003",
     "postedAt": "2026-08-12T01:01:56-04:00",
-    "postedDays": 79,
+    "postedDays": 80,
     "source": "greenhouse"
   },
   {
@@ -224,19 +212,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc/d0475d31-dbf7-479b-8e0e-e8e28eb40c54",
     "postedAt": "2026-08-10T22:42:52.960+00:00",
-    "postedDays": 80,
-    "source": "ashby"
-  },
-  {
-    "id": 752545949,
-    "company": "Serval",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=reddit.com",
-    "role": "Lead Brand Designer",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/serval/3f46a49b-8e19-48ac-ae1a-70558f142b12",
-    "postedAt": "2026-08-11T17:23:53.924+00:00",
-    "postedDays": 80,
+    "postedDays": 81,
     "source": "ashby"
   },
   {
@@ -248,7 +224,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/f3f67f4d-16f0-4221-a430-45f73e5a4eb9",
     "postedAt": "2026-08-11T03:27:42.112+00:00",
-    "postedDays": 80,
+    "postedDays": 81,
     "source": "ashby"
   },
   {
@@ -260,7 +236,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/commure/6e87b2ae-fed7-4dee-ac0f-9b9c9bb910c6",
     "postedAt": "2026-08-07T22:08:06.349+00:00",
-    "postedDays": 83,
+    "postedDays": 84,
     "source": "ashby"
   },
   {
@@ -272,7 +248,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/c84964b6-9e60-4005-8580-b865f3e47b4f",
     "postedAt": "2026-08-07T19:36:08.977+00:00",
-    "postedDays": 83,
+    "postedDays": 84,
     "source": "ashby"
   },
   {
@@ -284,7 +260,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/851b416f-9869-4b9c-9c10-5105bded4330",
     "postedAt": "2026-08-07T19:34:52.631+00:00",
-    "postedDays": 83,
+    "postedDays": 84,
     "source": "ashby"
   },
   {
@@ -296,7 +272,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/Linear/5b9997fd-7507-4437-8fd7-14178c99ab5d",
     "postedAt": "2026-08-06T19:59:06.175+00:00",
-    "postedDays": 84,
+    "postedDays": 85,
     "source": "ashby"
   },
   {
@@ -308,7 +284,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/Linear/b32de590-06ce-47d4-8994-66b936df908d",
     "postedAt": "2026-08-06T19:59:03.067+00:00",
-    "postedDays": 84,
+    "postedDays": 85,
     "source": "ashby"
   },
   {
@@ -320,7 +296,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/51885ae5-4f4c-46c4-abd3-d7aad1c8d9c0",
     "postedAt": "2026-08-06T09:29:34.131+00:00",
-    "postedDays": 85,
+    "postedDays": 86,
     "source": "ashby"
   },
   {
@@ -332,7 +308,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/lovable/df79d83b-e366-4998-afdd-694d06183d75",
     "postedAt": "2026-08-06T09:10:40.707+00:00",
-    "postedDays": 85,
+    "postedDays": 86,
     "source": "ashby"
   },
   {
@@ -344,7 +320,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc",
     "postedAt": "2026-08-06T17:31:18.776+00:00",
-    "postedDays": 85,
+    "postedDays": 86,
     "source": "ashby"
   },
   {
@@ -356,7 +332,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4",
     "postedAt": "2026-08-06T17:39:11.107+00:00",
-    "postedDays": 85,
+    "postedDays": 86,
     "source": "ashby"
   },
   {
@@ -368,7 +344,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/9d65dbb5-da25-4f1a-b63d-c07beb8417bc",
     "postedAt": "2026-08-04T01:16:26.351+00:00",
-    "postedDays": 87,
+    "postedDays": 88,
     "source": "ashby"
   },
   {
@@ -380,7 +356,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ecc75a12-b190-42d8-8fd1-437b2d2285b5",
     "postedAt": "2026-08-04T01:17:13.963+00:00",
-    "postedDays": 87,
+    "postedDays": 88,
     "source": "ashby"
   },
   {
@@ -392,7 +368,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/Linear/eac7f181-d658-4943-9430-51bae2bcd110",
     "postedAt": "2026-08-03T19:57:33.020+00:00",
-    "postedDays": 87,
+    "postedDays": 88,
     "source": "ashby"
   },
   {
@@ -404,7 +380,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/suno/8ec095a8-286e-4c6a-aeb2-3ec0c6319c48",
     "postedAt": "2026-08-03T21:43:31.749+00:00",
-    "postedDays": 87,
+    "postedDays": 88,
     "source": "ashby"
   },
   {
@@ -416,7 +392,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/plaud/077bef7d-5159-49cc-a15f-b8f81bb3884f",
     "postedAt": "2026-08-03T17:35:46.371+00:00",
-    "postedDays": 88,
+    "postedDays": 89,
     "source": "ashby"
   },
   {
@@ -428,7 +404,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/runway-ml/28e151ac-cb29-4695-9041-a9e352624111",
     "postedAt": "2026-08-03T15:50:16.924+00:00",
-    "postedDays": 88,
+    "postedDays": 89,
     "source": "ashby"
   },
   {
@@ -440,7 +416,7 @@
     "area": "AI",
     "url": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a",
     "postedAt": "2026-07-31T21:35:37.281Z",
-    "postedDays": 90,
+    "postedDays": 91,
     "source": "lever"
   },
   {
@@ -452,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/plaud/2519d226-e4b6-4a52-85aa-b7d94256339c",
     "postedAt": "2026-07-31T01:43:01.682+00:00",
-    "postedDays": 91,
+    "postedDays": 92,
     "source": "ashby"
   },
   {
@@ -464,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/ramp/a8451979-2691-440e-851b-49a3b807729b",
     "postedAt": "2026-07-30T14:42:40.767+00:00",
-    "postedDays": 92,
+    "postedDays": 93,
     "source": "ashby"
   },
   {
@@ -476,7 +452,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/plaud/23747ca1-3eb7-4f08-9301-7a9a1d64b983",
     "postedAt": "2026-07-23T21:38:04.201+00:00",
-    "postedDays": 98,
+    "postedDays": 99,
     "source": "ashby"
   },
   {
@@ -488,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/langchain/28aba38e-de19-4ae5-9316-08575a11ae4d",
     "postedAt": "2026-07-23T04:09:14.348+00:00",
-    "postedDays": 99,
+    "postedDays": 100,
     "source": "ashby"
   },
   {
@@ -500,7 +476,7 @@
     "area": "Legal AI",
     "url": "https://jobs.ashbyhq.com/harvey/7aecc883-f979-43fa-afbb-65def674f556",
     "postedAt": "2026-07-21T00:30:12.266+00:00",
-    "postedDays": 101,
+    "postedDays": 102,
     "source": "ashby"
   },
   {
@@ -512,7 +488,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/coram-ai/a00ae52e-a91b-4495-a237-97dda5d91ace",
     "postedAt": "2026-07-15T22:38:27.029+00:00",
-    "postedDays": 106,
+    "postedDays": 107,
     "source": "ashby"
   },
   {
@@ -524,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/tavus/599d6b5b-742e-4128-b85f-c1bbfb75ac37",
     "postedAt": "2026-07-09T22:38:21.188+00:00",
-    "postedDays": 112,
+    "postedDays": 113,
     "source": "ashby"
   },
   {
@@ -536,7 +512,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/tavus/45fdebdf-c3e1-480f-bbfb-ab4deee35db7",
     "postedAt": "2026-07-09T22:41:30.723+00:00",
-    "postedDays": 112,
+    "postedDays": 113,
     "source": "ashby"
   },
   {
@@ -548,7 +524,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/baseten/c2f8fe4f-07c1-4d43-ae5c-05f057842e57",
     "postedAt": "2026-07-06T17:06:24.969+00:00",
-    "postedDays": 116,
+    "postedDays": 117,
     "source": "ashby"
   },
   {
@@ -560,7 +536,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/noise-labs/cf251165-a1a3-4386-930b-ce5879a073bd",
     "postedAt": "2026-07-02T20:54:07.646+00:00",
-    "postedDays": 119,
+    "postedDays": 120,
     "source": "ashby"
   },
   {
@@ -572,8 +548,20 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272",
     "postedAt": "2026-06-26T16:40:37.421+00:00",
-    "postedDays": 126,
+    "postedDays": 127,
     "source": "ashby"
+  },
+  {
+    "id": 1097165325,
+    "company": "Highwire",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=highwire.com",
+    "role": "Senior Designer, Brand & Motion",
+    "location": "California, United States; Massachusetts, United States; New Jersey, United States; New York, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/highwire/jobs/4289139009",
+    "postedAt": "2026-06-25T16:24:15-04:00",
+    "postedDays": 127,
+    "source": "greenhouse"
   },
   {
     "id": 853134930,
@@ -584,7 +572,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/highwire/jobs/4289138009",
     "postedAt": "2026-06-25T16:23:46-04:00",
-    "postedDays": 126,
+    "postedDays": 127,
+    "source": "greenhouse"
+  },
+  {
+    "id": 2014701613,
+    "company": "Highwire",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=highwire.com",
+    "role": "Senior Designer, Brand & Motion",
+    "location": "New York, New York, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/highwire/jobs/4289133009",
+    "postedAt": "2026-06-25T16:23:00-04:00",
+    "postedDays": 127,
     "source": "greenhouse"
   },
   {
@@ -596,7 +596,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/highwire/jobs/4289136009",
     "postedAt": "2026-06-25T16:23:20-04:00",
-    "postedDays": 126,
+    "postedDays": 127,
     "source": "greenhouse"
   }
 ]

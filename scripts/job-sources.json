@@ -42,10 +42,10 @@
     "area": "AI Safety"
   },
   {
-    "company": "Appliedlabs",
-    "domain": "appliedlabs.ai",
+    "company": "Appfolio",
+    "domain": "appfolio.com",
     "ats": "ashby",
-    "board": "appliedlabs",
+    "board": "appfolio",
     "area": "AI"
   },
   {
@@ -84,13 +84,6 @@
     "area": "AI"
   },
   {
-    "company": "Boldin",
-    "domain": "coreweave.com",
-    "ats": "greenhouse",
-    "board": "boldin",
-    "area": "AI"
-  },
-  {
     "company": "Braintrust",
     "domain": "braintrust.dev",
     "ats": "ashby",
@@ -99,7 +92,7 @@
   },
   {
     "company": "Brandtechplus",
-    "domain": "openai.com",
+    "domain": "brandtechplus.com",
     "ats": "greenhouse",
     "board": "brandtechplus",
     "area": "AI"
@@ -127,14 +120,14 @@
   },
   {
     "company": "Cerebras",
-    "domain": "databricks.com",
+    "domain": "writer.com",
     "ats": "ashby",
     "board": "cerebras",
     "area": "AI"
   },
   {
     "company": "Checkr",
-    "domain": "openai.com",
+    "domain": "robinhood.com",
     "ats": "greenhouse",
     "board": "checkr",
     "area": "AI"
@@ -239,7 +232,7 @@
   },
   {
     "company": "Dept",
-    "domain": "datadoghq.com",
+    "domain": "pinterest.com",
     "ats": "greenhouse",
     "board": "dept",
     "area": "AI"
@@ -400,7 +393,7 @@
   },
   {
     "company": "Inferact",
-    "domain": "inferact.com",
+    "domain": "coreweave.com",
     "ats": "ashby",
     "board": "inferact",
     "area": "AI"
@@ -455,6 +448,13 @@
     "area": "AI"
   },
   {
+    "company": "Lucidlink",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "lucidlink",
+    "area": "AI"
+  },
+  {
     "company": "Mercor",
     "domain": "mercor.com",
     "ats": "ashby",
@@ -477,7 +477,7 @@
   },
   {
     "company": "Microsoftcorporation",
-    "domain": "microsoftcorporation.com",
+    "domain": "asana.com",
     "ats": "greenhouse",
     "board": "microsoftcorporation",
     "area": "AI"
@@ -693,17 +693,17 @@
     "area": "AI"
   },
   {
+    "company": "Reachai",
+    "domain": "openai.com",
+    "ats": "ashby",
+    "board": "reachai",
+    "area": "AI"
+  },
+  {
     "company": "Reddit",
     "domain": "reddit.com",
     "ats": "greenhouse",
     "board": "reddit",
-    "area": "AI"
-  },
-  {
-    "company": "Revel",
-    "domain": "pinterest.com",
-    "ats": "ashby",
-    "board": "revel",
     "area": "AI"
   },
   {
@@ -718,6 +718,13 @@
     "domain": "runwayml.com",
     "ats": "ashby",
     "board": "runway-ml",
+    "area": "AI"
+  },
+  {
+    "company": "Saigroup",
+    "domain": "saigroup.com",
+    "ats": "greenhouse",
+    "board": "saigroup",
     "area": "AI"
   },
   {
@@ -742,13 +749,6 @@
     "area": "AI"
   },
   {
-    "company": "Serval",
-    "domain": "reddit.com",
-    "ats": "ashby",
-    "board": "serval",
-    "area": "AI"
-  },
-  {
     "company": "Sierra",
     "domain": "sierra.ai",
     "ats": "ashby",
@@ -760,6 +760,13 @@
     "domain": "sigmacomputing.com",
     "ats": "greenhouse",
     "board": "sigmacomputing",
+    "area": "AI"
+  },
+  {
+    "company": "Simplisafe",
+    "domain": "openai.com",
+    "ats": "greenhouse",
+    "board": "simplisafe",
     "area": "AI"
   },
   {

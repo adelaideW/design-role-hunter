@@ -1,5 +1,53 @@
 [
   {
+    "id": 1891497705,
+    "company": "Mercury",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=mercury.com",
+    "role": "Staff Motion Designer - 3D",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6196208004",
+    "postedAt": "2026-10-28T14:13:33-04:00",
+    "postedDays": 3,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1617904745,
+    "company": "Nerostechnologies",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=duolingo.com",
+    "role": "Brand Designer",
+    "location": "Torrance, California, United States",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5277764007",
+    "postedAt": "2026-10-27T20:02:40-04:00",
+    "postedDays": 3,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1351373950,
+    "company": "OpenAI",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Content Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/openai/3942de32-739a-409a-841c-828af04bad83",
+    "postedAt": "2026-10-27T22:43:21.681+00:00",
+    "postedDays": 3,
+    "source": "ashby"
+  },
+  {
+    "id": 2029448626,
+    "company": "OpenAI",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Motion Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce",
+    "postedAt": "2026-10-28T00:18:51.154+00:00",
+    "postedDays": 3,
+    "source": "ashby"
+  },
+  {
     "id": 1648310428,
     "company": "OpenAI",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
@@ -8,8 +56,20 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/e57629e3-8f87-4abe-aa08-1ff51f54d209",
     "postedAt": "2026-10-28T15:49:31.266+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
+  },
+  {
+    "id": 283833016,
+    "company": "Saigroup",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=saigroup.com",
+    "role": "Senior UI/UX Designer – Medical Imaging Platform",
+    "location": "Bengaluru, Karnataka",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/saigroup/jobs/5460891008",
+    "postedAt": "2026-10-28T05:52:11-04:00",
+    "postedDays": 3,
+    "source": "greenhouse"
   },
   {
     "id": 24836557,
@@ -20,31 +80,31 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/themuralgroup/57683054-3325-4d9f-b0f6-30b9f2f5ed1b",
     "postedAt": "2026-10-28T02:31:24.865+00:00",
-    "postedDays": 2,
+    "postedDays": 3,
     "source": "ashby"
   },
   {
     "id": 323920970,
     "company": "Checkr",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
     "role": "Lead Brand Designer, Web",
     "location": "San Francisco, California, United States",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/checkr/jobs/8232233",
     "postedAt": "2026-10-27T13:42:02-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
     "id": 194047445,
     "company": "Checkr",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
     "role": "Senior Product Designer, Verifications",
     "location": "Denver, Colorado, United States; San Francisco, California, United States",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/checkr/jobs/8324951",
     "postedAt": "2026-10-27T13:42:02-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -56,7 +116,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6216211004?gh_jid=6216211004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -68,7 +128,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6203089004?gh_jid=6203089004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -80,7 +140,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -92,7 +152,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -104,7 +164,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -116,7 +176,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -128,7 +188,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6193686004?gh_jid=6193686004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "greenhouse"
   },
   {
@@ -140,7 +200,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/nooks/3788a0bc-7abb-4d64-b470-1d8e4e59b28c",
     "postedAt": "2026-10-26T21:33:15.691+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -152,7 +212,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/9711a982-851c-4f55-a5ae-080ea4bad520",
     "postedAt": "2026-10-26T22:33:41.407+00:00",
-    "postedDays": 3,
+    "postedDays": 4,
     "source": "ashby"
   },
   {
@@ -164,7 +224,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5c1813c0-6ea1-4b0a-b0f5-1616dfa66f67",
     "postedAt": "2026-10-26T09:26:23.300+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -176,7 +236,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/40fb88e2-3090-4d97-8a1f-532dea572b3d",
     "postedAt": "2026-10-26T09:20:01.601+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -188,7 +248,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/95eabade-b2d7-447d-b196-ce2e62d9ecd7",
     "postedAt": "2026-10-26T09:26:26.918+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -200,7 +260,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/74f7575f-9515-4b5c-a75f-39f08050a40c",
     "postedAt": "2026-10-26T09:20:14.198+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -212,7 +272,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/c8a45923-af0f-4570-a53d-7edac286a02d",
     "postedAt": "2026-10-26T09:25:08.493+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -224,7 +284,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/1546b14d-6bd3-4bb2-acd2-a36a11856b1e",
     "postedAt": "2026-10-26T09:27:11.031+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -236,7 +296,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/719f88bf-7c6d-4b6e-9058-18d8e15af377",
     "postedAt": "2026-10-26T09:24:38.528+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -248,7 +308,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/fb92928d-a488-4073-a340-b7cf3b85f4aa",
     "postedAt": "2026-10-26T09:26:00.934+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -260,7 +320,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/f56439fa-6214-43e0-b29c-2334f052cd8f",
     "postedAt": "2026-10-26T09:24:35.435+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -272,7 +332,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/af85459f-5539-4720-aa65-219ecbefbfd8",
     "postedAt": "2026-10-26T09:26:36.020+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -284,7 +344,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/1729d112-7969-4fc7-bc79-d6d6f02deeca",
     "postedAt": "2026-10-26T09:25:57.788+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -296,7 +356,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/3b664a5b-d0fc-4b8c-8bf2-b1656c363b29",
     "postedAt": "2026-10-26T09:26:12.865+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -308,7 +368,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/87da6e95-b5bc-49b5-99ec-aea44264bcd3",
     "postedAt": "2026-10-26T09:25:52.455+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -320,7 +380,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/7451bd8d-56cd-4ac3-9240-eb774486d576",
     "postedAt": "2026-10-26T09:20:09.382+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -332,7 +392,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/b0cdd6ab-6cdc-4746-8224-181fd6446a24",
     "postedAt": "2026-10-26T09:27:03.303+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -344,7 +404,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/f02d0053-0ae9-4992-bc96-b58979b2bfc7",
     "postedAt": "2026-10-26T09:20:05.319+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -356,7 +416,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/293cbe0c-b356-4f35-818f-cf657e7b1b0b",
     "postedAt": "2026-10-26T09:25:38.152+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -368,7 +428,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/3d7f263c-cab4-49dd-a473-8859d21facce",
     "postedAt": "2026-10-26T09:24:31.599+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -380,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/340337a9-d986-4d41-b0ed-f6f2de5f2d24",
     "postedAt": "2026-10-26T09:24:58.745+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -392,7 +452,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/fab215d1-d747-495e-a895-8d9b8cdb0f80",
     "postedAt": "2026-10-26T09:26:17.057+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -404,7 +464,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/2030bd22-3959-4027-bf1a-1f46bd04e381",
     "postedAt": "2026-10-26T09:25:05.470+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -416,7 +476,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/5135ab14-2876-4015-8bb1-5eed6e102b45",
     "postedAt": "2026-10-26T09:25:14.339+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -428,7 +488,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/c7b386c6-b3ea-4a85-9af7-5301591abc56",
     "postedAt": "2026-10-26T09:25:01.749+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -440,7 +500,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/e6c9809d-fd27-4bbe-98f0-d27b81c3718d",
     "postedAt": "2026-10-26T09:02:14.049+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -452,7 +512,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/4ddfe503-4e49-412a-9978-71b3e368d533",
     "postedAt": "2026-10-26T09:02:26.150+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -464,7 +524,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ff731fa5-9d14-431a-9fbc-3d21eb2ecf72",
     "postedAt": "2026-10-26T09:02:06.957+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -476,7 +536,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ece211c9-6493-4300-b2c0-fded15aa2749",
     "postedAt": "2026-10-26T09:02:02.338+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -488,7 +548,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/ad0cb479-f828-459e-80f8-935e2e300ca4",
     "postedAt": "2026-10-26T09:37:15.448+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -500,7 +560,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/7d949dfc-594c-4f09-818c-49bfaa7caaca",
     "postedAt": "2026-10-26T09:37:10.657+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -512,7 +572,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/7829ba57-c304-4ca3-9dd5-86a4136868b3",
     "postedAt": "2026-10-26T09:02:08.699+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -524,7 +584,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/bad572c1-0a1d-470b-88ce-1073e21ff9ad",
     "postedAt": "2026-10-26T09:02:03.771+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   },
   {
@@ -536,67 +596,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/bjakcareer/6fcdea85-3b3e-4270-9969-1bed6e5dd5f1",
     "postedAt": "2026-10-26T09:02:05.279+00:00",
-    "postedDays": 4,
-    "source": "ashby"
-  },
-  {
-    "id": 1232417977,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Senior Designer",
-    "location": "United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/d1a82aff-e55b-467c-b9f9-bff79055052b",
-    "postedAt": "2026-10-26T09:02:23.441+00:00",
-    "postedDays": 4,
-    "source": "ashby"
-  },
-  {
-    "id": 999372028,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Senior Designer",
-    "location": "United Kingdom",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/271d151c-7a69-4832-a58a-5650258ef364",
-    "postedAt": "2026-10-26T09:02:17.944+00:00",
-    "postedDays": 4,
-    "source": "ashby"
-  },
-  {
-    "id": 143667885,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Senior Designer",
-    "location": "Seoul, Korea",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/ac824c32-dbf5-4dbc-bb33-a688e93ad268",
-    "postedAt": "2026-10-26T09:02:19.818+00:00",
-    "postedDays": 4,
-    "source": "ashby"
-  },
-  {
-    "id": 1070911092,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Lead Graphic Designer",
-    "location": "Seoul, Korea",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/16005724-bb32-4793-ba1d-b05295ebc381",
-    "postedAt": "2026-10-26T09:37:18.710+00:00",
-    "postedDays": 4,
-    "source": "ashby"
-  },
-  {
-    "id": 280583968,
-    "company": "Bjakcareer",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Lead Graphic Designer",
-    "location": "New York, United States",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/8de7f80b-55fb-4ab0-9b39-1b06d9be033e",
-    "postedAt": "2026-10-26T09:37:17.145+00:00",
-    "postedDays": 4,
+    "postedDays": 5,
     "source": "ashby"
   }
 ]
