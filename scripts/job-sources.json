@@ -77,13 +77,6 @@
     "area": "AI"
   },
   {
-    "company": "Beaconholdings",
-    "domain": "pinterest.com",
-    "ats": "ashby",
-    "board": "beaconholdings",
-    "area": "AI"
-  },
-  {
     "company": "Boldin",
     "domain": "coreweave.com",
     "ats": "greenhouse",
@@ -134,7 +127,7 @@
   },
   {
     "company": "Cerebras",
-    "domain": "databricks.com",
+    "domain": "writer.com",
     "ats": "ashby",
     "board": "cerebras",
     "area": "AI"
@@ -165,6 +158,13 @@
     "domain": "clay.com",
     "ats": "ashby",
     "board": "claylabs",
+    "area": "AI"
+  },
+  {
+    "company": "Clera",
+    "domain": "elastic.co",
+    "ats": "ashby",
+    "board": "clera",
     "area": "AI"
   },
   {
@@ -221,13 +221,6 @@
     "domain": "doji.art",
     "ats": "greenhouse",
     "board": "cultureamp",
-    "area": "AI"
-  },
-  {
-    "company": "Customerio",
-    "domain": "sierra.ai",
-    "ats": "greenhouse",
-    "board": "customerio",
     "area": "AI"
   },
   {
@@ -336,6 +329,13 @@
     "area": "AI"
   },
   {
+    "company": "Floqast",
+    "domain": "openai.com",
+    "ats": "lever",
+    "board": "floqast",
+    "area": "AI"
+  },
+  {
     "company": "Glance",
     "domain": "scale.com",
     "ats": "greenhouse",
@@ -361,13 +361,6 @@
     "domain": "gusto.com",
     "ats": "greenhouse",
     "board": "gusto",
-    "area": "AI"
-  },
-  {
-    "company": "H1",
-    "domain": "h1.com",
-    "ats": "lever",
-    "board": "h1",
     "area": "AI"
   },
   {
@@ -414,7 +407,7 @@
   },
   {
     "company": "Hugeinc",
-    "domain": "propel.com",
+    "domain": "coinbase.com",
     "ats": "greenhouse",
     "board": "hugeinc",
     "area": "AI"
@@ -434,13 +427,6 @@
     "area": "AI"
   },
   {
-    "company": "Iru",
-    "domain": "openai.com",
-    "ats": "lever",
-    "board": "iru",
-    "area": "AI"
-  },
-  {
     "company": "Kamino",
     "domain": "mercury.com",
     "ats": "ashby",
@@ -452,13 +438,6 @@
     "domain": "krea.ai",
     "ats": "ashby",
     "board": "krea",
-    "area": "AI"
-  },
-  {
-    "company": "Lab37",
-    "domain": "lab37.com",
-    "ats": "greenhouse",
-    "board": "lab37",
     "area": "AI"
   },
   {
@@ -487,6 +466,13 @@
     "domain": "lovable.dev",
     "ats": "ashby",
     "board": "lovable",
+    "area": "AI"
+  },
+  {
+    "company": "Masterborn 2",
+    "domain": "figma.com",
+    "ats": "lever",
+    "board": "masterborn-2",
     "area": "AI"
   },
   {
@@ -714,13 +700,6 @@
     "area": "AI"
   },
   {
-    "company": "Quince",
-    "domain": "skydio.com",
-    "ats": "greenhouse",
-    "board": "quince",
-    "area": "AI"
-  },
-  {
     "company": "Quintoandar",
     "domain": "quintoandar.com",
     "ats": "greenhouse",
@@ -767,6 +746,13 @@
     "domain": "runwayml.com",
     "ats": "ashby",
     "board": "runway-ml",
+    "area": "AI"
+  },
+  {
+    "company": "Saigroup",
+    "domain": "saigroup.com",
+    "ats": "greenhouse",
+    "board": "saigroup",
     "area": "AI"
   },
   {
@@ -827,7 +813,7 @@
   },
   {
     "company": "Smartsheet",
-    "domain": "coinbase.com",
+    "domain": "figma.com",
     "ats": "greenhouse",
     "board": "smartsheet",
     "area": "AI"
@@ -868,13 +854,6 @@
     "area": "AI"
   },
   {
-    "company": "Tailscale",
-    "domain": "waymo.com",
-    "ats": "greenhouse",
-    "board": "tailscale",
-    "area": "AI"
-  },
-  {
     "company": "Tavus",
     "domain": "tavus.io",
     "ats": "ashby",
@@ -907,13 +886,6 @@
     "domain": "krea.ai",
     "ats": "ashby",
     "board": "trm-labs",
-    "area": "AI"
-  },
-  {
-    "company": "Truelogic",
-    "domain": "anthropic.com",
-    "ats": "ashby",
-    "board": "truelogic",
     "area": "AI"
   },
   {
@@ -959,10 +931,24 @@
     "area": "AI"
   },
   {
+    "company": "Viggle",
+    "domain": "palantir.com",
+    "ats": "ashby",
+    "board": "viggle",
+    "area": "AI"
+  },
+  {
     "company": "Vise",
     "domain": "runwayml.com",
     "ats": "ashby",
     "board": "vise",
+    "area": "AI"
+  },
+  {
+    "company": "Wealthsimple",
+    "domain": "wealthsimple.com",
+    "ats": "ashby",
+    "board": "wealthsimple",
     "area": "AI"
   },
   {
