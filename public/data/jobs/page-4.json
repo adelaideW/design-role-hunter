@@ -1,5 +1,77 @@
 [
   {
+    "id": 1259408669,
+    "company": "Dept",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "AI Motion Designer & Creative Technologist",
+    "location": "Budapest",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8267357",
+    "postedAt": "2026-10-16T05:14:38-04:00",
+    "postedDays": 18,
+    "source": "greenhouse"
+  },
+  {
+    "id": 298959695,
+    "company": "OpenAI",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Product Designer, Higher Education",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/openai/4885f56d-9f59-4c40-81d8-c33a167cb26c",
+    "postedAt": "2026-10-16T16:33:16.777+00:00",
+    "postedDays": 18,
+    "source": "ashby"
+  },
+  {
+    "id": 1457686652,
+    "company": "St Labs",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Senior Motion Designer",
+    "location": "NYC, NY",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/st-labs/832d2c1e-69a1-4cda-ace9-93379db36b09",
+    "postedAt": "2026-10-16T15:09:01.379+00:00",
+    "postedDays": 18,
+    "source": "ashby"
+  },
+  {
+    "id": 1886480270,
+    "company": "Dept",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Senior Motion Designer & Editor (m/f/div)",
+    "location": "Berlin, hybrid",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8090714",
+    "postedAt": "2026-10-14T10:14:39-04:00",
+    "postedDays": 20,
+    "source": "greenhouse"
+  },
+  {
+    "id": 92515426,
+    "company": "Engramme",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "role": "Creative Designer",
+    "location": "San Francisco",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/engramme/6c52a19c-0a11-484f-8179-c39eb9982cc9",
+    "postedAt": "2026-10-14T18:03:34.099+00:00",
+    "postedDays": 20,
+    "source": "ashby"
+  },
+  {
+    "id": 136025337,
+    "company": "Embedding Vc",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Brand Designer",
+    "location": "Mountain View, CA",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/embedding-vc/62e711eb-183a-48ad-a022-4f016400e4c0",
+    "postedAt": "2026-10-13T20:15:48.667+00:00",
+    "postedDays": 21,
+    "source": "ashby"
+  },
+  {
     "id": 1961624321,
     "company": "Embedding Vc",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
@@ -8,7 +80,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/embedding-vc/e5cc6c69-27a2-4fe1-992e-7246c1130515",
     "postedAt": "2026-10-13T20:14:32.965+00:00",
-    "postedDays": 20,
+    "postedDays": 21,
     "source": "ashby"
   },
   {
@@ -20,7 +92,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446776008",
     "postedAt": "2026-10-08T23:12:41-04:00",
-    "postedDays": 24,
+    "postedDays": 25,
     "source": "greenhouse"
   },
   {
@@ -32,44 +104,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/deepgram/1d340a0d-9d55-4452-a6dc-38534c4fd06f",
     "postedAt": "2026-10-08T23:17:12.516+00:00",
-    "postedDays": 24,
-    "source": "ashby"
-  },
-  {
-    "id": 1443087292,
-    "company": "Padsplit",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
-    "role": "Senior Product Designer (Fully Remote - anywhere in South America)",
-    "location": "Anywhere In South America",
-    "area": "AI",
-    "url": "https://jobs.lever.co/padsplit/c5a92d2c-de7a-4737-a900-748926c6da99",
-    "postedAt": "2026-10-09T15:26:54.783Z",
-    "postedDays": 24,
-    "source": "lever"
-  },
-  {
-    "id": 1871473605,
-    "company": "Snowflake",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
-    "role": "Brand Designer",
-    "location": "US-CA-Menlo Park",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/snowflake/eb9f1871-de71-4d76-8a7b-e885d491dd12",
-    "postedAt": "2026-10-09T16:56:54.879+00:00",
-    "postedDays": 24,
-    "source": "ashby"
-  },
-  {
-    "id": 1522390186,
-    "company": "Cultureamp",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=doji.art",
-    "role": "Lead Brand Designer (Motion/Video)",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8129415",
-    "postedAt": "2026-10-08T13:52:07-04:00",
     "postedDays": 25,
-    "source": "greenhouse"
+    "source": "ashby"
   },
   {
     "id": 775876912,
@@ -84,26 +120,26 @@
     "source": "greenhouse"
   },
   {
-    "id": 1481772296,
-    "company": "Cerebras",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=writer.com",
-    "role": "Senior ASIC RTL Design Engineer, AI Hardware",
-    "location": "Sunnyvale, CA",
+    "id": 1871473605,
+    "company": "Snowflake",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=snowflake.com",
+    "role": "Brand Designer",
+    "location": "US-CA-Menlo Park",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/cerebras/4a7be83c-5d32-46b7-9d30-cf6759922237",
-    "postedAt": "2026-10-07T17:41:20.292+00:00",
-    "postedDays": 26,
+    "url": "https://jobs.ashbyhq.com/snowflake/eb9f1871-de71-4d76-8a7b-e885d491dd12",
+    "postedAt": "2026-10-09T16:56:54.879+00:00",
+    "postedDays": 25,
     "source": "ashby"
   },
   {
-    "id": 254849333,
-    "company": "Descript",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
-    "role": "Brand Design Lead",
-    "location": "San Francisco, CA or Remote, US",
+    "id": 1522390186,
+    "company": "Cultureamp",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=doji.art",
+    "role": "Lead Brand Designer (Motion/Video)",
+    "location": "San Francisco",
     "area": "AI",
-    "url": "https://boards.greenhouse.io/descript/jobs/8003605003?gh_jid=8003605003",
-    "postedAt": "2026-10-07T15:12:04-04:00",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8129415",
+    "postedAt": "2026-10-08T13:52:07-04:00",
     "postedDays": 26,
     "source": "greenhouse"
   },
@@ -120,16 +156,28 @@
     "source": "ashby"
   },
   {
-    "id": 1715974411,
-    "company": "Hirehire",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
-    "role": "Product Designer | SimpleStudy",
-    "location": "Remote",
+    "id": 1481772296,
+    "company": "Cerebras",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=writer.com",
+    "role": "Senior ASIC RTL Design Engineer, AI Hardware",
+    "location": "Sunnyvale, CA",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/hirehire/d3fa2e14-366b-4a0a-a5e9-c3fa2138fd16",
-    "postedAt": "2026-10-06T11:37:19.541+00:00",
+    "url": "https://jobs.ashbyhq.com/cerebras/4a7be83c-5d32-46b7-9d30-cf6759922237",
+    "postedAt": "2026-10-07T17:41:20.292+00:00",
     "postedDays": 27,
     "source": "ashby"
+  },
+  {
+    "id": 254849333,
+    "company": "Descript",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=descript.com",
+    "role": "Brand Design Lead",
+    "location": "San Francisco, CA or Remote, US",
+    "area": "AI",
+    "url": "https://boards.greenhouse.io/descript/jobs/8003605003?gh_jid=8003605003",
+    "postedAt": "2026-10-07T15:12:04-04:00",
+    "postedDays": 27,
+    "source": "greenhouse"
   },
   {
     "id": 643020243,
@@ -144,14 +192,14 @@
     "source": "greenhouse"
   },
   {
-    "id": 21994517,
-    "company": "Whitecircle",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com",
-    "role": "Communications Designer",
-    "location": "NY",
+    "id": 1715974411,
+    "company": "Hirehire",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
+    "role": "Product Designer | SimpleStudy",
+    "location": "Remote",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/whitecircle/0c241cb5-7405-4dc5-a1b8-849b3e135a6f",
-    "postedAt": "2026-10-05T09:03:04.803+00:00",
+    "url": "https://jobs.ashbyhq.com/hirehire/d3fa2e14-366b-4a0a-a5e9-c3fa2138fd16",
+    "postedAt": "2026-10-06T11:37:19.541+00:00",
     "postedDays": 28,
     "source": "ashby"
   },
@@ -168,6 +216,18 @@
     "source": "ashby"
   },
   {
+    "id": 21994517,
+    "company": "Whitecircle",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com",
+    "role": "Communications Designer",
+    "location": "NY",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/whitecircle/0c241cb5-7405-4dc5-a1b8-849b3e135a6f",
+    "postedAt": "2026-10-05T09:03:04.803+00:00",
+    "postedDays": 29,
+    "source": "ashby"
+  },
+  {
     "id": 1179407002,
     "company": "Pika",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=pika.art",
@@ -176,7 +236,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/pika/cc4dffe4-2cad-4287-a28b-b875ee35b541",
     "postedAt": "2026-10-03T00:37:03.841+00:00",
-    "postedDays": 30,
+    "postedDays": 31,
     "source": "ashby"
   },
   {
@@ -188,7 +248,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8220730?t=gh_src=&gh_jid=8220730",
     "postedAt": "2026-10-02T18:39:48-04:00",
-    "postedDays": 30,
+    "postedDays": 31,
     "source": "greenhouse"
   },
   {
@@ -200,7 +260,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/deepgram/790f9a3f-82e8-4c55-995b-8ccb95d6eff9",
     "postedAt": "2026-10-02T16:09:02.605+00:00",
-    "postedDays": 31,
+    "postedDays": 32,
     "source": "ashby"
   },
   {
@@ -212,32 +272,8 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/hugeinc/jobs/8145743",
     "postedAt": "2026-10-02T10:51:42-04:00",
-    "postedDays": 31,
+    "postedDays": 32,
     "source": "greenhouse"
-  },
-  {
-    "id": 1663212639,
-    "company": "Contentsquare",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=contentsquare.com",
-    "role": "Staff Product Designer, AI (East Coast)",
-    "location": "Raleigh, North Carolina",
-    "area": "AI",
-    "url": "https://jobs.lever.co/contentsquare/5234af0a-e23e-4543-9f9f-a37b8d7e64d8",
-    "postedAt": "2026-10-01T14:24:44.768Z",
-    "postedDays": 32,
-    "source": "lever"
-  },
-  {
-    "id": 1273114200,
-    "company": "Lambda",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=lambdalabs.com",
-    "role": "Senior Brand Designer",
-    "location": "San Jose Office (First St)",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/lambda/d9e9d02a-4d75-4132-a111-db490f124d6b",
-    "postedAt": "2026-10-01T14:27:19.010+00:00",
-    "postedDays": 32,
-    "source": "ashby"
   },
   {
     "id": 236251648,
@@ -264,6 +300,30 @@
     "source": "ashby"
   },
   {
+    "id": 1663212639,
+    "company": "Contentsquare",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=contentsquare.com",
+    "role": "Staff Product Designer, AI (East Coast)",
+    "location": "Raleigh, North Carolina",
+    "area": "AI",
+    "url": "https://jobs.lever.co/contentsquare/5234af0a-e23e-4543-9f9f-a37b8d7e64d8",
+    "postedAt": "2026-10-01T14:24:44.768Z",
+    "postedDays": 33,
+    "source": "lever"
+  },
+  {
+    "id": 1273114200,
+    "company": "Lambda",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=lambdalabs.com",
+    "role": "Senior Brand Designer",
+    "location": "San Jose Office (First St)",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/lambda/d9e9d02a-4d75-4132-a111-db490f124d6b",
+    "postedAt": "2026-10-01T14:27:19.010+00:00",
+    "postedDays": 33,
+    "source": "ashby"
+  },
+  {
     "id": 407468319,
     "company": "Trm Labs",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
@@ -272,30 +332,6 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/trm-labs/7299a0d3-527f-4119-8d6a-7b64a020b169",
     "postedAt": "2026-10-01T00:33:27.629+00:00",
-    "postedDays": 32,
-    "source": "ashby"
-  },
-  {
-    "id": 1682951806,
-    "company": "Pagerduty",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
-    "role": "Designer, Motion & Brand",
-    "location": "San Francisco",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6183981004",
-    "postedAt": "2026-09-30T10:30:43-04:00",
-    "postedDays": 33,
-    "source": "greenhouse"
-  },
-  {
-    "id": 446934571,
-    "company": "Ramp",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
-    "role": "Principal Product Designer, Design Systems Lead",
-    "location": "New York, NY (HQ)",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/ramp/baa94095-c976-46d0-8d18-25a951950714",
-    "postedAt": "2026-09-30T16:00:23.869+00:00",
     "postedDays": 33,
     "source": "ashby"
   },
@@ -312,26 +348,26 @@
     "source": "greenhouse"
   },
   {
-    "id": 1731719626,
-    "company": "Krea",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
-    "role": "Motion Designer",
+    "id": 1682951806,
+    "company": "Pagerduty",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
+    "role": "Designer, Motion & Brand",
     "location": "San Francisco",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/krea/a18b2fa2-e435-478f-9554-ed2e418987d6",
-    "postedAt": "2026-09-29T15:39:38.981+00:00",
+    "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6183981004",
+    "postedAt": "2026-09-30T10:30:43-04:00",
     "postedDays": 34,
-    "source": "ashby"
+    "source": "greenhouse"
   },
   {
-    "id": 1088437922,
-    "company": "Trm Labs",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
-    "role": "Senior Product Designer",
-    "location": "United States",
+    "id": 446934571,
+    "company": "Ramp",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
+    "role": "Principal Product Designer, Design Systems Lead",
+    "location": "New York, NY (HQ)",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/trm-labs/2a42c549-793f-4b2b-83c8-b87a94730e31",
-    "postedAt": "2026-09-29T00:06:50.258+00:00",
+    "url": "https://jobs.ashbyhq.com/ramp/baa94095-c976-46d0-8d18-25a951950714",
+    "postedAt": "2026-09-30T16:00:23.869+00:00",
     "postedDays": 34,
     "source": "ashby"
   },
@@ -360,27 +396,27 @@
     "source": "greenhouse"
   },
   {
-    "id": 1980245760,
-    "company": "Metaview",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
-    "role": "Member of Product Staff, Product Designer",
+    "id": 1731719626,
+    "company": "Krea",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
+    "role": "Motion Designer",
     "location": "San Francisco",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/metaview/e0de1952-2c9d-4a83-a71d-273b2846658d",
-    "postedAt": "2026-09-25T05:44:24.712+00:00",
-    "postedDays": 38,
+    "url": "https://jobs.ashbyhq.com/krea/a18b2fa2-e435-478f-9554-ed2e418987d6",
+    "postedAt": "2026-09-29T15:39:38.981+00:00",
+    "postedDays": 35,
     "source": "ashby"
   },
   {
-    "id": 394005520,
-    "company": "Metaview",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
-    "role": "Member of Product Staff, Product Designer",
-    "location": "London",
+    "id": 1088437922,
+    "company": "Trm Labs",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=krea.ai",
+    "role": "Senior Product Designer",
+    "location": "United States",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/metaview/196fa91b-b547-45e8-ab3f-d42a4aa02337",
-    "postedAt": "2026-09-25T05:44:50.384+00:00",
-    "postedDays": 38,
+    "url": "https://jobs.ashbyhq.com/trm-labs/2a42c549-793f-4b2b-83c8-b87a94730e31",
+    "postedAt": "2026-09-29T00:06:50.258+00:00",
+    "postedDays": 35,
     "source": "ashby"
   },
   {
@@ -392,30 +428,6 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17",
     "postedAt": "2026-09-25T21:05:27.698+00:00",
-    "postedDays": 38,
-    "source": "ashby"
-  },
-  {
-    "id": 2100375176,
-    "company": "Ramp",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
-    "role": "Growth Creative Designer, International",
-    "location": "London, UK",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/ramp/566c4ad0-03ea-4022-8f11-04f0d8969f97",
-    "postedAt": "2026-09-25T17:55:21.295+00:00",
-    "postedDays": 38,
-    "source": "ashby"
-  },
-  {
-    "id": 635512603,
-    "company": "Suno",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=suno.com",
-    "role": "Motion Designer, Paid Social (Contract)",
-    "location": "Remote",
-    "area": "AI",
-    "url": "https://jobs.ashbyhq.com/suno/3da14a90-a4fb-47b9-a17e-7412a63882d4",
-    "postedAt": "2026-09-25T15:31:30.217+00:00",
     "postedDays": 38,
     "source": "ashby"
   },
@@ -444,52 +456,40 @@
     "source": "ashby"
   },
   {
-    "id": 147492599,
-    "company": "Inferact",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=inferact.com",
-    "role": "Graphic Designer",
+    "id": 1980245760,
+    "company": "Metaview",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Member of Product Staff, Product Designer",
     "location": "San Francisco",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/inferact/55929263-5d1c-49f9-ace3-6279853ed949",
-    "postedAt": "2026-09-24T17:52:21.613+00:00",
+    "url": "https://jobs.ashbyhq.com/metaview/e0de1952-2c9d-4a83-a71d-273b2846658d",
+    "postedAt": "2026-09-25T05:44:24.712+00:00",
     "postedDays": 39,
     "source": "ashby"
   },
   {
-    "id": 947686480,
-    "company": "Runway",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=runwayml.com",
-    "role": "Sr./Staff Product Designer",
-    "location": "Remote",
+    "id": 394005520,
+    "company": "Metaview",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
+    "role": "Member of Product Staff, Product Designer",
+    "location": "London",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
-    "postedAt": "2026-09-24T14:30:03.095+00:00",
+    "url": "https://jobs.ashbyhq.com/metaview/196fa91b-b547-45e8-ab3f-d42a4aa02337",
+    "postedAt": "2026-09-25T05:44:50.384+00:00",
     "postedDays": 39,
     "source": "ashby"
   },
   {
-    "id": 2005297909,
-    "company": "St Labs",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
-    "role": "Product Designer, Service Management",
-    "location": "NYC, NY",
+    "id": 2100375176,
+    "company": "Ramp",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=ramp.com",
+    "role": "Growth Creative Designer, International",
+    "location": "London, UK",
     "area": "AI",
-    "url": "https://jobs.ashbyhq.com/st-labs/9a14b34a-0fd0-4ae2-baec-8290335edf63",
-    "postedAt": "2026-09-24T19:55:18.454+00:00",
+    "url": "https://jobs.ashbyhq.com/ramp/566c4ad0-03ea-4022-8f11-04f0d8969f97",
+    "postedAt": "2026-09-25T17:55:21.295+00:00",
     "postedDays": 39,
     "source": "ashby"
-  },
-  {
-    "id": 347366672,
-    "company": "Appzen",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=asana.com",
-    "role": "Senior Product UX Designer",
-    "location": "San Jose, California",
-    "area": "AI",
-    "url": "https://jobs.lever.co/appzen/15b445b1-4996-48c2-bee8-598d74540360",
-    "postedAt": "2026-09-23T20:57:11.740Z",
-    "postedDays": 40,
-    "source": "lever"
   },
   {
     "id": 436709,
@@ -504,40 +504,40 @@
     "source": "greenhouse"
   },
   {
-    "id": 1409523630,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Senior CAD Designer",
-    "location": "Westminster, CO",
+    "id": 147492599,
+    "company": "Inferact",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=inferact.com",
+    "role": "Graphic Designer",
+    "location": "San Francisco",
     "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/3635123a-f1a5-43c2-b80c-addde32d56b5",
-    "postedAt": "2026-09-23T18:25:00.110Z",
+    "url": "https://jobs.ashbyhq.com/inferact/55929263-5d1c-49f9-ace3-6279853ed949",
+    "postedAt": "2026-09-24T17:52:21.613+00:00",
     "postedDays": 40,
-    "source": "lever"
+    "source": "ashby"
   },
   {
-    "id": 246574937,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Senior CAD Designer",
-    "location": "Austin, TX",
+    "id": 947686480,
+    "company": "Runway",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=runwayml.com",
+    "role": "Sr./Staff Product Designer",
+    "location": "Remote",
     "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/d6e38eef-a878-4731-8fdc-68f52824d08a",
-    "postedAt": "2026-09-23T18:27:51.529Z",
+    "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+    "postedAt": "2026-09-24T14:30:03.095+00:00",
     "postedDays": 40,
-    "source": "lever"
+    "source": "ashby"
   },
   {
-    "id": 1299414777,
-    "company": "Cesiumastro",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=stripe.com",
-    "role": "Senior CAD Designer",
-    "location": "El Segundo, CA",
+    "id": 2005297909,
+    "company": "St Labs",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Product Designer, Service Management",
+    "location": "NYC, NY",
     "area": "AI",
-    "url": "https://jobs.lever.co/CesiumAstro/fd439e9b-8df4-4213-a2f4-fb57a6c57485",
-    "postedAt": "2026-09-23T18:28:54.945Z",
+    "url": "https://jobs.ashbyhq.com/st-labs/9a14b34a-0fd0-4ae2-baec-8290335edf63",
+    "postedAt": "2026-09-24T19:55:18.454+00:00",
     "postedDays": 40,
-    "source": "lever"
+    "source": "ashby"
   },
   {
     "id": 2110851819,
@@ -548,7 +548,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/heygen/jobs/5246252007",
     "postedAt": "2026-09-23T12:33:22-04:00",
-    "postedDays": 40,
+    "postedDays": 41,
     "source": "greenhouse"
   },
   {
@@ -560,7 +560,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
     "postedAt": "2026-09-22T13:19:12-04:00",
-    "postedDays": 41,
+    "postedDays": 42,
     "source": "greenhouse"
   },
   {
@@ -572,7 +572,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/factory/76230d58-efc3-45fa-8af9-70901be03d7c",
     "postedAt": "2026-09-21T18:11:53.162+00:00",
-    "postedDays": 42,
+    "postedDays": 43,
     "source": "ashby"
   },
   {
@@ -584,7 +584,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/deepgram/821b1ba2-02fe-47cb-907a-39214e0f2fe0",
     "postedAt": "2026-09-19T00:20:13.299+00:00",
-    "postedDays": 44,
+    "postedDays": 45,
     "source": "ashby"
   },
   {
@@ -596,7 +596,7 @@
     "area": "AI",
     "url": "https://boards.greenhouse.io/faire/jobs/8445628002?gh_jid=8445628002",
     "postedAt": "2026-09-19T13:16:25-04:00",
-    "postedDays": 44,
+    "postedDays": 45,
     "source": "greenhouse"
   }
 ]
