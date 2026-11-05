@@ -28,13 +28,6 @@
     "area": "AI"
   },
   {
-    "company": "Alpha Design Ai Inc",
-    "domain": "alphadesignaiinc.com",
-    "ats": "ashby",
-    "board": "alpha-design-ai-inc",
-    "area": "AI"
-  },
-  {
     "company": "Anthropic",
     "domain": "anthropic.com",
     "ats": "greenhouse",
@@ -141,7 +134,7 @@
   },
   {
     "company": "Clera",
-    "domain": "openai.com",
+    "domain": "elastic.co",
     "ats": "ashby",
     "board": "clera",
     "area": "AI"
@@ -372,7 +365,7 @@
   },
   {
     "company": "Hpiq",
-    "domain": "glean.com",
+    "domain": "robinhood.com",
     "ats": "greenhouse",
     "board": "hpiq",
     "area": "AI"
@@ -448,6 +441,13 @@
     "area": "AI"
   },
   {
+    "company": "Lucidlink",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "lucidlink",
+    "area": "AI"
+  },
+  {
     "company": "Mercor",
     "domain": "mercor.com",
     "ats": "ashby",
@@ -459,13 +459,6 @@
     "domain": "mercury.com",
     "ats": "greenhouse",
     "board": "mercury",
-    "area": "AI"
-  },
-  {
-    "company": "Metaview",
-    "domain": "anthropic.com",
-    "ats": "ashby",
-    "board": "metaview",
     "area": "AI"
   },
   {
@@ -487,6 +480,13 @@
     "domain": "modal.com",
     "ats": "ashby",
     "board": "modal",
+    "area": "AI"
+  },
+  {
+    "company": "Mytechnologyinc",
+    "domain": "sierra.ai",
+    "ats": "greenhouse",
+    "board": "mytechnologyinc",
     "area": "AI"
   },
   {
@@ -651,15 +651,8 @@
     "area": "AI"
   },
   {
-    "company": "Quince",
-    "domain": "harvey.ai",
-    "ats": "greenhouse",
-    "board": "quince",
-    "area": "AI"
-  },
-  {
     "company": "Quintoandar",
-    "domain": "quintoandar.com",
+    "domain": "brex.com",
     "ats": "greenhouse",
     "board": "quintoandar",
     "area": "AI"
@@ -693,6 +686,13 @@
     "area": "AI"
   },
   {
+    "company": "Reflectionai",
+    "domain": "openai.com",
+    "ats": "ashby",
+    "board": "reflectionai",
+    "area": "AI"
+  },
+  {
     "company": "Robinhood",
     "domain": "robinhood.com",
     "ats": "greenhouse",
@@ -704,13 +704,6 @@
     "domain": "runwayml.com",
     "ats": "ashby",
     "board": "runway-ml",
-    "area": "AI"
-  },
-  {
-    "company": "Saigroup",
-    "domain": "saigroup.com",
-    "ats": "greenhouse",
-    "board": "saigroup",
     "area": "AI"
   },
   {
@@ -749,17 +742,10 @@
     "area": "AI"
   },
   {
-    "company": "Smartlyio",
-    "domain": "waymo.com",
+    "company": "Skildai Careers",
+    "domain": "glean.com",
     "ats": "greenhouse",
-    "board": "smartlyio",
-    "area": "AI"
-  },
-  {
-    "company": "Smartsheet",
-    "domain": "openai.com",
-    "ats": "greenhouse",
-    "board": "smartsheet",
+    "board": "skildai-careers",
     "area": "AI"
   },
   {
@@ -774,13 +760,6 @@
     "domain": "deepgram.com",
     "ats": "ashby",
     "board": "sonder",
-    "area": "AI"
-  },
-  {
-    "company": "St Labs",
-    "domain": "openai.com",
-    "ats": "ashby",
-    "board": "st-labs",
     "area": "AI"
   },
   {
@@ -876,7 +855,7 @@
   },
   {
     "company": "Usenourish",
-    "domain": "glean.com",
+    "domain": "usenourish.com",
     "ats": "greenhouse",
     "board": "usenourish",
     "area": "AI"
@@ -907,6 +886,13 @@
     "domain": "x.ai",
     "ats": "greenhouse",
     "board": "xai",
+    "area": "AI"
+  },
+  {
+    "company": "Xero",
+    "domain": "xero.com",
+    "ats": "ashby",
+    "board": "xero",
     "area": "AI"
   },
   {
