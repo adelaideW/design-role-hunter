@@ -56,6 +56,13 @@
     "area": "AI"
   },
   {
+    "company": "Benchling",
+    "domain": "benchling.com",
+    "ats": "ashby",
+    "board": "benchling",
+    "area": "AI"
+  },
+  {
     "company": "Boldin",
     "domain": "coreweave.com",
     "ats": "greenhouse",
@@ -71,7 +78,7 @@
   },
   {
     "company": "Brandtechplus",
-    "domain": "brandtechplus.com",
+    "domain": "openai.com",
     "ats": "greenhouse",
     "board": "brandtechplus",
     "area": "AI"
@@ -123,6 +130,13 @@
     "domain": "chime.com",
     "ats": "greenhouse",
     "board": "chime",
+    "area": "AI"
+  },
+  {
+    "company": "Clair",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "clair",
     "area": "AI"
   },
   {
@@ -196,6 +210,13 @@
     "area": "AI"
   },
   {
+    "company": "Cursor",
+    "domain": "cursor.com",
+    "ats": "ashby",
+    "board": "cursor",
+    "area": "AI"
+  },
+  {
     "company": "Databento",
     "domain": "mercor.com",
     "ats": "greenhouse",
@@ -246,7 +267,7 @@
   },
   {
     "company": "Dourolabs.xyz",
-    "domain": "openai.com",
+    "domain": "stripe.com",
     "ats": "ashby",
     "board": "dourolabs.xyz",
     "area": "AI"
@@ -308,6 +329,13 @@
     "area": "AI"
   },
   {
+    "company": "Gen Digital",
+    "domain": "heygen.com",
+    "ats": "ashby",
+    "board": "gen-digital",
+    "area": "AI"
+  },
+  {
     "company": "Glance",
     "domain": "reddit.com",
     "ats": "greenhouse",
@@ -354,13 +382,6 @@
     "domain": "hightouch.com",
     "ats": "ashby",
     "board": "hightouch-inc",
-    "area": "AI"
-  },
-  {
-    "company": "Hirehire",
-    "domain": "figma.com",
-    "ats": "ashby",
-    "board": "hirehire",
     "area": "AI"
   },
   {
@@ -424,6 +445,13 @@
     "domain": "langchain.com",
     "ats": "ashby",
     "board": "langchain",
+    "area": "AI"
+  },
+  {
+    "company": "Lightsage",
+    "domain": "coreweave.com",
+    "ats": "ashby",
+    "board": "lightsage",
     "area": "AI"
   },
   {
@@ -687,7 +715,7 @@
   },
   {
     "company": "Reflectionai",
-    "domain": "openai.com",
+    "domain": "reflectionai.com",
     "ats": "ashby",
     "board": "reflectionai",
     "area": "AI"
@@ -704,6 +732,13 @@
     "domain": "runwayml.com",
     "ats": "ashby",
     "board": "runway-ml",
+    "area": "AI"
+  },
+  {
+    "company": "Saigroup",
+    "domain": "figma.com",
+    "ats": "greenhouse",
+    "board": "saigroup",
     "area": "AI"
   },
   {
@@ -774,13 +809,6 @@
     "domain": "suno.com",
     "ats": "ashby",
     "board": "suno",
-    "area": "AI"
-  },
-  {
-    "company": "Tailscale",
-    "domain": "tailscale.com",
-    "ats": "greenhouse",
-    "board": "tailscale",
     "area": "AI"
   },
   {
@@ -890,7 +918,7 @@
   },
   {
     "company": "Xero",
-    "domain": "xero.com",
+    "domain": "figma.com",
     "ats": "ashby",
     "board": "xero",
     "area": "AI"
