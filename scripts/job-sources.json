@@ -14,6 +14,13 @@
     "area": "AI Safety"
   },
   {
+    "company": "Appnovation",
+    "domain": "faire.com",
+    "ats": "greenhouse",
+    "board": "appnovation",
+    "area": "AI"
+  },
+  {
     "company": "Arizeai",
     "domain": "arize.com",
     "ats": "greenhouse",
@@ -119,13 +126,6 @@
     "area": "AI"
   },
   {
-    "company": "ClickUp",
-    "domain": "stripe.com",
-    "ats": "ashby",
-    "board": "clickup",
-    "area": "AI"
-  },
-  {
     "company": "Cloudflare",
     "domain": "cloudflare.com",
     "ats": "greenhouse",
@@ -189,6 +189,13 @@
     "area": "AI"
   },
   {
+    "company": "Decagon",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "decagon",
+    "area": "AI"
+  },
+  {
     "company": "Deepgram",
     "domain": "deepgram.com",
     "ats": "ashby",
@@ -197,7 +204,7 @@
   },
   {
     "company": "Dept",
-    "domain": "datadoghq.com",
+    "domain": "anthropic.com",
     "ats": "greenhouse",
     "board": "dept",
     "area": "AI"
@@ -210,6 +217,13 @@
     "area": "AI"
   },
   {
+    "company": "Designworkstalent",
+    "domain": "notion.so",
+    "ats": "ashby",
+    "board": "designworkstalent",
+    "area": "AI"
+  },
+  {
     "company": "Doji",
     "domain": "doji.art",
     "ats": "ashby",
@@ -218,7 +232,7 @@
   },
   {
     "company": "Dorsia",
-    "domain": "figma.com",
+    "domain": "cursor.com",
     "ats": "greenhouse",
     "board": "dorsia",
     "area": "AI"
@@ -302,7 +316,7 @@
   },
   {
     "company": "Glance",
-    "domain": "scale.com",
+    "domain": "reddit.com",
     "ats": "greenhouse",
     "board": "glance",
     "area": "AI"
@@ -462,6 +476,13 @@
     "area": "AI"
   },
   {
+    "company": "Nectar",
+    "domain": "scale.com",
+    "ats": "ashby",
+    "board": "nectar",
+    "area": "AI"
+  },
+  {
     "company": "Nerostechnologies",
     "domain": "duolingo.com",
     "ats": "greenhouse",
@@ -561,7 +582,7 @@
   },
   {
     "company": "Pmg",
-    "domain": "asana.com",
+    "domain": "pmg.com",
     "ats": "greenhouse",
     "board": "pmg",
     "area": "AI"
@@ -610,7 +631,7 @@
   },
   {
     "company": "Quintoandar",
-    "domain": "brex.com",
+    "domain": "openai.com",
     "ats": "greenhouse",
     "board": "quintoandar",
     "area": "AI"
@@ -718,6 +739,13 @@
     "domain": "deepgram.com",
     "ats": "ashby",
     "board": "sonder",
+    "area": "AI"
+  },
+  {
+    "company": "St Labs",
+    "domain": "openai.com",
+    "ats": "ashby",
+    "board": "st-labs",
     "area": "AI"
   },
   {

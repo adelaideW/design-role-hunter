@@ -1,5 +1,17 @@
 [
   {
+    "id": 39414351,
+    "company": "Otter",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
+    "role": "Product Designer, Product Platform",
+    "location": "Los Angeles, CA",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/otter/jobs/8783008002",
+    "postedAt": "2026-11-02T21:35:35-05:00",
+    "postedDays": 8,
+    "source": "greenhouse"
+  },
+  {
     "id": 1819649307,
     "company": "Otter",
     "logo": "https://www.google.com/s2/favicons?sz=64&domain=otter.ai",
@@ -8,7 +20,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/otter/jobs/8783005002",
     "postedAt": "2026-11-02T21:35:35-05:00",
-    "postedDays": 7,
+    "postedDays": 8,
     "source": "greenhouse"
   },
   {
@@ -20,7 +32,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8159896?t=gh_src=&gh_jid=8159896",
     "postedAt": "2026-11-03T09:25:43-05:00",
-    "postedDays": 7,
+    "postedDays": 8,
     "source": "greenhouse"
   },
   {
@@ -32,7 +44,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648",
     "postedAt": "2026-11-03T09:25:40-05:00",
-    "postedDays": 7,
+    "postedDays": 8,
     "source": "greenhouse"
   },
   {
@@ -44,7 +56,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/cohere/5dcad8a9-5daf-4e28-b315-ee91b5f98512",
     "postedAt": "2026-11-02T10:03:51.718+00:00",
-    "postedDays": 8,
+    "postedDays": 9,
     "source": "ashby"
   },
   {
@@ -56,19 +68,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/databento/jobs/8302437",
     "postedAt": "2026-11-02T12:24:20-05:00",
-    "postedDays": 8,
+    "postedDays": 9,
     "source": "greenhouse"
   },
   {
     "id": 1063884790,
     "company": "Glance",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=scale.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=reddit.com",
     "role": "UX Designer",
     "location": "Bangalore",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8090486",
     "postedAt": "2026-11-02T03:34:37-05:00",
-    "postedDays": 8,
+    "postedDays": 9,
     "source": "greenhouse"
   },
   {
@@ -80,31 +92,31 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
     "postedAt": "2026-11-02T12:51:47-05:00",
-    "postedDays": 8,
+    "postedDays": 9,
     "source": "greenhouse"
   },
   {
     "id": 2090000741,
     "company": "Pmg",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=asana.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=pmg.com",
     "role": "Graduate Leadership Program - Creative Motion Designer",
     "location": "Dallas, Texas",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/pmg/jobs/8594740002",
     "postedAt": "2026-11-02T09:26:14-05:00",
-    "postedDays": 8,
+    "postedDays": 9,
     "source": "greenhouse"
   },
   {
     "id": 1076810913,
     "company": "Pmg",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=asana.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=pmg.com",
     "role": "Graduate Leadership Program - Junior Designer",
     "location": "Dallas, Texas",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/pmg/jobs/8594731002",
     "postedAt": "2026-11-02T09:26:14-05:00",
-    "postedDays": 8,
+    "postedDays": 9,
     "source": "greenhouse"
   },
   {
@@ -116,7 +128,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/xometry/jobs/5281775007",
     "postedAt": "2026-11-02T13:53:36-05:00",
-    "postedDays": 8,
+    "postedDays": 9,
     "source": "greenhouse"
   },
   {
@@ -128,7 +140,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/calm/jobs/8924756002",
     "postedAt": "2026-10-29T20:40:20-04:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "greenhouse"
   },
   {
@@ -140,55 +152,43 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/cantina/5fac35ff-78d7-4208-bc94-f37e541830b2",
     "postedAt": "2026-10-30T19:59:17.481+00:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "ashby"
-  },
-  {
-    "id": 988796092,
-    "company": "Dept",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "Senior UX Designer (Focus on Research)",
-    "location": "Budapest",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8336607",
-    "postedAt": "2026-10-30T08:53:56-04:00",
-    "postedDays": 11,
-    "source": "greenhouse"
   },
   {
     "id": 758817124,
     "company": "Dept",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
     "role": "Senior UX Designer (Focus on Research)",
     "location": "Skopje",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/dept/jobs/8336632",
     "postedAt": "2026-10-30T08:55:50-04:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "greenhouse"
   },
   {
     "id": 491285893,
     "company": "Dorsia",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=cursor.com",
     "role": "Designer",
     "location": "Miami, FL or New York City, NY",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/dorsia/jobs/5173121007",
     "postedAt": "2026-10-30T11:04:37-04:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "greenhouse"
   },
   {
     "id": 87475593,
     "company": "Dorsia",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=figma.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=cursor.com",
     "role": "Senior Product Designer",
     "location": "New York, NY or Miami, FL",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/dorsia/jobs/5198536007",
     "postedAt": "2026-10-30T11:07:42-04:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "greenhouse"
   },
   {
@@ -200,7 +200,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/dourolabs.xyz/72e511c9-c023-4bef-9fb9-c183b217ef7b",
     "postedAt": "2026-10-29T23:08:03.647+00:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "ashby"
   },
   {
@@ -212,7 +212,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/harvey/e293b2cc-4269-4009-be34-850b000ef6c5",
     "postedAt": "2026-10-29T22:35:07.663+00:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "ashby"
   },
   {
@@ -224,7 +224,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/harvey/0f28d396-8240-4caf-a8aa-18bb8c6d35bf",
     "postedAt": "2026-10-29T22:35:17.573+00:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "ashby"
   },
   {
@@ -236,7 +236,7 @@
     "area": "Fintech",
     "url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244",
     "postedAt": "2026-10-30T10:51:21-04:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "greenhouse"
   },
   {
@@ -248,7 +248,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
     "postedAt": "2026-10-30T14:45:41-04:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "greenhouse"
   },
   {
@@ -260,19 +260,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/5579560004",
     "postedAt": "2026-10-30T14:45:41-04:00",
-    "postedDays": 11,
+    "postedDays": 12,
     "source": "greenhouse"
   },
   {
     "id": 1971725716,
     "company": "Dept",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
     "role": "Senior Motion Designer - 6 month FTC",
     "location": "Toronto, Ontario, Canada",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/dept/jobs/8335051",
     "postedAt": "2026-10-29T16:15:13-04:00",
-    "postedDays": 12,
+    "postedDays": 13,
     "source": "greenhouse"
   },
   {
@@ -284,7 +284,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6235282004?gh_jid=6235282004",
     "postedAt": "2026-10-29T13:24:29-04:00",
-    "postedDays": 12,
+    "postedDays": 13,
     "source": "greenhouse"
   },
   {
@@ -296,7 +296,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6231027004?gh_jid=6231027004",
     "postedAt": "2026-10-29T09:58:28-04:00",
-    "postedDays": 12,
+    "postedDays": 13,
     "source": "greenhouse"
   },
   {
@@ -308,7 +308,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4718506006",
     "postedAt": "2026-10-28T19:41:09-04:00",
-    "postedDays": 12,
+    "postedDays": 13,
     "source": "greenhouse"
   },
   {
@@ -320,7 +320,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/harvey/e46cea47-7901-4b8d-ad80-ec31223fefed",
     "postedAt": "2026-10-29T19:32:12.639+00:00",
-    "postedDays": 12,
+    "postedDays": 13,
     "source": "ashby"
   },
   {
@@ -332,7 +332,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/harvey/8d357b3f-43e0-4e30-8dd7-a326a5da96cc",
     "postedAt": "2026-10-29T19:32:42.893+00:00",
-    "postedDays": 12,
+    "postedDays": 13,
     "source": "ashby"
   },
   {
@@ -344,7 +344,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/harvey/eaf0f789-5d7f-400b-bd48-e398a32f307a",
     "postedAt": "2026-10-29T19:32:24.735+00:00",
-    "postedDays": 12,
+    "postedDays": 13,
     "source": "ashby"
   },
   {
@@ -356,7 +356,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/reachai/5ef81795-6801-46dd-b07f-314760f73f63",
     "postedAt": "2026-10-29T11:28:55.566+00:00",
-    "postedDays": 12,
+    "postedDays": 13,
     "source": "ashby"
   },
   {
@@ -368,19 +368,19 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/brightai/jobs/6237077004",
     "postedAt": "2026-10-27T21:14:28-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
     "id": 148081977,
     "company": "Dept",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=anthropic.com",
     "role": "UI Designer",
     "location": "Zagreb, Split",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/dept/jobs/8264174",
     "postedAt": "2026-10-28T04:31:42-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -392,7 +392,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/echo/jobs/4320977009",
     "postedAt": "2026-10-28T15:09:05-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -404,7 +404,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/mercury/jobs/6143552004",
     "postedAt": "2026-10-28T14:13:33-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -416,7 +416,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/mercury/jobs/5995303004",
     "postedAt": "2026-10-28T14:13:33-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -428,7 +428,7 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5277764007",
     "postedAt": "2026-10-27T20:02:40-04:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "greenhouse"
   },
   {
@@ -440,7 +440,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/3942de32-739a-409a-841c-828af04bad83",
     "postedAt": "2026-10-27T22:43:21.681+00:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "ashby"
   },
   {
@@ -452,7 +452,7 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce",
     "postedAt": "2026-10-28T00:18:51.154+00:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "ashby"
   },
   {
@@ -464,32 +464,8 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/themuralgroup/57683054-3325-4d9f-b0f6-30b9f2f5ed1b",
     "postedAt": "2026-10-28T02:31:24.865+00:00",
-    "postedDays": 13,
+    "postedDays": 14,
     "source": "ashby"
-  },
-  {
-    "id": 323920970,
-    "company": "Checkr",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=robinhood.com",
-    "role": "Lead Brand Designer, Web",
-    "location": "San Francisco, California, United States",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/checkr/jobs/8232233",
-    "postedAt": "2026-10-27T13:42:02-04:00",
-    "postedDays": 14,
-    "source": "greenhouse"
-  },
-  {
-    "id": 1960538043,
-    "company": "Dept",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=datadoghq.com",
-    "role": "Product Designer Freelance",
-    "location": "Capital Federal or Gran Buenos Aires, Argentina; Mar del Plata, Buenos Aires, Argentina",
-    "area": "AI",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/8319405",
-    "postedAt": "2026-10-27T15:08:42-04:00",
-    "postedDays": 14,
-    "source": "greenhouse"
   },
   {
     "id": 1493192470,
@@ -500,7 +476,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6203089004?gh_jid=6203089004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -512,7 +488,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -524,7 +500,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -536,7 +512,7 @@
     "area": "Design Tools",
     "url": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
     "postedAt": "2026-10-27T13:40:12-04:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "greenhouse"
   },
   {
@@ -548,43 +524,43 @@
     "area": "AI",
     "url": "https://jobs.ashbyhq.com/rula/30f6551a-c008-407c-a8c4-ac0369e82098",
     "postedAt": "2026-10-27T17:21:56.055+00:00",
-    "postedDays": 14,
+    "postedDays": 15,
     "source": "ashby"
   },
   {
     "id": 755190668,
     "company": "Glance",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=scale.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=reddit.com",
     "role": "Sr. Motion Designer",
     "location": "Bangalore",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
     "postedAt": "2026-10-26T03:54:17-04:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "greenhouse"
   },
   {
     "id": 1560812886,
     "company": "Glance",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=scale.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=reddit.com",
     "role": "Sr UX Designer",
     "location": "Bangalore",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8112095",
     "postedAt": "2026-10-26T03:54:17-04:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "greenhouse"
   },
   {
     "id": 841686816,
     "company": "Glance",
-    "logo": "https://www.google.com/s2/favicons?sz=64&domain=scale.com",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=reddit.com",
     "role": "Sr. Visual Designer",
     "location": "Bangalore",
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/glance/jobs/8021585",
     "postedAt": "2026-10-26T03:54:17-04:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "greenhouse"
   },
   {
@@ -596,7 +572,31 @@
     "area": "AI",
     "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8318279",
     "postedAt": "2026-10-26T13:33:31-04:00",
-    "postedDays": 15,
+    "postedDays": 16,
     "source": "greenhouse"
+  },
+  {
+    "id": 1103300215,
+    "company": "Brandtechplus",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "GenAI Video Creator (Motion Graphics Designer)",
+    "location": "Mumbai, India",
+    "area": "AI",
+    "url": "https://job-boards.greenhouse.io/brandtechplus/jobs/8317510",
+    "postedAt": "2026-10-23T09:00:24-04:00",
+    "postedDays": 19,
+    "source": "greenhouse"
+  },
+  {
+    "id": 1728125061,
+    "company": "Embedding Vc",
+    "logo": "https://www.google.com/s2/favicons?sz=64&domain=openai.com",
+    "role": "Head of Design",
+    "location": "San Francisco Bay Area",
+    "area": "AI",
+    "url": "https://jobs.ashbyhq.com/embedding-vc/2c132673-e7f5-40f9-98d3-e725225774a6",
+    "postedAt": "2026-10-22T22:25:39.506+00:00",
+    "postedDays": 19,
+    "source": "ashby"
   }
 ]
