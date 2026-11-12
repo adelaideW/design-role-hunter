@@ -112,6 +112,13 @@
     "area": "AI"
   },
   {
+    "company": "Clara",
+    "domain": "perplexity.ai",
+    "ats": "greenhouse",
+    "board": "clara",
+    "area": "AI"
+  },
+  {
     "company": "Clay",
     "domain": "clay.com",
     "ats": "ashby",
@@ -130,6 +137,13 @@
     "domain": "cloudflare.com",
     "ats": "greenhouse",
     "board": "cloudflare",
+    "area": "AI"
+  },
+  {
+    "company": "Coder",
+    "domain": "coder.com",
+    "ats": "ashby",
+    "board": "coder",
     "area": "AI"
   },
   {
@@ -155,7 +169,7 @@
   },
   {
     "company": "Coram Ai",
-    "domain": "robinhood.com",
+    "domain": "mintlify.com",
     "ats": "ashby",
     "board": "coram-ai",
     "area": "AI"
@@ -189,13 +203,6 @@
     "area": "AI"
   },
   {
-    "company": "Decagon",
-    "domain": "pinterest.com",
-    "ats": "ashby",
-    "board": "decagon",
-    "area": "AI"
-  },
-  {
     "company": "Deepgram",
     "domain": "deepgram.com",
     "ats": "ashby",
@@ -204,7 +211,7 @@
   },
   {
     "company": "Dept",
-    "domain": "anthropic.com",
+    "domain": "mercor.com",
     "ats": "greenhouse",
     "board": "dept",
     "area": "AI"
@@ -232,7 +239,7 @@
   },
   {
     "company": "Dorsia",
-    "domain": "cursor.com",
+    "domain": "figma.com",
     "ats": "greenhouse",
     "board": "dorsia",
     "area": "AI"
@@ -308,6 +315,13 @@
     "area": "AI"
   },
   {
+    "company": "Freehand",
+    "domain": "cursor.com",
+    "ats": "ashby",
+    "board": "freehand",
+    "area": "AI"
+  },
+  {
     "company": "Gen Digital",
     "domain": "heygen.com",
     "ats": "ashby",
@@ -316,7 +330,7 @@
   },
   {
     "company": "Glance",
-    "domain": "reddit.com",
+    "domain": "scale.com",
     "ats": "greenhouse",
     "board": "glance",
     "area": "AI"
@@ -372,7 +386,7 @@
   },
   {
     "company": "Hpiq",
-    "domain": "robinhood.com",
+    "domain": "coder.com",
     "ats": "greenhouse",
     "board": "hpiq",
     "area": "AI"
@@ -497,6 +511,13 @@
     "area": "AI"
   },
   {
+    "company": "Neurophos",
+    "domain": "stripe.com",
+    "ats": "ashby",
+    "board": "neurophos",
+    "area": "AI"
+  },
+  {
     "company": "Newtonresearch",
     "domain": "newtonresearch.com",
     "ats": "greenhouse",
@@ -553,13 +574,6 @@
     "area": "AI"
   },
   {
-    "company": "Parallel",
-    "domain": "cloudflare.com",
-    "ats": "ashby",
-    "board": "parallel",
-    "area": "AI"
-  },
-  {
     "company": "Perplexity",
     "domain": "perplexity.ai",
     "ats": "ashby",
@@ -582,7 +596,7 @@
   },
   {
     "company": "Pmg",
-    "domain": "pmg.com",
+    "domain": "langchain.com",
     "ats": "greenhouse",
     "board": "pmg",
     "area": "AI"
@@ -655,6 +669,13 @@
     "domain": "reddit.com",
     "ats": "greenhouse",
     "board": "reddit",
+    "area": "AI"
+  },
+  {
+    "company": "Rillet",
+    "domain": "anthropic.com",
+    "ats": "ashby",
+    "board": "rillet",
     "area": "AI"
   },
   {
@@ -750,7 +771,7 @@
   },
   {
     "company": "Stealth",
-    "domain": "anthropic.com",
+    "domain": "figma.com",
     "ats": "ashby",
     "board": "stealth",
     "area": "AI"
@@ -792,7 +813,7 @@
   },
   {
     "company": "Twosixtechnologies",
-    "domain": "perplexity.ai",
+    "domain": "cresta.com",
     "ats": "greenhouse",
     "board": "twosixtechnologies",
     "area": "AI"
