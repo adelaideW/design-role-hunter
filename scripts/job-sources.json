@@ -15,7 +15,7 @@
   },
   {
     "company": "Appnovation",
-    "domain": "faire.com",
+    "domain": "together.ai",
     "ats": "greenhouse",
     "board": "appnovation",
     "area": "AI"
@@ -120,7 +120,7 @@
   },
   {
     "company": "Clera",
-    "domain": "figma.com",
+    "domain": "runwayml.com",
     "ats": "ashby",
     "board": "Clera",
     "area": "AI"
@@ -175,20 +175,6 @@
     "area": "AI"
   },
   {
-    "company": "Cresta",
-    "domain": "cresta.com",
-    "ats": "greenhouse",
-    "board": "cresta",
-    "area": "AI"
-  },
-  {
-    "company": "Cultureamp",
-    "domain": "doji.art",
-    "ats": "greenhouse",
-    "board": "cultureamp",
-    "area": "AI"
-  },
-  {
     "company": "Cursor",
     "domain": "cursor.com",
     "ats": "ashby",
@@ -211,7 +197,7 @@
   },
   {
     "company": "Dept",
-    "domain": "mercor.com",
+    "domain": "duolingo.com",
     "ats": "greenhouse",
     "board": "dept",
     "area": "AI"
@@ -249,6 +235,13 @@
     "domain": "stripe.com",
     "ats": "ashby",
     "board": "dourolabs.xyz",
+    "area": "AI"
+  },
+  {
+    "company": "E2b",
+    "domain": "faire.com",
+    "ats": "ashby",
+    "board": "e2b",
     "area": "AI"
   },
   {
@@ -372,7 +365,7 @@
   },
   {
     "company": "Hpiq",
-    "domain": "robinhood.com",
+    "domain": "cloudflare.com",
     "ats": "greenhouse",
     "board": "hpiq",
     "area": "AI"
@@ -389,6 +382,13 @@
     "domain": "inferact.com",
     "ats": "ashby",
     "board": "inferact",
+    "area": "AI"
+  },
+  {
+    "company": "Inmobi",
+    "domain": "krea.ai",
+    "ats": "greenhouse",
+    "board": "inmobi",
     "area": "AI"
   },
   {
@@ -410,6 +410,13 @@
     "domain": "langchain.com",
     "ats": "ashby",
     "board": "langchain",
+    "area": "AI"
+  },
+  {
+    "company": "Lightsage",
+    "domain": "coreweave.com",
+    "ats": "ashby",
+    "board": "lightsage",
     "area": "AI"
   },
   {
@@ -469,6 +476,13 @@
     "area": "AI"
   },
   {
+    "company": "Nectar",
+    "domain": "scale.com",
+    "ats": "ashby",
+    "board": "nectar",
+    "area": "AI"
+  },
+  {
     "company": "Nerostechnologies",
     "domain": "duolingo.com",
     "ats": "greenhouse",
@@ -525,13 +539,6 @@
     "area": "AI"
   },
   {
-    "company": "Pagerduty",
-    "domain": "pagerduty.com",
-    "ats": "greenhouse",
-    "board": "pagerduty",
-    "area": "AI"
-  },
-  {
     "company": "Palantir",
     "domain": "palantir.com",
     "ats": "lever",
@@ -585,13 +592,6 @@
     "domain": "primeintellect.ai",
     "ats": "ashby",
     "board": "PrimeIntellect",
-    "area": "AI"
-  },
-  {
-    "company": "Profluent",
-    "domain": "profluent.com",
-    "ats": "greenhouse",
-    "board": "profluent",
     "area": "AI"
   },
   {
@@ -774,6 +774,13 @@
     "domain": "asana.com",
     "ats": "ashby",
     "board": "themuralgroup",
+    "area": "AI"
+  },
+  {
+    "company": "Together AI",
+    "domain": "together.ai",
+    "ats": "greenhouse",
+    "board": "togetherai",
     "area": "AI"
   },
   {
