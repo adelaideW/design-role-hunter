@@ -7,6 +7,13 @@
     "area": "AI"
   },
   {
+    "company": "Air",
+    "domain": "harvey.ai",
+    "ats": "greenhouse",
+    "board": "air",
+    "area": "AI"
+  },
+  {
     "company": "Anthropic",
     "domain": "anthropic.com",
     "ats": "greenhouse",
@@ -175,13 +182,6 @@
     "area": "AI"
   },
   {
-    "company": "Cursor",
-    "domain": "cursor.com",
-    "ats": "ashby",
-    "board": "cursor",
-    "area": "AI"
-  },
-  {
     "company": "Databento",
     "domain": "mercor.com",
     "ats": "greenhouse",
@@ -309,7 +309,7 @@
   },
   {
     "company": "Freehand",
-    "domain": "cursor.com",
+    "domain": "robinhood.com",
     "ats": "ashby",
     "board": "freehand",
     "area": "AI"
@@ -413,13 +413,6 @@
     "area": "AI"
   },
   {
-    "company": "Lightsage",
-    "domain": "coreweave.com",
-    "ats": "ashby",
-    "board": "lightsage",
-    "area": "AI"
-  },
-  {
     "company": "Linear",
     "domain": "linear.app",
     "ats": "ashby",
@@ -494,6 +487,13 @@
     "domain": "netic.ai",
     "ats": "ashby",
     "board": "netic",
+    "area": "AI"
+  },
+  {
+    "company": "Neurophos",
+    "domain": "pika.art",
+    "ats": "ashby",
+    "board": "neurophos",
     "area": "AI"
   },
   {
@@ -631,7 +631,7 @@
   },
   {
     "company": "Reachai",
-    "domain": "harvey.ai",
+    "domain": "reachai.com",
     "ats": "ashby",
     "board": "reachai",
     "area": "AI"
@@ -770,17 +770,17 @@
     "area": "AI"
   },
   {
-    "company": "Themuralgroup",
-    "domain": "asana.com",
-    "ats": "ashby",
-    "board": "themuralgroup",
-    "area": "AI"
-  },
-  {
     "company": "Together AI",
     "domain": "together.ai",
     "ats": "greenhouse",
     "board": "togetherai",
+    "area": "AI"
+  },
+  {
+    "company": "Trovehq",
+    "domain": "trovehq.com",
+    "ats": "ashby",
+    "board": "trovehq",
     "area": "AI"
   },
   {
