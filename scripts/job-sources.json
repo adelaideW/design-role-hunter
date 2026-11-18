@@ -1,24 +1,10 @@
 [
   {
-    "company": "Air",
-    "domain": "harvey.ai",
-    "ats": "greenhouse",
-    "board": "air",
-    "area": "AI"
-  },
-  {
     "company": "Anthropic",
     "domain": "anthropic.com",
     "ats": "greenhouse",
     "board": "anthropic",
     "area": "AI Safety"
-  },
-  {
-    "company": "Appnovation",
-    "domain": "together.ai",
-    "ats": "greenhouse",
-    "board": "appnovation",
-    "area": "AI"
   },
   {
     "company": "Arizeai",
@@ -77,6 +63,13 @@
     "area": "AI"
   },
   {
+    "company": "Bubbleskincare",
+    "domain": "sentry.io",
+    "ats": "greenhouse",
+    "board": "bubbleskincare",
+    "area": "AI"
+  },
+  {
     "company": "Calm",
     "domain": "harvey.ai",
     "ats": "greenhouse",
@@ -105,6 +98,13 @@
     "area": "AI"
   },
   {
+    "company": "Clair",
+    "domain": "openai.com",
+    "ats": "ashby",
+    "board": "clair",
+    "area": "AI"
+  },
+  {
     "company": "Clara",
     "domain": "perplexity.ai",
     "ats": "greenhouse",
@@ -120,7 +120,7 @@
   },
   {
     "company": "Clera",
-    "domain": "figma.com",
+    "domain": "okta.com",
     "ats": "ashby",
     "board": "Clera",
     "area": "AI"
@@ -316,7 +316,7 @@
   },
   {
     "company": "Glance",
-    "domain": "noise.xyz",
+    "domain": "together.ai",
     "ats": "greenhouse",
     "board": "glance",
     "area": "AI"
@@ -476,6 +476,13 @@
     "area": "AI"
   },
   {
+    "company": "Neurophos",
+    "domain": "pika.art",
+    "ats": "ashby",
+    "board": "neurophos",
+    "area": "AI"
+  },
+  {
     "company": "Newtonresearch",
     "domain": "newtonresearch.com",
     "ats": "greenhouse",
@@ -553,6 +560,13 @@
     "area": "AI"
   },
   {
+    "company": "Ployai",
+    "domain": "zoox.com",
+    "ats": "ashby",
+    "board": "ployai",
+    "area": "AI"
+  },
+  {
     "company": "Pmg",
     "domain": "langchain.com",
     "ats": "greenhouse",
@@ -571,13 +585,6 @@
     "domain": "primeintellect.ai",
     "ats": "ashby",
     "board": "PrimeIntellect",
-    "area": "AI"
-  },
-  {
-    "company": "Profluent",
-    "domain": "profluent.com",
-    "ats": "greenhouse",
-    "board": "profluent",
     "area": "AI"
   },
   {
@@ -616,17 +623,17 @@
     "area": "AI"
   },
   {
-    "company": "Reachai",
-    "domain": "reachai.com",
-    "ats": "ashby",
-    "board": "reachai",
-    "area": "AI"
-  },
-  {
     "company": "Reddit",
     "domain": "reddit.com",
     "ats": "greenhouse",
     "board": "reddit",
+    "area": "AI"
+  },
+  {
+    "company": "Reflectionai",
+    "domain": "reflectionai.com",
+    "ats": "ashby",
+    "board": "reflectionai",
     "area": "AI"
   },
   {
@@ -648,6 +655,13 @@
     "domain": "runwayml.com",
     "ats": "ashby",
     "board": "runway-ml",
+    "area": "AI"
+  },
+  {
+    "company": "Saigroup",
+    "domain": "figma.com",
+    "ats": "greenhouse",
+    "board": "saigroup",
     "area": "AI"
   },
   {
@@ -683,6 +697,13 @@
     "domain": "sigmacomputing.com",
     "ats": "greenhouse",
     "board": "sigmacomputing",
+    "area": "AI"
+  },
+  {
+    "company": "Simplisafe",
+    "domain": "openai.com",
+    "ats": "greenhouse",
+    "board": "simplisafe",
     "area": "AI"
   },
   {
@@ -763,13 +784,6 @@
     "area": "AI"
   },
   {
-    "company": "Typesafe Ai",
-    "domain": "fivetran.com",
-    "ats": "ashby",
-    "board": "typesafe-ai",
-    "area": "AI"
-  },
-  {
     "company": "Udio",
     "domain": "udio.com",
     "ats": "greenhouse",
@@ -809,6 +823,13 @@
     "domain": "baseten.co",
     "ats": "ashby",
     "board": "whitecircle",
+    "area": "AI"
+  },
+  {
+    "company": "Within.ai",
+    "domain": "pinterest.com",
+    "ats": "ashby",
+    "board": "within.ai",
     "area": "AI"
   },
   {
