@@ -120,7 +120,7 @@
   },
   {
     "company": "Clera",
-    "domain": "okta.com",
+    "domain": "figma.com",
     "ats": "ashby",
     "board": "Clera",
     "area": "AI"
@@ -351,7 +351,7 @@
   },
   {
     "company": "Hpiq",
-    "domain": "cloudflare.com",
+    "domain": "coder.com",
     "ats": "greenhouse",
     "board": "hpiq",
     "area": "AI"
@@ -361,6 +361,13 @@
     "domain": "propel.com",
     "ats": "greenhouse",
     "board": "hugeinc",
+    "area": "AI"
+  },
+  {
+    "company": "Incident",
+    "domain": "incident.com",
+    "ats": "ashby",
+    "board": "incident",
     "area": "AI"
   },
   {
@@ -399,6 +406,13 @@
     "area": "Project Management"
   },
   {
+    "company": "Livex",
+    "domain": "okta.com",
+    "ats": "ashby",
+    "board": "livex",
+    "area": "AI"
+  },
+  {
     "company": "Lovable",
     "domain": "lovable.dev",
     "ats": "ashby",
@@ -410,13 +424,6 @@
     "domain": "mercor.com",
     "ats": "ashby",
     "board": "mercor",
-    "area": "AI"
-  },
-  {
-    "company": "Mercury",
-    "domain": "mercury.com",
-    "ats": "greenhouse",
-    "board": "mercury",
     "area": "AI"
   },
   {
@@ -456,14 +463,14 @@
   },
   {
     "company": "Nectar",
-    "domain": "scale.com",
+    "domain": "gusto.com",
     "ats": "ashby",
     "board": "nectar",
     "area": "AI"
   },
   {
     "company": "Nerostechnologies",
-    "domain": "duolingo.com",
+    "domain": "skydio.com",
     "ats": "greenhouse",
     "board": "nerostechnologies",
     "area": "AI"
@@ -473,13 +480,6 @@
     "domain": "netic.ai",
     "ats": "ashby",
     "board": "netic",
-    "area": "AI"
-  },
-  {
-    "company": "Neurophos",
-    "domain": "pika.art",
-    "ats": "ashby",
-    "board": "neurophos",
     "area": "AI"
   },
   {
@@ -609,13 +609,6 @@
     "area": "AI"
   },
   {
-    "company": "Quintoandar",
-    "domain": "coder.com",
-    "ats": "greenhouse",
-    "board": "quintoandar",
-    "area": "AI"
-  },
-  {
     "company": "Ramp",
     "domain": "ramp.com",
     "ats": "ashby",
@@ -714,6 +707,13 @@
     "area": "AI"
   },
   {
+    "company": "Skydio",
+    "domain": "skydio.com",
+    "ats": "ashby",
+    "board": "skydio",
+    "area": "AI"
+  },
+  {
     "company": "Snowflake",
     "domain": "snowflake.com",
     "ats": "ashby",
@@ -764,7 +764,7 @@
   },
   {
     "company": "Twinhealth",
-    "domain": "asana.com",
+    "domain": "skydio.com",
     "ats": "greenhouse",
     "board": "twinhealth",
     "area": "AI"
@@ -809,13 +809,6 @@
     "domain": "vercel.com",
     "ats": "greenhouse",
     "board": "vercel",
-    "area": "AI"
-  },
-  {
-    "company": "Viggle",
-    "domain": "palantir.com",
-    "ats": "ashby",
-    "board": "viggle",
     "area": "AI"
   },
   {
