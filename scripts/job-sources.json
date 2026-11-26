@@ -8,7 +8,7 @@
   },
   {
     "company": "Airwallex",
-    "domain": "fivetran.com",
+    "domain": "figma.com",
     "ats": "ashby",
     "board": "airwallex",
     "area": "AI"
@@ -25,13 +25,6 @@
     "domain": "antimetal.com",
     "ats": "ashby",
     "board": "antimetal",
-    "area": "AI"
-  },
-  {
-    "company": "Appnovation",
-    "domain": "together.ai",
-    "ats": "greenhouse",
-    "board": "appnovation",
     "area": "AI"
   },
   {
@@ -74,6 +67,13 @@
     "domain": "bjakcareer.com",
     "ats": "ashby",
     "board": "bjakcareer",
+    "area": "AI"
+  },
+  {
+    "company": "Boldin",
+    "domain": "coreweave.com",
+    "ats": "greenhouse",
+    "board": "boldin",
     "area": "AI"
   },
   {
@@ -123,6 +123,13 @@
     "domain": "chime.com",
     "ats": "greenhouse",
     "board": "chime",
+    "area": "AI"
+  },
+  {
+    "company": "Cie",
+    "domain": "cie.com",
+    "ats": "greenhouse",
+    "board": "cie",
     "area": "AI"
   },
   {
@@ -245,13 +252,6 @@
     "area": "AI"
   },
   {
-    "company": "Ellevationeducation",
-    "domain": "ellevationeducation.com",
-    "ats": "lever",
-    "board": "ellevationeducation",
-    "area": "AI"
-  },
-  {
     "company": "Endorlabs",
     "domain": "benchling.com",
     "ats": "greenhouse",
@@ -266,24 +266,10 @@
     "area": "AI"
   },
   {
-    "company": "Epoch Ai",
-    "domain": "epochai.com",
-    "ats": "lever",
-    "board": "epoch-ai",
-    "area": "AI"
-  },
-  {
     "company": "Eragon",
     "domain": "asana.com",
     "ats": "ashby",
     "board": "Eragon",
-    "area": "AI"
-  },
-  {
-    "company": "Evydtech",
-    "domain": "evydtech.com",
-    "ats": "greenhouse",
-    "board": "evydtech",
     "area": "AI"
   },
   {
@@ -337,7 +323,7 @@
   },
   {
     "company": "Gen Digital",
-    "domain": "stripe.com",
+    "domain": "gendigital.com",
     "ats": "ashby",
     "board": "gen-digital",
     "area": "AI"
@@ -414,7 +400,7 @@
   },
   {
     "company": "Komodohealth",
-    "domain": "brex.com",
+    "domain": "harvey.ai",
     "ats": "greenhouse",
     "board": "komodohealth",
     "area": "AI"
@@ -480,13 +466,6 @@
     "domain": "mercor.com",
     "ats": "ashby",
     "board": "mercor",
-    "area": "AI"
-  },
-  {
-    "company": "Metaview",
-    "domain": "anthropic.com",
-    "ats": "ashby",
-    "board": "metaview",
     "area": "AI"
   },
   {
@@ -596,7 +575,7 @@
   },
   {
     "company": "Okx",
-    "domain": "openai.com",
+    "domain": "figma.com",
     "ats": "greenhouse",
     "board": "okx",
     "area": "AI"
@@ -658,13 +637,6 @@
     "area": "AI"
   },
   {
-    "company": "Primeintellect",
-    "domain": "primeintellect.ai",
-    "ats": "ashby",
-    "board": "PrimeIntellect",
-    "area": "AI"
-  },
-  {
     "company": "Propel",
     "domain": "propel.com",
     "ats": "ashby",
@@ -707,17 +679,17 @@
     "area": "AI"
   },
   {
+    "company": "Reflectionai",
+    "domain": "reflectionai.com",
+    "ats": "ashby",
+    "board": "reflectionai",
+    "area": "AI"
+  },
+  {
     "company": "Revel",
     "domain": "runwayml.com",
     "ats": "ashby",
     "board": "revel",
-    "area": "AI"
-  },
-  {
-    "company": "Rho",
-    "domain": "mercor.com",
-    "ats": "ashby",
-    "board": "rho",
     "area": "AI"
   },
   {
@@ -750,14 +722,14 @@
   },
   {
     "company": "Saigroup",
-    "domain": "figma.com",
+    "domain": "saigroup.com",
     "ats": "greenhouse",
     "board": "saigroup",
     "area": "AI"
   },
   {
     "company": "Samsungsemiconductor",
-    "domain": "pinterest.com",
+    "domain": "mercor.com",
     "ats": "greenhouse",
     "board": "samsungsemiconductor",
     "area": "AI"
@@ -781,13 +753,6 @@
     "domain": "sierra.ai",
     "ats": "ashby",
     "board": "Sierra",
-    "area": "AI"
-  },
-  {
-    "company": "Siftstack",
-    "domain": "siftstack.com",
-    "ats": "ashby",
-    "board": "siftstack",
     "area": "AI"
   },
   {
@@ -914,6 +879,13 @@
     "domain": "palantir.com",
     "ats": "ashby",
     "board": "viggle",
+    "area": "AI"
+  },
+  {
+    "company": "Vise",
+    "domain": "runwayml.com",
+    "ats": "ashby",
+    "board": "vise",
     "area": "AI"
   },
   {
